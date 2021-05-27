@@ -25,13 +25,14 @@ def main():
         db.create_tables([Job, JobError, JobDropped, SpiderMetric])
 
     spider_names = [
-        'juniorguru',
-        'linkedin',
-        'stackoverflow',
-        'startupjobs',
-        'remoteok',
-        'wwr',
-        'dobrysef',
+        # 'juniorguru',
+        # 'linkedin',
+        # 'stackoverflow',
+        # 'startupjobs',
+        # 'remoteok',
+        # 'wwr',
+        # 'dobrysef',
+        'jobscz',
     ]
     Pool().map(run_spider, spider_names)
 
