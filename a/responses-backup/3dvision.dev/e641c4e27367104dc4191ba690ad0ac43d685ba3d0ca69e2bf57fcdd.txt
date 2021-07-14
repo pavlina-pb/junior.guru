@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42854295-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-42854295-9');
+</script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<meta name="robots" content="all,follow" />
+
+        <title>Fullstack Developer &#183; Melown Technologies</title>
+
+        
+
+        <!-- favicon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/16x16.png">
+        <link rel="manifest" href="assets/favicon/site.webmanifest">
+        <link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#06a6fe">
+        <link rel="shortcut icon" href="/favicon.ico">
+        <meta name="msapplication-TileColor" content="#00aba9">
+        <meta name="theme-color" content="#ffffff">
+
+        <!-- open-graph -->
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Fullstack Developer">
+        <meta property="og:description" content="We are looking for a highly skilled computer programmer who feels confident in both front and backend programming...">
+        <meta property="og:image" content="https://3dvision.dev/assets/images/og/fullstack-developer.png">
+        <meta property="og:image:alt" content="Fullstack Developer">
+        <meta property="og:url" content="https://3dvision.dev/">
+
+        <!-- styles -->
+        <link type="text/css" rel="stylesheet" href="app.min.css?v=210426-122319" />
+    </head>
+    <body class="c-detail">
+        <div class="[ o-fixed-button ] [ mwt-fixed-button ]">
+            <a
+                class="o-button o-button--primary"
+                href="/">
+
+                <svg class="o-icon o-icon--arrow-short">
+                    <use xlink:href="./assets/icons.svg#arrow-short"></use>
+                </svg>
+
+                <span>Go back</span>
+            </a>
+        </div>
+
+        <section class="[ o-section ] [ c-description ]">
+            <div class="o-section__content">
+                <span class="o-subtitle">
+                    Full-time, part-time
+                </span>
+
+                <h1 class="o-title o-title--beta">
+                    Fullstack Developer
+                </h1>
+
+                <p class="o-bodycopy">
+                    We are looking for a&nbsp;highly skilled computer programmer who feels confident in both front and backend programming and has min. 3&nbsp;years
+                    of&nbsp;experience as Fullstack Developer with a&nbsp;main focus on web development and JavaScript.
+                </p>
+
+                <p class="o-bodycopy">
+                    Your responsibility will be to develop and design front-end web architecture, to ensure the responsiveness of applications, and to create servers
+                    and databases for functionality.
+                </p>
+
+                <p class="o-bodycopy">
+                    <strong>
+                        JavaScript, web development, MySQL, backend programming, frontend programming, Vue.js + Vuex, Node.js, Express.js
+                    </strong>
+                </p>
+
+                <!-- illustration -->
+                <div
+                    class="[ c-detail__illustration ] [ mwt-max-width ]"
+                    data-width="350px">
+
+                    <img
+                        alt="Photogrammetric System Operator"
+                        src="./assets/images/illustrations/03.png?v=2.0.0">
+
+                    <div
+                        class="o-floater o-floater--icon-only"
+                        style="right: 5%; top: 12%;">
+
+                        <span class="o-complex-icon">
+                            <svg><use xlink:href="./assets/icons.svg#software"></use></svg>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- benefits -->
+        <section class="[ o-section ] [ c-benefits ] [ u-pt--unset ]">
+            <div class="o-section__content">
+                <h2 class="o-title o-title--beta">
+                    Main benefits
+                </h2>
+
+                <ul class="c-benefits__list">
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#clock"></use></svg>
+                            </span>
+                        </div>
+
+                        Flexible working hours
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#ho"></use></svg>
+                            </span>
+                        </div>
+
+                        Home office
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#vacation"></use></svg>
+                            </span>
+                        </div>
+
+                        25 Days of Vacations
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#sick"></use></svg>
+                            </span>
+                        </div>
+
+                        Sick days
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#office"></use></svg>
+                            </span>
+                        </div>
+
+                        Modern offices
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#relax"></use></svg>
+                            </span>
+                        </div>
+
+                        Relax room
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#snack"></use></svg>
+                            </span>
+                        </div>
+
+                        Healthy snacks
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#remote"></use></svg>
+                            </span>
+                        </div>
+
+                        Remote work
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- skills -->
+        <section class="[ o-section ] [ u-bg-color--grey-25 ]">
+            <div class="o-section__content">
+                <h2 class="o-title o-title--beta">
+                    Recognize yourself in the following?
+                </h2>
+
+                <ul class="[ o-list ] [ u-mb--unset ]">
+                    <li class="o-list__item">
+                        You are a&nbsp;natural in front and back end programming,
+                        especially in Vue JS + Vuex, MySQL, NodeJS + Express JS environments.
+                    </li>
+
+                    <li class="o-list__item">
+                        Your mindset is to come up with unconventional, efficient, and cost-saving setups.
+                    </li>
+
+                    <li class="o-list__item">
+                        You feel comfortable working in a team.
+                    </li>
+
+                    <li class="o-list__item">
+                        You are not afraid of challenges and you remain level-headed when tackling them.
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- contact-us -->
+        <section class="[ o-section ] [ c-contact ]">
+            <div class="o-section__content">
+                <h2 class="[ o-title o-title--beta ] [ u-mb--unset ]">
+                    Apply now
+                </h2>
+
+                <p class="o-bodycopy">
+                    Send us your CV and cover letter, we are looking forward to hear from you!
+                </p>
+
+                <form class="[ o-form ] [ mwt-hr-form ]">
+                    <div class="o-form__group">
+                        <div class="o-form-control">
+                            <label
+                                for="inp-name-0"
+                                class="o-form-control__label">
+                                Your name
+                            </label>
+
+                            <input
+                                id="inp-name-0"
+                                class="o-form-control__input"
+                                name="name"
+                                placeholder=""
+                                type="text"
+                                aria-required="true">
+                        </div>
+
+                        <div class="o-form-control">
+                            <label
+                                for="inp-mail-0"
+                                class="o-form-control__label">
+                                Your e-mail
+                            </label>
+
+                            <input
+                                id="inp-mail-0"
+                                class="o-form-control__input"
+                                name="mail"
+                                placeholder=""
+                                type="text"
+                                aria-required="true">
+                        </div>
+                    </div>
+
+                    <div class="o-form-control">
+                        <label
+                            for="inp-file-0"
+                            class="o-form-control__label">
+                            Your CV
+
+                            <span class="o-form-control__note">
+                                (supported formats: PDF, Pages, Word / maximum size: 15&nbsp;MB)
+                            </span>
+                        </label>
+
+                        <div class="[ o-fileinput ] [ mwt-fileinput ]">
+                            <div class="o-fileinput__upload">
+                                <input
+                                    id="inp-file-0"
+                                    class="o-fileinput__input"
+                                    name="resume"
+                                    type="file"
+                                    aria-required="true">
+
+                                <button class="[ o-button o-button--primary ] [ o-fileinput__button ]">
+                                    Upload CV
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-form-control">
+                        <label
+                            for="inp-message-0"
+                            class="o-form-control__label">
+                            Cover letter
+                        </label>
+
+                        <textarea
+                            id="inp-message-0"
+                            class="o-form-control__input"
+                            name="letter"
+                            placeholder=""
+                            rows="8"
+                            aria-required="false"></textarea>
+                    </div>
+
+                    <div class="o-form-control o-form-control--custom">
+                        <input
+                            id="ck-agree-0"
+                            class="o-form-control__checkbox"
+                            name="gdpr"
+                            type="checkbox"
+                            aria-required="true">
+
+                        <label
+                            class="o-form-control__label"
+                            for="ck-agree-0">
+                            I hereby give my consent to the processing of my personal data and declare
+                            that I’ve read the <a href="./gdpr.pdf" target="_blank">privacy statement</a>.
+                        </label>
+
+                        <span class="o-form-control__indicator"></span>
+                    </div>
+
+                    <button class="[ o-button o-button--primary ] [ o-form__submit ]">
+                        Send it!
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <!-- footer -->
+        <footer class="[ o-section ] [ u-bg-color--grey-25 ]">
+            <div class="o-section__content">
+                <h3 class="o-title o-title--gamma">
+                    You can contact our HR Manager Directly
+                </h3>
+
+                <div class="c-manager">
+                    <div
+                        class="[ o-rounded-image ] [ mwt-max-width ]"
+                        data-width="140px">
+
+                        <img
+                            alt="HR Manager"
+                            src="./assets/images/manager.jpg?v=2.0.0">
+                    </div>
+
+                    <div class="c-manager__info">
+                        <h4 class="o-title o-title--delta">
+                            Veronika Štumbauerová
+                        </h4>
+
+                        <p class="[ o-bodycopy ] [ u-color--black ]">
+                            +420 606 308 357 <br>
+
+                            <a href="mailto:veronika.stumbauerova@melowntech.com">
+                                veronika.stumbauerova@melowntech.com
+                            </a>
+                        </p>
+
+                        <p class="[ o-bodycopy ] [ u-color--black ]">
+                            Check out our website to learn more about Melowntech and our team.
+                        </p>
+
+                        <p class="[ o-bodycopy ] [ u-color--black ]">
+                            <a
+                                href="https://www.melowntech.com"
+                                target="_blank">
+                                www.melowntech.com
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- scripts -->
+        <script src="app.min.js?=210426-122319"></script>
+
+        <!-- SVG gradient fill -->
+        <svg
+            aria-hidden="true"
+            focusable="false"
+            style="position:absolute;visibility:hidden;width:0;height:0;">
+
+            <defs>
+                <linearGradient id="gradient-fill" gradientUnits="userSpaceOnUse" x1="7.43" y1="-37.22" x2="40.5407" y2="-37.22" gradientTransform="matrix(1 0 0 -1 0 -22)">
+                    <stop  offset="0" style="stop-color:#4EA4F4"/>
+                    <stop  offset="0.27" style="stop-color:#50A8F3"/>
+                    <stop  offset="0.56" style="stop-color:#57B6F1"/>
+                    <stop  offset="0.87" style="stop-color:#63CCEC"/>
+                    <stop  offset="1" style="stop-color:#69D7EA"/>
+                </linearGradient>
+            </defs>
+        </svg>
+    </body>
+</html>
