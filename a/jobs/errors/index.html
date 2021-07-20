@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cs" data-updated-at="2021-07-20T19:35:24.846103+02:00">
+<html lang="cs" data-updated-at="2021-07-20T20:04:42.490452+02:00">
   <head>
     <meta charset="utf-8">
     <meta name="robots" content="noindex">
@@ -42,11 +42,11 @@
     
     </p>
     <p>
-      <strong>Aktualizace:</strong> dnes, 2021-07-20T19:35:24.846103+02:00
+      <strong>Aktualizace:</strong> dnes, 2021-07-20T20:04:42.490452+02:00
     </p>
     <hr>
     
-<h1>Chyby v nabídkách (nabídek 1, pavouků 3)</h1>
+<h1>Chyby v nabídkách (nabídek 0, pavouků 2)</h1>
 <p>
   Nejdřív metriky z posledního běhu robota. Každý sloupec představuje konkrétní <em>spider</em> obstarávající jeden zdroj nabídek.
 </p>
@@ -72,12 +72,12 @@
   
     <tr>
       <th>database/locked_retries</th>
-      <td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+      <td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td>
     </tr>
   
     <tr>
       <th>downloader/response_status_count/200</th>
-      <td>2</td><td>7</td><td>75</td><td>93</td><td>214</td><td>14</td><td>94</td>
+      <td>2</td><td>7</td><td>75</td><td>93</td><td>213</td><td>14</td><td>94</td>
     </tr>
   
     <tr>
@@ -107,12 +107,12 @@
   
     <tr>
       <th>elapsed_time_seconds</th>
-      <td>0</td><td>4</td><td>2</td><td>8</td><td>321</td><td>28</td><td>12</td>
+      <td>0</td><td>5</td><td>3</td><td>10</td><td>326</td><td>30</td><td>13</td>
     </tr>
   
     <tr>
       <th>item_dropped_count</th>
-      <td>0</td><td>78</td><td>39</td><td>90</td><td>200</td><td>19</td><td>90</td>
+      <td>0</td><td>78</td><td>39</td><td>90</td><td>199</td><td>19</td><td>91</td>
     </tr>
   
     <tr>
@@ -142,7 +142,7 @@
   
     <tr>
       <th>item_dropped_reasons_count/NotEntryLevel</th>
-      <td>0</td><td>0</td><td>0</td><td>86</td><td>115</td><td>18</td><td>89</td>
+      <td>0</td><td>0</td><td>0</td><td>86</td><td>114</td><td>18</td><td>90</td>
     </tr>
   
     <tr>
@@ -157,7 +157,7 @@
   
     <tr>
       <th>log_count/ERROR</th>
-      <td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td>
+      <td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td>
     </tr>
   
 </table>
@@ -169,524 +169,7 @@
 
 <hr>
 
-  
-    <hr>
-    <h2 id="1">
-      [wwr item] ValueError: Section &lt;ListSection(heading=&#39;Not eligib…&#39;)&gt; doesn&#39;t have any contents
-    </h2>
-    <p>
-      <small>
-        <code>1</code>
-        &mdash;
-        <a href="#1">#</a>
-        &mdash;
-        <a href="https://weworkremotely.com/listings/ohmconnect-backend-engineer-remote-u-s" target="_blank">Zdrojové URL</a>
-        
-          &mdash;
-          <a href="/a/responses-backup/weworkremotely.com/f9eb221be4cdffbddf1aa5cf34245225b9522d468d0fc9775066be0c.txt" target="_blank">HTTP odpověď</a>
-        
-      </small>
-    </p>
-    <details>
-      <summary>Trace</summary>
-      <pre>Traceback (most recent call last):
-  File &#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/scrapy/middleware.py&#34;, line 65, in _process_chain
-    return process_chain(self.methods[methodname], obj, *args)
-  File &#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/scrapy/utils/defer.py&#34;, line 83, in process_chain
-    d.callback(input)
-  File &#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/twisted/internet/defer.py&#34;, line 477, in callback
-    self._startRunCallbacks(result)
-  File &#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/twisted/internet/defer.py&#34;, line 580, in _startRunCallbacks
-    self._runCallbacks()
---- &lt;exception caught here&gt; ---
-  File &#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/twisted/internet/defer.py&#34;, line 662, in _runCallbacks
-    current.result = callback(current.result, *args, **kw)
-  File &#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/scrapy/utils/defer.py&#34;, line 150, in f
-    return deferred_from_coro(coro_f(*coro_args, **coro_kwargs))
-  File &#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, line 56, in process_item
-    in parse_sections(item[&#39;description_html&#39;])]
-  File &#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, line 183, in parse_sections
-    tokens = split_by_sections(TextFragment(text), sections)
-  File &#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, line 441, in split_by_sections
-    tokens = list(process_text_fragments(tokens, split))
-  File &#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, line 430, in process_text_fragments
-    yield from fn(token)
-  File &#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, line 439, in split
-    return split_by_section(text_fragment, section)
-  File &#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, line 450, in split_by_section
-    section_re = section_to_re(section)
-  File &#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, line 468, in section_to_re
-    raise ValueError(f&#34;Section {repr(section)} doesn&#39;t have any contents&#34;)
-builtins.ValueError: Section &lt;ListSection(heading=&#39;Not eligib…&#39;)&gt; doesn&#39;t have any contents
-</pre>
-    </details>
-    <details>
-      <summary>Data</summary>
-      <pre>{&#39;id&#39;: 1,
- &#39;item&#39;: {&#39;company_link&#39;: &#39;https://www.ohmconnect.com/&#39;,
-          &#39;company_name&#39;: &#39;OhmConnect&#39;,
-          &#39;description_html&#39;: &#39;&lt;p&gt;\n&#39;
-                              &#39;  &lt;strong&gt;Headquarters:&lt;/strong&gt; United States\n&#39;
-                              &#39;    &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a &#39;
-                              &#39;href=&#34;https://www.ohmconnect.com/&#34;&gt;https://www.ohmconnect.com/&lt;/a&gt;\n&#39;
-                              &#39;&lt;/p&gt;\n&#39;
-                              &#39;\n&#39;
-                              &#39;&lt;p&gt;Do you want to use your skills to fight &#39;
-                              &#39;climate change and positively impact the &#39;
-                              &#39;communities we live in? OhmConnect, the leader &#39;
-                              &#39;in consumer energy services, is seeking a &#39;
-                              &#39;motivated and passionate Senior Software &#39;
-                              &#39;Engineer to apply software development &#39;
-                              &#39;principles to create a world class solution &#39;
-                              &#39;that reimagines how people use energy.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;&lt;br /&gt;Role summary&lt;/strong&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;As a member of our engineering team, you &#39;
-                              &#39;will work closely with product management, &#39;
-                              &#39;business stakeholders, customer support, and &#39;
-                              &#39;engineering colleagues to develop critical &#39;
-                              &#39;product features and third party &#39;
-                              &#39;integrations.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;&lt;br /&gt;Who we are&lt;/strong&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;OhmConnect was founded to improve the lives &#39;
-                              &#39;of people and the health of the planet by &#39;
-                              &#39;reimagining the way we use energy. We are &#39;
-                              &#39;solving massive inefficiencies in energy &#39;
-                              &#39;markets, changing how people use and view &#39;
-                              &#39;energy, and connecting smart homes with the &#39;
-                              &#39;smart grid. We build products that connect &#39;
-                              &#39;deeply with consumers and invite them to take &#39;
-                              &#39;action to positively impact the planet, their &#39;
-                              &#39;communities, and their wallets. We are an Equal &#39;
-                              &#39;Opportunity employer striving to create a &#39;
-                              &#39;diverse, equitable, and inclusive work &#39;
-                              &#39;environment where everyone feels that they have &#39;
-                              &#39;a voice that is heard.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;&lt;br /&gt;What we do&lt;/strong&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;Our products encompass:&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Consumer facing applications that use home &#39;
-                              &#39;automation control and user behavior modeling &#39;
-                              &#39;to shape consumer energy consumption.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Integrations with a growing set of devices &#39;
-                              &#39;and appliances - smart plugs, thermostats, &#39;
-                              &#39;chargers, water heaters, etc.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Smart Meter data ingestion and analysis &#39;
-                              &#39;for consumer consumption forecast.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Bidding, monitoring and settlement &#39;
-                              &#39;processes for energy markets.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;&lt;br /&gt;What you will do&lt;/strong&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Design, develop, test and deploy new &#39;
-                              &#39;code.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Perform peer code review, mentor junior &#39;
-                              &#39;developers.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Implement application monitoring tools and &#39;
-                              &#39;proactively monitor application &#39;
-                              &#39;performance.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Prioritize and manage development and &#39;
-                              &#39;issue resolution activities.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Participate in our agile development &#39;
-                              &#39;process - regular team updates, standup &#39;
-                              &#34;meetings, 1-on-1&#39;s.&lt;/p&gt;\n&#34;
-                              &#39;&lt;p&gt;● Work on many aspects of our stack: Python, &#39;
-                              &#39;Flask,MySQL, Celery, AWS (EC2, ELB, RDS, &#39;
-                              &#39;Redshift, S3, SQS, SES, etc), Ubuntu, Apache, &#39;
-                              &#39;Redis, Git, Jira.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Must have previous experience designing &#39;
-                              &#39;web applications.&lt;br /&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Strong knowledge of Python, Ruby, or &#39;
-                              &#39;PHP.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Solid understanding of database &#39;
-                              &#39;interactions in SQL.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Solid OOP and software design knowledge - &#39;
-                              &#34;you should know how to create software that&#39;s &#34;
-                              &#39;extensible, reusable and meets desired &#39;
-                              &#39;architectural objectives.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Experience integrating with iOT APIs, &#39;
-                              &#39;libraries and services.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Dedication to writing clean, robust code &#39;
-                              &#39;with good unit test coverage.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Experience with all phases of the software &#39;
-                              &#39;development life cycle, best practices and &#39;
-                              &#39;Agile Software Development.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Excellent 1-on-1 and team communication &#39;
-                              &#39;skills.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Independent, results-oriented &#39;
-                              &#39;mindset.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Enjoy a fun, fast-paced environment.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Desire for a career that makes an &#39;
-                              &#39;impact.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● 5+ years software development experience &#39;
-                              &#39;preferred.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● A competitive salary based on &#39;
-                              &#39;experience.&lt;br /&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Fully remote work environment with home &#39;
-                              &#39;office set-up allowance.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Real and lived work-life balance - Company &#39;
-                              &#39;perks include unlimited vacation (which our C- &#39;
-                              &#39;level team actively encourages everyone to &#39;
-                              &#39;take!), parental leave, and a corporate value &#39;
-                              &#39;of putting families first.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Competitive benefits package that includes &#39;
-                              &#39;full suite of wellness benefits and stock &#39;
-                              &#39;options.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;● Opportunity to work with amazing people &#39;
-                              &#39;who are passionate about reversing climate &#39;
-                              &#39;change, thriving in a fully-remote work &#39;
-                              &#39;environment, and learning and growing every &#39;
-                              &#39;day.&lt;/p&gt;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;Not eligible for visa &#39;
-                              &#39;sponsorship&lt;/strong&gt;&lt;strong&gt;. &lt;/strong&gt;&lt;br &#39;
-                              &#39;/&gt;&lt;/p&gt;\n&#39;
-                              &#39;&lt;ul&gt; &lt;p&gt;EQUAL OPPORTUNITY EMPLOYER&lt;/p&gt; &#39;
-                              &#39;&lt;p&gt;Individuals seeking employment at OhmConnect &#39;
-                              &#39;are considered without regard to race, color, &#39;
-                              &#39;religious creed, sex, gender identification, &#39;
-                              &#39;national origin, citizenship status, age, &#39;
-                              &#39;physical or mental disability, sexual &#39;
-                              &#39;orientation, marital, parental, veteran or &#39;
-                              &#39;military status, unfavorable military &#39;
-                              &#39;discharge, or any other status protected by &#39;
-                              &#39;applicable federal, state or local law.&lt;/p&gt; &#39;
-                              &#39;&lt;p&gt;We will ensure that individuals with &#39;
-                              &#39;disabilities are provided reasonable &#39;
-                              &#39;accommodation to participate in the job &#39;
-                              &#39;application or interview process, to perform &#39;
-                              &#39;essential job functions, and to receive other &#39;
-                              &#39;benefits and privileges of employment. Please &#39;
-                              &#39;contact us to request accommodation.&lt;/p&gt; &lt;/ul&gt;\n&#39;
-                              &#39;\n&#39;
-                              &#39;&lt;p&gt;&lt;strong&gt;To apply:&lt;/strong&gt; &lt;a &#39;
-                              &#39;href=&#34;https://weworkremotely.com/remote-jobs/ohmconnect-backend-engineer-remote-u-s&#34;&gt;https://weworkremotely.com/remote-jobs/ohmconnect-backend-engineer-remote-u-s&lt;/a&gt;&lt;/p&gt;&#39;,
-          &#39;description_sentences&#39;: [&#39;Headquarters&#39;,
-                                    &#39;United States&#39;,
-                                    &#39;URL&#39;,
-                                    &#39;https://www.ohmconnect.com/&#39;,
-                                    &#39;Do you want to use your skills to fight &#39;
-                                    &#39;climate change and positively impact the &#39;
-                                    &#39;communities we live in&#39;,
-                                    &#39;OhmConnect, the leader in consumer energy &#39;
-                                    &#39;services, is seeking a motivated and &#39;
-                                    &#39;passionate Senior Software Engineer to &#39;
-                                    &#39;apply software development principles to &#39;
-                                    &#39;create a world class solution that &#39;
-                                    &#39;reimagines how people use energy.&#39;,
-                                    &#39;Role summary&#39;,
-                                    &#39;As a member of our engineering team, you &#39;
-                                    &#39;will work closely with product &#39;
-                                    &#39;management, business stakeholders, &#39;
-                                    &#39;customer support, and engineering &#39;
-                                    &#39;colleagues to develop critical product &#39;
-                                    &#39;features and third party integrations.&#39;,
-                                    &#39;Who we are&#39;,
-                                    &#39;OhmConnect was founded to improve the &#39;
-                                    &#39;lives of people and the health of the &#39;
-                                    &#39;planet by reimagining the way we use &#39;
-                                    &#39;energy&#39;,
-                                    &#39;We are solving massive inefficiencies in &#39;
-                                    &#39;energy markets, changing how people use &#39;
-                                    &#39;and view energy, and connecting smart &#39;
-                                    &#39;homes with the smart grid&#39;,
-                                    &#39;We build products that connect deeply &#39;
-                                    &#39;with consumers and invite them to take &#39;
-                                    &#39;action to positively impact the planet, &#39;
-                                    &#39;their communities, and their wallets&#39;,
-                                    &#39;We are an Equal Opportunity employer &#39;
-                                    &#39;striving to create a diverse, equitable, &#39;
-                                    &#39;and inclusive work environment where &#39;
-                                    &#39;everyone feels that they have a voice &#39;
-                                    &#39;that is heard.&#39;,
-                                    &#39;What we do&#39;,
-                                    &#39;Our products encompass:&#39;,
-                                    &#39;● Consumer facing applications that use &#39;
-                                    &#39;home automation control and user behavior &#39;
-                                    &#39;modeling to shape consumer energy &#39;
-                                    &#39;consumption.&#39;,
-                                    &#39;● Integrations with a growing set of &#39;
-                                    &#39;devices and appliances - smart plugs, &#39;
-                                    &#39;thermostats, chargers, water heaters, &#39;
-                                    &#39;etc.&#39;,
-                                    &#39;● Smart Meter data ingestion and analysis &#39;
-                                    &#39;for consumer consumption forecast.&#39;,
-                                    &#39;● Bidding, monitoring and settlement &#39;
-                                    &#39;processes for energy markets.&#39;,
-                                    &#39;What you will do&#39;,
-                                    &#39;● Design, develop, test and deploy new &#39;
-                                    &#39;code.&#39;,
-                                    &#39;● Perform peer code review, mentor junior &#39;
-                                    &#39;developers.&#39;,
-                                    &#39;● Implement application monitoring tools &#39;
-                                    &#39;and proactively monitor application &#39;
-                                    &#39;performance.&#39;,
-                                    &#39;● Prioritize and manage development and &#39;
-                                    &#39;issue resolution activities.&#39;,
-                                    &#39;● Participate in our agile development &#39;
-                                    &#39;process - regular team updates, standup &#39;
-                                    &#34;meetings, 1-on-1&#39;s.&#34;,
-                                    &#39;● Work on many aspects of our stack&#39;,
-                                    &#39;Python, Flask,MySQL, Celery, AWS (EC2, &#39;
-                                    &#39;ELB, RDS, Redshift, S3, SQS, SES, etc), &#39;
-                                    &#39;Ubuntu, Apache, Redis, Git, Jira.&#39;,
-                                    &#39;Requirements&#39;,
-                                    &#39;● Must have previous experience designing &#39;
-                                    &#39;web applications.&#39;,
-                                    &#39;● Strong knowledge of Python, Ruby, or &#39;
-                                    &#39;PHP.&#39;,
-                                    &#39;● Solid understanding of database &#39;
-                                    &#39;interactions in SQL.&#39;,
-                                    &#39;● Solid OOP and software design knowledge &#39;
-                                    &#39;- you should know how to create software &#39;
-                                    &#34;that&#39;s extensible, reusable and meets &#34;
-                                    &#39;desired architectural objectives.&#39;,
-                                    &#39;● Experience integrating with iOT APIs, &#39;
-                                    &#39;libraries and services.&#39;,
-                                    &#39;● Dedication to writing clean, robust &#39;
-                                    &#39;code with good unit test coverage.&#39;,
-                                    &#39;● Experience with all phases of the &#39;
-                                    &#39;software development life cycle, best &#39;
-                                    &#39;practices and Agile Software Development.&#39;,
-                                    &#39;● Excellent 1-on-1 and team communication &#39;
-                                    &#39;skills.&#39;,
-                                    &#39;● Independent, results-oriented mindset.&#39;,
-                                    &#39;● Enjoy a fun, fast-paced environment.&#39;,
-                                    &#39;● Desire for a career that makes an &#39;
-                                    &#39;impact.&#39;,
-                                    &#39;● 5+ years software development &#39;
-                                    &#39;experience preferred.&#39;,
-                                    &#39;Benefits&#39;,
-                                    &#39;● A competitive salary based on &#39;
-                                    &#39;experience.&#39;,
-                                    &#39;● Fully remote work environment with home &#39;
-                                    &#39;office set-up allowance.&#39;,
-                                    &#39;● Real and lived work-life balance - &#39;
-                                    &#39;Company perks include unlimited vacation &#39;
-                                    &#39;(which our C- level team actively &#39;
-                                    &#39;encourages everyone to take!), parental &#39;
-                                    &#39;leave, and a corporate value of putting &#39;
-                                    &#39;families first.&#39;,
-                                    &#39;● Competitive benefits package that &#39;
-                                    &#39;includes full suite of wellness benefits &#39;
-                                    &#39;and stock options.&#39;,
-                                    &#39;● Opportunity to work with amazing people &#39;
-                                    &#39;who are passionate about reversing &#39;
-                                    &#39;climate change, thriving in a &#39;
-                                    &#39;fully-remote work environment, and &#39;
-                                    &#39;learning and growing every day.&#39;,
-                                    &#39;Not eligible for visa sponsorship.&#39;,
-                                    &#39;EQUAL OPPORTUNITY EMPLOYER&#39;,
-                                    &#39;Individuals seeking employment at &#39;
-                                    &#39;OhmConnect are considered without regard &#39;
-                                    &#39;to race, color, religious creed, sex, &#39;
-                                    &#39;gender identification, national origin, &#39;
-                                    &#39;citizenship status, age, physical or &#39;
-                                    &#39;mental disability, sexual orientation, &#39;
-                                    &#39;marital, parental, veteran or military &#39;
-                                    &#39;status, unfavorable military discharge, &#39;
-                                    &#39;or any other status protected by &#39;
-                                    &#39;applicable federal, state or local law.&#39;,
-                                    &#39;We will ensure that individuals with &#39;
-                                    &#39;disabilities are provided reasonable &#39;
-                                    &#39;accommodation to participate in the job &#39;
-                                    &#39;application or interview process, to &#39;
-                                    &#39;perform essential job functions, and to &#39;
-                                    &#39;receive other benefits and privileges of &#39;
-                                    &#39;employment&#39;,
-                                    &#39;Please contact us to request &#39;
-                                    &#39;accommodation.&#39;,
-                                    &#39;To apply&#39;,
-                                    &#39;https://weworkremotely.com/remote-jobs/ohmconnect-backend-engineer-remote-u-s&#39;],
-          &#39;description_text&#39;: &#39;Headquarters: United States\n&#39;
-                              &#39;URL: https://www.ohmconnect.com/\n&#39;
-                              &#39;Do you want to use your skills to fight climate &#39;
-                              &#39;change and positively impact the communities we &#39;
-                              &#39;live in? OhmConnect, the leader in consumer &#39;
-                              &#39;energy services, is seeking a motivated and &#39;
-                              &#39;passionate Senior Software Engineer to apply &#39;
-                              &#39;software development principles to create a &#39;
-                              &#39;world class solution that reimagines how people &#39;
-                              &#39;use energy.\n&#39;
-                              &#39;Role summary\n&#39;
-                              &#39;As a member of our engineering team, you will &#39;
-                              &#39;work closely with product management, business &#39;
-                              &#39;stakeholders, customer support, and engineering &#39;
-                              &#39;colleagues to develop critical product features &#39;
-                              &#39;and third party integrations.\n&#39;
-                              &#39;Who we are\n&#39;
-                              &#39;OhmConnect was founded to improve the lives of &#39;
-                              &#39;people and the health of the planet by &#39;
-                              &#39;reimagining the way we use energy. We are &#39;
-                              &#39;solving massive inefficiencies in energy &#39;
-                              &#39;markets, changing how people use and view &#39;
-                              &#39;energy, and connecting smart homes with the &#39;
-                              &#39;smart grid. We build products that connect &#39;
-                              &#39;deeply with consumers and invite them to take &#39;
-                              &#39;action to positively impact the planet, their &#39;
-                              &#39;communities, and their wallets. We are an Equal &#39;
-                              &#39;Opportunity employer striving to create a &#39;
-                              &#39;diverse, equitable, and inclusive work &#39;
-                              &#39;environment where everyone feels that they have &#39;
-                              &#39;a voice that is heard.\n&#39;
-                              &#39;What we do\n&#39;
-                              &#39;Our products encompass:\n&#39;
-                              &#39;● Consumer facing applications that use home &#39;
-                              &#39;automation control and user behavior modeling &#39;
-                              &#39;to shape consumer energy consumption.\n&#39;
-                              &#39;● Integrations with a growing set of devices &#39;
-                              &#39;and appliances - smart plugs, thermostats, &#39;
-                              &#39;chargers, water heaters, etc.\n&#39;
-                              &#39;● Smart Meter data ingestion and analysis for &#39;
-                              &#39;consumer consumption forecast.\n&#39;
-                              &#39;● Bidding, monitoring and settlement processes &#39;
-                              &#39;for energy markets.\n&#39;
-                              &#39;What you will do\n&#39;
-                              &#39;● Design, develop, test and deploy new code.\n&#39;
-                              &#39;● Perform peer code review, mentor junior &#39;
-                              &#39;developers.\n&#39;
-                              &#39;● Implement application monitoring tools and &#39;
-                              &#39;proactively monitor application performance.\n&#39;
-                              &#39;● Prioritize and manage development and issue &#39;
-                              &#39;resolution activities.\n&#39;
-                              &#39;● Participate in our agile development process &#39;
-                              &#39;- regular team updates, standup meetings, &#39;
-                              &#34;1-on-1&#39;s.\n&#34;
-                              &#39;● Work on many aspects of our stack: Python, &#39;
-                              &#39;Flask,MySQL, Celery, AWS (EC2, ELB, RDS, &#39;
-                              &#39;Redshift, S3, SQS, SES, etc), Ubuntu, Apache, &#39;
-                              &#39;Redis, Git, Jira.\n&#39;
-                              &#39;Requirements\n&#39;
-                              &#39;● Must have previous experience designing web &#39;
-                              &#39;applications.\n&#39;
-                              &#39;● Strong knowledge of Python, Ruby, or PHP.\n&#39;
-                              &#39;● Solid understanding of database interactions &#39;
-                              &#39;in SQL.\n&#39;
-                              &#39;● Solid OOP and software design knowledge - you &#39;
-                              &#34;should know how to create software that&#39;s &#34;
-                              &#39;extensible, reusable and meets desired &#39;
-                              &#39;architectural objectives.\n&#39;
-                              &#39;● Experience integrating with iOT APIs, &#39;
-                              &#39;libraries and services.\n&#39;
-                              &#39;● Dedication to writing clean, robust code with &#39;
-                              &#39;good unit test coverage.\n&#39;
-                              &#39;● Experience with all phases of the software &#39;
-                              &#39;development life cycle, best practices and &#39;
-                              &#39;Agile Software Development.\n&#39;
-                              &#39;● Excellent 1-on-1 and team communication &#39;
-                              &#39;skills.\n&#39;
-                              &#39;● Independent, results-oriented mindset.\n&#39;
-                              &#39;● Enjoy a fun, fast-paced environment.\n&#39;
-                              &#39;● Desire for a career that makes an impact.\n&#39;
-                              &#39;● 5+ years software development experience &#39;
-                              &#39;preferred.\n&#39;
-                              &#39;Benefits\n&#39;
-                              &#39;● A competitive salary based on experience.\n&#39;
-                              &#39;● Fully remote work environment with home &#39;
-                              &#39;office set-up allowance.\n&#39;
-                              &#39;● Real and lived work-life balance - Company &#39;
-                              &#39;perks include unlimited vacation (which our C- &#39;
-                              &#39;level team actively encourages everyone to &#39;
-                              &#39;take!), parental leave, and a corporate value &#39;
-                              &#39;of putting families first.\n&#39;
-                              &#39;● Competitive benefits package that includes &#39;
-                              &#39;full suite of wellness benefits and stock &#39;
-                              &#39;options.\n&#39;
-                              &#39;● Opportunity to work with amazing people who &#39;
-                              &#39;are passionate about reversing climate change, &#39;
-                              &#39;thriving in a fully-remote work environment, &#39;
-                              &#39;and learning and growing every day.\n&#39;
-                              &#39;Not eligible for visa sponsorship.\n&#39;
-                              &#39;EQUAL OPPORTUNITY EMPLOYER\n&#39;
-                              &#39;Individuals seeking employment at OhmConnect &#39;
-                              &#39;are considered without regard to race, color, &#39;
-                              &#39;religious creed, sex, gender identification, &#39;
-                              &#39;national origin, citizenship status, age, &#39;
-                              &#39;physical or mental disability, sexual &#39;
-                              &#39;orientation, marital, parental, veteran or &#39;
-                              &#39;military status, unfavorable military &#39;
-                              &#39;discharge, or any other status protected by &#39;
-                              &#39;applicable federal, state or local law.\n&#39;
-                              &#39;We will ensure that individuals with &#39;
-                              &#39;disabilities are provided reasonable &#39;
-                              &#39;accommodation to participate in the job &#39;
-                              &#39;application or interview process, to perform &#39;
-                              &#39;essential job functions, and to receive other &#39;
-                              &#39;benefits and privileges of employment. Please &#39;
-                              &#39;contact us to request accommodation.\n&#39;
-                              &#39;To apply: &#39;
-                              &#39;https://weworkremotely.com/remote-jobs/ohmconnect-backend-engineer-remote-u-s&#39;,
-          &#39;employment_types&#39;: &#39;Full-Time&#39;,
-          &#39;id&#39;: &#39;f9eb221be4cdffbddf1aa5cf34245225b9522d468d0fc9775066be0c&#39;,
-          &#39;lang&#39;: &#39;en&#39;,
-          &#39;link&#39;: &#39;https://weworkremotely.com/listings/ohmconnect-backend-engineer-remote-u-s&#39;,
-          &#39;locations_raw&#39;: [&#39;United States&#39;],
-          &#39;posted_at&#39;: &#39;2021-06-21&#39;,
-          &#39;remote&#39;: True,
-          &#39;remote_region_raw&#39;: &#39;Anywhere (100% Remote) Only&#39;,
-          &#39;title&#39;: &#39;OhmConnect: Backend Engineer (Remote, U.S.)&#39;},
- &#39;message&#39;: &#34;ValueError: Section &lt;ListSection(heading=&#39;Not eligib…&#39;)&gt; doesn&#39;t &#34;
-            &#39;have any contents&#39;,
- &#39;response_backup_path&#39;: &#39;weworkremotely.com/f9eb221be4cdffbddf1aa5cf34245225b9522d468d0fc9775066be0c.txt&#39;,
- &#39;response_url&#39;: &#39;https://weworkremotely.com/listings/ohmconnect-backend-engineer-remote-u-s&#39;,
- &#39;signal&#39;: &#39;item&#39;,
- &#39;source&#39;: &#39;wwr&#39;,
- &#39;trace&#39;: &#39;Traceback (most recent call last):\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/scrapy/middleware.py&#34;, &#39;
-          &#39;line 65, in _process_chain\n&#39;
-          &#39;    return process_chain(self.methods[methodname], obj, *args)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/scrapy/utils/defer.py&#34;, &#39;
-          &#39;line 83, in process_chain\n&#39;
-          &#39;    d.callback(input)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/twisted/internet/defer.py&#34;, &#39;
-          &#39;line 477, in callback\n&#39;
-          &#39;    self._startRunCallbacks(result)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/twisted/internet/defer.py&#34;, &#39;
-          &#39;line 580, in _startRunCallbacks\n&#39;
-          &#39;    self._runCallbacks()\n&#39;
-          &#39;--- &lt;exception caught here&gt; ---\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/twisted/internet/defer.py&#34;, &#39;
-          &#39;line 662, in _runCallbacks\n&#39;
-          &#39;    current.result = callback(current.result, *args, **kw)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/.cache/pypoetry/virtualenvs/juniorguru-3aSsmiER-py3.8/lib/python3.8/site-packages/scrapy/utils/defer.py&#34;, &#39;
-          &#39;line 150, in f\n&#39;
-          &#39;    return deferred_from_coro(coro_f(*coro_args, **coro_kwargs))\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, &#39;
-          &#39;line 56, in process_item\n&#39;
-          &#34;    in parse_sections(item[&#39;description_html&#39;])]\n&#34;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, &#39;
-          &#39;line 183, in parse_sections\n&#39;
-          &#39;    tokens = split_by_sections(TextFragment(text), sections)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, &#39;
-          &#39;line 441, in split_by_sections\n&#39;
-          &#39;    tokens = list(process_text_fragments(tokens, split))\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, &#39;
-          &#39;line 430, in process_text_fragments\n&#39;
-          &#39;    yield from fn(token)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, &#39;
-          &#39;line 439, in split\n&#39;
-          &#39;    return split_by_section(text_fragment, section)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, &#39;
-          &#39;line 450, in split_by_section\n&#39;
-          &#39;    section_re = section_to_re(section)\n&#39;
-          &#39;  File &#39;
-          &#39;&#34;/home/circleci/project/juniorguru/scrapers/pipelines/sections_parser.py&#34;, &#39;
-          &#39;line 468, in section_to_re\n&#39;
-          &#39;    raise ValueError(f&#34;Section {repr(section)} doesn\&#39;t have any &#39;
-          &#39;contents&#34;)\n&#39;
-          &#34;builtins.ValueError: Section &lt;ListSection(heading=&#39;Not eligib…&#39;)&gt; &#34;
-          &#34;doesn&#39;t have any contents\n&#34;}</pre>
-    </details>
-  
+  <p>Robot si k nabídkám práce neuložil žádné chyby.</p>
 
 
     <hr>
