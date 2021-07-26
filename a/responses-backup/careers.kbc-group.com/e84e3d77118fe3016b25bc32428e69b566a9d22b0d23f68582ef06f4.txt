@@ -793,7 +793,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "a12b1bb3-b829-4f1a-be83-fc5729195e97"
+						"X-CSRF-Token" : "0f47d4b2-b3b5-4346-ab96-9c07abe1fe1f"
 					}
 				});
 			//]]>
@@ -815,7 +815,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '436be354-bc09-467a-9d92-1955284b5021';
+				var ctid = 'f0e66806-f02e-4615-b474-400f50a276c3';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2432176576';
 				var landing = document.location.href;
 				var brand = 'SSC_CZ';
@@ -853,7 +853,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_GB&amp;i=1237457786"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_GB&amp;i=1869294994"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
