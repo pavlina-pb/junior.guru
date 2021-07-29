@@ -822,7 +822,8 @@
                     <div id="similar-jobs-links">     
                         <a title="Vistaprint-All" href="/Vistaprint/go/Vistaprint-All/7791500/">Vistaprint-All,</a>     
                         <a title="Technology" href="/Vistaprint/go/Technology/7789400/">Technology,</a>     
-                        <a title="Prague, Czech Republic" href="/Vistaprint/go/Prague%2C-Czech-Republic/7790000/">Prague, Czech Republic</a>
+                        <a title="Prague, Czech Republic" href="/Vistaprint/go/Prague%2C-Czech-Republic/7790000/">Prague, Czech Republic,</a>     
+                        <a title="Design-UX" href="/Vistaprint/go/Design-UX/8780200/">Design-UX</a>
                     </div>
                 </aside>
                     </div>
@@ -889,7 +890,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "7950cf81-4d39-4dbf-a5f2-c8955f8b6072"
+						"X-CSRF-Token" : "1b839453-e85f-419c-8ff6-3cc2e4165138"
 					}
 				});
 			//]]>
@@ -911,7 +912,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = 'f062effc-a109-4c20-9a3c-cd74b8a19955';
+				var ctid = 'c28887bc-c353-4d43-91ff-ad1581581d8b';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2521166091';
 				var landing = document.location.href;
 				var brand = 'Vistaprint';
@@ -949,7 +950,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=188301742"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=1414102441"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
