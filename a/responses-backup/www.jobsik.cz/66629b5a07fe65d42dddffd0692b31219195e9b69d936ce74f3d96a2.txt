@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -233,24 +229,10 @@ You will:<br />
 
 <div class="job-item" id="job-27199543">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27199543/">Developer ERP systému - junior</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Olomouc</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Jana Květoňová</span><br>
     <span class="job-item__salary" title="Uvedený plat">30000 - 42000 Kč za měsíc</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27199507">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27199507/">Sales engineer junior | B2B | technical product</a></h2>
-    <span class="job-item__date">před 3 dny</span>
-    <span class="job-item__place job-item__place--city">Olomouc</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
-    
         
         
     
@@ -275,7 +257,7 @@ You will:<br />
 
 <div class="job-item" id="job-26850619">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26850619/">JavaScript developer</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">aktivní nabídka</span>
     <span class="job-item__place job-item__place--city">Hradec Králové, Olomouc</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PROFI-MEN, s.r.o.</span><br>
     
@@ -289,7 +271,7 @@ You will:<br />
 
 <div class="job-item" id="job-26850620">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26850620/">.NET/Typescript/JavaScript developer</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Hradec Králové, Olomouc</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PROFI-MEN, s.r.o.</span><br>
     
@@ -317,7 +299,7 @@ You will:<br />
 
 <div class="job-item" id="job-27005402">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27005402/">Montér elektro</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Olomouc</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Hroší stavby Morava a.s.</span><br>
     
@@ -360,10 +342,24 @@ Olomouc</span><br>
 
 <div class="job-item" id="job-27084468">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27084468/">Prodejní asistentka - brigádnice</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Olomouc</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">CLIM CZ, s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">120 - 130 Kč za hodinu</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27113161">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27113161/">Skladník Olomouc</a></h2>
+    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__place job-item__place--city">Olomouc</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">PTÁČEK-velkoobchod, a.s.</span><br>
+    <span class="job-item__salary" title="Uvedený plat">24000 - 30000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -605,7 +601,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
