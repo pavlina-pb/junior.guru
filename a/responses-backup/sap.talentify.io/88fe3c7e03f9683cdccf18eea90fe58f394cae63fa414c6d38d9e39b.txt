@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+<head>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"519820eb50",applicationID:"68456873"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1210.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script> <script>
+        let script = document.createElement('script');
+        script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2767175017337175";
+        script.setAttribute('crossorigin', 'anonymous')
+        setTimeout(() => {
+            document.head.append(script);
+        }, 3000);
+    </script>
+<link rel="preload" href='/css/fastCover.css?v=10.6.15' as='style'>
+<link href='/css/fastCover.css?v=10.6.15' rel='stylesheet' type='text/css'>
+<script type="text/javascript">
+            (function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "3vnv3t67yz");
+        </script>
+
+<script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                });
+                var f                          = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async                        = true;
+                j.src                          =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-M5HN5H6');</script>
+
+<title>SAP iXp Intern - Software Developer/Tester at SAP in Brno, Jihomoravský Kraj 299020</title>
+<meta name="description" content="SAP iXp Intern - Software Developer/Tester at SAP in Brno, Jihomoravský Kraj. 
+
+What we offer 
+
+Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of bene 299020" />
+<link rel="canonical" href="https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020" />
+<link rel="alternate" hreflang="pt-br" href="https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020?lang=pt_BR" />
+<link rel="alternate" hreflang="en-us" href="https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020?" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="SAP iXp Intern - Software Developer/Tester at SAP in Brno, Jihomoravský Kraj 299020" />
+<meta property="og:url" content="https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020" />
+<meta property="og:image" content="https://app.talentify.io/i/og.png" />
+<meta property="og:description" content="SAP iXp Intern - Software Developer/Tester at SAP in Brno, Jihomoravský Kraj. 
+
+What we offer 
+
+Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of bene 299020" />
+<meta property="og:site_name" content="Talentify" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=no">
+<script>
+        (function(w, d, e, u, c, g, a, b){
+            w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {ss_cid : c, domain_info: g};
+            a = d.createElement(e);
+            a.async = true;
+            a.src = u;
+            b = d.getElementsByTagName(e)[0];
+            b.parentNode.insertBefore(a, b);
+
+        })(window,document,"script","https://cdn.perfdrive.com/aperture/aperture.js","bgop","auto");
+
+    </script>
+<link rel="icon" href="/i/icon/favicon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/i/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/i/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/i/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/i/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/i/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/i/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/i/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/i/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/i/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/i/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/i/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/i/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/i/icon/favicon-16x16.png">
+<link rel="manifest" href="/i/icon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/i/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body>
+
+<noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5HN5H6"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+<!--[if lte IE 9]>
+<style>
+    div[class^="col-"] {
+        float: left;
+    }
+</style>
+<![endif]-->
+<div class="cover-page job-matched">
+<nav class="responsible-client-nav">
+<img class="responsible-client-nav__logo" src="/i/logo_black.png" alt="Powered by Talentify">
+<div class="responsible-client-nav__disclaimer">
+<div role="button" class="disclaimer__question toggleable">
+<span>
+Are you in HR or Talent Acquisition? </span>
+<i class="dropdown-arrow disclaimer-dropdown dropdown-arrow-down"></i>
+</div>
+<div class="disclaimer-hidden">
+<span>
+<strong>Create your Free Account</strong> to learn how Talentify optimizes your jobs’ organic traffic and increases the number of qualified candidates completing your full ATS application! </span>
+<a role="button" class="disclaimer__btn" href="https://app.talentify.io/sign-up">Get started here</a>
+</div>
+</div>
+</nav>
+<header class="job-info">
+<a href="https://sap.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=" class="company-name">SAP</a>
+<div class="title-box">
+<h1>SAP iXp Intern - Software Developer/Tester</h1>
+</div>
+<section class="job-details-section">
+<div class="job-details job-location">
+<img src="/i/map-icon-red.svg" alt="" width="15" height="20">
+<p>Location: Brno / Jihomoravský Kraj</p>
+ </div>
+<div class="job-details job-type">
+<img src="/i/briefcase-icon-red.svg" alt="Job type" width="15" height="15">
+<p>Employment type: Temporary</p>
+</div>
+<div class="job-details job-payment">
+<img src="/i/money-bill-red.svg" alt="" style="margin-top: .2em;" width="15" height="13">
+<p>Pay: Competitive/hour</p>
+</div>
+</section>
+<section class="submit-area">
+<div class="scroll-helper-left"></div>
+<a rel="nofollow" href="https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020/apply?utm_source=&utm_medium=&utm_campaign=" class="submit-area__btn submit-btn">
+<img src="/i/check-icon.svg" alt="Search Button" width="16" height="16">
+I'm interested </a>
+<div class="submit-area__btn share-btn">
+<p>
+SHARE </p>
+<div class="share-icons">
+<a target="_blank" href="https://twitter.com/messages/compose?text=Hi,%20I%20think%20this%20job%20at%20SAP%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20%20https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020">
+<img class="share-icon" src="/i/twitter-icon.svg" alt="Share Twitter" width="32" height="32">
+</a>
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020">
+<img class="share-icon" src="/i/messenger-icon.svg" alt="Share Messenger" width="32" height="32">
+</a>
+<a target="_blank" href="https://wa.me/?text=Hi,%20I%20think%20this%20job%20at%20SAP%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020">
+<img class="share-icon" src="/i/whatsapp-icon.svg" alt="Share Whatsapp" width="32" height="32">
+</a>
+</div>
+</div>
+<div class="scroll-helper-right"></div>
+</section>
+</header>
+<section class="job-dropdowns-area">
+<div class="job-description-btn job-dropdown">
+<div class="job-dropdown__title toggleable">
+<p>Job description</p>
+<i class="dropdown-arrow"></i>
+</div>
+<div class="job-dropdown__job-inner-content show-content">
+<small class="job-id-info">Req#: 299020</small><br><br>
+<span><p><span><b>What we offer</b> </span></p> <p><span>Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from. Apply now!</span> </p> <p> </p> <p> </p> <p> </p> <p><span><b>ABOUT THE SAP INTERNSHIP EXPERIENCE PROGRAM</b> <br> The SAP Internship Experience Program is SAP’s global, strategic, paid internship program that provides university students with opportunities to find purpose in their careers. </span> </p> <p> </p> <p><span><b>THREE REASONS TO INTERN AT SAP</b> </span></p> <ul><li><span>Culture of collaboration: meet with mentors, make new friends across the globe and create a thriving personal network.</span> </li> <li><span>Project-driven experience: gain cross-functional skills from our virtual and in-person learning sessions, diverse subject matter experts, and project deliverables. </span> </li> <li><span>Gain visibility: with SAP Internship Experience Program in your title, you’ll have a global network of SAP leaders, entrepreneurs and career development opportunities at your fingertips. </span> </li> </ul> <p> </p> <p><span><b>ABOUT THE TEAM</b> </span></p> <p><span>S/4 HANA Cloud Financial Operation team is developing applications in our flagship ERP product S/4 HANA Cloud leveraging Financial Operations as Account receivables, Account Payables, Bank communications and Cash management. Besides is developing Cloud native applications integrating Banks to financial systems. In our work, we collaborate with development teams in other SAP locations such as Germany, China, Ireland.<br> Feel free to add any videos of your team or office that are posted on Life at SAP YouTube channel (ex: Learn more about the SAP Digital Business Services at Asia-Pacific Japan by watching this video / Watch this video and get to know the LAC Talent Acquisition team! / Learn more about our SAP Labs India in this video). </span> </p> <p> </p> <p><span><b>WHAT YOU’LL DO</b> </span></p> <p><span>Position title: SAP iXp Intern – Software Developer, Tester<br> Location: Brno, Czech Rep.<br> Expected start date December 1st, 2020 </span> </p> <p> </p> <p><span><b>IN THIS ROLE, YOU’LL</b> </span></p> <ul><li><span>Collaborate closely within your Scrum team</span> </li> <li><span>Apply agile software development principles</span> </li> <li><span>Strive for quality in all aspects of software development</span> </li> <li><span>Build up and expand software development skill</span> </li> <li><span>Performing manual tests</span> </li> <li><span>Writing a test scripts and testing</span> </li> <li><span>Programming in Java language</span> </li> </ul> <p> </p> <p><span><b>WHO YOU ARE</b> </span></p> <p><span>We’re looking for someone who takes initiative, perseveres, and stay curious. You like to work on meaningful innovative projects and are energized by lifelong learning.</span> </p> <ul><li><span>Currently enrolled as Student at a university or or a university of applied sciences</span> </li> <li><span>Preferred fields of study: Computer Science or Engineering, Computer Engineering, Business Informatics, or related fields with interest in software development.</span> </li> <li><span>Basic software development / programming skills in at least one common programming language. </span> </li> <li><span>Good communication skills</span> </li> <li><span>High commitment to quality, reliability and a self-motivating style of working</span> </li> <li><span>Good analytical and problem-solving skills. </span> </li> <li><span>Passion for technical topics and strong will to learn new things</span> </li> <li><span>Language skills: Good in English</span> </li> </ul> <p> </p> <p><span>Follow @SAPiXp on Instagram and don’t miss anything about our experiences worldwide!</span> </p> <p> </p> <p><span><b>Note: All applicants are asked to pass a technical test as a mandatory part of the preliminary recruitment stage.</b> </span></p> <p><span> </span> </p> <p> </p> <p> </p> <p><span><b>We are SAP</b> </span></p> <p><span>SAP innovations help more than 400,000 customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with 200 million users and more than 100,000 employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, we build breakthroughs, together.</span> </p> <p> </p> <p><span><b>Our inclusion promise </b> </span></p> <p><span>SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.</span> </p> <p> </p> <p><span>SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Americas: <a><span class="__cf_email__" data-cfemail="0e4d6f7c6b6b7c7d2040617c7a664f636b7c676d6f4e7d6f7e206d6163">[email&#160;protected]</span></a> or <a><span class="__cf_email__" data-cfemail="094a687b6c6c7b7a2745687d606748646c7b606a68497a6879276a6664">[email&#160;protected]</span></a>, APJ: <a><span class="__cf_email__" data-cfemail="5b183a293e3e2928751a0b111b283a2b75383436">[email&#160;protected]</span></a>, EMEA: <a><span class="__cf_email__" data-cfemail="3271534057574041724153421c515d5f">[email&#160;protected]</span></a>.</span> </p> <p> </p> <p><span>EOE AA M/F/Vet/Disability:<br><br> Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.</span> </p> <p><span>Successful candidates might be required to undergo a background verification with an external vendor.</span> </p> <p><span> Requisition ID:<span>299020</span> | Work Area: <span>Software-Development Operations</span> | Expected Travel: <span>0 - 10%</span> | Career Status: <span>Student</span> | Employment Type: <span>Intern</span> | Additional Locations: <span></span> </p> </span><br><p><i>By submitting your interest in this job, you agree to receive text notifications with additional steps to complete your job application. You will receive up to 6 messages from the number "63879". Message & data rates may apply. Please refer to our privacy policy for more information.</i></p> </div>
+</div>
+<div class="company-description-btn job-dropdown">
+<div class="job-dropdown__title toggleable">
+<p>About company</p>
+<i class="dropdown-arrow"></i>
+</div>
+<div class="job-dropdown__job-inner-content show-content">639581 SAP SE is a German multinational software corporation based in Walldorf, Baden-Württemberg, that develops enterprise software to manage business operations and customer relations.</div>
+</div>
+</section>
+<div class="job-info" style="margin-top: 3em">
+<section class="submit-area">
+<div class="scroll-helper-left"></div>
+<a rel="nofollow" href="https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020/apply?utm_source=&utm_medium=&utm_campaign=" class="submit-area__btn submit-btn">
+<img src="/i/check-icon.svg" alt="Search Button" width="16" height="16">
+I'm interested </a>
+<div class="submit-area__btn share-btn">
+<p>
+SHARE </p>
+<div class="share-icons">
+<a target="_blank" href="https://twitter.com/messages/compose?text=Hi,%20I%20think%20this%20job%20at%20SAP%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20%20https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020">
+<img class="share-icon" src="/i/twitter-icon.svg" alt="Share Twitter" width="32" height="32">
+</a>
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020">
+<img class="share-icon" src="/i/messenger-icon.svg" alt="Share Messenger" width="32" height="32">
+</a>
+<a target="_blank" href="https://wa.me/?text=Hi,%20I%20think%20this%20job%20at%20SAP%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020">
+<img class="share-icon" src="/i/whatsapp-icon.svg" alt="Share Whatsapp" width="32" height="32">
+</a>
+</div>
+</div>
+<div class="scroll-helper-right"></div>
+</section>
+</div>
+<p class="not-interested-text">Not interested?</p>
+<a href="https://sap.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=" class="show-near-jobs-btn">
+<img src="/i/search-solid-dark.svg" alt="Search jobs" width="16" height="16">
+<p>SHOW OPEN JOBS NEAR ME</p>
+</a>
+<a href="https://www.talentify.io/" class="powered-by-link">
+<img src="/i/powered-by.png" alt="Powered by Talentify" width="180" height="43">
+</a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    var submitArea = document.querySelector('.submit-area');
+    var shareBtns = document.querySelectorAll('.share-btn');
+
+    shareBtns.forEach(element => {
+        element.addEventListener('click', () => {
+            element.querySelector('.share-icons').classList.add('share-icons-open')
+            element.parentElement.scrollTo(500,0)
+        })
+    });
+
+    var dropDownItems = document.querySelectorAll('.toggleable');
+    var dropDownArrows = document.querySelectorAll('.dropdown-arrow ');
+
+    dropDownItems.forEach(element => {
+        element.addEventListener('click', () => {
+            element.nextElementSibling.classList.toggle('show-content')
+            element.querySelector('.dropdown-arrow ').classList.toggle('dropdown-arrow-down')
+        })
+    });
+</script>
+<script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"JobPosting","baseSalary":{"@type":"MonetaryAmount","currency":"USD","value":{"@type":"QuantitativeValue","unitText":"HOUR"}},"datePosted":"2021-07-23T16:12:42+00:00","description":"<p><b>What we offer</b> </p> <p>Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from. Apply now! </p> <p> </p> <p> </p> <p> </p> <p><b>ABOUT THE SAP INTERNSHIP EXPERIENCE PROGRAM</b> <br> The SAP Internship Experience Program is SAP\u2019s global, strategic, paid internship program that provides university students with opportunities to find purpose in their careers.  </p> <p> </p> <p><b>THREE REASONS TO INTERN AT SAP</b> </p> <ul><li>Culture of collaboration: meet with mentors, make new friends across the globe and create a thriving personal network. </li> <li>Project-driven experience: gain cross-functional skills from our virtual and in-person learning sessions, diverse subject matter experts, and project deliverables.   </li> <li>Gain visibility: with SAP Internship Experience Program in your title, you\u2019ll have a global network of SAP leaders, entrepreneurs and career development opportunities at your fingertips.  </li> </ul> <p> </p> <p><b>ABOUT THE TEAM</b> </p> <p>S/4 HANA Cloud Financial Operation team is developing applications in our flagship ERP product S/4 HANA Cloud leveraging Financial Operations as Account receivables, Account Payables, Bank communications and Cash management. Besides is developing Cloud native applications integrating Banks to financial systems. In our work, we collaborate with development teams in other SAP locations such as Germany, China, Ireland.<br> Feel free to add any videos of your team or office that are posted on Life at SAP YouTube channel (ex: Learn more about the SAP Digital Business Services at Asia-Pacific Japan by watching this video / Watch this video and get to know the LAC Talent Acquisition team! / Learn more about our SAP Labs India in this video).   </p> <p> </p> <p><b>WHAT YOU\u2019LL DO</b> </p> <p>Position title: SAP  iXp Intern \u2013 Software Developer, Tester<br> Location: Brno, Czech Rep.<br> Expected start date December 1st, 2020  </p> <p> </p> <p><b>IN THIS ROLE, YOU\u2019LL</b> </p> <ul><li>Collaborate closely within your Scrum team </li> <li>Apply agile software development principles </li> <li>Strive for quality in all aspects of software development </li> <li>Build up and expand software development skill </li> <li>Performing manual tests </li> <li>Writing a test scripts and testing </li> <li>Programming in Java language </li> </ul> <p> </p> <p><b>WHO YOU ARE</b> </p> <p>We\u2019re looking for someone who takes initiative, perseveres, and stay curious. You like to work on meaningful innovative projects and are energized by lifelong learning. </p> <ul><li>Currently enrolled as Student at a university or or a university of applied sciences </li> <li>Preferred fields of study: Computer Science or Engineering, Computer Engineering, Business Informatics, or related fields with interest in software development. </li> <li>Basic software development / programming skills in at least one common programming language.        </li> <li>Good communication skills </li> <li>High commitment to quality, reliability and a self-motivating style of working </li> <li>Good analytical and problem-solving skills.  </li> <li>Passion for technical topics and strong will to learn new things </li> <li>Language skills: Good in English </li> </ul> <p> </p> <p>Follow @SAPiXp on Instagram and don\u2019t miss anything about our experiences worldwide! </p> <p> </p> <p><b>Note: All applicants are asked to pass a technical test as a mandatory part of the preliminary recruitment stage.</b> </p> <p>  </p> <p> </p> <p> </p> <p><b>We are SAP</b> </p> <p>SAP innovations help more than 400,000 customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with 200 million users and more than 100,000 employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, we build breakthroughs, together. </p> <p> </p> <p><b>Our inclusion promise </b> </p> <p>SAP\u2019s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone \u2013 regardless of background \u2013 feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world. </p> <p> </p> <p>SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Americas: <a>Careers.NorthAmerica@sap.com</a> or <a>Careers.LatinAmerica@sap.com</a>, APJ: <a>Careers.APJ@sap.com</a>, EMEA: <a>Careers@sap.com</a>. </p> <p> </p> <p>EOE AA M/F/Vet/Disability:<br><br> Qualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability. </p> <p>Successful candidates might be required to undergo a background verification with an external vendor. </p> <p> Requisition ID:299020 | Work Area: Software-Development Operations | Expected Travel: 0 - 10% | Career Status: Student | Employment Type: Intern  | Additional Locations:  </p> <br><p><i>By submitting your interest in this job, you agree to receive text notifications with additional steps to complete your job application. You will receive up to 6 messages from the number \"63879\". Message & data rates may apply. Please refer to our privacy policy for more information.</i></p>","employmentType":["TEMPORARY"],"hiringOrganization":{"@type":"Organization","name":"SAP","logo":"https://static.talentflux.com/i/company/60267a59b22e6","sameAs":"https://sap.com"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"CZ","addressRegion":"Jihomoravsk\u00fd Kraj","addressLocality":"Brno","streetAddress":""}},"title":"SAP iXp Intern - Software Developer/Tester","url":"https://sap.talentify.io/job/sap-ixp-intern-software-developertester-brno-jihomoravsky-kraj-sap-299020","jobBenefits":""}    </script>
+<script type="text/javascript">
+var openingId        = "12065144";
+var openingCode      = "76liw";
+var isProd           = true;
+var shouldShowAds    = true;
+var adsDelay         = 1;
+</script>
+<script async type='text/javascript' src='https://click.appcast.io/pixels/talentify1-8599.js?ent=376&jid=76liw'></script>
+<script async type="text/javascript" src="/js/tck.js?v=10.6.15"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"519820eb50","applicationID":"68456873","transactionName":"ZAcBNUFWD0tYURBZW11NIBRAQw5VFl0UVVpaDAROXEcEVlBcAw==","queueTime":0,"applicationTime":137,"atts":"SEACQwlMHEU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6781766c9917058f',m:'51d62c4af7a95d6ad8bf1aa22a466e33d3145f4b-1627846033-1800-AQ53JrOr7Z4JvVdgul7v7kL463oPsK3kjs/c/YMQp9XG5vR+O/kIFbsVNjukqzlv1c6OYtZsl35KuwWcuGLcA/tErk4uRmiKwo7VG3CR9ArxDAOV7IdX8Ox6nAH5eleBicXeQSElbTECGIPDb8rLxQlKoHrADmAn6We5z7L3NCwEflTA2JS2ji7OCAxTPLrecaXax7e4Hzosjj+RqWL3Cyc=',s:[0x01f63ebe90,0x319e7887f1],}})();</script></body>
+</html>
