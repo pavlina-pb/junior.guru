@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -228,7 +224,7 @@ Souhlas zaměstnavatele se zaměstnaneckou kartou.<br />
 
 <div class="job-item" id="job-27008802">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27008802/">Java Developer</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">SONET, společnost s.r.o.</span><br>
     
@@ -242,7 +238,7 @@ Souhlas zaměstnavatele se zaměstnaneckou kartou.<br />
 
 <div class="job-item" id="job-27113484">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27113484/">C++ Developer pro platební aplikace</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">SONET, společnost s.r.o.</span><br>
     
@@ -256,7 +252,7 @@ Souhlas zaměstnavatele se zaměstnaneckou kartou.<br />
 
 <div class="job-item" id="job-27168710">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27168710/">Android Developer (Kotlin)</a></h2>
-    <span class="job-item__date">před 6 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">SONET, společnost s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">45000 - 70000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -270,7 +266,7 @@ Souhlas zaměstnavatele se zaměstnaneckou kartou.<br />
 
 <div class="job-item" id="job-27200776">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27200776/">PHP Developer na plný nebo zkrácený úvazek</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
     
@@ -312,7 +308,7 @@ Souhlas zaměstnavatele se zaměstnaneckou kartou.<br />
 
 <div class="job-item" id="job-27191484">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27191484/">Junior DevOps inženýr + Junior Developer (C#) - Brno i remote</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">UD4D s.r.o.</span><br>
     
@@ -585,7 +581,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

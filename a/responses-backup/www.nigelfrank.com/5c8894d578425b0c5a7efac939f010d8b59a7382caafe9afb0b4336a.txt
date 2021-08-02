@@ -77,9 +77,12 @@
 
 
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
+    
 
-
-<body class='body-job-view banner-on   '>
+<body class='body-job-view banner-on  touch-device '>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
@@ -405,7 +408,7 @@
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="t5uUy8GyUaiyAKVzHCsDfX9kaxgfHccO5WKA5Mpd">        <input name="jobs[]" type="hidden" value="381937">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="ZexUdlWLSl48oaKGCDWMsdXeTYumLpxdiDa6bjvT">        <input name="jobs[]" type="hidden" value="381937">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -516,7 +519,7 @@
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/381937?_token=t5uUy8GyUaiyAKVzHCsDfX9kaxgfHccO5WKA5Mpd">
+                                      data-job-id="/saved-jobs/add/381937?_token=ZexUdlWLSl48oaKGCDWMsdXeTYumLpxdiDa6bjvT">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -559,7 +562,7 @@
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/381937?_token=t5uUy8GyUaiyAKVzHCsDfX9kaxgfHccO5WKA5Mpd">
+                                              data-job-id="/saved-jobs/add/381937?_token=ZexUdlWLSl48oaKGCDWMsdXeTYumLpxdiDa6bjvT">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -578,7 +581,7 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="t5uUy8GyUaiyAKVzHCsDfX9kaxgfHccO5WKA5Mpd">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="ZexUdlWLSl48oaKGCDWMsdXeTYumLpxdiDa6bjvT">
 
 
 

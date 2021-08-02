@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -209,7 +213,7 @@ Roční výkonnostní bonus, Flexibilní pracovní doba, Příspěvěk na sport 
 
 <div class="job-item" id="job-27200640">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27200640/">Senior Data Scientist / Data Analyst do skvělé společnosti</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Technologies</span><br>
     
@@ -223,7 +227,7 @@ Roční výkonnostní bonus, Flexibilní pracovní doba, Příspěvěk na sport 
 
 <div class="job-item" id="job-27165659">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27165659/">Data Analyst</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
     
@@ -251,7 +255,7 @@ Roční výkonnostní bonus, Flexibilní pracovní doba, Příspěvěk na sport 
 
 <div class="job-item" id="job-27179875">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27179875/">Software developer - vhodné i pro absolventy</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Praha 6</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
     
@@ -293,7 +297,7 @@ Roční výkonnostní bonus, Flexibilní pracovní doba, Příspěvěk na sport 
 
 <div class="job-item" id="job-27201470">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27201470/">Test Analyst</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Cleverlance</span><br>
     
@@ -321,7 +325,7 @@ Roční výkonnostní bonus, Flexibilní pracovní doba, Příspěvěk na sport 
 
 <div class="job-item" id="job-27200642">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27200642/">Data Engineer and Team Lead</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Technologies</span><br>
     
@@ -335,7 +339,7 @@ Roční výkonnostní bonus, Flexibilní pracovní doba, Příspěvěk na sport 
 
 <div class="job-item" id="job-27200636">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27200636/">Business Intelligence Visualization Analytik – Data Science</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Technologies</span><br>
     
@@ -580,7 +584,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
