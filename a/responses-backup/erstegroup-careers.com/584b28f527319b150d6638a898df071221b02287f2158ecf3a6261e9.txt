@@ -296,7 +296,7 @@
                         </div>
                 </div>
 
-                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Hlavní město Praha, Czech Republic"></span></span><meta itemprop="datePosted" content="Tue Jul 06 02:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="erstegro01P2">
+                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Hlavní město Praha, Czech Republic"></span></span><meta itemprop="datePosted" content="Wed Aug 04 02:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="erstegro01P2">
                     <div class="jobDisplay">
                             <div class="content">
                                 <div class="jobTitle">
@@ -692,7 +692,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "ceb7beae-2288-4f93-a008-32c7551b48d6"
+						"X-CSRF-Token" : "d98cde50-e035-4dfb-a3f2-8024c3e05cf2"
 					}
 				});
 			//]]>
@@ -742,7 +742,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "ceb7beae-2288-4f93-a008-32c7551b48d6"
+						"X-CSRF-Token" : "d98cde50-e035-4dfb-a3f2-8024c3e05cf2"
 					}
 				});
 			//]]>
@@ -763,7 +763,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = 'dd69cdc8-095e-4f18-841f-d70e5831ecce';
+				var ctid = 'e256e902-afb4-47de-adfa-1e6958263afd';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2658777502';
 				var landing = document.location.href;
 				var brand = 'csas';
@@ -801,7 +801,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1157732051"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1248145877"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
