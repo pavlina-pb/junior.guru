@@ -692,7 +692,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "1109b263-1dfb-48b0-8c1a-a06baf09bcf4"
+						"X-CSRF-Token" : "882a914f-2a26-4492-84a9-c4b7e1611b38"
 					}
 				});
 			//]]>
@@ -742,7 +742,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "1109b263-1dfb-48b0-8c1a-a06baf09bcf4"
+						"X-CSRF-Token" : "882a914f-2a26-4492-84a9-c4b7e1611b38"
 					}
 				});
 			//]]>
@@ -763,7 +763,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '11bbfb56-ec37-4c33-a5b4-231dc84ea564';
+				var ctid = '6abfa514-e9c3-490d-a635-31fc4339b8b5';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2658777502';
 				var landing = document.location.href;
 				var brand = 'csas';
@@ -801,7 +801,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=590336699"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1400456718"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

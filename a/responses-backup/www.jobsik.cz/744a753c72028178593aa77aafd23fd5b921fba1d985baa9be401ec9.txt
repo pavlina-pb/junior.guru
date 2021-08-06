@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -240,7 +236,7 @@ KONTAKT: telefonicky (Po - Pá, 9.00 - 15.00) nebo email
 
 <div class="job-item" id="job-27191487">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27191487/">130 Kč za hodinu a příplatky - Pardubice - Kontrola součástek</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Pardubice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Enter-Prise Sorting, s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">130 - 160 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -266,37 +262,9 @@ KONTAKT: telefonicky (Po - Pá, 9.00 - 15.00) nebo email
 
 
 
-<div class="job-item" id="job-27179868">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27179868/">Technik kvality</a></h2>
-    <span class="job-item__date">před 4 dny</span>
-    <span class="job-item__place job-item__place--city">Červená Voda </span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27179869">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27179869/">Vedoucí oddělení kvality</a></h2>
-    <span class="job-item__date">před 4 dny</span>
-    <span class="job-item__place job-item__place--city">Červená Voda </span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27201850">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27201850/">Inženýr zákaznické kvality</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Pardubice okolí</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Personal Consult s.r.o.</span><br>
     
@@ -310,7 +278,7 @@ KONTAKT: telefonicky (Po - Pá, 9.00 - 15.00) nebo email
 
 <div class="job-item" id="job-27201655">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27201655/">Inženýr kvality-vhodné pro absolventy</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Přelouč</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">JOBSTART s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">25000 - 35000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -356,6 +324,34 @@ KONTAKT: telefonicky (Po - Pá, 9.00 - 15.00) nebo email
     <span class="job-item__place job-item__place--city">Ústeckoorlicko, Pardubicko</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PROFI-MEN, s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">30.000 - 45.000 Kč (dle dohody a zkušeností i více</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-26850667">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26850667/">Systémový analytik</a></h2>
+    <span class="job-item__date">dnes</span>
+    <span class="job-item__place job-item__place--city">Ústeckoorlicko nebo Pardubicko</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">PROFI-MEN, s.r.o.</span><br>
+    <span class="job-item__salary" title="Uvedený plat">35.000 - 45.000 Kč (dle dohody a zkušeností i více</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-26971492">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26971492/">Seřizovač - lisovna plastů</a></h2>
+    <span class="job-item__date">aktivní nabídka</span>
+    <span class="job-item__place job-item__place--city">Lanškroun</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">FOREZ s.r.o. </span><br>
+    
         
         
     
@@ -599,7 +595,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

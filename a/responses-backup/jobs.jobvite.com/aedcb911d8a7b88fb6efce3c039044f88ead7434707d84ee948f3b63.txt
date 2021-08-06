@@ -14,17 +14,17 @@
             <meta name="twitter:card" content="summary_large_image" />
                     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=210720045945" type="image/x-icon">
-        <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=210720045945">
+        <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=210803222816" type="image/x-icon">
+        <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=210803222816">
 
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=210720045945">
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-desktop.css?v=210720045945">
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=210720045945">
-        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=210720045945"></script>
-        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=210720045945"></script>
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=210803222816">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-desktop.css?v=210803222816">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=210803222816">
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=210803222816"></script>
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=210803222816"></script>
 
                     <!--[if lte IE 8]>
-                <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/es5-shim.min.js?v=210720045945"></script>
+                <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/es5-shim.min.js?v=210803222816"></script>
             <![endif]-->
 
     <!-- JV Google Analytics -->
@@ -252,7 +252,7 @@ Apply Later    </a>
         </div>
     </div>
     
-    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.desktop.app.js?v=210720045945"></script>
+    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.desktop.app.js?v=210803222816"></script>
     <script>
         angular.module('preloadedData', []).constant('preloadedData', {
                 applyLinkUrl: '${job.applyLinkUrl}',
@@ -272,7 +272,7 @@ Apply Later    </a>
             dropBoxApiKey: 'w5fg28zznqcyg4w',
             baseUrl: '/gooddata',
             cdnURL: '//d3igejkwe1ucjd.cloudfront.net',
-            releaseVersion: '210720045945',
+            releaseVersion: '210803222816',
             careersiteName: 'gooddata',
             careersiteDomainName: '${careersiteDomainName}',
             careersiteSourceTypeId: 'P8DoXfwQ'
