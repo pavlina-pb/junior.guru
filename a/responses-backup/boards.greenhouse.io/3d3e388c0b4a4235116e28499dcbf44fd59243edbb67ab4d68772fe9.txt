@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Job Application for FullStack Engineer at Y Soft</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-0b83f797e71a267c31193781fff2814dfb78746f800ca278a81be45c6664afeb.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-9bc84e316c0e62c281f938d9a4217ce6017c348b675e254d1a3c8c82f2d88f9b.css" />
+  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! There was an error processing your application. Please try again.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;},&quot;job_post&quot;:{&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;Paste&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;errors&quot;:{&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-35c550072911634142c2e1d9f355979693558ca180c68334bdb0a333793e7abf.svg" type="text/configuration"></script>
+    <meta property="og:title" content="FullStack Engineer"></meta>
+    <meta property="og:description" content="Brno"></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/ysoftcorporation/jobs/4381964003"></meta>
+    <meta property="og:image"></meta>
+    <meta property="og:type" content="article"></meta>
+
+        <link rel="stylesheet" media="screen" href="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/400/222/500/original/custom.css?1589280623" />
+
+
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+
+
+
+<div id='app_body' style='padding-left:20px'>
+    
+
+    <div id="header">
+    <a href='#app' id='apply_button' class='button'>
+      Apply Now
+    </a>
+
+  <h1 class='app-title'>FullStack Engineer</h1>
+
+  <span class='company-name'>
+    at Y Soft
+  </span>
+
+    
+
+    <div class='location'>
+      Brno
+    </div>
+</div>
+  <div id="content" class="">
+    
+
+    <section>
+<p>One of our cross-functional teams is looking for a Full Stack Engineer to join our global company. We are looking for someone to support the development of YSoft OMNI Series, our ground-breaking technology that connects any in-market network printer or multifunction printer to the cloud.</p>
+<p>The Y Soft R&amp;D department includes over 100 professionals working in a manager-less team. We share one product backlog and are self-organized. At Y Soft, you’ll get the opportunity to collaborate with other experienced developers, learning as you go.</p>
+<p>&nbsp;</p>
+</section>
+<section>
+<h2>Technologies with which you will work:</h2>
+<p>We work with a wide and diverse range of technologies. Knowledge of all of them is not necessary, we are happy to teach you, but knowledge of the following core technology is necessary.</p>
+<p>Core knowledge:</p>
+<ul>
+<li>C#</li>
+<li>React</li>
+<li>Docker (at least basic knowledge is required)</li>
+</ul>
+<p>Other technology we work with:</p>
+<ul>
+<li>Front end
+<ul>
+<li>Typescript, (React Hooks, functional based components, useSWR, axios)</li>
+<li>Fluent UI design system</li>
+<li>Prettier, ESLint</li>
+</ul>
+</li>
+<li>Backend, API
+<ul>
+<li>.NET Core, .NET 5</li>
+<li>Azure functions</li>
+<li>REST APIs</li>
+</ul>
+</li>
+<li>Automatic tests
+<ul>
+<li>NUnit, Specflow</li>
+<li>Cypress, Selenium</li>
+</ul>
+</li>
+<li>CI/CD
+<ul>
+<li>Bamboo</li>
+</ul>
+</li>
+<li>Azure services
+<ul>
+<li>App Service, Key Vault, Storage Account (Table, Queue), Azure AD</li>
+<li>IoT Hub, IoT Edge Devices</li>
+</ul>
+</li>
+<li>IDEs
+<ul>
+<li>Visual Studio, Visual Studio Code, Rider, IntelliJ IDEA</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Job responsibilities:</h2>
+<ul>
+<li>Participate in the development of cloud-based solutions</li>
+<li>Work on different components of OMNI Series - both backend and frontend</li>
+<li>If you have a certain area of interest for example architecture, security, or QA, you can take part in our Communities of Practice (CoP)</li>
+</ul>
+</section>
+<section>
+<h2>What we expect from you:</h2>
+<ul>
+<li>T-Shaped approach – a wide knowledge of many things and an expert in one</li>
+<li>Knowledge of C#, React and Docker – anything else is a bonus</li>
+<li>Active involvement in team activities and decision-making</li>
+<li>Ability to openly share your opinion, take part in discussions, and ask questions</li>
+<li>Good communications skills in both English and Czech</li>
+<li>Sense of humor</li>
+</ul>
+<p><strong>You can look forward to:</strong></p>
+<ul>
+<li>Generous benefits, including 30 days of vacation, company stock allocation program, and free use of 3D printers</li>
+<li>Being part of changing the processes and environment at Y Soft</li>
+<li>Many internal activities organized by YSofters for YSofters (Y4Y)</li>
+<li>The opportunity to stand out from the crowd, such as being a speaker, contributor, or organizer for an event, Y Soft will support you</li>
+</ul>
+<p>&nbsp;</p>
+</section>
+
+    
+</div>
+
+    <div id='application' class="">
+      <a name='app'></a>
+      <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/ysoftcorporation/jobs/4381964003" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="11bf8207e4ec6db40aa4170e8b34f5ddf60aab20" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-08-06 20:16:45 +0000" />
+
+
+
+        <div id='main_fields'>
+            <h2 class='heading'>Apply for this Job</h2>
+
+            <div class='required-fields'>
+              <span class='asterisk'>*</span> Required
+            </div>
+
+          <div class='clear'></div>
+
+
+          
+<script>
+  var EMAIL_ADDRESS_VALIDATOR_URL = 'https://email-address-validator.us.greenhouse.io/address/validate';
+</script>
+
+<div class='field'>
+  <label for='first_name'>First Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='first_name' name='job_application[first_name]' aria-required="true" maxlength="255" autocomplete="given-name"/>
+</div>
+<div class='field'>
+  <label for='last_name'>Last Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='last_name' name='job_application[last_name]' aria-required="true" maxlength="255" autocomplete="family-name" />
+</div>
+<div class='field'>
+  <label for='email'>Email <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='email' name='job_application[email]' aria-required="true" maxlength="255" autocomplete="email" />
+</div>
+<div class='field'>
+  <label for='phone'>Phone</label>
+  <input type='text' id='phone' name='job_application[phone]' maxlength="255" autocomplete="tel" />
+</div>
+
+
+
+          
+<div class='field'>
+  <label aria-label="" id="resume">Resume/CV</label>
+  
+<div class="attach-or-paste " data-allow-s3="true" data-field="resume" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="resume_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <span id="resume_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="resume" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="resume" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="resume" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="resume" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_resume style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+    <textarea name="job_application[resume_text]" id="resume_text" class="paste">
+</textarea>
+
+</div>
+
+</div>
+
+  <div class='field'>
+    <label id='cover_letter' aria-label="">Cover Letter</label>
+    
+<div class="attach-or-paste " data-allow-s3="true" data-field="cover_letter" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="cover_letter_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <span id="cover_letter_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="cover_letter" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="cover_letter" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="cover_letter" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="cover_letter" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_cover_letter style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+    <textarea name="job_application[cover_letter_text]" id="cover_letter_text" class="paste">
+</textarea>
+
+</div>
+
+  </div>
+
+
+
+        </div>
+
+            <hr/>
+
+          <div id='custom_fields'>
+            <div class="field">
+  <label>LinkedIn Profile
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][0][question_id]" id="job_application_answers_attributes_0_question_id" value="5752387003" />
+<input type="hidden" name="job_application[answers_attributes][0][priority]" id="job_application_answers_attributes_0_priority" value="0" />
+
+<input type="text" name="job_application[answers_attributes][0][text_value]" id="job_application_answers_attributes_0_text_value" maxlength="255" autocomplete="custom-question-linkedin-profile" />
+
+
+</label></div>
+<div class="field">
+  <label>Website
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][1][question_id]" id="job_application_answers_attributes_1_question_id" value="5752388003" />
+<input type="hidden" name="job_application[answers_attributes][1][priority]" id="job_application_answers_attributes_1_priority" value="1" />
+
+<input type="text" name="job_application[answers_attributes][1][text_value]" id="job_application_answers_attributes_1_text_value" maxlength="255" autocomplete="custom-question-website" />
+
+
+</label></div>
+
+          </div>
+
+
+
+
+          <div id='captcha_container'></div>
+  <hr/>
+
+
+
+        <div id='error_message'></div>
+
+        <div id='submit_buttons'>
+          <input
+            type='button'
+            value='Submit Application'
+            id='submit_app'
+            class='button'>
+        </div>
+</form>    </div>
+</div>
+
+
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-e052cd57a78e17c73aac02274af8a878a99cc9fd4b83a41744e6495236645677.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-f65c5d81eae763babdb175248ae53fe028e64b2abddb5fcfe3959a500f7398c7.js"></script>
+
+  <div class="s3-upload-form" data-presigned-form="resume"></div>
+
+  <div class="s3-upload-form" data-presigned-form="cover_letter"></div>
+<script class="js-metadata" data-key="JBEN.hideCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.alternateCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.geetestPath" data-type="string" data-value="/geetest" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.publicKey" data-type="string" data-value="6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL" type="text/configuration"></script>      <script src='https://www.google.com/recaptcha/enterprise.js?render=6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL' async></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/show_init-a1597e28bd287ce9ccfa9f99f287f0c27a5a277e5cb23115af8880da506e57ee.js"></script>
+  
+
+
+  <script class="js-metadata" data-key="JBEN.PublicJobBoard.UncacheableAttributes.path" data-type="string" data-value="/uncacheable_attributes.json" type="text/configuration"></script><script class="js-metadata" data-key="LocationControl.Providers.Mapbox.apiKey" data-type="string" data-value="pk.eyJ1IjoiamNtdWxsZXIiLCJhIjoiY2l2YmI2ZG82MDA4bzJ6b3UwNTB1enkycSJ9.oRrvDNk1PKKA76v6qSRFXg" type="text/configuration"></script>
+  <script class="js-metadata" data-key="LocationControl.Providers.Pelias.apiKey" data-type="string" data-value="ge-39f1178289d5d0c5" type="text/configuration"></script>
+  <script type="application/ld+json">
+  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Y Soft"},"title":"FullStack Engineer","datePosted":"2021-03-15","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Brno, South Moravian, Czech Republic","addressRegion":"JM","addressCountry":null,"postalCode":null}},"description":"\u003csection\u003e\n\u003cp\u003eOne of our cross-functional teams is looking for a Full Stack Engineer to join our global company. We are looking for someone to support the development of YSoft OMNI Series, our ground-breaking technology that connects any in-market network printer or multifunction printer to the cloud.\u003c/p\u003e\n\u003cp\u003eThe Y Soft R\u0026amp;D department includes over 100 professionals working in a manager-less team. We share one product backlog and are self-organized. At Y Soft, you’ll get the opportunity to collaborate with other experienced developers, learning as you go.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003c/section\u003e\n\u003csection\u003e\n\u003ch2\u003eTechnologies with which you will work:\u003c/h2\u003e\n\u003cp\u003eWe work with a wide and diverse range of technologies. Knowledge of all of them is not necessary, we are happy to teach you, but knowledge of the following core technology is necessary.\u003c/p\u003e\n\u003cp\u003eCore knowledge:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eC#\u003c/li\u003e\n\u003cli\u003eReact\u003c/li\u003e\n\u003cli\u003eDocker (at least basic knowledge is required)\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eOther technology we work with:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFront end\n\u003cul\u003e\n\u003cli\u003eTypescript, (React Hooks, functional based components, useSWR, axios)\u003c/li\u003e\n\u003cli\u003eFluent UI design system\u003c/li\u003e\n\u003cli\u003ePrettier, ESLint\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eBackend, API\n\u003cul\u003e\n\u003cli\u003e.NET Core, .NET 5\u003c/li\u003e\n\u003cli\u003eAzure functions\u003c/li\u003e\n\u003cli\u003eREST APIs\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eAutomatic tests\n\u003cul\u003e\n\u003cli\u003eNUnit, Specflow\u003c/li\u003e\n\u003cli\u003eCypress, Selenium\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eCI/CD\n\u003cul\u003e\n\u003cli\u003eBamboo\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eAzure services\n\u003cul\u003e\n\u003cli\u003eApp Service, Key Vault, Storage Account (Table, Queue), Azure AD\u003c/li\u003e\n\u003cli\u003eIoT Hub, IoT Edge Devices\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eIDEs\n\u003cul\u003e\n\u003cli\u003eVisual Studio, Visual Studio Code, Rider, IntelliJ IDEA\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/section\u003e\n\u003csection\u003e\n\u003ch2\u003eJob responsibilities:\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eParticipate in the development of cloud-based solutions\u003c/li\u003e\n\u003cli\u003eWork on different components of OMNI Series - both backend and frontend\u003c/li\u003e\n\u003cli\u003eIf you have a certain area of interest for example architecture, security, or QA, you can take part in our Communities of Practice (CoP)\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/section\u003e\n\u003csection\u003e\n\u003ch2\u003eWhat we expect from you:\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eT-Shaped approach – a wide knowledge of many things and an expert in one\u003c/li\u003e\n\u003cli\u003eKnowledge of C#, React and Docker – anything else is a bonus\u003c/li\u003e\n\u003cli\u003eActive involvement in team activities and decision-making\u003c/li\u003e\n\u003cli\u003eAbility to openly share your opinion, take part in discussions, and ask questions\u003c/li\u003e\n\u003cli\u003eGood communications skills in both English and Czech\u003c/li\u003e\n\u003cli\u003eSense of humor\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eYou can look forward to:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eGenerous benefits, including 30 days of vacation, company stock allocation program, and free use of 3D printers\u003c/li\u003e\n\u003cli\u003eBeing part of changing the processes and environment at Y Soft\u003c/li\u003e\n\u003cli\u003eMany internal activities organized by YSofters for YSofters (Y4Y)\u003c/li\u003e\n\u003cli\u003eThe opportunity to stand out from the crowd, such as being a speaker, contributor, or organizer for an event, Y Soft will support you\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003c/section\u003e"}
+</script>
+
+    <script type='text/javascript' src='https://www.dropbox.com/static/api/2/dropins.js' id='dropboxjs' data-app-key='mh9jyh4mfwjnfhj' async></script>
+
+<script class="js-metadata" data-key="googlePickerDeveloperKey" data-type="string" data-value="AIzaSyCratp6KuOmiXWfR3ABY8azVmw8XFnBl64" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerClientId" data-type="string" data-value="594601915089-7c2994029qkt5qu2tmbppujr9jqrqqrs.apps.googleusercontent.com" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerAppId" data-type="number" data-value="594601915089" type="text/configuration"></script>
+  <script type='text/javascript' src='https://apis.google.com/js/client.js?onload=googleDriveLoader' async></script>
+  <script type='text/javascript' src='https://apis.google.com/js/api.js?onload=googlePickerLoader' async></script>
+
+
+  </body>
+</html>

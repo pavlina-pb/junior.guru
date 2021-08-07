@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="cs" class="no-js">
+<head>
+    <!-- IE compatibility - turns off Quirks mode -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="https://profesiastatic.sk/assets/favicon/cz/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://profesiastatic.sk/assets/favicon/cz/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="36x36" href="https://profesiastatic.sk/assets/favicon/cz/favicon-36x36.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="https://profesiastatic.sk/assets/favicon/cz/favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="72x72" href="https://profesiastatic.sk/assets/favicon/cz/favicon-72x72.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://profesiastatic.sk/assets/favicon/cz/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="144x144" href="https://profesiastatic.sk/assets/favicon/cz/favicon-144x144.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://profesiastatic.sk/assets/favicon/cz/favicon-192x192.png">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://profesiastatic.sk/assets/favicon/cz/apple-icon-180x180.png">
+
+    <link rel="manifest" href="/assets/favicon/cz/manifest.json">
+    <link rel="mask-icon" href="https://profesiastatic.sk/assets/favicon/cz/safari-pinned-tab.svg" color="#000000">
+    <meta name="msapplication-config" content="/assets/favicon/cz/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="cs"/>
+            <meta name="format-detection" content="telephone=no"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="canonical" href="https://www.profesia.cz/prace/predvyber-cz/O4127089" />
+
+    <title>Ruby on Rails Developer - PŘEDVÝBĚR.CZ s.r.o. | PROFESIA.CZ</title>
+    
+<meta property="og:title" content="P&#x0158;EDV&#xDD;B&#x011A;R.CZ&#x20;s.r.o.&#x20;-&#x20;Ruby&#x20;on&#x20;Rails&#x20;Developer" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="https://www.profesia.cz/images/design/social/logo_profesia_fb.png" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:locale" content="cs_CZ" />
+		<meta property="og:site_name" content="profesia.cz" />
+		
+		<meta property="og:description" content="Pro&#x20;na&#x0161;eho&#x20;klienta,&#x20;t&#xFD;m&#x20;marketingov&#xFD;ch&#x20;specialist&#x016F;,&#x20;kte&#x0159;&#xED;&#x20;vyvinuli&#x20;online&#x20;aplikaci,&#x20;kter&#xE1;&#x20;dok&#xE1;&#x017E;e&#x20;automatizovat&#x20;internetovou&#x20;reklamu&#x20;a&#x20;pom&#xE1;hat&#x20;k&#x20;dosahov&#xE1;n&#xED;&#x20;&#xFA;sp&#x011B;ch&#x016F;&#x20;t&#x011B;ch&#x20;nejlep&#x0161;&#xED;ch&#x20;ecommerce&#x20;hr&#xE1;&#x010D;&#x016F;,&#x20;hled&#xE1;me&#x20;zku&#x0161;en&#xE9;ho&#x20;kolegu&#x2F;kolegyni&#x20;na&#x20;pozici&#x20;Ruby&#x20;on&#x20;Rails&#x20;Developer.Core&#x20;cel&#xE9;&#x20;patformy&#x20;je&#x20;Ruby&#x20;on&#x20;Rails&#x20;aplikace,&#x20;kter&#xE1;&#x20;vyu&#x017E;&#xED;v&#xE1;&#x20;Sidekiq&#x20;pro&#x20;zpracov&#xE1;n&#xED;&#x20;dat&#x20;na&#x20;pozad&#xED;.&#x20;Na&#x20;frontendu&#x20;je&#x20;mix&#x20;Rails&#x20;generovan&#xFD;ch&#x20;str&#xE1;nek&#x20;a&#x20;React&#x20;komponent,&#x20;kter&#xE9;&#x20;dod&#xE1;vaj&#xED;&#x20;aplikaci&#x20;dynami&#x010D;nost&#x20;a&#x20;rychlost.&#x20;React&#x20;komponenty&#x20;komunikuj&#xED;&#x20;p&#x0159;es&#x20;GraphQL&#x20;s&#x20;backendem.&#x20;Kombinace&#x20;ElasticSearch&#x20;a&#x20;Postgres&#x20;umo&#x017E;&#x0148;uje&#x20;pracovat&#x20;s&#x20;v&#xED;ce&#x20;jak&#x20;5&#x20;miliardami&#x20;z&#xE1;znam&#x016F;&#x20;v&#x20;datab&#xE1;zi.Co&#x20;o&#x010D;ek&#xE1;v&#xE1;me&#x3F;zku&#x0161;enost&#xED;&#x20;s&#x20;programov&#xE1;n&#xED;&#x20;v&#x20;Rubyzku&#x0161;enosti&#x20;s&#x20;v&#xFD;voje&#x20;alespo&#x0148;&#x20;2&#x20;aplikac&#xED;&#x20;v&#x20;Ruby&#x20;on&#x20;Railsovl&#xE1;d&#xE1;te&#x20;pr&#xE1;ci&#x20;s&#x20;Git&#x20;v&#x20;p&#x0159;&#xED;kazov&#xE9;&#x20;&#x0159;&#xE1;dcerozum&#xED;te,&#x20;pro&#x010D;&#x20;a&#x20;jak&#x20;se&#x20;testuje&#x20;v&#x20;RSpec&#x20;a&#x20;Cypresszku&#x0161;enosti&#x20;s&#x20;datab&#xE1;zemi&#x20;Postgres,&#x20;Redis&#x20;a&#x20;Elasticsearchorientace&#x20;v&#x20;GraphQL&#x20;v&#xFD;hodouzku&#x0161;enosti&#x20;s&#x20;agiln&#x011B;&#x20;&#x0159;&#xED;zenou&#x20;prac&#xED;&#x20;&#x2013;&#x20;pr&#xE1;ce&#x20;s&#x20;JiraCo&#x20;V&#xE1;m&#x20;nab&#xED;z&#xED;me&#x3A;pr&#xE1;ci&#x20;v&#x20;dynamicky&#x20;rostouc&#xED;&#x20;spole&#x010D;nosti,..." />
+    <meta name="description" content="Aktuální nabídka práce ve společnosti  PŘEDVÝBĚR.CZ s.r.o. na pozici  Ruby on Rails Developer. Místo práce: Praha"/>
+    <meta name="author" content="Profesia, spol. s r. o." />
+    <meta name="verify-v1" content=""/>
+
+            <meta name="facebook-domain-verification" content="cpsngqrgorjcmkczng9mj7pgurzi6e" />
+        <script async src="//cmp.optad360.io/items/5857bd7a-d3bc-4a71-934d-5c83a71c9149.min.js"></script>
+        <script async src="//get.optad360.io/sf/899e2692-033b-4698-ba5a-51ee34b3e65e/plugin.min.js"></script>
+    
+    
+            <link rel="alternate" hreflang="x-default" href="https&#x3A;&#x2F;&#x2F;www.profesia.cz&#x2F;prace&#x2F;predvyber-cz&#x2F;O4127089" />
+            <link rel="alternate" hreflang="cs" href="https&#x3A;&#x2F;&#x2F;www.profesia.cz&#x2F;prace&#x2F;predvyber-cz&#x2F;O4127089" />
+            <link rel="alternate" hreflang="sk" href="https&#x3A;&#x2F;&#x2F;www.profesia.cz&#x2F;sk&#x2F;praca&#x2F;predvyber-cz&#x2F;O4127089" />
+            <link rel="alternate" hreflang="en" href="https&#x3A;&#x2F;&#x2F;www.profesia.cz&#x2F;en&#x2F;work&#x2F;predvyber-cz&#x2F;O4127089" />
+            <link rel="alternate" hreflang="de" href="https&#x3A;&#x2F;&#x2F;www.profesia.cz&#x2F;de&#x2F;arbeit-suchen&#x2F;predvyber-cz&#x2F;O4127089" />
+    
+<link rel="stylesheet" href="/css/bootstrap.min-f348e78ca.css" type="text/css">
+<link rel="stylesheet" href="/css_compiled/pages/base-8f50d2700.css" type="text/css">
+<link rel="stylesheet" href="/css_compiled/app-c75006ac8.css" type="text/css"><script>if (window.NodeList && !NodeList.prototype.forEach) {
+    NodeList.prototype.forEach = Array.prototype.forEach;
+}</script></head><body id="pages" class='detail offer cz' ><script>dataLayer = [{"dimensionUserType":"Not_Logged","designFlag":"ProfesiaCzLayout","offerValidTill":"2021-08-21","dimensionPageCategory":"Offer_detail","adwordsRemarketingCustomParams":{"job_id":"O4127089"},"dimensionOfferType":"Default","rtbId":"pr_HNku1IGvto1ZcEvGYsZc_offer_4127089"}];</script>
+
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KQ9S7D"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<script>
+    if ('GTM-KQ9S7D' !== '') {
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KQ9S7D');
+    } else {
+        console.log('GTM ID not provided, Google tag manager stays disabled');
+    }
+</script>
+<!-- End Google Tag Manager -->
+<div class="topad text-center">
+    <div id="almad-parade-1" data-advertisement-params="{&quot;id&quot;:&quot;61bcfec77204245b2010a3028b42db01&quot;,&quot;channel&quot;:4,&quot;language&quot;:&quot;cz&quot;,&quot;region&quot;:&quot;Praha&quot;,&quot;category&quot;:&quot;Informa\u010dn\u00ed technologie&quot;,&quot;logged_company&quot;:0,&quot;logged_user&quot;:0,&quot;for_graduate&quot;:0}"></div>
+
+
+
+
+</div>
+<header id="profesia-header">
+    <div class="container">
+        <nav>
+            <div class="logo">
+                <a href="/"><img src="/images/svg-logo/logo_profesia_color.svg" width="99" height="65" alt="PROFESIA.CZ - práce, zaměstnání, nabídky práce, brigáda, volné pracovní místo"></a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="/user_details.php?action=show_my_offers" title="Moje&#x20;vybran&#xE9;&#x20;pracovn&#xED;&#x20;nab&#xED;dky" rel="nofollow"><svg   class='icon star-orange icon icon-md' viewbox="0 0 20 20"><use xlink:href='/images/svg/star-orange.svg#Layer_1'></use></svg><span id="top-star" class="header-favorite-counter">0</span></a></li>
+                            <li>
+            	<button id="login_modal" class="btn btn-default btn-sm margin-on-top margin-on-left">Přihlásit</button>
+            </li>            <li>
+                <a class="btn btn-primary btn-sm hidden-xs pull-right margin-on-left margin-on-top" href="/hledame-zamestnance">Hledám zaměstnance</a>
+            </li>
+            </ul>
+        </nav>
+    </div>
+</header><div id="content" class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">Ruby on Rails Developer</li></ul><nav class="navbar navbar-inverse navbar-fixed-bottom persistent-bar visible-xs">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-10 col-xs-offset-1">
+                <a rel="nofollow" id="offer-reaction" class="btn btn-primary margin-on-top margin-on-bottom track-event-button btn-block"  target="_blank" href="&#x2F;external-reaction-redirect&#x3F;offerId&#x3D;4127089&amp;_locale&#x3D;cz&amp;inc_stat&#x3D;3">Poslat společnosti životopis</a>
+            </div>
+        </div>
+    </div>
+</nav>                        <div class="row">
+
+                <main id="detail" class="col-sm-8" itemscope itemtype="http://schema.org/JobPosting">
+                    <div class="card card-content"><h1 class="no-margin-on-bottom" itemprop="title">Ruby on Rails Developer</h1><h2 itemprop="hiringOrganization"><span>PŘEDVÝBĚR.CZ s.r.o.</span></h2>
+    
+<div class="panel panel-default">
+    <div class="panel-body">
+                                <div class="row">
+                                    <div class="col-sm-6 margin-on-bottom">
+                        <div class="row">
+                            <div class="col-xs-1 col-sm-2"><svg   class='icon 1-location gray' viewbox="0 0 20 20"><use xlink:href='/images/svg/1-location.svg#Layer_1'></use></svg></div>
+                            <div class="col-xs-11 col-sm-10">
+                                <strong>Místo práce</strong>
+                                <br>
+                                <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+                                    <span itemprop="address">Praha</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                                                                        <div class="col-sm-6 margin-on-bottom">
+                        <div class="row">
+                            <div class="col-xs-1 col-sm-2"><svg   class='icon 1-contract-type gray' viewbox="0 0 20 20"><use xlink:href='/images/svg/1-contract-type.svg#Layer_1'></use></svg></div>
+                            <div class="col-xs-11 col-sm-10">
+                                <strong>Druh pracovního poměru</strong>
+                                <br>
+                                <span itemprop="employmentType">plný úvazek</span>
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+                                                <div class="row">
+                                                    <div class="col-sm-6 ">
+                        <div class="row">
+                            <div class="col-xs-1 col-sm-2"><svg   class='icon 1-salary gray' viewbox="0 0 20 20"><use xlink:href='/images/svg/1-salary.svg#Layer_1'></use></svg></div>
+                            <div class="col-xs-11 col-sm-10">
+                                <strong>Mzdové podmínky (brutto)</strong><br />
+                                <span class="salary-range d-block">Od 60 000 Kč/měsíc</span>
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+            </div>
+</div>
+<div class="details" itemprop="description"><div class='job-info details-section'><div class='subtitle-line'><h3>Informace o pracovním místě</h3></div> <h4>Náplň práce, pravomoci a zodpovědnosti</h4><div class='details-desc'><p>Pro našeho klienta, tým marketingových specialistů, kteří vyvinuli online aplikaci, která dokáže automatizovat internetovou reklamu a pomáhat k dosahování úspěchů těch nejlepších ecommerce hráčů, hledáme zkušeného kolegu/kolegyni na pozici <strong>Ruby on Rails Developer.</strong></p><p>Core celé patformy je Ruby on Rails aplikace, která využívá Sidekiq pro zpracování dat na pozadí. Na frontendu je mix Rails generovaných stránek a React komponent, které dodávají aplikaci dynamičnost a rychlost. React komponenty komunikují přes GraphQL s backendem. Kombinace ElasticSearch a Postgres umožňuje pracovat s více jak 5 miliardami záznamů v databázi.</p><h2>Co očekáváme?</h2><ul><li>zkušeností s programování v Ruby</li><li>zkušenosti s vývoje alespoň 2 aplikací v Ruby on Rails</li><li>ovládáte práci s Git v příkazové řádce</li><li>rozumíte, proč a jak se testuje v RSpec a Cypress</li><li>zkušenosti s databázemi Postgres, Redis a Elasticsearch</li><li>orientace v GraphQL výhodou</li><li>zkušenosti s agilně řízenou prací – práce s Jira</li></ul><h2>Co Vám nabízíme:</h2><ul><li>práci v dynamicky rostoucí společnosti, kde Vás čekají velké výzvy</li><li>plat odpovídající Vašim zkušenostem 300 – 1 000 Kč/hodinu</li><li>prostor pro realizaci vlastních projektů v rámci platformy firmy (od návrhu architektury, přes vývoj po deployment)</li><li>vzdělání podporované a hrazené společností (dle Vašich preferencí – konference, online kurz apod.)</li><li>příležitost se učit od zkušených kolegů v oboru, kteří Vám pomohou růst</li><li>firemní MacBook Pro</li><li>možnost využití konzultací s firemní účetní či psycholožkou</li><li>25 dní dovolené, možnost práce na home-office, sick days</li><li>kanceláře: <strong>Praha 5</strong></li></ul><p>Pokud Vás tato nabídka zaujala, zašlete nám Váš strukturovaný. Budeme Vás v nejbližší době kontaktovat.</p><p>Společnost PŘEDVÝBĚR.CZ s.r.o. si vyhrazuje právo nekontaktovat kandidáty, kteří nebudou splňovat výše uvedené požadavky.</p><p>Výhodou spolupráce s námi je rychlost! S našimi konzultanty absolvujete pouze telefonický pohovor!</p><p>Odpovědí na tento inzerát souhlasím, aby společnost PŘEDVÝBĚR.CZ s.r.o., sídlem Na Kozačce 1289/7, Praha 2, zpracovávala mé osobní údaje pro účely zprostředkování práce v souladu se zákonem č. 110/2019 Sb., a to až do odvolání písemnou formou.</p></div> <h4>Zaměstnanecké výhody, benefity</h4><div class='details-desc'>Notebook<br />
+Dovolená 5 týdnů<br />
+Vzdělávací kurzy, školení<br />
+Zdravotní volno/sickdays<br />
+Možnost občasné práce z domova</div></div> <div class='job-requirements details-section'><div class='subtitle-line'><h3>Požadavky na zaměstnance</h3></div> <h4>Pozici vyhovují uchazeči se vzděláním</h4><div class='details-desc'>středoškolské s maturitou</div><h4>Počet let praxe</h4><div class='details-desc'>0</div></div> </div><div class='company-info details-section'><div class='subtitle-line'><h3>Inzerující společnost</h3></div> <h4>Stručná charakteristika společnosti</h4><div class='details-desc'>Jsme ryze česká společnost, která již 10 let poskytuje personální služby.<br /><br />Společnost je držitelem povolení ke zprostředkování práce.</div> <h4>Adresa společnosti</h4><div  itemscope itemtype="http://schema.org/PostalAddress" class='details-desc'>PREDVYBER.CZ<br />Na Kozačce 1289/7 <a rel='no-follow' itemprop='map' id="id-show-map3" title="Zobrazit na mapě" href="&#x2F;show_map.php&#x3F;action&#x3D;contact&amp;offer_id&#x3D;4127089&amp;geo_id&#x3D;16650"><svg   class='icon location icon-sm' viewbox="0 0 20 20"><use xlink:href='/images/svg/location.svg#Layer_1'></use></svg></a><br />120 00 Praha 2<br /><a  rel="nofollow" target="new" class="text-color" href="http&#x3A;&#x2F;&#x2F;www.predvyber.cz">http://www.predvyber.cz</a><br /></div> <h4>Kontakt</h4><div class='details-desc'>Kontaktní osoba: konzultant PŘEDVÝBĚR.CZ<br />E-mail: <a title="Poslat&#x20;spole&#x010D;nosti&#x20;&#x017E;ivotopis&#x20;e-mailem&#x20;prost&#x0159;ednictv&#xED;m&#x20;online&#x20;formul&#xE1;&#x0159;e" rel="nofollow" id="offer-reaction-email"  target="_blank"  href="&#x2F;external-reaction-redirect&#x3F;offerId&#x3D;4127089&amp;_locale&#x3D;cz&amp;inc_stat&#x3D;1">poslat životopis</a><br /></div></div> <div class="button-bar"><a rel="nofollow" id="offer-reaction" class="btn btn-primary margin-on-top margin-on-bottom track-event-button"  target="_blank" href="&#x2F;external-reaction-redirect&#x3F;offerId&#x3D;4127089&amp;_locale&#x3D;cz&amp;inc_stat&#x3D;3">Poslat společnosti životopis</a> <a
+    class="btn btn-default star action "
+    role="button"
+    id="S4127089"
+            data-bookmark-url="/bookmark-offer/4127089?returnTo=/prace/predvyber-cz/O4127089&amp;detailParams=%5B%5D&amp;_locale=cz"
+    >
+            <svg   class='icon 1-star ' viewbox="0 0 20 20"><use xlink:href='/images/svg/1-star.svg#Layer_1'></use></svg>
+        Přidat k vybraným
+    </a>
+    <script>
+                window.LS_I_ADD_BOTTOM = '\u003Csvg\u0020\u0020\u0020class\u003D\u0027icon\u00201\u002Dstar\u0020\u0027\u0020viewbox\u003D\u00220\u00200\u002020\u002020\u0022\u003E\u003Cuse\u0020xlink\u003Ahref\u003D\u0027\/images\/svg\/1\u002Dstar.svg\u0023Layer_1\u0027\u003E\u003C\/use\u003E\u003C\/svg\u003E' + 'P\u0159idat\u0020k\u0020vybran\u00FDm';
+        window.LS_I_REM_BOTTOM = '\u003Csvg\u0020\u0020\u0020class\u003D\u0027icon\u0020star\u0020active\u0027\u0020viewbox\u003D\u00220\u00200\u002020\u002020\u0022\u003E\u003Cuse\u0020xlink\u003Ahref\u003D\u0027\/images\/svg\/star.svg\u0023Layer_1\u0027\u003E\u003C\/use\u003E\u003C\/svg\u003E' + 'Zru\u0161it\u0020z\u0020vybran\u00FDch';
+
+        (function () {
+            var bookmarkHandler = function () {
+
+                $('.button-bar a.star').click(function(e) {
+                    var offerId = e.target.id.substring(1);
+
+                                        e.preventDefault();
+
+                    var newLocation = $(this).data('bookmarkUrl');
+
+                    LoginLayerSetCustomNeededText('\u003Cstrong\u003EP\u0159ihlaste\u0020se.\u003C\/strong\u003E\u0020\nNab\u00EDdky\u0020se\u0020ulo\u017E\u00ED\u0020do\u0020Va\u0161eho\u0020\u00FA\u010Dtu\u0020a\u0020m\u016F\u017Eete\u0020se\u0020k\u0020nim\u0020kdykoli\u0020vr\u00E1tit\u0020z\u0020jak\u00E9hokoli\u0020za\u0159\u00EDzen\u00ED..');
+
+                    LoginLayerOpenGoUrl(newLocation);
+                                    });
+            };
+
+            document.addEventListener("DOMContentLoaded", function() {
+                bookmarkHandler();
+            });
+
+        })();
+    </script>
+
+</div><div class="padding-on-bottom overall-info">
+    <strong>ID: </strong>4127089&nbsp;
+    <strong> Datum zveřejnění: </strong> <span>21.7.2021</span>&nbsp;
+
+    <span class="hidden" itemprop="datePosted">2021-07-21</span>
+    <span class='hidden-xs'><strong>Lokalita: </strong><a href="&#x2F;prace&#x2F;praha&#x2F;">Praha</a> &nbsp; <strong>Pozice: </strong><a href="&#x2F;prace&#x2F;programator&#x2F;">Programátor</a> &nbsp; <strong>Společnost: </strong><a href="&#x2F;prace&#x2F;predvyber-cz-s-r-o&#x2F;C57583">PŘEDVÝBĚR.CZ s.r.o.</a> &nbsp; </span>
+            <span>Nabídka práce je převzata z jiné stránky nebo zdroje.</span>
+    
+                        <strong>Spodní hranice mzdy (brutto):</strong> 60 000 Kč/měsíc
+            </div>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var url = '\/cz\/offers\/4127089\/recommendations\/offer\u002Ddetail\u003Fcategories\u00255B0\u00255D\u003D5\u0026regions\u00255B0\u00255D\u003D1201\u0026positions\u00255B0\u00255D\u003D70\u0026position_level\u003D4\u0026job_type_id\u003D1';
+        $.getJSON(url).done(function (response) {
+            var componentIds = Object.keys(response.data.components);
+            $.each(componentIds, function (index, componentId) {
+                $('#' + componentId).html(response.data.components[componentId].html);
+            });
+        });
+    });
+</script>
+</div><div class='margin-on-bottom advert-offer-250 double-margin-on-top'><div id="almad-rectangle-1" data-advertisement-params="{&quot;id&quot;:&quot;61bcfec77204245b2010a3028b42db01&quot;,&quot;channel&quot;:4,&quot;language&quot;:&quot;cz&quot;,&quot;region&quot;:&quot;Praha&quot;,&quot;category&quot;:&quot;Informa\u010dn\u00ed technologie&quot;,&quot;logged_company&quot;:0,&quot;logged_user&quot;:0,&quot;for_graduate&quot;:0}"></div>
+
+
+
+</div> <div class="card no-padding"><div id="recommendations__bottom"></div>
+</div>                </main>
+                <aside class="col-sm-4 sidebar-right">
+                    <nav class="navbar"><div class='card'><ul class="sidebar-list list-reset actions" ><li><a id="offer-reaction-menu" rel="nofollow" target="_blank" href="&#x2F;external-reaction-redirect&#x3F;offerId&#x3D;4127089&amp;_locale&#x3D;cz&amp;inc_stat&#x3D;2"><svg   class='icon reply ' viewbox="0 0 20 20"><use xlink:href='/images/svg/reply.svg#Layer_1'></use></svg><span>Poslat společnosti životopis</span></a></li><li><a rel="nofollow" href="&#x2F;send_page.php&#x3F;offer_id&#x3D;4127089"><svg   class='icon send-offer ' viewbox="0 0 20 20"><use xlink:href='/images/svg/send-offer.svg#Layer_1'></use></svg><span>Doporučit nabídku známému</span></a></li><li><a rel="nofollow" onclick="window.open&#x28;&quot;http&#x3A;&#x2F;&#x2F;www.facebook.com&#x2F;sharer.php&#x3F;u&#x3D;https&#x25;3A&#x25;2F&#x25;2Fwww.profesia.cz&#x25;2Fprace&#x25;2Fpredvyber-cz&#x25;2FO4127089&#x25;3Futm_source&#x25;3Dfacebook&#x25;26utm_medium&#x25;3Dsocial_media&#x25;26utm_campaign&#x25;3Doffer_detail&amp;t&#x3D;Ruby&#x2B;on&#x2B;Rails&#x2B;Developer&amp;src&#x3D;sp&quot;,&quot;&quot;,&quot;location&#x3D;no,toolbar&#x3D;no,menubar&#x3D;no,scrollbars&#x3D;no,resizable&#x3D;yes,directories&#x3D;no,height&#x3D;340,width&#x3D;660&quot;&#x29;&#x3B;return&#x20;false&#x3B;" target="_blank" href="http&#x3A;&#x2F;&#x2F;www.facebook.com&#x2F;sharer.php&#x3F;u&#x3D;https&#x25;3A&#x25;2F&#x25;2Fwww.profesia.cz&#x25;2Fprace&#x25;2Fpredvyber-cz&#x25;2FO4127089&#x25;3Futm_source&#x25;3Dfacebook&#x25;26utm_medium&#x25;3Dsocial_media&#x25;26utm_campaign&#x25;3Doffer_detail&amp;t&#x3D;Ruby&#x2B;on&#x2B;Rails&#x2B;Developer&amp;src&#x3D;sp"><svg   class='icon facebook ' viewbox="0 0 20 20"><use xlink:href='/images/svg/facebook.svg#Layer_1'></use></svg><span>Doporučit nabídku přes Facebook</span></a></li><li><a rel="nofollow" onclick="window.print(); return false;" href="&#x23;"><svg   class='icon print ' viewbox="0 0 20 20"><use xlink:href='/images/svg/print.svg#Layer_1'></use></svg><span>Tisknout</span></a></li><li><a title="Zobrazit na mapě" id="id-show-map4" rel="nofollow" itemprop="map" href="&#x2F;show_map.php&#x3F;action&#x3D;offer&amp;offer_id&#x3D;4127089&amp;region_place_id&#x3D;6128"><svg   class='icon location ' viewbox="0 0 20 20"><use xlink:href='/images/svg/location.svg#Layer_1'></use></svg><span>Zobrazit místo práce na mapě</span></a></li><li><a title="Přidat k vybraným" id="offer_add_interesting" rel="nofollow" class="disabled" href="&#x23;"><svg   class='icon 1-star orange' viewbox="0 0 20 20"><use xlink:href='/images/svg/1-star.svg#Layer_1'></use></svg><span id="offer_add_interesting_span">Přidat k vybraným</span></a></li><li><a rel="nofollow" href="&#x2F;user_details.php&#x3F;action&#x3D;show_my_offers"><svg   class='icon stars ' viewbox="0 0 20 20"><use xlink:href='/images/svg/stars.svg#Layer_1'></use></svg><span>Zobrazit mé pracovní nabídky</span></a></li></ul></div> </nav><div id="recommendations__sidebar"></div>
+<div class='margin-on-bottom advert-offer-250 double-margin-on-top'><div id="almad-widerectangle-1" data-advertisement-params="{&quot;id&quot;:&quot;61bcfec77204245b2010a3028b42db01&quot;,&quot;channel&quot;:4,&quot;language&quot;:&quot;cz&quot;,&quot;region&quot;:&quot;Praha&quot;,&quot;category&quot;:&quot;Informa\u010dn\u00ed technologie&quot;,&quot;logged_company&quot;:0,&quot;logged_user&quot;:0,&quot;for_graduate&quot;:0}"></div>
+
+
+
+</div>                 </aside>
+
+            </div>
+            </div><footer id="profesia-footer">
+    <div class="container">
+        <div class="d-sm-flex flex-sm-wrap">
+    <nav>
+        <h4>PROFESIA.CZ</h4>
+        <ul>
+            <li><a href="http&#x3A;&#x2F;&#x2F;firma.profesia.cz"
+                   title="O&#x20;n&#x00E1;s">O nás</a>
+            </li>
+            <li><a href="&#x2F;writeus.php" rel="nofollow"
+                   title="Kontakt">Kontakt</a>
+            </li>
+                                        <li class="hidden-xs"><a href="http&#x3A;&#x2F;&#x2F;www.facebook.com&#x2F;profesia.cz" target="_blank"
+                                         title="Profesia&#x20;na&#x20;Facebooku">Facebook</a>
+                </li>
+                        <li><a href="&#x2F;vseobecne-obchodni-podminky" rel="nofollow"
+                   title="V&#x0161;eobecn&#x00E9;&#x20;obchodn&#x00ED;&#x20;podm&#x00ED;nky">Vop</a>
+            </li>
+            <li><a href="&#x2F;ochrana-osobnich-udaju" rel="nofollow"
+                   title="Ochrana&#x20;osobn&#x00ED;ch&#x20;&#x00FA;daj&#x016F;">Ochrana osobních údajů</a>
+            </li>
+                            <li><a href="&#x2F;cenik-sluzeb"
+                       title="Cen&#x00ED;k">Ceník</a>
+                </li>
+                    </ul>
+    </nav>
+    <nav class="hidden-xs">
+        <h4>Užitečné odkazy</h4>
+        <ul>
+                            <li><a href="/forum-prace/"
+                       title="F&#x00F3;rum&#x20;pr&#x00E1;ce">Fórum práce</a>
+                </li>
+                        <li><a href="&#x2F;kariera-v-kostce&#x2F;"
+                   title="Kari&#x00E9;ra&#x20;v&#x20;kostce">Kariéra v kostce</a>
+            </li>
+            <li><a href="&#x2F;prace&#x2F;na-dohodu-brigady&#x2F;"
+                   title="Brig&#x00E1;dy">Brigády</a>
+            </li>
+            <li><a href="&#x2F;prace&#x2F;seznam-pracovnich-pozic&#x2F;"
+                   title="Seznam&#x20;pozic&#x00ED;">Seznam pracovních pozic</a>
+            </li>
+            <li><a href="&#x2F;prace&#x2F;seznam-lokalit&#x2F;"
+                   title="Seznam&#x20;lokalit">Seznam lokalit</a>
+            </li>
+            <li><a href="&#x2F;partneri"
+                   title="Partne&#x0159;i">Partneři</a>
+            </li>
+        </ul>
+    </nav>
+    <nav>
+        <h4>Naše projekty</h4>
+        <ul>
+                                        <li class="hidden-xs"><a href="&#x2F;mark.php&#x3F;to&#x3D;&#x2F;mark" title="HR&#x20;n&#x00E1;stroj&#x20;Mark">HR nástroj Mark</a></li>
+                                                                                        <li><a href="https://www.platy.cz" title="Pr&#x016F;zkum&#x20;plat&#x016F;&#x20;&#x7C;&#x20;p&#x0159;ehled&#x20;plat&#x016F;,&#x20;pr&#x016F;m&#x011B;rn&#x00E1;&#x20;mzda,&#x20;pr&#x016F;m&#x011B;rn&#x00FD;&#x20;plat&#x20;-&#x20;Platy.cz">Platy.cz</a></li>
+                    </ul>
+    </nav>
+    <nav>
+                    <h4>Akce</h4>
+            <ul>
+                                    <li><a href="http&#x3A;&#x2F;&#x2F;www.profesiadays.cz" title="Veletrh&#x20;pr&#x00E1;ce">Profesia days</a></li>
+                                                                    <li><a href="http://www.hrdays.cz" title="HR&#x20;days">HR days</a></li>
+                            </ul>
+                <div class="languages">
+            <span class="languages-item"><a class="languages-item-active" href="&#x2F;prace&#x2F;predvyber-cz&#x2F;O4127089" title="&#x010C;esky" rel="nofollow" onclick="window.location=CopyCurrHashToLink(this.href); return false;">
+                            CZ
+                        </a></span><span class="languages-item"><a class="" href="&#x2F;sk&#x2F;praca&#x2F;predvyber-cz&#x2F;O4127089" title="Slovensk&#x00FD;" rel="nofollow" onclick="window.location=CopyCurrHashToLink(this.href); return false;">
+                            SK
+                        </a></span><span class="languages-item"><a class="" href="&#x2F;en&#x2F;work&#x2F;predvyber-cz&#x2F;O4127089" title="English" rel="nofollow" onclick="window.location=CopyCurrHashToLink(this.href); return false;">
+                            EN
+                        </a></span><span class="languages-item"><a class="" href="&#x2F;de&#x2F;arbeit-suchen&#x2F;predvyber-cz&#x2F;O4127089" title="Deutsch" rel="nofollow" onclick="window.location=CopyCurrHashToLink(this.href); return false;">
+                            DE
+                        </a></span>        </div>
+    </nav>
+</div>
+<div class="copyright">
+    <div class="logo-footer"></div>
+    <a href="&#x2F;copyright">&copy; 1997-2021 Profesia. Všechna práva vyhrazena.</a> PROFESIA.CZ je členem skupiny Alma Media
+        <br class="hidden-xs">
+    K doporučování nabídek práce využíváme technologii <a href="https://www.matej.ai" target="_blank" rel="nofollow">Matej.ai</a>.
+    </div>
+
+
+
+    </div>
+</footer>
+
+<script type="text/javascript">
+    var C_language  = 'cz';
+    var C_DocumentRoot  = '/';
+    var C_LoginLayerReq = '';
+</script>
+
+<script type="text/javascript" src="/javascripts/libs/jquery/dist/jquery.min-4a356126b.js"></script>
+<script type="text/javascript" src="/js_compiled/autocomplete.min-5403f3214.js"></script>
+<script type="text/javascript" src="/js_compiled/functions-1a23953b9.js"></script>
+<script type="text/javascript" src="/javascripts/libs/bootstrap/dist/js/bootstrap.min-4becdc910.js"></script>
+<script type="text/javascript" src="/javascripts/helpers-0e800daea.js"></script>
+<script type="text/javascript" src="/assets/js/vendor37e17961b783e012065c.js"></script>
+<script type="text/javascript" src="/assets/js/advertisement_tracking519af04626865812a231.js"></script>
+<script type="text/javascript" src="/assets/js/responsive_advertisementb4a0194a83478a30863e.js"></script>
+
+<script type="text/javascript">
+
+var previous_label = ''; 
+
+var LS_I_ADD_BOTTOM, LS_I_REM_BOTTOM
+
+var LS_I_ADD_SIDEBAR = '<svg   class=\'icon 1-star orange\' viewbox=\"0 0 20 20\"><use xlink:href=\'/images/svg/1-star.svg#Layer_1\'><\/use><\/svg>Přidat k vybraným', LS_I_REM_SIDEBAR = '<svg   class=\'icon star orange\' viewbox=\"0 0 20 20\"><use xlink:href=\'/images/svg/star.svg#Layer_1\'><\/use><\/svg>Zrušit z vybraných';
+
+    $(document).ready( function() {
+        
+                $('#id-show-map3').click( function(){
+                    $('#idAddOfferComment1').length ? 0 : $('body').append("<div aria-hidden=\"false\" aria-labelledby=\"idAddOfferComment\" role=\"dialog\" tabindex=\"-1\" class=\"modal fade\" id=\"idAddOfferComment1\">\n    <div class=\"modal-dialog \">\n        <div class=\"modal-content\">\n            <div class=\"modal-header\" id=\"idAddOfferComment2\"><button type=\"button\" class=\"close \" data-dismiss=\"modal\" aria-label=\"Zav&#x0159;&#xED;t\"><span aria-hidden=\"true\">\u00d7<\/span><\/button>    <h4 class=\"modal-title\" id=\"idAddOfferComment\">Adresa spole\u010dnosti: Na Koza\u010dce 1289\/7, 120 00 Praha 2<\/h4><\/div>\n            <div class=\"modal-body\" id=\"idAddOfferComment3\"><iframe src=\"&#x2F;show_map.php&#x3F;action&#x3D;contact&amp;offer_id&#x3D;4127089&amp;geo_id&#x3D;16650\" width=\"100%\" height=\"406px\"  frameborder=\"0\"><\/iframe><\/div>\n            <div class=\"modal-footer\" id=\"idAddOfferComment4\"><button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\"  >Zav\u0159\u00edt<\/button><\/div>\n        <\/div>\n    <\/div>\n<\/div>");
+                    $('#idAddOfferComment1').modal();
+                    return false;
+                });
+            
+
+
+                $('.sidebar-right ul.sidebar-list.actions li > a').on('click', function() {
+                                         var label = previous_label != '' ? previous_label : $(this).text();
+                                         previous_label = '';
+
+                                         dataLayer.push({'event': 'gaEvent', 'eventCategory': 'Menus', 'eventAction': 'Offer detail user',
+                                        'eventLabel': label}); });
+
+            $.ajax({
+                'url': '/cz/offer-detail-load/4127089',
+                'method': 'post'
+            });
+        
+
+                $('#id-show-map4').click( function(){
+                    $('#idAddOfferComment6').length ? 0 : $('body').append("<div aria-hidden=\"false\" aria-labelledby=\"idAddOfferComment5\" role=\"dialog\" tabindex=\"-1\" class=\"modal fade\" id=\"idAddOfferComment6\">\n    <div class=\"modal-dialog \">\n        <div class=\"modal-content\">\n            <div class=\"modal-header\" id=\"idAddOfferComment7\"><button type=\"button\" class=\"close \" data-dismiss=\"modal\" aria-label=\"Zav&#x0159;&#xED;t\"><span aria-hidden=\"true\">\u00d7<\/span><\/button>    <h4 class=\"modal-title\" id=\"idAddOfferComment5\">M\u00edsto pr\u00e1ce: Praha-Sm\u00edchov, \u010cesko<\/h4><\/div>\n            <div class=\"modal-body\" id=\"idAddOfferComment8\"><iframe src=\"&#x2F;show_map.php&#x3F;action&#x3D;offer&amp;offer_id&#x3D;4127089&amp;region_place_id&#x3D;6128\" width=\"100%\" height=\"406px\"  frameborder=\"0\"><\/iframe><\/div>\n            <div class=\"modal-footer\" id=\"idAddOfferComment9\"><button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\"  >Zav\u0159\u00edt<\/button><\/div>\n        <\/div>\n    <\/div>\n<\/div>");
+                    $('#idAddOfferComment6').modal();
+                    return false;
+                });
+            
+$("#offer_add_interesting").click(function(e) {
+
+            e.preventDefault();
+
+        LoginLayerSetCustomNeededText('<strong>Přihlaste se.</strong> \
+Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jakéhokoli zařízení..');
+        LoginLayerOpenGoUrl('%2Fprace%2Fpredvyber-cz%2FO4127089%3Foffer_id%3D4127089%26interesting_add%3D'+'4127089');
+;
+
+});
+			$('#login_modal').click(function()
+			{
+				$('#login_modal_main').modal().on('shown.bs.modal', function() {
+                        dataLayer.push({'event': 'gaVirtualPageview', 'pagePath': '/lightbox/loginbox'});
+
+                        var focus = $('#login_modal_main input[value=""][type=text]').filter(':visible:first');
+
+                        if(focus.length==0)
+                        {
+                            focus = $('#login_modal_main input[type=text]').filter(':visible:first');
+                        }
+
+                        focus.focus();
+                });
+
+                LL_SelectedTab = LoginLayerCheckTab(LL_SelectedTab);
+
+                $('#login_modal_main .login-layer-title2').addClass('hide');
+                $('#login_modal_main .login-layer-title1').removeClass('hide');
+
+				$('#login_modal_form').html('<img src="https://profesiastatic.sk/images/ajax-loader.gif" alt="">')
+					.load('/includes/ajax_handler.php?action=login_form&req=', function() {
+
+                        var current_tab_link, current_tab_content;
+
+                        if(LL_SelectedTab != '')
+                        {
+                            current_tab_link    = $('#'+LL_SelectedTab);
+                        	current_tab_content = $('#'+LL_SelectedTab+'-content');
+                        }
+                        else
+                        {
+                        	current_tab_link    = $('#user-tab');
+                        	current_tab_content = $('#user-tab-content');
+                        }
+
+                        current_tab_link.click();
+
+						$('.login-error-row').addClass('hide');
+
+						if(LL_FillID != '')
+						{
+							$('.login-layer-name', current_tab_content).val(LL_FillID);
+						}
+
+						if(LL_LoginNeededText != '' && LL_LoginNeededShow )
+						{
+							$('.login-layer-needed-text', current_tab_content).html(LL_LoginNeededText);
+							$('.login-layer-needed-row' , current_tab_content).removeClass('hide');
+
+							LL_LoginNeededText = LL_LoginNeededTab = '';
+							LL_LoginNeededShow = 0;
+						}
+
+                        if(LL_BackURL) {
+                            $.each(LL_BackURL, function(index, value){ $('.login-layer-back-url', $('#'+index+'-content')).val(value); } );
+						}
+
+						LL_SelectedTab = '';
+					});
+
+				return false;
+		    });
+
+		    setTimeout(function(){ServeLoginAnchor()},800);
+
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4127089"],"content_type":"product"}});feedDataLayerDetail('O4127089','Default','d17','d17');
+
+    })
+</script>
+<script type="text/javascript"
+        src="/assets/js/layout_bottom8833fa95d002a79c7d74.js"></script>
+
+    <script type="text/javascript" src="/javascripts/adblock_detection-f23d4abd3.js"></script>
+
+    <script>
+        
+                function GetBrowserWidth(){var e=0;if(self.innerHeight){e=self.innerWidth}else if(document.documentElement&&document.documentElement.clientHeight){e=document.documentElement.clientWidth}else if(document.body){e=document.body.clientWidth}return e}
+                $.get('/includes/ajax_handler.php?action=mobiledetect&json=1&width='+GetBrowserWidth()+ '&height=' + screen.height);
+    </script>
+
+    <script type="text/javascript"
+            src="/assets/js/profesia_trackingf0a40af44ffaeed210b9.js"></script>
+<div aria-hidden="false" aria-labelledby="idAddOfferComment14" role="dialog" tabindex="-1" class="modal fade" id="login_modal_main">
+    <div class="modal-dialog ">
+        <div class="modal-content">
+            <div class="modal-header" id="login_modal_header"><button type="button" class="close " data-dismiss="modal" aria-label="Zav&#x0159;&#xED;t"><span aria-hidden="true">×</span></button>    <h4 class="modal-title" id="idAddOfferComment14"><span class="login-layer-title1">Přihlášení</span><span class="login-layer-title2 hide">Přihlášení/registrace</span></h4></div>
+            <div class="modal-body" id="login_modal_body"><div id="login_modal_form"></div></div>
+            
+        </div>
+    </div>
+</div><div aria-hidden="false"  role="dialog" tabindex="-1" class="modal fade" id="static-modal-window">
+    <div class="modal-dialog ">
+        <div class="modal-content">
+            
+            <div class="modal-body" id="idAddOfferComment17"><button type="button" class="close " data-dismiss="modal" aria-label="Zav&#x0159;&#xED;t"><span aria-hidden="true">×</span></button><div class='modal-text'></div> </div>
+            
+        </div>
+    </div>
+</div><script>
+            document.addEventListener('DOMContentLoaded', function() {
+                if (!dataLayer) {
+                    dataLayer = [];
+                }
+
+                $(document).on('click.gaEventTrack', '[data-track-event="true"]', function (event) {
+                    var $elem = $(this),
+                        href = $elem.attr('href'),
+                        obj = {},
+                        category = $elem.data('eventCategory'),
+                        action = $elem.data('eventAction'),
+                        label = $elem.data('eventLabel');
+
+                    obj.event = 'gaEvent';
+
+                    if (category !== undefined) {
+                        obj.eventCategory = category;
+                    }
+
+                    if (action !== undefined) {
+                        obj.eventAction = action;
+                    }
+
+                    if (label !== undefined) {
+                        obj.eventLabel = label;
+                    }
+
+                    dataLayer.push(obj);
+
+                    if (href) {
+                        event.preventDefault();
+
+                        setTimeout(function () {
+                            window.location.href = href;
+                        }, 100);
+
+                        return false;
+                    }
+                });
+            });
+            </script><script>
+            document.addEventListener('DOMContentLoaded', function () {
+                $('[data-toggle=\'tooltip\']').tooltip({
+                    delay: {
+                        show: 400,
+                        hide: 200
+                    }
+                });
+            });
+        </script></body></html>

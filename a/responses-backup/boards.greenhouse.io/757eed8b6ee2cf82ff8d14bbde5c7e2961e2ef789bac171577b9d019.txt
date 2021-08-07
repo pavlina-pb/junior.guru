@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Job Application for Software Engineer - C++/Chromium Generalist at Around</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-0b83f797e71a267c31193781fff2814dfb78746f800ca278a81be45c6664afeb.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-9bc84e316c0e62c281f938d9a4217ce6017c348b675e254d1a3c8c82f2d88f9b.css" />
+  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! There was an error processing your application. Please try again.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;},&quot;job_post&quot;:{&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;Paste&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;errors&quot;:{&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-35c550072911634142c2e1d9f355979693558ca180c68334bdb0a333793e7abf.svg" type="text/configuration"></script>
+    <meta property="og:title" content="Software Engineer - C++/Chromium Generalist"></meta>
+    <meta property="og:description" content="Remote"></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/around/jobs/4194507003"></meta>
+    <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/493/000/original/120x120.png?1607006813"></meta>
+    <meta property="og:type" content="article"></meta>
+
+  
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+
+
+
+<div id='app_body' style='padding-left:20px'>
+    <div id="logo"><a target="_blank" href="https://around.co"><img alt="Around Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/493/000/resized/120x120.png?1607006813" width="75" height="75" /></a></div>
+
+    <div id="header">
+    <a href='#app' id='apply_button' class='button'>
+      Apply Now
+    </a>
+
+  <h1 class='app-title'>Software Engineer - C++/Chromium Generalist</h1>
+
+  <span class='company-name'>
+    at Around
+  </span>
+
+    <a data-mapped="true" href="/around">(View all jobs)</a>
+
+    <div class='location'>
+      Remote
+    </div>
+</div>
+  <div id="content" class="">
+    
+
+    <p><span style="font-weight: 400;">Join us on a thrilling journey to improve how teams work together in real-time interactions! We want to give our users the ability to </span><em><span style="font-weight: 400;">actually collaborate</span></em><span style="font-weight: 400;"> during video calls.</span></p>
+<p><a href="http://around.co/"><span style="font-weight: 400;">Around</span></a><span style="font-weight: 400;"> is the new "anti-fatigue" video call. We are obsessed with making it easy for our users to stop sweating the small things like background noise... allowing people to get down to work and focus on innovation rather than on dogs barking or washing machines.</span></p>
+<p><span style="font-weight: 400;">Check out what people are saying about Around: </span><a href="https://t.co/2RXRoebnzj?amp=1"><span style="font-weight: 400;">http://bit.ly/around-love</span></a><span style="font-weight: 400;"> 🥰</span></p>
+<h2><strong>The Role</strong></h2>
+<p><span style="font-weight: 400;">The Audio &amp; Video engineering team at </span><a href="http://around.co/"><span style="font-weight: 400;">Around</span></a><span style="font-weight: 400;"> oversees the technology and end-to-end user experience of our video features across desktop and mobile. The team’s mission is to give our users the utmost certainty that our video and client experience is excellent.</span></p>
+<p><span style="font-weight: 400;">We are looking for a highly technical, hands-on, and mission-driven C++ Chromium Generalist to help us refine our audio and video technology.&nbsp;</span></p>
+<h2><strong>🚀 What You'll Be Doing</strong></h2>
+<ul>
+<li>Improving, patching, or modifying the existing Chromium codebase to improve Around's video call quality and experience.</li>
+<li>Collaborating with the rest of the team to improve existing features such as audio quality, EchoTerminator, Noise Suppression, video filters, and enhancements.</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Designing, implementing, and testing new features to improve Around’s video call experience and quality.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Developing troubleshooting, logging, and monitoring systems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Improving reliability and performance of all audio and video features.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborating with the rest of the team to improve existing features such as audio quality, EchoTerminator, Noise Suppression, video filters, and enhancements.</span></li>
+</ul>
+<h2><strong>🖐🏻 Bonus points</strong></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Previous experience working with Chromium, Electron, and/or WebRTC.</span></li>
+<li style="font-weight: 400;">Strong understanding of webRTC as we as skills in Javascript, Electron, and Node.</li>
+<li style="font-weight: 400;">Experience developing video and audio products, preferably client-side.</li>
+</ul>
+<h2><strong>🙋🏽‍♀️ About You</strong></h2>
+<ul>
+<li>You are experienced with contributing to, or modifying the Chromium codebase.</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have already worked with a team on a real-time video and audio product, preferably client-side.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are comfortable improvising, being very hands-on, and working with dozens of hardware configurations. (We'll provide you with an extensive kit of equipment and devices).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy dispelling the illusion that things work!</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have strong analytical and troubleshooting skills.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are highly empathetic, genuinely curious, and passionate about building a world-class product.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are excited about the remote collaboration. You see the future in fully distributed teams! You will be working with an international team in Europe and the US.</span></li>
+</ul>
+<h2><strong>🛠 </strong><strong>Tools You'll Be Using</strong></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Front-end: React, Typescript</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">C++</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">WebRTC</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">SFU architecture</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Chromium / CEF / Electron</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Node, PostgreSQL</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Terraform, Kubernetes, Docker, AWS</span><span style="font-weight: 400;"><br><br></span></li>
+</ul>
+<h2><strong>😊 Perks</strong></h2>
+<p><span style="font-weight: 400;">💰 Competitive Compensation + Stock Options</span></p>
+<p><span style="font-weight: 400;">💻 MacBook Pro + Accessories + High-Quality Audio/Video Equipment</span></p>
+<p><strong>🏥 </strong><span style="font-weight: 400;">US-based: Medical Insurance including Health, Dental, Vision</span></p>
+<p><span style="font-weight: 400;">💰 401K + Match</span></p>
+<p><span style="font-weight: 400;">💗 Home-Office Stipends for Remote Work</span></p>
+<p><strong>🌴 </strong><span style="font-weight: 400;">Unlimited Vacation and Sick Days</span></p>
+<p><span style="font-weight: 400;">👶 Parental Leave and Fertility Benefits</span></p>
+<p><strong>🏋</strong><span style="font-weight: 400;"> Monthly Gym and Wellness Stipend</span></p>
+<p><span style="font-weight: 400;">📚 Learning Budget (online courses, books, conferences, language lessons)</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re a small, but mighty 100% remote team that’s growing fast, so everyone that joins has a direct impact on the direction and success of the company. Today’s hires will be tomorrow’s leaders. We strive for an open, flat, collaborative, work-hard-play-hard environment.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We are looking for experienced developers who want to be part of a fast-paced, dynamic environment, where everyone’s opinions and efforts are valued. We hire outstanding professionals and give them the opportunity to thrive in a collaborative atmosphere that values learning, growth, and hard work. If all of this sounds exciting, we’d love to hear from you!&nbsp;</span></p>
+<hr>
+<h1><strong>About Around</strong></h1>
+<p><span style="font-weight: 400;">We're an early-stage startup with 30+ team members and growing fast. Our HQ is in Redwood City, CA, but we are a remote-first company with a worldwide team across the US and Europe.</span></p>
+<p><span style="font-weight: 400;">Our leadership team is made of serial entrepreneurs with 15 years of experience working with distributed global teams. We are obsessed with building a healthy remote culture and improving how teams collaborate while not in the same physical location. We practice what we preach with the </span><a href="http://around.co/"><span style="font-weight: 400;">Around</span></a><span style="font-weight: 400;"> team spread out across the world. We are backed by premier Silicon Valley venture capital firms.</span></p>
+
+    
+</div>
+
+    <div id='application' class="">
+      <a name='app'></a>
+      <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/around/jobs/4194507003" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="4f77e53975d59053b1abad927d55b3bf49ccc548" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-08-05 17:55:16 +0000" />
+
+
+
+        <div id='main_fields'>
+            <h2 class='heading'>Apply for this Job</h2>
+
+            <div class='required-fields'>
+              <span class='asterisk'>*</span> Required
+            </div>
+
+          <div class='clear'></div>
+
+
+          
+<script>
+  var EMAIL_ADDRESS_VALIDATOR_URL = 'https://email-address-validator.us.greenhouse.io/address/validate';
+</script>
+
+<div class='field'>
+  <label for='first_name'>First Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='first_name' name='job_application[first_name]' aria-required="true" maxlength="255" autocomplete="given-name"/>
+</div>
+<div class='field'>
+  <label for='last_name'>Last Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='last_name' name='job_application[last_name]' aria-required="true" maxlength="255" autocomplete="family-name" />
+</div>
+<div class='field'>
+  <label for='email'>Email <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='email' name='job_application[email]' aria-required="true" maxlength="255" autocomplete="email" />
+</div>
+<div class='field'>
+  <label for='phone'>Phone <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='phone' name='job_application[phone]' maxlength="255" autocomplete="tel" required='required' aria-required="true"/>
+</div>
+
+
+
+          
+<div class='field'>
+  <label aria-label="required" id="resume">Resume/CV <span class='asterisk' aria-hidden='true'>*</span></label>
+  
+<div class="attach-or-paste " required="required" data-allow-s3="true" data-field="resume" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="resume_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <span id="resume_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="resume" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="resume" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="resume" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="resume" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_resume style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+    <textarea name="job_application[resume_text]" id="resume_text" class="paste">
+</textarea>
+
+</div>
+
+</div>
+
+  <div class='field'>
+    <label id='cover_letter' aria-label="">Cover Letter</label>
+    
+<div class="attach-or-paste " data-allow-s3="true" data-field="cover_letter" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="cover_letter_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <span id="cover_letter_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="cover_letter" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="cover_letter" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="cover_letter" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="cover_letter" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_cover_letter style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+    <textarea name="job_application[cover_letter_text]" id="cover_letter_text" class="paste">
+</textarea>
+
+</div>
+
+  </div>
+
+
+
+        </div>
+
+            <hr/>
+
+          <div id='custom_fields'>
+            <div class="field">
+  <label>Location
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][0][question_id]" id="job_application_answers_attributes_0_question_id" value="4802654003" />
+<input type="hidden" name="job_application[answers_attributes][0][priority]" id="job_application_answers_attributes_0_priority" value="0" />
+
+<input type="text" name="job_application[answers_attributes][0][text_value]" id="job_application_answers_attributes_0_text_value" maxlength="255" autocomplete="custom-question-location" />
+
+
+</label></div>
+<div class="field">
+  <label>LinkedIn Profile
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][1][question_id]" id="job_application_answers_attributes_1_question_id" value="4802655003" />
+<input type="hidden" name="job_application[answers_attributes][1][priority]" id="job_application_answers_attributes_1_priority" value="1" />
+
+<input type="text" name="job_application[answers_attributes][1][text_value]" id="job_application_answers_attributes_1_text_value" maxlength="255" autocomplete="custom-question-linkedin-profile" />
+
+
+</label></div>
+<div class="field">
+  <label>Website
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][2][question_id]" id="job_application_answers_attributes_2_question_id" value="4802656003" />
+<input type="hidden" name="job_application[answers_attributes][2][priority]" id="job_application_answers_attributes_2_priority" value="2" />
+
+<input type="text" name="job_application[answers_attributes][2][text_value]" id="job_application_answers_attributes_2_text_value" maxlength="255" autocomplete="custom-question-website" />
+
+
+</label></div>
+<div class="field">
+  <label>BY SUBMITTING YOUR APPLICATION YOU CONFIRM YOU’VE READ OUR
+
+    <br/>
+    <span><p><a href="https://www.notion.so/teamaround/Privacy-Notice-for-Candidates-4dc1d997c6c348a1a24c218f14b80bc0">PRIVACY NOTICE FOR CANDIDATES</a></p>
+<p>WANT US TO GET IN TOUCH ABOUT FUTURE OPPORTUNITIES? BY CHOOSING YES YOU GIVE AROUND CONSENT TO KEEP YOUR DATA FOR THREE YEARS EVEN IF WE DON’T AGREE ON YOUR ENGAGEMENT AT THIS TIME.</p></span>
+    <input type="hidden" name="job_application[answers_attributes][3][question_id]" id="job_application_answers_attributes_3_question_id" value="4802657003" />
+<input type="hidden" name="job_application[answers_attributes][3][priority]" id="job_application_answers_attributes_3_priority" value="3" />
+
+<select name="job_application[answers_attributes][3][boolean_value]" id="job_application_answers_attributes_3_boolean_value"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+
+          </div>
+
+
+
+
+          <div id='captcha_container'></div>
+  <hr/>
+
+
+
+        <div id='error_message'></div>
+
+        <div id='submit_buttons'>
+          <input
+            type='button'
+            value='Submit Application'
+            id='submit_app'
+            class='button'>
+        </div>
+</form>    </div>
+</div>
+
+
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-e052cd57a78e17c73aac02274af8a878a99cc9fd4b83a41744e6495236645677.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-f65c5d81eae763babdb175248ae53fe028e64b2abddb5fcfe3959a500f7398c7.js"></script>
+
+  <div class="s3-upload-form" data-presigned-form="resume"></div>
+
+  <div class="s3-upload-form" data-presigned-form="cover_letter"></div>
+<script class="js-metadata" data-key="JBEN.hideCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.alternateCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.geetestPath" data-type="string" data-value="/geetest" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.publicKey" data-type="string" data-value="6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL" type="text/configuration"></script>      <script src='https://www.google.com/recaptcha/enterprise.js?render=6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL' async></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/show_init-a1597e28bd287ce9ccfa9f99f287f0c27a5a277e5cb23115af8880da506e57ee.js"></script>
+  
+
+
+  <script class="js-metadata" data-key="JBEN.PublicJobBoard.UncacheableAttributes.path" data-type="string" data-value="/uncacheable_attributes.json" type="text/configuration"></script><script class="js-metadata" data-key="LocationControl.Providers.Mapbox.apiKey" data-type="string" data-value="pk.eyJ1IjoiamNtdWxsZXIiLCJhIjoiY2l2YmI2ZG82MDA4bzJ6b3UwNTB1enkycSJ9.oRrvDNk1PKKA76v6qSRFXg" type="text/configuration"></script>
+  <script class="js-metadata" data-key="LocationControl.Providers.Pelias.apiKey" data-type="string" data-value="ge-39f1178289d5d0c5" type="text/configuration"></script>
+  <script type="application/ld+json">
+  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Around","logo":"https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/493/000/resized/120x120.png?1607006813"},"title":"Software Engineer - C++/Chromium Generalist","datePosted":"2020-11-27","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Prague, Prague, Czech Republic","addressRegion":"PR","addressCountry":null,"postalCode":null}},"description":"\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eJoin us on a thrilling journey to improve how teams work together in real-time interactions! We want to give our users the ability to \u003c/span\u003e\u003cem\u003e\u003cspan style=\"font-weight: 400;\"\u003eactually collaborate\u003c/span\u003e\u003c/em\u003e\u003cspan style=\"font-weight: 400;\"\u003e during video calls.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"http://around.co/\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eAround\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e is the new \"anti-fatigue\" video call. We are obsessed with making it easy for our users to stop sweating the small things like background noise... allowing people to get down to work and focus on innovation rather than on dogs barking or washing machines.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eCheck out what people are saying about Around: \u003c/span\u003e\u003ca href=\"https://t.co/2RXRoebnzj?amp=1\"\u003e\u003cspan style=\"font-weight: 400;\"\u003ehttp://bit.ly/around-love\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e 🥰\u003c/span\u003e\u003c/p\u003e\n\u003ch2\u003e\u003cstrong\u003eThe Role\u003c/strong\u003e\u003c/h2\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eThe Audio \u0026amp; Video engineering team at \u003c/span\u003e\u003ca href=\"http://around.co/\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eAround\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e oversees the technology and end-to-end user experience of our video features across desktop and mobile. The team’s mission is to give our users the utmost certainty that our video and client experience is excellent.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWe are looking for a highly technical, hands-on, and mission-driven C++ Chromium Generalist to help us refine our audio and video technology.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003ch2\u003e\u003cstrong\u003e🚀 What You'll Be Doing\u003c/strong\u003e\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eImproving, patching, or modifying the existing Chromium codebase to improve Around's video call quality and experience.\u003c/li\u003e\n\u003cli\u003eCollaborating with the rest of the team to improve existing features such as audio quality, EchoTerminator, Noise Suppression, video filters, and enhancements.\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eDesigning, implementing, and testing new features to improve Around’s video call experience and quality.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eDeveloping troubleshooting, logging, and monitoring systems\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eImproving reliability and performance of all audio and video features.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eCollaborating with the rest of the team to improve existing features such as audio quality, EchoTerminator, Noise Suppression, video filters, and enhancements.\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2\u003e\u003cstrong\u003e🖐🏻 Bonus points\u003c/strong\u003e\u003c/h2\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003ePrevious experience working with Chromium, Electron, and/or WebRTC.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eStrong understanding of webRTC as we as skills in Javascript, Electron, and Node.\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003eExperience developing video and audio products, preferably client-side.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2\u003e\u003cstrong\u003e🙋🏽‍♀️ About You\u003c/strong\u003e\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eYou are experienced with contributing to, or modifying the Chromium codebase.\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou have already worked with a team on a real-time video and audio product, preferably client-side.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou are comfortable improvising, being very hands-on, and working with dozens of hardware configurations. (We'll provide you with an extensive kit of equipment and devices).\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou enjoy dispelling the illusion that things work!\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou have strong analytical and troubleshooting skills.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou are highly empathetic, genuinely curious, and passionate about building a world-class product.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou are excited about the remote collaboration. You see the future in fully distributed teams! You will be working with an international team in Europe and the US.\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2\u003e\u003cstrong\u003e🛠 \u003c/strong\u003e\u003cstrong\u003eTools You'll Be Using\u003c/strong\u003e\u003c/h2\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eFront-end: React, Typescript\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eC++\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWebRTC\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eSFU architecture\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eChromium / CEF / Electron\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eNode, PostgreSQL\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eTerraform, Kubernetes, Docker, AWS\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u003cbr\u003e\u003cbr\u003e\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2\u003e\u003cstrong\u003e😊 Perks\u003c/strong\u003e\u003c/h2\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e💰 Competitive Compensation + Stock Options\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e💻 MacBook Pro + Accessories + High-Quality Audio/Video Equipment\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e🏥 \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eUS-based: Medical Insurance including Health, Dental, Vision\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e💰 401K + Match\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e💗 Home-Office Stipends for Remote Work\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e🌴 \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eUnlimited Vacation and Sick Days\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e👶 Parental Leave and Fertility Benefits\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e🏋\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e Monthly Gym and Wellness Stipend\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e📚 Learning Budget (online courses, books, conferences, language lessons)\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWe’re a small, but mighty 100% remote team that’s growing fast, so everyone that joins has a direct impact on the direction and success of the company. Today’s hires will be tomorrow’s leaders. We strive for an open, flat, collaborative, work-hard-play-hard environment.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWe are looking for experienced developers who want to be part of a fast-paced, dynamic environment, where everyone’s opinions and efforts are valued. We hire outstanding professionals and give them the opportunity to thrive in a collaborative atmosphere that values learning, growth, and hard work. If all of this sounds exciting, we’d love to hear from you!\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003ch1\u003e\u003cstrong\u003eAbout Around\u003c/strong\u003e\u003c/h1\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWe're an early-stage startup with 30+ team members and growing fast. Our HQ is in Redwood City, CA, but we are a remote-first company with a worldwide team across the US and Europe.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eOur leadership team is made of serial entrepreneurs with 15 years of experience working with distributed global teams. We are obsessed with building a healthy remote culture and improving how teams collaborate while not in the same physical location. We practice what we preach with the \u003c/span\u003e\u003ca href=\"http://around.co/\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eAround\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e team spread out across the world. We are backed by premier Silicon Valley venture capital firms.\u003c/span\u003e\u003c/p\u003e"}
+</script>
+
+    <script type='text/javascript' src='https://www.dropbox.com/static/api/2/dropins.js' id='dropboxjs' data-app-key='mh9jyh4mfwjnfhj' async></script>
+
+<script class="js-metadata" data-key="googlePickerDeveloperKey" data-type="string" data-value="AIzaSyCratp6KuOmiXWfR3ABY8azVmw8XFnBl64" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerClientId" data-type="string" data-value="594601915089-7c2994029qkt5qu2tmbppujr9jqrqqrs.apps.googleusercontent.com" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerAppId" data-type="number" data-value="594601915089" type="text/configuration"></script>
+  <script type='text/javascript' src='https://apis.google.com/js/client.js?onload=googleDriveLoader' async></script>
+  <script type='text/javascript' src='https://apis.google.com/js/api.js?onload=googlePickerLoader' async></script>
+
+
+  </body>
+</html>

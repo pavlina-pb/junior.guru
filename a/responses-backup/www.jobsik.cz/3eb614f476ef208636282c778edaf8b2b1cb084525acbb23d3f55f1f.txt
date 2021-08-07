@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -248,7 +252,7 @@ ZAM VÝHODY :<br />
 
 <div class="job-item" id="job-27213999">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27213999/">Software support engineer</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Praha 2</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Temporary Staffing</span><br>
     
@@ -262,7 +266,7 @@ ZAM VÝHODY :<br />
 
 <div class="job-item" id="job-27213997">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27213997/">Software developer C/C++, 85-90 000 CZK</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Praha 2</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Temporary Staffing</span><br>
     
@@ -276,7 +280,7 @@ ZAM VÝHODY :<br />
 
 <div class="job-item" id="job-27213998">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27213998/">QA engineer, 75-80 000 CZK</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Praha 2</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Temporary Staffing</span><br>
     
@@ -290,7 +294,7 @@ ZAM VÝHODY :<br />
 
 <div class="job-item" id="job-27202323">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202323/">SW validation engineer</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.</span><br>
     
@@ -304,7 +308,7 @@ ZAM VÝHODY :<br />
 
 <div class="job-item" id="job-27202340">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202340/">Principal engineer Prague (90-95.000 CZK)</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
 Praha</span><br>
@@ -347,7 +351,7 @@ Praha</span><br>
 
 <div class="job-item" id="job-27202338">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202338/">System engineer-vmware Prague (70-75.000 CZK)</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
 Praha</span><br>
@@ -362,7 +366,7 @@ Praha</span><br>
 
 <div class="job-item" id="job-27201777">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27201777/">Team lead engineer – diverse projects</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
     
@@ -376,7 +380,7 @@ Praha</span><br>
 
 <div class="job-item" id="job-27202003">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202003/">Network Operation Center Engineer with ccna</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Praha 8</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Temporary Staffing</span><br>
     <span class="job-item__salary" title="Uvedený plat">Salary: by agreement</span> <span class="job-item__separator"></span>
@@ -621,7 +625,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
