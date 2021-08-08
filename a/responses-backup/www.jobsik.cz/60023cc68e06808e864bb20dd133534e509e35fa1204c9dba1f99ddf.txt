@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -211,7 +207,7 @@
 
 <div class="job-item" id="job-26846283">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26846283/">Kurýr(ka) - rozvoz zásilek dodávkou (sk. B) - PPL Teplice</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Teplice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PPL CZ s.r.o. </span><br>
     
@@ -225,7 +221,7 @@
 
 <div class="job-item" id="job-27082814">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27082814/">Dělník potravinářské výroby</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Teplice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">P E C U D ,výrobní a obchodní družstvo Žandov </span><br>
     
@@ -239,7 +235,7 @@
 
 <div class="job-item" id="job-27142008">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27142008/">Prodavač/ka řeznictví Procházka - Teplice brigáda</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Teplice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PMU CZ, a.s</span><br>
     <span class="job-item__salary" title="Uvedený plat">115 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -253,7 +249,7 @@
 
 <div class="job-item" id="job-27155990">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27155990/">Pracovník expedice</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Teplice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">P E C U D ,výrobní a obchodní družstvo Žandov </span><br>
     
@@ -295,7 +291,7 @@
 
 <div class="job-item" id="job-27186683">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27186683/">Řidič linkař</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Teplice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">P E C U D ,výrobní a obchodní družstvo Žandov </span><br>
     
@@ -323,7 +319,7 @@
 
 <div class="job-item" id="job-27202307">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202307/">Strojní zámečník - ranní směna (25-27.000 Kč)</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Teplice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
 Ústí nad Labem</span><br>
@@ -336,12 +332,12 @@
 
 
 
-<div class="job-item" id="job-27202507">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202507/">Skladník/ skladnice| VZV| krupka</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+<div class="job-item" id="job-27202603">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202603/">Páskovač do expedice - Teplice nástup možný ihned</a></h2>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Teplice</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Recruitment Ústí nad Labem</span><br>
-    <span class="job-item__salary" title="Uvedený plat">dohodou</span> <span class="job-item__separator"></span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
+    
         
         
     
@@ -585,7 +581,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
