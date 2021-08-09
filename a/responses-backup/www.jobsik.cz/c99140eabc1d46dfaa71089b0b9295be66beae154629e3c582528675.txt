@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -224,7 +228,7 @@ První kontakt telefonicky nebo e-mailem.<br />
 
 <div class="job-item" id="job-26658912">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658912/">Obchodník s exklusivním zastoupením až 70000Kč</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Pardubice , Svitavy , Chrudim</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000 kč + náhrada za os.automobil</span> <span class="job-item__separator"></span>
@@ -238,7 +242,7 @@ První kontakt telefonicky nebo e-mailem.<br />
 
 <div class="job-item" id="job-26696530">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26696530/">Referent/ka zákaznického servisu</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Pardubice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">JUSDA Europe, s.r.o.</span><br>
     
@@ -252,7 +256,7 @@ První kontakt telefonicky nebo e-mailem.<br />
 
 <div class="job-item" id="job-26700046">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26700046/">Obsluha lisů (8h směny, smlouva na neurčito, super benefity)</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Pardubice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Foxconn</span><br>
     
@@ -294,7 +298,7 @@ První kontakt telefonicky nebo e-mailem.<br />
 
 <div class="job-item" id="job-26860582">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26860582/">Svářeč/ka (37,5 hodin týdně, smlouva na neurčito!)</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Pardubice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Foxconn</span><br>
     
@@ -308,7 +312,7 @@ První kontakt telefonicky nebo e-mailem.<br />
 
 <div class="job-item" id="job-26860606">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26860606/">Brusič/ka</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Pardubice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Foxconn</span><br>
     
@@ -322,7 +326,7 @@ První kontakt telefonicky nebo e-mailem.<br />
 
 <div class="job-item" id="job-26860695">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26860695/">Operátor/ka ve výrobě elektroniky</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Pardubice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Foxconn</span><br>
     
@@ -336,7 +340,7 @@ První kontakt telefonicky nebo e-mailem.<br />
 
 <div class="job-item" id="job-26898288">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26898288/">Montážní dělník el. zařízení (M/Ž)</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Pardubice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Foxconn EMS s.r.o.</span><br>
     
@@ -583,7 +587,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

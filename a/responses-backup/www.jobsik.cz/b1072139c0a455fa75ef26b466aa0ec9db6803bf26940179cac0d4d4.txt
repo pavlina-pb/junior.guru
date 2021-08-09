@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -235,7 +239,7 @@ frameworkem, týmového ducha, komunikativnost, Aj na úrovni čtení technické
 
 <div class="job-item" id="job-27202583">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202583/">Back-end vývojář pro apilikace IoT</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
 Praha</span><br>
@@ -250,7 +254,7 @@ Praha</span><br>
 
 <div class="job-item" id="job-27131952">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27131952/">Technický leader/vývojář (Java tým)</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
     
@@ -581,7 +585,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
