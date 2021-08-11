@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -379,10 +375,10 @@ Klíčová slova: IT, IT job, Tester, manual tester, automation tester, automati
 
 
 
-<div class="job-item" id="job-27214265">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27214265/">Pracovník úklidu s ŘP. sk. B - Brno</a></h3>
+<div class="job-item" id="job-27220897">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27220897/">Konstruktér | Brno</a></h3>
     
-    <span class="job-item__place job-item__place--city">Brno</span>
+    <span class="job-item__place job-item__place--district">Brno</span>
         <br>
     
     
@@ -498,7 +494,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
