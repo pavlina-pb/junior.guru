@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -256,9 +260,23 @@ Nabízíme Vám:<br />
 
 
 
+<div class="job-item" id="job-27221153">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27221153/">Operátor/ka výroby.</a></h2>
+    <span class="job-item__date">dnes</span>
+    <span class="job-item__place job-item__place--city">Plzeň</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">PEMANOBRA trading s.r.o.</span><br>
+    <span class="job-item__salary" title="Uvedený plat">130 - 150 Kč za hodinu</span> <span class="job-item__separator"></span>
+        
+        <span class="job-item__accommodation">S ubytováním</span> <span class="job-item__separator"></span>
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-26860946">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26860946/">Operátor výroby</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Plzeň</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">DU-MI CZ s.r.o. </span><br>
     <span class="job-item__salary" title="Uvedený plat">100 - 115 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -272,7 +290,7 @@ Nabízíme Vám:<br />
 
 <div class="job-item" id="job-26980799">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26980799/">Řidič VZV v pivovaru v Plzni, náborový příspěvek 25.000,-Kč</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Plzeň</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Agentura práce Plzeň s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">23800 - 28000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -286,7 +304,7 @@ Nabízíme Vám:<br />
 
 <div class="job-item" id="job-26993592">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26993592/">Provozní zámečník</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">aktivní nabídka</span>
     <span class="job-item__place job-item__place--city">Plzeň</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Skanska a.s. </span><br>
     
@@ -300,7 +318,7 @@ Nabízíme Vám:<br />
 
 <div class="job-item" id="job-27084476">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27084476/">Pokladní po celé Plzni, 125-139,-Kč/hod a nejrychlejší výplata</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Plzeň</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Agentura práce Plzeň s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">125 - 139 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -340,23 +358,9 @@ Nabízíme Vám:<br />
 
 
 
-<div class="job-item" id="job-27123943">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27123943/">Skladník / pracovník v logistice - Plzeň (u Makra)</a></h2>
-    <span class="job-item__date">dnes</span>
-    <span class="job-item__place job-item__place--city">Plzeň</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">MD ELEKTRONIK spol. s r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">24.000 - 28.500 Kč</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27156201">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27156201/">Tester/ka pro Bankovní Digitalizaci - brigáda</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">UniCredit Bank Czech Republic and Slovakia, a.s.</span><br>
     <span class="job-item__salary" title="Uvedený plat">až 150 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -601,7 +605,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

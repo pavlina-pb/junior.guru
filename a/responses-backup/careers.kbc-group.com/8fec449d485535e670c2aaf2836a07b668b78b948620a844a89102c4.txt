@@ -370,7 +370,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '84f84a15-14d8-420f-9112-97f1c70702f1';
+				var ctid = '7ef7a782-928f-4b92-ae1b-eabe2ce037f4';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2644509402';
 				var landing = document.location.href;
 				var brand = 'CSOB';
@@ -435,7 +435,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "2acd8882-eba2-42b7-9295-c0bee2a7b4a4"
+						"X-CSRF-Token" : "b32bdf37-c340-42d2-9bcb-58511b713da3"
 					}
 				});
 			//]]>
@@ -447,7 +447,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=414483878"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=376829541"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

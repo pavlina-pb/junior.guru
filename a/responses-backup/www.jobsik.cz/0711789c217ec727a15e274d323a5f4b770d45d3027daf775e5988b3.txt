@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -276,7 +272,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27220664">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27220664/">Triumph - vedoucí prodejny</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ADAM &amp;amp; EVA - BODY FASHION, s.r.o.</span><br>
     
@@ -290,7 +286,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-26658918">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658918/">Obchodní zástupce s exklus.zastoupením až 70.000Kč</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Brno , Vyškov , Blansko</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000kč + náhrada za vlastní automobil</span> <span class="job-item__separator"></span>
@@ -304,7 +300,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-26659136">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26659136/">Operátor výroby – až 32 000,- Kč</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Diallogue Česká republika a.s.</span><br>
     <span class="job-item__salary" title="Uvedený plat">29000 - 32000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -318,7 +314,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-26712217">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26712217/">Vedoucí stavby - telekomunikační sítě, Brno</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Vegacom, a. s. </span><br>
     
@@ -332,7 +328,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-26712218">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26712218/">Projektant – telekomunikační sítě</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Vegacom, a. s. </span><br>
     
@@ -577,7 +573,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
