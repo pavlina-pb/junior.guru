@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -327,30 +331,6 @@ Brno</h3>
                         <div class="sidepanel__box sidepanel__box--top">
                             <h2 class="sidepanel__title-main">Našli jsme podobné nabídky</h2>
 
-<div class="job-item" id="job-27221273">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27221273/">SW developer junior | 40 000 Kč</a></h3>
-    
-    <span class="job-item__place job-item__place--district">České Budějovice</span>
-        <br>
-    
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27221272">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27221272/">SW developer senior | 60 000 Kč</a></h3>
-    
-    <span class="job-item__place job-item__place--district">České Budějovice</span>
-        <br>
-    
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27160666">
     <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27160666/">Software developer - senior</a></h3>
     
@@ -379,6 +359,30 @@ Brno</h3>
     <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-26658919/">Obchodní zástupce s exklus. zastoupením v regionu až 70000Kč</a></h3>
     
     <span class="job-item__place job-item__place--city">České Budějovice , Tábor , Písek</span>
+        <br>
+    
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-26978704">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-26978704/">Provozní zámečník</a></h3>
+    
+    <span class="job-item__place job-item__place--city">České Budějovice</span>
+        <br>
+    
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27029785">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27029785/">Traťový dělník</a></h3>
+    
+    <span class="job-item__place job-item__place--city">České Budějovice</span>
         <br>
     
     
@@ -494,7 +498,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

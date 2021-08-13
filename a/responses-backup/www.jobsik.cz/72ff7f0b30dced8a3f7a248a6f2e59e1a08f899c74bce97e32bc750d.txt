@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -233,7 +237,7 @@ Telefonický kontakt viz výše ÚTERÝ 10:00 - 12:00 hod, ČTVRTEK 10:00 - 12:0
 
 <div class="job-item" id="job-27200593">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27200593/">Obráběč kovů / obsluha a programátor CNC strojů</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">aktivní nabídka</span>
     <span class="job-item__place job-item__place--city">Černošice - okres Praha-západ</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
     
@@ -261,7 +265,7 @@ Telefonický kontakt viz výše ÚTERÝ 10:00 - 12:00 hod, ČTVRTEK 10:00 - 12:0
 
 <div class="job-item" id="job-27221485">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27221485/">Seřizovač - Junior (od 25.000 Kč)</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Nymburk</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
 Brno</span><br>
@@ -276,7 +280,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27220493">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27220493/">Projektant elektro - junior (30 - 35.000 KČ)</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Praha   východ</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
 Brno</span><br>
@@ -305,7 +309,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27134517">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27134517/">Pracovník nábytkářské výroby</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Slaný</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ABZAKOVO spol.s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">110 - 130 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -317,12 +321,12 @@ Brno</span><br>
 
 
 
-<div class="job-item" id="job-27154632">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27154632/">Operátor linky Slaný</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
+<div class="job-item" id="job-27156235">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27156235/">Obsluha stroje - svoz zdarma - týden dovolené navíc - zálohy!</a></h2>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Slaný</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">ABZAKOVO spol.s.r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">166 Kč za hodinu</span> <span class="job-item__separator"></span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">ProJobEU s.r.o. - pobočka Liberec</span><br>
+    <span class="job-item__salary" title="Uvedený plat">25000 - 27000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -331,12 +335,12 @@ Brno</span><br>
 
 
 
-<div class="job-item" id="job-27156235">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27156235/">Obsluha stroje - svoz zdarma - týden dovolené navíc - zálohy!</a></h2>
-    <span class="job-item__date">včera</span>
+<div class="job-item" id="job-27160317">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27160317/">Strategický nákupčí pro elektro sortiment</a></h2>
+    <span class="job-item__date">aktivní nabídka</span>
     <span class="job-item__place job-item__place--city">Slaný</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">ProJobEU s.r.o. - pobočka Liberec</span><br>
-    <span class="job-item__salary" title="Uvedený plat">25000 - 27000 Kč za měsíc</span> <span class="job-item__separator"></span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
+    
         
         
     
@@ -580,7 +584,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

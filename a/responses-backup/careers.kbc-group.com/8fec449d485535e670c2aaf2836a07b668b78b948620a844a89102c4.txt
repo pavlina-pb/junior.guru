@@ -20,7 +20,7 @@
             <meta name="robots" content="noindex" />
                 <meta property="og:title" content="Procesní manažer/ka do ČSOB Penzijní společnosti" />
                 <meta property="og:description" content="Procesní manažer/ka do ČSOB Penzijní společnosti" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/4797c5e5/6a2a2cde-24d3-4f4e-a759-f.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/4797c5e5/6827af58-bb92-4d93-9b7f-4.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/4797c5e5/a87d8eb3-404f-479e-8846-6.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/4797c5e5/af4f537c-dcbf-48d5-9a23-3.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/header1.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=38368dc7" />
@@ -370,7 +370,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '7ef7a782-928f-4b92-ae1b-eabe2ce037f4';
+				var ctid = '35c94ad6-4b8a-44ba-ac8f-b9f83db98c9c';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2644509402';
 				var landing = document.location.href;
 				var brand = 'CSOB';
@@ -435,7 +435,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "b32bdf37-c340-42d2-9bcb-58511b713da3"
+						"X-CSRF-Token" : "53eae2ad-9e40-44eb-a96d-8e3737e47cf1"
 					}
 				});
 			//]]>
@@ -447,7 +447,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=376829541"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1610856880"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
