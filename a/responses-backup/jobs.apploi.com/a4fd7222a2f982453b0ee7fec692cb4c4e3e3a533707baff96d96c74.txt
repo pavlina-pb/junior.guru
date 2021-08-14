@@ -58,7 +58,7 @@
 
     <!-- Send deviceType to client-->
     <script type="text/javascript">
-      const deviceType = {"isMobile":null,"isPhone":null,"isTablet":null}
+      const deviceType = {"isMobile":true,"isPhone":true,"isTablet":null}
     </script>
     <!-- Send if interview guide logic should activate or not-->
     <script type="text/javascript">

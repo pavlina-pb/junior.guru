@@ -88,6 +88,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -246,10 +250,8 @@ Jaké znalosti a zkušenosti u nás zúročíš?<br />
 
 
                         <p><span class="note">Kontaktní osoba:</span><br>
-                                        <i class="glyphicon glyphicon-user"></i> <strong>Jana Bednaříková</strong>
+                                        <i class="glyphicon glyphicon-user"></i> <strong>Lenka Belancová</strong>
                                         <br>
-                                        <i class="glyphicon glyphicon-phone"></i> Mobil:
-                                        <strong>+420 778 485 366</strong><br>
 
 
                                             <i class="glyphicon glyphicon-envelope"></i> E-mail:
@@ -509,7 +511,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

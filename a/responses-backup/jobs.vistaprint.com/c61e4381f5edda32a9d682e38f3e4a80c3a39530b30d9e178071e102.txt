@@ -798,7 +798,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "1bd40e75-d476-49eb-a113-9427d87eb14b"
+						"X-CSRF-Token" : "5e3d8b04-3e6d-43a9-86d5-1fb1367e99e2"
 					}
 				});
 			//]]>
@@ -820,7 +820,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '9d577d61-e80b-4e0f-a50d-1a87e03d337f';
+				var ctid = '664a0c14-c3be-4a19-95ca-7afe4fbbaebf';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2671761370';
 				var landing = document.location.href;
 				var brand = 'Cimpress-Technology';
@@ -858,7 +858,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=1727288431"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=315104374"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
