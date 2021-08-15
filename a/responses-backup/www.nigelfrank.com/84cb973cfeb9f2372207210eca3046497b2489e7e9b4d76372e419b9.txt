@@ -83,9 +83,12 @@ Within this role you will be working within a small team, developing web applica
 
 
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
+    
 
-
-<body class='body-job-view banner-on   '>
+<body class='body-job-view banner-on  touch-device '>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
@@ -270,7 +273,7 @@ Within this role you will be working within a small team, developing web applica
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-132 current_page_item current_page_parent menu-item-142 active"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -412,7 +415,7 @@ Within this role you will be working within a small team, developing web applica
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="xpwacMQa9iMEdLxxJaJHhhkHUUPLhufsmSfvM11A">        <input name="jobs[]" type="hidden" value="383787">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="6HB5IP3NywTBzbVpbQMsFPMYBY2rHwPNLvMowr0f">        <input name="jobs[]" type="hidden" value="383787">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -516,7 +519,7 @@ Within this role you will be working within a small team, developing web applica
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/383787?_token=xpwacMQa9iMEdLxxJaJHhhkHUUPLhufsmSfvM11A">
+                                      data-job-id="/saved-jobs/add/383787?_token=6HB5IP3NywTBzbVpbQMsFPMYBY2rHwPNLvMowr0f">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -559,7 +562,7 @@ Within this role you will be working within a small team, developing web applica
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/383787?_token=xpwacMQa9iMEdLxxJaJHhhkHUUPLhufsmSfvM11A">
+                                              data-job-id="/saved-jobs/add/383787?_token=6HB5IP3NywTBzbVpbQMsFPMYBY2rHwPNLvMowr0f">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -578,7 +581,7 @@ Within this role you will be working within a small team, developing web applica
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="xpwacMQa9iMEdLxxJaJHhhkHUUPLhufsmSfvM11A">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="6HB5IP3NywTBzbVpbQMsFPMYBY2rHwPNLvMowr0f">
 
 
 
