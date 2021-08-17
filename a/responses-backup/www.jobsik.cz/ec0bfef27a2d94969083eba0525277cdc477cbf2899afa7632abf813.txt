@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -215,20 +211,6 @@ Kontaktujte emailem, telefonicky nebo osobně PO-PÁ od 12.00 do 15:00.
 
 
 
-<div class="job-item" id="job-27200289">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27200289/">(Neobyčejný) operátor výroby</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
-    <span class="job-item__place job-item__place--city">Rožnov pod Radhoštěm</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">Randstad HR Solutions s.r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">23000 - 38500 Kč/měsíc</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27217215">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27217215/">Operátor/ka výroby – až 27 000 Kč měsíčně</a></h2>
     <span class="job-item__date">před týdnem</span>
@@ -259,7 +241,7 @@ Kontaktujte emailem, telefonicky nebo osobně PO-PÁ od 12.00 do 15:00.
 
 <div class="job-item" id="job-27224309">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27224309/">Operátor/ka výroby v Rožnově</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Rožnov pod Radhoštěm</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Randstad HR Solutions s.r.o.</span><br>
     
@@ -273,7 +255,7 @@ Kontaktujte emailem, telefonicky nebo osobně PO-PÁ od 12.00 do 15:00.
 
 <div class="job-item" id="job-27111955">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27111955/">Operátor výroby - obsluha linek</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Kunovice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Orkla Foods Česko a Slovensko a.s.
 Slovácká Fruta Kunovice</span><br>
@@ -330,10 +312,24 @@ Slovácká Fruta Kunovice</span><br>
 
 <div class="job-item" id="job-27221458">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27221458/">Pomocný dělník do výroby Zlín-Lípa</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Zlín</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PRAGMA personální agentura s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">130 Kč za hodinu</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27224181">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27224181/">Spěchá Mistr výroby - Uherské Hradiště</a></h2>
+    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__place job-item__place--city">Uherské Hradiště</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
+    
         
         
     
@@ -577,7 +573,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

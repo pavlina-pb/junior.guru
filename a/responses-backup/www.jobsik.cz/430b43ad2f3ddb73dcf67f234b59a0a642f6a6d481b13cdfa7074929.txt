@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -334,6 +338,18 @@ V případě zájmu mi zašlete prosím Vaše CV. Obratem se s Vámi spojíme a 
                         <div class="sidepanel__box sidepanel__box--top">
                             <h2 class="sidepanel__title-main">Našli jsme podobné nabídky</h2>
 
+<div class="job-item" id="job-27233073">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27233073/">Obsluha čerpací stanice - pokladní</a></h3>
+    
+    <span class="job-item__place job-item__place--city">Říčany</span>
+        <br>
+    
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-26903867">
     <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-26903867/">Elektrikář</a></h3>
     
@@ -360,18 +376,6 @@ V případě zájmu mi zašlete prosím Vaše CV. Obratem se s Vámi spojíme a 
 
 <div class="job-item" id="job-27170591">
     <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27170591/">Pracovník zákaznického centra – elektronika (pasivní linka)</a></h3>
-    
-    <span class="job-item__place job-item__place--city">Říčany</span>
-        <br>
-    
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27178282">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27178282/">Zástupce vedoucího prodejny - Říčany u Prahy</a></h3>
     
     <span class="job-item__place job-item__place--city">Říčany</span>
         <br>
@@ -501,7 +505,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
