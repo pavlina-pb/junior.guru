@@ -708,7 +708,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "8cc0f280-1f3e-4158-b700-13b154bdaa07"
+						"X-CSRF-Token" : "53ca337c-efc7-403a-ad64-2d082c6dc876"
 					}
 				});
 			//]]>
@@ -758,7 +758,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "8cc0f280-1f3e-4158-b700-13b154bdaa07"
+						"X-CSRF-Token" : "53ca337c-efc7-403a-ad64-2d082c6dc876"
 					}
 				});
 			//]]>
@@ -779,7 +779,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '36c8249e-432c-41ae-b74a-76068619d6db';
+				var ctid = '269055ee-5a7c-41ea-be7d-cbdb3469367f';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2665975315';
 				var landing = document.location.href;
 				var brand = 'csas';

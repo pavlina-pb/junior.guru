@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" ng-app="apply-form">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="At Hybrid Heroes we&#039;re looking for a Junior Frontend Developer to help us build outstanding cross platform mobile apps." />
+    <meta name="homerun:company_id" content="com_x7IobmodI7Ss7MA5HHry" />
+    <meta name="homerun:job_id" content="job_JL5m5zzKsjFE6qtnVDw9" />
+    <meta property="og:title" content="Junior Frontend Developer (w/m/d)" />
+    <meta property="og:site_name" content="Hybrid Heroes"/>
+    <meta property="og:url" content="https://hybridheroes.homerun.co/junior-frontend-developer/en" />
+    <meta property="og:description" content="At Hybrid Heroes we&#039;re looking for a Junior Frontend Developer to help us build outstanding cross platform mobile apps." />
+    <meta property="fb:app_id" content="141328795925138" />
+    <meta property="og:type" content="homerunhr:job">
+    <meta property="og:image" content="https://d2zr9w65gdacs9.cloudfront.net/58590/microsoftteams-image-11616494011full-width.png" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Junior Frontend Developer (w/m/d)">
+    <meta name="twitter:description" content="At Hybrid Heroes we&#039;re looking for a Junior Frontend Developer to help us build outstanding cross platform mobile apps.">
+    <meta name="twitter:image:src" content="https://d2zr9w65gdacs9.cloudfront.net/58590/microsoftteams-image-11616494011full-width.png">
+        <title>Junior Frontend Developer (w/m/d) - Hybrid Heroes</title>
+    <base href="/">
+
+    <link rel="canonical" href="//jobs.hybridheroes.de/junior-frontend-developer/en/apply" />
+
+          <link rel="alternate" hreflang="en" href="//jobs.hybridheroes.de/junior-frontend-developer/en/apply" />
+    
+    <link rel="alternate" hreflang="x-default" href="//jobs.hybridheroes.de/junior-frontend-developer/en/apply">
+
+    <link rel="shortcut icon" href="/favicon.ico?v=1629318979" />
+          <link href="//fonts.googleapis.com/css?family=Inter:400,800" rel="stylesheet" type="text/css">
+    
+    <link rel="stylesheet" href="https://d3s4clg74dg0wr.cloudfront.net/apply-form/v3/screen.css?id=f52a15abe0ec4edd737d">
+
+    <style media="screen">
+      [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak, .translate-cloak {
+      display: none !important;
+      }
+
+      [ng-view] {
+      overflow: hidden;
+      position: relative;
+      }
+
+      .apply-form {
+        position: relative;
+        z-index: 1;
+      }
+    </style>
+
+    <script src="https://d3s4clg74dg0wr.cloudfront.net/js/modernizr.custom.20160125.js"></script>
+          <style>
+        .progressbar ul li:first-child,
+        .progressbar .fill-bar i,
+        .tab-controls .tab-control:not(i),
+        .apply-with-linkedin a:hover,
+        .profile-photo-box div .button:hover,
+        .answer-button.selected,
+        .answer-button .letter {
+          background-color: #0192fd !important;
+        }
+
+        .answer-button.selected .icon svg rect {
+          fill: #0192fd !important;
+        }
+
+        .apply-with-linkedin:hover,
+        .profile-photo-box div .button:hover {
+          border-color: #0192fd !important;
+        }
+
+        .apply-with-linkedin.loading-linkedin:hover {
+          border-color: #e5e6e4 !important;
+        }
+
+        .progressbar ul li:first-child a,
+        .progressbar .done a,
+        .progressbar .active a,
+        .tab-controls .tab-control {
+          color: rgba(255, 255, 255, 1) !important;
+        }
+      </style>
+
+              <style>
+          .nav-tabs > li.active > a:hover,
+          .apply-with-linkedin a:hover,
+          .profile-photo-box div .button:hover {
+            color: #fff;
+          }
+
+          .progressbar ul li:first-child a:hover,
+          .progressbar ul li.done a:hover,
+          .tab-controls .tab-control:hover span,
+          .file-drop .answer-button .overlay:hover {
+            background-color: rgba(255, 255, 255, .15) !important;
+          }
+
+          .tab-controls .tab-control.prev {
+            border-right: 1px solid rgba(255,255,255,0.3) !important;
+          }
+        </style>
+          
+
+
+    
+    
+    
+    
+    
+    
+    
+    <script>
+      dataLayer = [{"companyId":"com_x7IobmodI7Ss7MA5HHry","jobId":"job_JL5m5zzKsjFE6qtnVDw9","noCookies":"0"}];
+    </script>
+
+    
+    
+  </head>
+  <body
+    class=""
+    ng-cloak
+    ng-init='availableQuestions = [{"id":2019097,"vacancy_id":267522,"type":"text","position":0,"is_mandatory":false,"is_hidden":false,"settings":{"input_size":"large"},"created_at":"2021-03-22T20:39:04.000000Z","updated_at":"2021-03-23T09:49:59.000000Z","deleted_at":null,"localizations":[{"id":174041,"vacancy_question_id":2019097,"language_id":1,"title":"Motivational letter: Why do you want to work here?","options":null,"created_at":"2021-03-22T20:39:04.000000Z","updated_at":"2021-08-16T21:13:00.000000Z","deleted_at":null}]},{"id":2019106,"vacancy_id":267522,"type":"yes-no","position":1,"is_mandatory":true,"is_hidden":false,"settings":null,"created_at":"2021-03-22T22:49:08.000000Z","updated_at":"2021-03-23T09:49:59.000000Z","deleted_at":null,"localizations":[{"id":174050,"vacancy_question_id":2019106,"language_id":1,"title":"Do you have a computer science related degree?","options":null,"created_at":"2021-03-22T22:49:08.000000Z","updated_at":"2021-08-16T21:13:00.000000Z","deleted_at":null}]},{"id":2019107,"vacancy_id":267522,"type":"multiple-choice","position":2,"is_mandatory":true,"is_hidden":false,"settings":{"multiple_selection":false,"dropdown":true},"created_at":"2021-03-22T22:49:08.000000Z","updated_at":"2021-03-23T09:49:59.000000Z","deleted_at":null,"localizations":[{"id":174051,"vacancy_question_id":2019107,"language_id":1,"title":"How many years of relevant experience do you have?","options":["0-1","1-2","2-3","3+"],"created_at":"2021-03-22T22:49:08.000000Z","updated_at":"2021-08-16T21:13:00.000000Z","deleted_at":null}]},{"id":2019101,"vacancy_id":267522,"type":"yes-no","position":3,"is_mandatory":true,"is_hidden":false,"settings":null,"created_at":"2021-03-22T21:10:19.000000Z","updated_at":"2021-03-23T09:49:59.000000Z","deleted_at":null,"localizations":[{"id":174045,"vacancy_question_id":2019101,"language_id":1,"title":"Are you legally permitted to work in Germany?","options":null,"created_at":"2021-03-22T21:10:19.000000Z","updated_at":"2021-08-16T21:13:00.000000Z","deleted_at":null}]}]'
+    ng-class="{loading:submitting, done:submitted}"
+    ng-controller="ApplyController"
+  >
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KB5T73"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KB5T73');</script>
+    <!-- End Google Tag Manager -->
+
+        
+    <nav class="progressbar has-layout  questions " style="">
+      <span class="fill-bar"><i></i></span>
+      <ul class="nav nav-tabs" data-tabsnav="applyForm">
+                <li class="active"><a>1 Personal info</a></li>
+                              <li><a>2 Questions</a></li>
+                                          <li><a>3 Preview</a></li>
+                          <li><a>4 Submit</a></li>
+      </ul>
+              <a href="/junior-frontend-developer/en"
+           class="btn-back in-bar
+              light"
+        ></a>
+          </nav>
+
+          <a href="/junior-frontend-developer/en"
+         class="btn-back
+            
+            
+            "
+      ></a>
+    
+        <a href="mailto:?body=https://hybridheroes.homerun.co/junior-frontend-developer/en&subject=Junior Frontend Developer (w/m/d) at Hybrid Heroes" class="btn btn-default apply-later" ng-class="{'submitted': submitted}">Apply later: e-mail this link</a>
+    
+    <i class="vertical-aligner"></i>
+
+    <div class="apply-form-container">
+
+              <figure class="logo">
+          <img src="https://d2zr9w65gdacs9.cloudfront.net/58590/thumbnail1616164169logo.png" alt="Hybrid Heroes" />
+        </figure>
+      
+      <!--[if IE]>
+      <div class="errors" ng-hide="errors.length" ng-cloak>
+        <h4>You are using an outdated browser.</h4>
+        <p>This form may not function well in your browser. Please upgrade to a modern browser.</p>
+      </div>
+      <![endif]-->
+
+      <div class="errors" ng-show="trialLimitError && !submitting" ng-cloak>
+        <p>Applying for this job is currently not possible.</p>
+      </div>
+
+      <div class="errors" ng-show="errors.length && !submitting" ng-cloak>
+        <h4>Please check your:</h4>
+        <ul>
+          <li ng-repeat="err in errors">{{err.error}}</li>
+        </ul>
+      </div>
+
+      <form novalidate class="tab-content apply-form show  has-logo" name="applyForm" method="post" data-tabcontent="applyForm" ng-submit="apply()">
+
+
+        <!-- ************************| Tab 1 |************************ -->
+
+        <div class="tab-pane active">
+
+  <div class="tab-transition-container">
+    <div class="center-container" ng-class="{'submitted': submitted}">
+
+      <h1>Junior Frontend Developer (w/m/d)</h1>
+      <p class="intro">Let us get to know you a bit better by sharing your basic info.</p>
+
+      
+      <ul class="form-layout">
+        <li class="input-half">
+          <label data-label="first_name">First name *</label>
+          <input type="text" name="first_name" ng-model="formData.first_name" ng-init="formData.first_name=''" />
+        </li>
+
+        <li class="input-half">
+          <label data-label="last_name">Last name *</label>
+          <input type="text" name="last_name" ng-model="formData.last_name" ng-init="formData.last_name=''" />
+        </li>
+
+        <li>
+          <label data-label="email">E-mail address *</label>
+          <input type="email" name="email" ng-model="formData.email" ng-init="formData.email=''" />
+        </li>
+
+        
+        
+        
+        
+        
+        
+        <li class="no-input">
+          <input type="text" name="text" tabindex="-1" autocomplete="no" ng-model="formData.body" />
+        </li>
+      </ul>
+
+      
+      <ul class="form-layout">
+                                                      </ul>
+
+              
+        
+                  <div class="resume-files">
+            <h3>
+              Upload your resume
+                              <span class="mandatory">*</span>
+                          </h3>
+            <div class="question-container" data-section="resume-pdf">
+              <!-- This is conditional as the apply form editor shows a preview that doesnt have angular -->
+  <p
+    ng-show="uploadError['resume']"
+    style="color:red;margin-top:10px;font-size:14px !important;"
+  >
+    {{ uploadError['resume'] }}
+  </p>
+
+<div
+  class="preview-attachment"
+  ng-repeat="f in formData.files | filter:{type:'resume'}"
+  ng-class="f.status"
+>
+  {{f.name}}
+  <i class="hr-loader small processing"></i>
+  <i class="icon-filled-check-4"></i>
+  <i class="icon-filled-delete-2-1"></i>
+  <i class="remove" ng-click="removeFile(f)">remove </i>
+</div>
+
+<div class="file-drop" data-section="files" file-drop="uploadFile(files, 'resume', false)">
+  <input
+    type="file"
+    id="resume_files"
+    multiple
+    file-change="uploadFile(files, 'resume')"
+  />
+  <p>Drop your files here or...</p>
+  <div class="answer-button selected" ng-click="openFilePicker('resume_files')">
+    <div class="overlay">
+      Select files    </div>
+  </div>
+</div>
+            </div>
+          </div>
+        
+      
+          </div>
+
+    <footer class="tab-controls" data-tabcontrols="applyForm">
+                        <button class="tab-control full-width next" data-gotoindex="1">
+            <span>Next: Questions</span>
+          </button>
+                  </footer>
+
+  </div>
+</div>
+
+      
+        <!-- ************************| Tab 2 |************************ -->
+
+                  <div class="tab-pane inactive">
+
+            <div class="tab-transition-container">
+              <div class="center-container" ng-class="{'submitted': submitted}">
+                <h1>Questions</h1>
+                <p class="intro">Here are some questions for you.</p>
+
+                                  <div class="question-container">
+                    <p class="question">
+  Motivational letter: Why do you want to work here?
+</p>
+<textarea
+    name="questions[2019097]"
+    class="short"
+    ng-model="formData.questions[2019097]"
+    ng-init="formData.questions[2019097]=''"
+  ></textarea>
+                  </div>
+                                  <div class="question-container">
+                    <p class="question">
+  Do you have a computer science related degree? *
+</p>
+<div
+  class="button-grid yes-no"
+  ng-init="formData.questions[2019106]=''"
+>
+  <div class="button-row">
+          <div
+        class="answer-button yes-no button-cell"
+        name="questions[2019106]"
+        ng-class="{ selected: isAnswerSelected(2019106, 'yes') }"
+        ng-click="selectAnswer(2019106, 'yes')"
+      >
+        <span>Yes<span>
+      </div>
+          <div
+        class="answer-button yes-no button-cell"
+        name="questions[2019106]"
+        ng-class="{ selected: isAnswerSelected(2019106, 'no') }"
+        ng-click="selectAnswer(2019106, 'no')"
+      >
+        <span>No<span>
+      </div>
+      </div>
+</div>
+                  </div>
+                                  <div class="question-container">
+                    <p class="question">
+  How many years of relevant experience do you have? *
+</p>
+<select
+    class="dropdown"
+    name="questions[2019107]"
+    placeholder="Choose an option"
+    ng-required="required"
+    ng-model="formData.questions[2019107]"
+    ng-init="formData.questions[2019107]=null"
+    ng-required="required"
+  >
+    <option class="placeholder" value="">
+      Choose an option
+    </option>
+          <option value="0-1">0-1</option>
+          <option value="1-2">1-2</option>
+          <option value="2-3">2-3</option>
+          <option value="3+">3+</option>
+      </select>
+                  </div>
+                                  <div class="question-container">
+                    <p class="question">
+  Are you legally permitted to work in Germany? *
+</p>
+<div
+  class="button-grid yes-no"
+  ng-init="formData.questions[2019101]=''"
+>
+  <div class="button-row">
+          <div
+        class="answer-button yes-no button-cell"
+        name="questions[2019101]"
+        ng-class="{ selected: isAnswerSelected(2019101, 'yes') }"
+        ng-click="selectAnswer(2019101, 'yes')"
+      >
+        <span>Yes<span>
+      </div>
+          <div
+        class="answer-button yes-no button-cell"
+        name="questions[2019101]"
+        ng-class="{ selected: isAnswerSelected(2019101, 'no') }"
+        ng-click="selectAnswer(2019101, 'no')"
+      >
+        <span>No<span>
+      </div>
+      </div>
+</div>
+                  </div>
+                
+              </div>
+            </div>
+
+            <footer class="tab-controls" data-tabcontrols="applyForm">
+              <button class="tab-control prev" data-gotoindex="0"><span></span></button>
+                              <button class="tab-control next" data-gotoindex="2">
+                  <span>Next: Preview</span>
+                </button>
+                          </footer>
+
+          </div>
+        
+
+        <!-- ************************| Tab 3 |************************ -->
+
+        
+        <!-- ************************| Tab 4 |************************ -->
+
+        <div class="tab-pane inactive preview-pane">
+
+          <div class="tab-transition-container">
+            <div class="center-container" ng-class="{'submitted': submitted}">
+
+              <h1>Preview</h1>
+              <p class="intro">Is the information you have submitted correct?</p>
+
+              <article class="preview-block">
+                <header class="preview-header">
+                  <h2>Personal information</h2>
+                  <a href="javascript:void(0);" class="button btn-light btn-change" data-gototab="0" data-scrolltosection="top">change</a>
+                </header>
+
+                <div class="preview-content">
+                  <div class="personal-info" ng-class="{'no-photo': !formData.photo}">
+                    <figure class="avatar" ng-style="{'background-image':'url(' + formData.photo + ')'}"></figure>
+                    <div class="meta">
+                      <h4 class="name">{{formData.first_name}} {{formData.last_name}}</h4>
+                      <p class="interface">
+                        {{formData.city ? formData.city : ''}}{{formData.city && formData.country ? ',' : ''}}
+                        {{formData.country}}
+                      </p>
+                    </div>
+                  </div>
+
+                  <dl class="link-list">
+                    
+                    
+                    
+                    
+                                      </dl>
+                </div>
+              </article>
+
+              
+                
+                
+                                  <article class="preview-block">
+                    <header class="preview-header">
+                      <h2>Resume</h2>
+                      <a href="javascript:void(0);" class="button btn-light btn-change" data-gototab="0" data-scrolltosection="resume-pdf">change</a>
+                    </header>
+
+                    <div
+                      ng-if="!hasFiles('resume') "
+                      class="preview-content"
+                    >
+                      <p class="interface">
+                        <span class="no-answer">no answer</span>
+                      </p>
+                    </div>
+                    <div class="preview-attachment" ng-repeat="f in formData.files | filter:{type:'resume', status:'success'}">
+                      {{f.name}}
+                    </div>
+                  </article>
+                
+              
+                              <article class="preview-block">
+                  <header class="preview-header">
+                    <h2>Questions</h2>
+                    <a href="javascript:void(0);" class="button btn-light btn-change" data-gototab="1" data-scrolltosection="top">change</a>
+                  </header>
+
+                  <div class="preview-content">
+                    <div>
+      <div class="preview-question">
+      <p class="question">
+        Motivational letter: Why do you want to work here?
+      </p>
+
+      <p ng-if="!isAnswered(2019097)">
+        <span class="no-answer">no answer</span>
+      </p>
+
+      <div ng-if="isAnswered(2019097)">
+                              <span class="answer whitespace-text">{{ formData.questions[2019097] }}</span>
+                  </div>
+    </div>
+      <div class="preview-question">
+      <p class="question">
+        Do you have a computer science related degree? *
+      </p>
+
+      <p ng-if="!isAnswered(2019106)">
+        <span class="no-answer">no answer</span>
+      </p>
+
+      <div ng-if="isAnswered(2019106)">
+                    <div
+              class="answer-button yes-no answer"
+              ng-if="formData.questions[2019106] === 'yes'"
+            >
+              <div class="button-text">
+                Yes              </div>
+            </div>
+            <div
+              class="answer-button yes-no answer"
+              ng-if="formData.questions[2019106] === 'no'"
+            >
+              <div class="button-text">
+                No              </div>
+            </div>
+                  </div>
+    </div>
+      <div class="preview-question">
+      <p class="question">
+        How many years of relevant experience do you have? *
+      </p>
+
+      <p ng-if="!isAnswered(2019107)">
+        <span class="no-answer">no answer</span>
+      </p>
+
+      <div ng-if="isAnswered(2019107)">
+                                  <div class="answer-button answer">
+                <div class="button-text">
+                  {{ formData.questions[2019107] }}
+                </div>
+              </div>
+                              </div>
+    </div>
+      <div class="preview-question">
+      <p class="question">
+        Are you legally permitted to work in Germany? *
+      </p>
+
+      <p ng-if="!isAnswered(2019101)">
+        <span class="no-answer">no answer</span>
+      </p>
+
+      <div ng-if="isAnswered(2019101)">
+                    <div
+              class="answer-button yes-no answer"
+              ng-if="formData.questions[2019101] === 'yes'"
+            >
+              <div class="button-text">
+                Yes              </div>
+            </div>
+            <div
+              class="answer-button yes-no answer"
+              ng-if="formData.questions[2019101] === 'no'"
+            >
+              <div class="button-text">
+                No              </div>
+            </div>
+                  </div>
+    </div>
+  </div>
+                  </div>
+                </article>
+              
+              
+                          </div>
+          </div>
+
+          <footer class="tab-controls" data-tabcontrols="applyForm">
+                          <button class="tab-control prev" data-gotoindex="1"><span></span></button>
+                                      <button type="submit" class="tab-control next">
+                <span>Submit your application</span>
+              </button>
+                      </footer>
+
+        </div>
+
+      
+        <!-- ************************| Tab 5 |************************ -->
+
+        <div class="tab-pane inactive">
+
+          <div class="tab-transition-container">
+            <div class="center-container submit-container " ng-class="{'has-content': submitting || errors.length, 'submitted': submitted}">
+
+              <div ng-show="submitted">
+                <h1>Your application<br> has been submitted!</h1>
+                <p class="intro">Expect a response shortly after we have reviewed your application.</p>
+              </div>
+
+              <i class="hr-loader small mobile-submit-loader" ng-show="submitting"></i>
+
+              <div class="mobile-errors" ng-show="errors.length && !submitting">
+                <h4>Please check your:</h4>
+                <ul>
+                  <li ng-repeat="err in errors">{{err.error}}</li>
+                </ul>
+              </div>
+
+            </div>
+          </div>
+
+                      <footer class="tab-controls" data-tabcontrols="applyForm">
+              <a href="/junior-frontend-developer/en" class="tab-control done-link">Go back to job opening</a>
+            </footer>
+          
+        </div>
+
+        <div class="mobile-submit tab-controls">
+          
+                      <button type="submit" class="tab-control next">
+                            <span>Submit your application</span>
+                          </button>
+                  </div>
+
+      </form>
+
+      <i class="hr-loader small submit-loader"></i>
+
+      <div class="homerun-logo
+            
+            "
+      >
+                  <a href="https://www.homerun.co/?utm_source=hra&utm_medium=org&utm_campaign=58590&utm_content=acq" target="_blank"><span>Hiring with Homerun</span></a>
+              </div>
+    </div>
+
+    
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-sanitize.min.js"></script>
+    <script
+      src="https://browser.sentry-cdn.com/5.27.2/bundle.min.js"
+      integrity="sha384-+69fdGw+g5z0JJXjw46U9Ls/d9Y4Zi6KUlCcub+qIWsUoIlyimCujtv+EnTTHPTD"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://browser.sentry-cdn.com/5.27.2/angular.min.js"
+      integrity="sha384-GeYI8l+CNFIhNiXyebqMrEKZWkPnlonSxVDdOwZ6TxZdGKtOHJ6nWqKdDoPepxnZ"
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="https://d3s4clg74dg0wr.cloudfront.net/apply-form/v3/main.js?id=6a1b4215ac0f9840c9f2"></script>
+
+    
+    
+    
+    
+  </body>
+</html>
