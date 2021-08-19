@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -221,7 +217,7 @@
 
 <div class="job-item" id="job-26658916">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658916/">Obchodník s exklusivním zastoupením až 70000Kč</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Zlín , Uherské Hradiště</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000.kč + náhrada za automobil</span> <span class="job-item__separator"></span>
@@ -263,7 +259,7 @@
 
 <div class="job-item" id="job-27239803">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27239803/">Jednorázová brigáda v Uherském Hradišti ve dnech 22.8 –⁠ 23.8</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Uherské Hradiště</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
     
@@ -277,7 +273,7 @@
 
 <div class="job-item" id="job-27055252">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27055252/">Technický specialista</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Huštěnovice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Moreau Agri, spol. s r.o.</span><br>
     
@@ -291,7 +287,7 @@
 
 <div class="job-item" id="job-27071073">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27071073/">Servisní technik Huštěnovice</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Huštěnovice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Moreau Agri, spol. s r.o.</span><br>
     
@@ -333,7 +329,7 @@
 
 <div class="job-item" id="job-27101718">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27101718/">Technicko - obchodní manager</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Huštěnovice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Moreau Agri, spol. s r.o.</span><br>
     
@@ -580,7 +576,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

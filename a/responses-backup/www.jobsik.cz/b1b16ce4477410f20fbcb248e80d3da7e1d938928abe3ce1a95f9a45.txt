@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -219,7 +215,7 @@ Kontakt: emailem, telefonicky - 7:00 - 15:00.<br />
 
 <div class="job-item" id="job-27225311">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27225311/">Seřizovač / Programátor</a></h2>
-    <span class="job-item__date">před 6 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Tábor</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">FreeCon s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">30000 - 36000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -233,7 +229,7 @@ Kontakt: emailem, telefonicky - 7:00 - 15:00.<br />
 
 <div class="job-item" id="job-26658919">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658919/">Obchodní zástupce s exklus. zastoupením v regionu až 70000Kč</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">České Budějovice , Tábor , Písek</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000kč + náhrada za vlastní automobil</span> <span class="job-item__separator"></span>
@@ -261,7 +257,7 @@ Kontakt: emailem, telefonicky - 7:00 - 15:00.<br />
 
 <div class="job-item" id="job-27105378">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27105378/">Skladník / montážní (Tábor)</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Tábor</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ASKO - NÁBYTEK, spol.s r.o. </span><br>
     
@@ -275,7 +271,7 @@ Kontakt: emailem, telefonicky - 7:00 - 15:00.<br />
 
 <div class="job-item" id="job-27145634">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27145634/">Prodejce/prodejkyně náhradních dílů - řidič/ka (Tábor)</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Tábor</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Auto Kelly a.s.</span><br>
     
@@ -317,7 +313,7 @@ Kontakt: emailem, telefonicky - 7:00 - 15:00.<br />
 
 <div class="job-item" id="job-27225305">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27225305/">Obsluha CNC strojů (soustru/frézka)</a></h2>
-    <span class="job-item__date">před 6 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Tábor</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">FreeCon s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">24000 - 30000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -331,7 +327,7 @@ Kontakt: emailem, telefonicky - 7:00 - 15:00.<br />
 
 <div class="job-item" id="job-27225360">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27225360/">Tábor u nemocnice: prodavač/ka - pokladní</a></h2>
-    <span class="job-item__date">před 6 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Tábor</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">BILLA, spol. s r. o.</span><br>
     
@@ -345,7 +341,7 @@ Kontakt: emailem, telefonicky - 7:00 - 15:00.<br />
 
 <div class="job-item" id="job-27186706">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27186706/">CNC operátor/programátor/ohraňovací lis,frézar/sustružník/laser</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Bayern, Baden Württemberg, Sachsen, Brandenburg, e</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Maximus Personaldienstleistungen GmbH</span><br>
     <span class="job-item__salary" title="Uvedený plat">2400 - 3000 EUR za měsíc</span> <span class="job-item__separator"></span>
@@ -592,7 +588,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
