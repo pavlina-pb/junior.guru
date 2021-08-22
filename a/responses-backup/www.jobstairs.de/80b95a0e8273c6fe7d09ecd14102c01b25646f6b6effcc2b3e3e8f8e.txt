@@ -55,7 +55,7 @@
             var COMPLETION_URL = '//api.jobstairs.de/v2/search/completion/';
             var JOBAD_URL = '//api.jobstairs.de/v2/jobs';
             var GEOFEED_URL = '//api.jobstairs.de/v2/search/geofeed.json';
-            var DEVICE_IS_IOS = true;
+            var DEVICE_IS_IOS = false;
             var CONFIG_JOB_BOARD = '/js/jobboard.config.production.json';
             var p;
             //Cookie Consent
@@ -638,7 +638,7 @@
                                         <li><a href="/de/unternehmen/tkelevator">TK Elevator</a></li>
                                         <li><a href="/de/unternehmen/vetter">Vetter Pharma-Fertigung GmbH & Co. KG </a></li>
                                         <li><a href="/de/unternehmen/zffriedrichshafen">ZF Friedrichshafen AG</a></li>
-                                        <li><a href="/de/unternehmen/muz">milch & zucker</a></li>
+                                        <li><a href="/de/unternehmen/milchundzucker">milch & zucker</a></li>
                                         <li><a href="/de/unternehmen/thyssenkrupp">thyssenkrupp</a></li>
                                 </ul>
         </div>
