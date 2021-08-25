@@ -113,7 +113,14 @@
             </ul>
         </nav>
     </div>
-</header><div id="content" class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">HIL Tester  (34-38.000 Kč)</li></ul>                        <div class="row">
+</header><link rel="stylesheet" href="/css_compiled/molecules/chat_bot.css" type="text/css">
+
+<div class="chat-bot-wrapper">
+    <div class="chat-bot-button">
+        <div class="chat-bot-title">Poradíme Vám?</div>
+    </div>
+</div>
+<div id="content" class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">HIL Tester  (34-38.000 Kč)</li></ul>                        <div class="row">
 
                 <main id="detail" class="col-sm-8" itemscope itemtype="http://schema.org/JobPosting">
                     <div class="card card-content"><h1 class="no-margin-on-bottom" itemprop="title">HIL Tester  (34-38.000 Kč)</h1><h2 itemprop="hiringOrganization"><span>Advantage Consulting, s.r.o.</span></h2>
@@ -168,7 +175,7 @@
 * Občerstvení na pracovišti<br />
 * Firemní akce<br />
 <br />
-* Místo výkonu práce: Praha</div> <h4>Informace o náboru</h4><div class='details-desc'>Zaujala Vás tato nabídka práce? Pokud ano, zašlete svůj životopis na emailovou adresu <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8de8e3eae4e3e8e8ffe4e3eacdeceee7e2effea3eef7a3d9">[email&#160;protected]</a>ěšíme se na konzultaci s Vámi!</div><h4>Společnost, pro kterou je pozice obsazována</h4><div class='details-desc'><span itemprop='industry'>elektrotechnický průmysl</span><br /><br />Elektrotechnika</div></div> <div class='job-requirements details-section'><div class='subtitle-line'><h3>Požadavky na zaměstnance</h3></div> <h4>Pozici vyhovují uchazeči se vzděláním</h4><div class='details-desc'>středoškolské s maturitou<br />
+* Místo výkonu práce: Praha</div> <h4>Informace o náboru</h4><div class='details-desc'>Zaujala Vás tato nabídka práce? Pokud ano, zašlete svůj životopis na emailovou adresu <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c8ada6afa1a6adadbaa1a6af88a9aba2a7aabbe6abb2e69c">[email&#160;protected]</a>ěšíme se na konzultaci s Vámi!</div><h4>Společnost, pro kterou je pozice obsazována</h4><div class='details-desc'><span itemprop='industry'>elektrotechnický průmysl</span><br /><br />Elektrotechnika</div></div> <div class='job-requirements details-section'><div class='subtitle-line'><h3>Požadavky na zaměstnance</h3></div> <h4>Pozici vyhovují uchazeči se vzděláním</h4><div class='details-desc'>středoškolské s maturitou<br />
 nástavbové/vyšší odborné vzdělání<br />
 vysokoškolské I. stupně<br />
 vysokoškolské II. stupně</div><h4>Jazykové znalosti</h4><div class="details-desc">Anglický jazyk - Mírně pokročilý (B1)</div><h4>Osobnostní předpoklady a dovednosti</h4><div class='details-desc'>* SŠ/VŠ v oblasti elektrotechniky či informatiky<br />
@@ -469,7 +476,7 @@ Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jak�
 
 		    setTimeout(function(){ServeLoginAnchor()},800);
 
-dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4118328"],"content_type":"product"}});feedDataLayerDetail('O4118328','Custom design','d15','d15');
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4118328"],"content_type":"product"}});feedDataLayerDetail('O4118328','Custom design','d16','d16');
 
     })
 </script>
