@@ -117,7 +117,7 @@
 
 <div class="chat-bot-wrapper">
     <div class="chat-bot-button">
-        <div class="chat-bot-title">Poradíme Vám?</div>
+        <div class="chat-bot-title">Jak Vám poradíme?</div>
     </div>
 </div>
 <div id="content" class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">Front-end Developer - Webová aplikace (JS) (60 - 80.000 Kč)</li></ul><nav class="navbar navbar-inverse navbar-fixed-bottom persistent-bar visible-xs">
@@ -199,9 +199,9 @@ Jobs Contact Consulting, s.r.o., se sídlem v Brně, Slovákova 354/5, IČ:03055
                         </div>
                         
                         <div class="jc-footer-icons">
-                            <a href="/cdn-cgi/l/email-protection#9af3f4fcf5daf0f5f8e9f9f5f4eefbf9eeb4f9e0" title="mail">
+                            <a href="/cdn-cgi/l/email-protection#0861666e674862676a7b6b67667c696b7c266b72" title="mail">
                                 <img src="/customdesigns/JobsContactConsulting/2/4/images/ico_email.png" alt="E-mail" width="42" height="30">
-                                <span><span class="__cf_email__" data-cfemail="95fcfbf3fad5fffaf7e6f6fafbe1f4f6e1bbf6ef">[email&#160;protected]</span></span>
+                                <span><span class="__cf_email__" data-cfemail="d4bdbab2bb94bebbb6a7b7bbbaa0b5b7a0fab7ae">[email&#160;protected]</span></span>
                             </a>
                             <a href="tel:+420602642915">
                                 <img src="/customdesigns/JobsContactConsulting/2/4/images/ico_phone.png" alt="Telefon" width="22" height="30">
@@ -461,7 +461,7 @@ Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jak�
 
 		    setTimeout(function(){ServeLoginAnchor()},800);
 
-dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4140585"],"content_type":"product"}});feedDataLayerDetail('O4140585','Custom design','d13','d13');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4140585"],"content_type":"product"}});feedDataLayerDetail('O4140585','Custom design','d14','d14');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
 $('#offer-send-to-friend').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"E-mail","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-facebook').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Facebook","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-viber').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Viber","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
