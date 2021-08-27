@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -241,7 +237,7 @@ V případě zájmu prosím pošlete svůj životopis na adresu prace@hokami.cz.
 
 <div class="job-item" id="job-26658911">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658911/">Obchodní zástupce s exklus. zastoupením v regionu až 70000Kč</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Liberec , Jablonec nad Nisou, Česká Lípa</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000 kč + náklady na os. automobil</span> <span class="job-item__separator"></span>
@@ -269,7 +265,7 @@ V případě zájmu prosím pošlete svůj životopis na adresu prace@hokami.cz.
 
 <div class="job-item" id="job-26658967">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658967/">Manipulant ve skladu - skladník - Liberec</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Liberec</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">DU-MI CZ s.r.o. </span><br>
     
@@ -283,7 +279,7 @@ V případě zájmu prosím pošlete svůj životopis na adresu prace@hokami.cz.
 
 <div class="job-item" id="job-26659012">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26659012/">Řidič VZV (120Kč/hod čistého)</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Liberec</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">STEER AGENCY s.r.o. </span><br>
     <span class="job-item__salary" title="Uvedený plat">17 000 - 20 000</span> <span class="job-item__separator"></span>
@@ -325,7 +321,7 @@ V případě zájmu prosím pošlete svůj životopis na adresu prace@hokami.cz.
 
 <div class="job-item" id="job-26858964">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26858964/">Obraběč - Liberec</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Liberec</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">STEER AGENCY s.r.o. </span><br>
     <span class="job-item__salary" title="Uvedený plat">22000 - 24000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -339,7 +335,7 @@ V případě zájmu prosím pošlete svůj životopis na adresu prace@hokami.cz.
 
 <div class="job-item" id="job-26963722">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26963722/">Dělníci v elektrotechnice</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Liberec</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">STEER AGENCY s.r.o. </span><br>
     <span class="job-item__salary" title="Uvedený plat">19000 - 21500</span> <span class="job-item__separator"></span>
@@ -598,7 +594,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

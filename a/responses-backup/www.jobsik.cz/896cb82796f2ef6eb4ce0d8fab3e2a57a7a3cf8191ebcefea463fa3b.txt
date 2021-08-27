@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -201,9 +205,23 @@
                 <div class="similarJobs">
                     <h2 class="job-item-detail__title">Podobné nabídky práce</h2>
 
+<div class="job-item" id="job-27280270">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27280270/">Práce ve výrobě bez vstupního testování | ubytování v garsonkách</a></h2>
+    <span class="job-item__date">včera</span>
+    <span class="job-item__place job-item__place--city">Valašské Meziříčí</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Manuvia a. s.</span><br>
+    <span class="job-item__salary" title="Uvedený plat">24200 - 29000 Kč za měsíc</span> <span class="job-item__separator"></span>
+        
+        <span class="job-item__accommodation">S ubytováním</span> <span class="job-item__separator"></span>
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27247604">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27247604/">SW/web vývojář</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Rožnov pod Radhoštěm</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Recruitment Ostrava</span><br>
     <span class="job-item__salary" title="Uvedený plat">dohodou</span> <span class="job-item__separator"></span>
@@ -231,7 +249,7 @@
 
 <div class="job-item" id="job-26658916">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658916/">Obchodník s exklusivním zastoupením až 70000Kč</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Zlín , Uherské Hradiště</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000.kč + náhrada za automobil</span> <span class="job-item__separator"></span>
@@ -317,20 +335,6 @@
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27244675/">Elektrikář - Uherské Hradiště nebo celá ČR</a></h2>
     <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Uherské Hradiště nebo celá ČR</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27244676">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27244676/">Konstruktér</a></h2>
-    <span class="job-item__date">před týdnem</span>
-    <span class="job-item__place job-item__place--city">Uherské Hradiště</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
     
         
@@ -576,7 +580,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
