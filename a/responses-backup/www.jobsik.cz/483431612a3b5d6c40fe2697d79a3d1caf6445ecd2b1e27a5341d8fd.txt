@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -376,10 +372,10 @@ Klíčová slova: DWH, C#, .NET, DevOps, Azure, GitLab, Powershall, Itremote, re
 
 
 
-<div class="job-item" id="job-27247560">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27247560/">Junior C# programátor (30 - 45.000 Kč)</a></h3>
+<div class="job-item" id="job-27196888">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27196888/">Junior IT technik 32 000,- Kč až 42 000,- Kč</a></h3>
     
-    <span class="job-item__place job-item__place--city">Brno-město</span>
+    <span class="job-item__place job-item__place--city">Břeclav</span>
         <br>
     
     
@@ -388,10 +384,10 @@ Klíčová slova: DWH, C#, .NET, DevOps, Azure, GitLab, Powershall, Itremote, re
 
 
 
-<div class="job-item" id="job-27196888">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27196888/">Junior IT technik 32 000,- Kč až 42 000,- Kč</a></h3>
+<div class="job-item" id="job-27220511">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27220511/">Junior provozní manažer</a></h3>
     
-    <span class="job-item__place job-item__place--city">Břeclav</span>
+    <span class="job-item__place job-item__place--city">Vranovice</span>
         <br>
     
     
@@ -507,7 +503,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
