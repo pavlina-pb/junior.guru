@@ -1,0 +1,62 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+	<head>
+		<title>Error</title>
+	</head>
+	<body>
+        <form name="ctl00" method="post" action="ErrorWithNoUser.aspx" id="ctl00">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="302zpg/XILerk91TNo4WQ8IXi0pOq1mRAdiCGMytagqNa7L5xT8vZXUIC8WppoISE8cdqukib6gwDYJCSINyRDRciDX7EEdUfJNDLdgo1us4yeWaUFnc17LExAMSVW8Rs3RCUjdLO2yKnkPJJ19bD4jSxX7NPwCA620eWBM5jIJCLTPMfrVqyB67FhZ8pIY2Ga0z9Rt8wP3A0VS9grwuUs2HYco=" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D43B0451" />
+</div></form>
+            
+<asp:Panel>
+    <br />
+    <br />
+    <table id="Table1" cellspacing="1" cellpadding="10" width="450" align="center" bgcolor="#eaeaea" border="1">
+        <tr>
+            <td align="center" bgcolor="#eaeaea" style="font-family: Verdana;">
+                <h1 class="brdcrm" style="color: #ff0000; font-weight: bold; font-size: 1em;">
+                    An error occurred while processing your request
+                </h1>
+                <span align="center">
+                <p>
+                    <img src="images/icon/icon_warning_large.gif" align="absMiddle"></p>
+                <p>You may continue working in another area of the system by clicking on another tab or link above.</p>
+                <span align="center"><a href="javascript:history.back()" class="bodybold">Return to Previous Page</a></span>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <div align="center">
+        <font face="Verdana" size="2">
+					<span id="ctl01_Contact">
+						<font face="verdana" size="2">If this problem persists, please contact your system administrator and provide the following error details:</font>
+					</span>
+					<br />
+					<br />
+					<span id="ctl01_Label1">
+						<b><font face="verdana" size="2">Error:</font></b>
+					</span>
+                    <span id="ctl01_ActualError"></span><br />
+					<br />
+
+                    
+
+					<span id="ctl01_LabelDateTime">Saturday, August 28, 2021 9:32:30 PM</span></font>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+</asp:Panel>
+        </form>
+	</body>
+</html>
