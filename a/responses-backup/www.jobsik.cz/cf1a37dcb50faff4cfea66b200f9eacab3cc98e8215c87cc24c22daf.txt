@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -215,7 +219,7 @@ Prac. doba 6-14 hod.
 
 <div class="job-item" id="job-27281816">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27281816/">Výroba elektromotorů s náborovým příspěvkem nebo ubytováním</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Mohelnice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Manuvia Job, s.r.o. -  Pardubice</span><br>
     <span class="job-item__salary" title="Uvedený plat">24000 - 32000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -257,7 +261,7 @@ Prac. doba 6-14 hod.
 
 <div class="job-item" id="job-27193367">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27193367/">Elektromechanik Šternberk ubytování zajištěno</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">Šternberk</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PRAGMA personální agentura s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">218 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -285,7 +289,7 @@ Prac. doba 6-14 hod.
 
 <div class="job-item" id="job-27281818">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27281818/">Elektromechanik Mohelnice s náborovým příspěvkem nebo ubytováním</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Mohelnice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Manuvia Job, s.r.o. -  Pardubice</span><br>
     <span class="job-item__salary" title="Uvedený plat">23000 - 29800 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -299,7 +303,7 @@ Prac. doba 6-14 hod.
 
 <div class="job-item" id="job-27131948">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27131948/">Řidič VZV - Mohelnice - mzda až 28 000 Kč/ měsíčně</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Mohelnice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Well Pack s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">28000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -313,7 +317,7 @@ Prac. doba 6-14 hod.
 
 <div class="job-item" id="job-27159996">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27159996/">Pracovník příjmu autodílů, 130 Kč čist./hod., Mohelnice</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Mohelnice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Well Pack s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">130 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -327,7 +331,7 @@ Prac. doba 6-14 hod.
 
 <div class="job-item" id="job-27220595">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27220595/">Elektromechanik - údržbář - 2 směny</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">open recruitment s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">33000 - 53000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -574,7 +578,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

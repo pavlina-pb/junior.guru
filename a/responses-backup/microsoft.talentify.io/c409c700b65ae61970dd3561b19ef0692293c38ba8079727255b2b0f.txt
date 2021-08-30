@@ -104,6 +104,14 @@ Microsoft 365 (M365) is Microsoft's flagship productivity offering with millions
 </style>
 <![endif]-->
 <div class="cover-page job-matched">
+<div class="top-banner">
+<div class="title-section">
+<img src="/i/close-icon.svg" aria-hidden="true" alt="job closed">
+<h4>
+This job is no longer available. <strong><a href="https://microsoft.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=">See other jobs</a></strong>
+</h4>
+</div>
+</div>
 <header class="job-info">
 <a href="https://microsoft.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=">
 <img src="//static.talentflux.com/i/company/5f36812e191948.06401480microsoft.png" alt="company logo" class="company-logo">
@@ -125,28 +133,6 @@ Microsoft 365 (M365) is Microsoft's flagship productivity offering with millions
 <p>Pay: Competitive/hour</p>
 </div>
 </section>
-<section class="submit-area">
-<div class="scroll-helper-left"></div>
-<a rel="nofollow" href="https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668/apply?utm_source=&utm_medium=&utm_campaign=" class="submit-area__btn submit-btn">
-<img src="/i/check-icon.svg" alt="Search Button" width="16" height="16">
-I'm interested </a>
-<div class="submit-area__btn share-btn">
-<p>
-SHARE </p>
-<div class="share-icons">
-<a target="_blank" href="https://twitter.com/messages/compose?text=Hi,%20I%20think%20this%20job%20at%20Microsoft%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20%20https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668">
-<img class="share-icon" src="/i/twitter-icon.svg" alt="Share Twitter" width="32" height="32">
-</a>
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668">
-<img class="share-icon" src="/i/messenger-icon.svg" alt="Share Messenger" width="32" height="32">
-</a>
-<a target="_blank" href="https://wa.me/?text=Hi,%20I%20think%20this%20job%20at%20Microsoft%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668">
-<img class="share-icon" src="/i/whatsapp-icon.svg" alt="Share Whatsapp" width="32" height="32">
-</a>
-</div>
-</div>
-<div class="scroll-helper-right"></div>
-</section>
 </header>
 <section class="job-dropdowns-area">
 <div class="job-description-btn job-dropdown">
@@ -167,28 +153,6 @@ SHARE </p>
 </div>
 </section>
 <div class="job-info" style="margin-top: 3em">
-<section class="submit-area">
-<div class="scroll-helper-left"></div>
-<a rel="nofollow" href="https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668/apply?utm_source=&utm_medium=&utm_campaign=" class="submit-area__btn submit-btn">
- <img src="/i/check-icon.svg" alt="Search Button" width="16" height="16">
-I'm interested </a>
-<div class="submit-area__btn share-btn">
-<p>
-SHARE </p>
-<div class="share-icons">
-<a target="_blank" href="https://twitter.com/messages/compose?text=Hi,%20I%20think%20this%20job%20at%20Microsoft%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20%20https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668">
-<img class="share-icon" src="/i/twitter-icon.svg" alt="Share Twitter" width="32" height="32">
-</a>
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668">
-<img class="share-icon" src="/i/messenger-icon.svg" alt="Share Messenger" width="32" height="32">
-</a>
-<a target="_blank" href="https://wa.me/?text=Hi,%20I%20think%20this%20job%20at%20Microsoft%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668">
-<img class="share-icon" src="/i/whatsapp-icon.svg" alt="Share Whatsapp" width="32" height="32">
-</a>
-</div>
-</div>
-<div class="scroll-helper-right"></div>
-</section>
 </div>
 <p class="not-interested-text">Not interested?</p>
 <a href="https://microsoft.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=" class="show-near-jobs-btn">
@@ -220,8 +184,6 @@ SHARE </p>
         })
     });
 </script>
-<script type="application/ld+json">
-        {"@context":"http://schema.org","@type":"JobPosting","baseSalary":{"@type":"MonetaryAmount","currency":"USD","value":{"@type":"QuantitativeValue","unitText":"HOUR"}},"datePosted":"2021-08-16T10:33:00+00:00","description":"<p>Are you passionate about cloud technologies, and want to build the next generation technology which helps manage clouds? If so, the Special Clouds Team is looking for a Software Engineer who is obsessed with driving a modern engineering system that focuses on industry leading practices and tools to provide autonomous and efficient internet-scale cloud infrastructure. </p> <p> </p> <p>Microsoft 365 (M365) is Microsoft's flagship productivity offering with millions of users used by the largest organizations in the world (Fortune 500) as well as the public sector. We provide a distributed, scalable, highly reliable, compliant, and secure service for millions of people. </p> <p> </p> <p>Microsoft 365 (M365) is expanding its presence in new markets. Cyber-security is an emerging product area that reflects customers, and governments, demand for isolated and controlled cloud environments that continue to yield the heightened security and feature benefits of the public cloud. </p> <p> </p> <p>#M365Core</p> <br/><br/><strong>Responsibilities</strong> <p>We are looking for a strong engineer to build systems for the next generation autonomous cloud infrastructure which enable M365 Sovereign and Regulated cloud offerings. Microsoft is uniquely at the center of this opportunity, and we have the responsibility to advance the frontiers of compliance, regulation and security in the ever expanding digital world.</p> <p> </p> <p>This is a SWE role with opportunity for deep technical impact, product excellence and culture role model with opportunity for advancement. The role involves application of computer science fundamentals, problem solving and growth mindset to design and implement various systems and features for next generation cloud infrastructure.</p> <p> </p> <p>This role provides significant opportunity to make an impact at massive scale, learning, to experience product development at scale and significant mentoring & coaching opportunity with room to grow in IC/Managerial career path.</p> <br/><br/><strong>Qualifications</strong> <ul><li>You love this team\u2019s mission</li> <li>You love to work in the transformational cloud infrastructure and technologies</li> <li>Experience in working with distributed teams.</li> <li>Experience in working with highly complex software services at internet scale</li> <li>1+ years of experience in cloud and related technologies (e.g. Azure, AWS, K8S, etc.)</li> <li>Degree in CS or equivalent experience</li> </ul><p> </p> <p>If all of this sounds exciting to you, we would love to hear from you.</p> <p> </p> <p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the <a>Accommodation request form</a>. </p><p> </p> <p>Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work. </p> <br/><br/><strong>Benefits</strong> <strong>Benefits</strong> <br/><ul><li>Industry leading healthcare</li> <li>Savings and investments</li> <li>Giving programs</li> <li>Educational resources</li> <li>Maternity and paternity leave</li> <li>Opportunities to network and connect</li> <li>Discounts on products and services</li> <li>Generous time away</li> </ul><br/><br><p><i>By submitting your interest in this job, you agree to receive text notifications with additional steps to complete your job application. You will receive up to 6 messages from the number \"63879\". Message & data rates may apply. Please refer to our privacy policy for more information.</i></p>","employmentType":["FULL_TIME"],"hiringOrganization":{"@type":"Organization","name":"Microsoft","logo":"https://static.talentflux.com/i/company/5f36812e191948.06401480microsoft.png","sameAs":"https://www.microsoft.com/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"CZ","addressRegion":"Prague","addressLocality":"Prague","streetAddress":""}},"title":"Software Engineer","url":"https://microsoft.talentify.io/job/software-engineer-prague-prague-microsoft-1114668","jobBenefits":""}    </script>
 <script type="text/javascript">
 var openingId        = "14142989";
 var openingCode      = "8f4st";
@@ -231,5 +193,5 @@ var adsDelay         = 1;
 </script>
 <script async type='text/javascript' src='https://click.appcast.io/pixels/talentify1-8599.js?ent=376&jid=8f4st'></script>
 <script async type="text/javascript" src="/js/tck.js?v=21.08.27-100226"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"519820eb50","applicationID":"68456873","transactionName":"ZAcBNUFWD0tYURBZW11NIBRAQw5VFl0UVVpaDAROXEcEVlBcAw==","queueTime":0,"applicationTime":179,"atts":"SEACQwlMHEU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'68630c5c9db10cb7',m:'ece52d68b43c167d8f0529bb8c7fa05e53bcbd96-1630211471-1800-ATMqRvIg8iJle7dLm7kMxEJoKSBdny+z+lVQxBf6PMXnj9DErO4VVKeo5VokPSNhZotk8qvhZ2mhkV7zgjId6C37K3RjVpIkvpK+DQZJiIPNHCc3KbIqNKu0vG4wnjJcuANshU+lG89C4chDq0dCTMcZgjothCoPyHv6s1vvCrr+RV1TBQ8B2vfb7BdA4OSEWg==',s:[0x3bd8d0989f,0x3a255f4882],}})();</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"519820eb50","applicationID":"68456873","transactionName":"ZAcBNUFWD0tYURBZW11NIBRAQw5VFl0UVVpaDAROXEcEVlBcAw==","queueTime":0,"applicationTime":150,"atts":"SEACQwlMHEU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'686b48200b120a86',m:'f4ab19edee3fd969fa002fa150c9443e791529fb-1630297805-1800-AQrAIsun/r6MJLLnQoh2Wuv/W853NB4gHqyEy4g9mTlXPDsl9Co6x0eJPWzWySpnmeZ+JSJaYfdyoOh4DC6UCa6SkMq59fBmAyrMHNebF25ww30cT2d858+ZP+VzH2yHVnnoyafPnjS4m5U/hFzh5Mspz6evqxHpEFhUdIxWFRdajlROA9jmNXW4eL0WzAtZUw==',s:[0x2cde3e7a40,0x4d00096263],}})();</script></body>
 </html>
