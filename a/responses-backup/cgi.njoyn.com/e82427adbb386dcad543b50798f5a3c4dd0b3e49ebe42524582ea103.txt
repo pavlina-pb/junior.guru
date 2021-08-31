@@ -133,7 +133,7 @@
 
 	  "validThrough" : "2021-12-31",
 
-	  "employmentType" : ["TEMPORARY","PART_TIME"],
+	  "employmentType" : "FULL_TIME",
 	  "hiringOrganization" : {
 	    "@type" : "Organization",
 	    "name" : "CGI",
@@ -560,7 +560,7 @@
             <div>
               <span class="bolder">Employment Type:</span>
                  
-              <span>Part Time</span>
+              <span>Full Time</span>
             </div>
         </header>
         

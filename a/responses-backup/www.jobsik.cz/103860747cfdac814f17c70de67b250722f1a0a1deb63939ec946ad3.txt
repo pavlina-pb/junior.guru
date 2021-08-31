@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -230,7 +226,7 @@ práci na plný pracovní úvazek
 
 <div class="job-item" id="job-27201691">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27201691/">Junior účetní</a></h2>
-    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">České Budějovice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Tokata Consultancy s.r.o.</span><br>
     
@@ -272,7 +268,7 @@ práci na plný pracovní úvazek
 
 <div class="job-item" id="job-27239792">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27239792/">Hluboká nad Vltavou: nová prodejna - vedoucí úseku</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Hluboká nad Vltavou</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">BILLA, spol. s r. o.</span><br>
     
@@ -286,7 +282,7 @@ práci na plný pracovní úvazek
 
 <div class="job-item" id="job-27239793">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27239793/">Hluboká nad Vltavou: nová prodejna - prodavač/ka-pokladní</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Hluboká nad Vltavou</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">BILLA, spol. s r. o.</span><br>
     
@@ -300,7 +296,7 @@ práci na plný pracovní úvazek
 
 <div class="job-item" id="job-27239794">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27239794/">Hluboká nad Vltavou: nová prodejna - hlavní pokladní</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Hluboká nad Vltavou</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">BILLA, spol. s r. o.</span><br>
     
@@ -314,7 +310,7 @@ práci na plný pracovní úvazek
 
 <div class="job-item" id="job-27239795">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27239795/">Hluboká nad Vltavou: nová prodejna - skladník</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Hluboká nad Vltavou</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">BILLA, spol. s r. o.</span><br>
     
@@ -328,7 +324,7 @@ práci na plný pracovní úvazek
 
 <div class="job-item" id="job-26658919">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658919/">Obchodní zástupce s exklus. zastoupením v regionu až 70000Kč</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">České Budějovice , Tábor , Písek</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000kč + náhrada za vlastní automobil</span> <span class="job-item__separator"></span>
@@ -342,7 +338,7 @@ práci na plný pracovní úvazek
 
 <div class="job-item" id="job-27201728">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27201728/">Sabris: IT projektový manažer – SAP/ECM řešení</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
     
@@ -587,7 +583,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
