@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<meta name="robots" content="all,follow" />
+
+        <title>&#183; Melown Technologies</title>
+
+        
+
+        <!-- favicon -->
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/16x16.png">
+        <link rel="manifest" href="assets/favicon/site.webmanifest">
+        <link rel="mask-icon" href="assets/favicon/safari-pinned-tab.svg" color="#06a6fe">
+        <link rel="shortcut icon" href="/favicon.ico">
+        <meta name="msapplication-TileColor" content="#00aba9">
+        <meta name="theme-color" content="#ffffff">
+
+        <!-- open-graph -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://3dvision.dev/">
+
+        <!-- styles -->
+        <link type="text/css" rel="stylesheet" href="app.min.css?v=210714-171804" />
+    </head>
+    <body class="c-detail">
+        <div class="[ o-fixed-button ] [ mwt-fixed-button ]">
+            <a
+                class="o-button o-button--primary"
+                href="/">
+
+                <svg class="o-icon o-icon--arrow-short">
+                    <use xlink:href="./assets/icons.svg#arrow-short"></use>
+                </svg>
+
+                <span>Go back</span>
+            </a>
+        </div>
+
+        <section class="[ o-section ] [ c-description ]">
+            <div class="o-section__content">
+                <!-- illustration -->
+                <div
+                    class="[ c-detail__illustration ]"
+                    data-job-type="machine_learning">
+
+                    <div
+                        class="mwt-lottie-svg"
+                        data-animation="01">
+                    </div>
+
+                    <div
+                        class="[ o-floater o-floater--icon-only ] [ mwt-parallax ]"
+                        style="left: 0; bottom: 35%;"
+                        data-parallax-ratio="0.075"
+                        data-parallax-reversed="true">
+
+                        <span class="o-complex-icon">
+                            <svg><use xlink:href="./assets/icons.svg#software"></use></svg>
+                        </span>
+                    </div>
+
+                    <div
+                        class="[ o-floater o-floater--icon-only ] [ mwt-parallax ]"
+                        style="right: 5%; top: 10%;"
+                        data-parallax-ratio="0.075">
+
+                        <span class="o-complex-icon">
+                            <svg><use xlink:href="./assets/icons.svg#person"></use></svg>
+                        </span>
+                    </div>
+                </div>
+
+                <div
+                    class="[ c-detail__illustration ] [ mwt-max-width ]"
+                    data-width="350px"
+                    data-job-type="system_programmer">
+
+                    <div
+                        class="mwt-lottie-svg"
+                        data-animation="02">
+                    </div>
+
+                    <div
+                        class="[ o-floater o-floater--icon-only ] [ mwt-parallax ]"
+                        style="left: 15%; top: 10%;"
+                        data-parallax-ratio="0.15">
+
+                        <span class="o-complex-icon">
+                            <svg><use xlink:href="./assets/icons.svg#software"></use></svg>
+                        </span>
+                    </div>
+                </div>
+
+                <div
+                    class="[ c-detail__illustration ] [ mwt-max-width ]"
+                    data-width="350px"
+                    data-job-type="fullstack">
+
+                    <div
+                        class="mwt-lottie-svg"
+                        data-animation="03">
+                    </div>
+
+                    <div
+                        class="[ o-floater o-floater--icon-only ] [ mwt-parallax ]"
+                        style="right: 5%; top: 12%;"
+                        data-parallax-ratio="0.15">
+
+                        <span class="o-complex-icon">
+                            <svg><use xlink:href="./assets/icons.svg#software"></use></svg>
+                        </span>
+                    </div>
+                </div>
+
+                <div
+                    class="[ c-detail__illustration ] [ mwt-max-width ]"
+                    data-width="350px"
+                    data-job-type="gis_specialist">
+
+                    <div
+                        class="mwt-lottie-svg"
+                        data-animation="04">
+                    </div>
+
+                    <div
+                        class="[ o-floater o-floater--icon-only ] [ mwt-parallax ]"
+                        style="left: 30%; bottom: 34%;"
+                        data-parallax-ratio="0.05"
+                        data-parallax-reversed="true">
+
+                        <span class="o-complex-icon">
+                            <svg><use xlink:href="./assets/icons.svg#software"></use></svg>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- benefits -->
+        <section class="[ o-section ] [ c-benefits ] [ u-pt--unset ]">
+            <div class="o-section__content">
+                <h2 class="o-title o-title--beta">
+                    Main benefits
+                </h2>
+
+                <ul class="c-benefits__list">
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#clock"></use></svg>
+                            </span>
+                        </div>
+
+                        Flexible working hours
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#ho"></use></svg>
+                            </span>
+                        </div>
+
+                        Home office
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#vacation"></use></svg>
+                            </span>
+                        </div>
+
+                        25 Days of Vacations
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#sick"></use></svg>
+                            </span>
+                        </div>
+
+                        Sick days
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#office"></use></svg>
+                            </span>
+                        </div>
+
+                        Modern offices
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#relax"></use></svg>
+                            </span>
+                        </div>
+
+                        Relax room
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#snack"></use></svg>
+                            </span>
+                        </div>
+
+                        Healthy snacks
+                    </li>
+
+                    <li class="c-benefits__item">
+                        <div class="c-benefits__icon">
+                            <span class="o-complex-icon">
+                                <svg><use xlink:href="./assets/icons.svg#remote"></use></svg>
+                            </span>
+                        </div>
+
+                        Remote work
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- skills -->
+        <section class="[ o-section ] [ c-skills ] [ u-bg-color--grey-25 ]">
+            <div class="o-section__content">
+                <h2 class="o-title o-title--beta">
+                    Recognize yourself in the following?
+                </h2>
+            </div>
+        </section>
+
+        <!-- contact-us -->
+        <section class="[ o-section ] [ c-contact ]">
+            <div class="o-section__content">
+                <h2 class="[ o-title o-title--beta ] [ u-mb--unset ]">
+                    Apply now
+                </h2>
+
+                <p class="o-bodycopy">
+                    Send us your CV and cover letter, we are looking forward to hear from you!
+                </p>
+
+                <form class="[ o-form ] [ mwt-hr-form ]">
+                    <div class="o-form__group">
+                        <div class="o-form-control">
+                            <label
+                                for="inp-name-0"
+                                class="o-form-control__label">
+                                Your name
+                            </label>
+
+                            <input
+                                id="inp-name-0"
+                                class="o-form-control__input"
+                                name="name"
+                                placeholder=""
+                                type="text"
+                                aria-required="true">
+                        </div>
+
+                        <div class="o-form-control">
+                            <label
+                                for="inp-mail-0"
+                                class="o-form-control__label">
+                                Your e-mail
+                            </label>
+
+                            <input
+                                id="inp-mail-0"
+                                class="o-form-control__input"
+                                name="mail"
+                                placeholder=""
+                                type="text"
+                                aria-required="true">
+                        </div>
+                    </div>
+
+                    <div class="o-form-control">
+                        <label
+                            for="inp-file-0"
+                            class="o-form-control__label">
+                            Your CV
+
+                            <span class="o-form-control__note">
+                                (supported formats: PDF, Pages, Word / maximum size: 15&nbsp;MB)
+                            </span>
+                        </label>
+
+                        <div class="[ o-fileinput ] [ mwt-fileinput ]">
+                            <div class="o-fileinput__upload">
+                                <input
+                                    id="inp-file-0"
+                                    class="o-fileinput__input"
+                                    name="resume"
+                                    type="file"
+                                    aria-required="true">
+
+                                <button class="[ o-button o-button--primary ] [ o-fileinput__button ]">
+                                    Upload CV
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-form-control">
+                        <label
+                            for="inp-message-0"
+                            class="o-form-control__label">
+                            Cover letter
+                        </label>
+
+                        <textarea
+                            id="inp-message-0"
+                            class="o-form-control__input"
+                            name="letter"
+                            placeholder=""
+                            rows="8"
+                            aria-required="false"></textarea>
+                    </div>
+
+                    <div class="o-form-control o-form-control--custom">
+                        <input
+                            id="ck-agree-0"
+                            class="o-form-control__checkbox"
+                            name="gdpr"
+                            type="checkbox"
+                            aria-required="true">
+
+                        <label
+                            class="o-form-control__label"
+                            for="ck-agree-0">
+                            I hereby give my consent to the processing of my personal data and declare
+                            that I’ve read the <a href="./gdpr.pdf" target="_blank">privacy statement</a>.
+                        </label>
+
+                        <span class="o-form-control__indicator"></span>
+                    </div>
+
+                    <button class="[ o-button o-button--primary ] [ o-form__submit ]">
+                        Send it!
+                    </button>
+                </form>
+            </div>
+        </section>
+
+        <!-- footer -->
+        <footer class="[ o-section ] [ u-bg-color--grey-25 ]">
+            <div class="o-section__content">
+                <h3 class="o-title o-title--gamma">
+                    You can contact our HR Manager Directly
+                </h3>
+
+                <div class="c-manager">
+                    <div
+                        class="[ o-rounded-image ] [ mwt-max-width ]"
+                        data-width="140px">
+
+                        <img
+                            alt="HR Manager"
+                            src="./assets/images/manager.jpg?v=2.0.0">
+                    </div>
+
+                    <div class="c-manager__info">
+                        <h4 class="o-title o-title--delta">
+                            Veronika Vlachová
+                        </h4>
+
+                        <p class="[ o-bodycopy ] [ u-color--black ]">
+                            +420 606 308 357 <br>
+
+                            <a href="mailto:veronika.vlachova@melowntech.com">
+                                veronika.vlachova@melowntech.com
+                            </a>
+                        </p>
+
+                        <p class="[ o-bodycopy ] [ u-color--black ]">
+                            Check out our website to learn more about Melowntech and our team.
+                        </p>
+
+                        <p class="[ o-bodycopy ] [ u-color--black ]">
+                            <a
+                                href="https://www.melowntech.com"
+                                target="_blank">
+                                www.melowntech.com
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- scripts -->
+        <script src="libraries.min.js?=210714-171804" type="text/javascript"></script>
+        <script src="app.min.js?=210714-171804"></script>
+
+        <!-- SVG gradient fill -->
+        <svg
+            aria-hidden="true"
+            focusable="false"
+            style="position:absolute;visibility:hidden;width:0;height:0;">
+
+            <defs>
+                <linearGradient id="gradient-fill" gradientUnits="userSpaceOnUse" x1="7.43" y1="-37.22" x2="40.5407" y2="-37.22" gradientTransform="matrix(1 0 0 -1 0 -22)">
+                    <stop  offset="0" style="stop-color:#4EA4F4"/>
+                    <stop  offset="0.27" style="stop-color:#50A8F3"/>
+                    <stop  offset="0.56" style="stop-color:#57B6F1"/>
+                    <stop  offset="0.87" style="stop-color:#63CCEC"/>
+                    <stop  offset="1" style="stop-color:#69D7EA"/>
+                </linearGradient>
+            </defs>
+        </svg>
+    </body>
+</html>
