@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -210,6 +214,20 @@ ov.27.8.21
                 <div class="similarJobs">
                     <h2 class="job-item-detail__title">Podobné nabídky práce</h2>
 
+<div class="job-item" id="job-27286384">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27286384/">PHP programátor/ka</a></h2>
+    <span class="job-item__date">včera</span>
+    <span class="job-item__place job-item__place--city">Zlín</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Recruitment Olomouc</span><br>
+    <span class="job-item__salary" title="Uvedený plat">dohodou</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27220608">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27220608/">Java vývojář - práce z domu na ŽL</a></h2>
     <span class="job-item__date">aktivní nabídka</span>
@@ -226,7 +244,7 @@ ov.27.8.21
 
 <div class="job-item" id="job-27284601">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27284601/">Junior C# vývojář pod křídly seniora</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Zlín</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
     
@@ -254,7 +272,7 @@ ov.27.8.21
 
 <div class="job-item" id="job-27246869">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27246869/">Úklidový pracovník/ce, Rožnov p. Radhoštěm - prodejní prostory</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Rožnov pod Radhoštěm</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ATALIAN CZ s.r.o.</span><br>
     
@@ -268,7 +286,7 @@ ov.27.8.21
 
 <div class="job-item" id="job-27284403">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27284403/">Vedoucí vývoje - elektro</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Rožnov pod Radhoštěm</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Recruitment Ostrava</span><br>
     <span class="job-item__salary" title="Uvedený plat">dohodou</span> <span class="job-item__separator"></span>
@@ -282,7 +300,7 @@ ov.27.8.21
 
 <div class="job-item" id="job-27284406">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27284406/">EDA/CAD elektro inženýr/ka</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Rožnov pod Radhoštěm</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Grafton Recruitment Ostrava</span><br>
     
@@ -324,24 +342,10 @@ ov.27.8.21
 
 <div class="job-item" id="job-27152522">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27152522/">Seřizovač – operátor lisu – náborový příspěvek 20 000 Kč!</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Valašské Meziříčí</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Fajn práce s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">30000 Kč za měsíc</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27183052">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27183052/">Prodavač/ka masa, uzenin a lahůdek - Vsetín</a></h2>
-    <span class="job-item__date">před týdnem</span>
-    <span class="job-item__place job-item__place--city">Vsetín</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">PMU CZ, a.s</span><br>
-    <span class="job-item__salary" title="Uvedený plat">18 500- 20 500,-Kč</span> <span class="job-item__separator"></span>
         
         
     
@@ -585,7 +589,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

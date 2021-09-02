@@ -55,7 +55,7 @@
             var COMPLETION_URL = '//api.jobstairs.de/v2/search/completion/';
             var JOBAD_URL = '//api.jobstairs.de/v2/jobs';
             var GEOFEED_URL = '//api.jobstairs.de/v2/search/geofeed.json';
-            var DEVICE_IS_IOS = true;
+            var DEVICE_IS_IOS = false;
             var CONFIG_JOB_BOARD = '/js/jobboard.config.production.json';
             var p;
             //Cookie Consent
@@ -599,7 +599,6 @@
                                         <li><a href="/de/unternehmen/commerzbank">Commerzbank AG</a></li>
                                         <li><a href="/de/unternehmen/continental">Continental AG</a></li>
                                         <li><a href="/de/unternehmen/deutschebahn">Deutsche Bahn AG</a></li>
-                                        <li><a href="/de/unternehmen/deutschepost">Deutsche Post DHL Group</a></li>
                                         <li><a href="/de/unternehmen/telekom">Deutsche Telekom AG</a></li>
                                         <li><a href="/de/unternehmen/oetker">Dr. Oetker</a></li>
                                         <li><a href="/de/unternehmen/ernstyoung">EY (Ernst & Young GmbH)  Wirtschaftsprüfungsgesellschaft</a></li>
@@ -622,12 +621,12 @@
                                         <li><a href="/de/unternehmen/obi">OBI Group Holding SE & Co.KGaA</a></li>
                                         <li><a href="/de/unternehmen/peekcloppenburg">Peek & Cloppenburg KG - Gruppe, Düsseldorf</a></li>
                                         <li><a href="/de/unternehmen/phoenixcontact">Phoenix Contact-Gruppe</a></li>
-                                        <li><a href="/de/unternehmen/porsche">Porsche AG</a></li>
                                 </ul>
         </div>
                 <div class="col-md-4 col-sm-4 col-xs-12">
             <ul>
-                                    <li><a href="/de/unternehmen/pwc">PwC</a></li>
+                                    <li><a href="/de/unternehmen/porsche">Porsche AG</a></li>
+                                        <li><a href="/de/unternehmen/pwc">PwC</a></li>
                                         <li><a href="/de/unternehmen/rewe">REWE Group</a></li>
                                         <li><a href="/de/unternehmen/sap">SAP SE</a></li>
                                         <li><a href="/de/unternehmen/salzgitter">Salzgitter AG</a></li>

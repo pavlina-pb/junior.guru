@@ -9,8 +9,8 @@
             document.head.append(script);
         }, 3000);
     </script>
-<link rel="preload" href='/css/fastCover.css?v=21.08.30-111343' as='style'>
-<link href='/css/fastCover.css?v=21.08.30-111343' rel='stylesheet' type='text/css'>
+<link rel="preload" href='/css/fastCover.css?v=21.09.01-172012' as='style'>
+<link href='/css/fastCover.css?v=21.09.01-172012' rel='stylesheet' type='text/css'>
 <script type="text/javascript">
             (function(c,l,a,r,i,t,y){
                 c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -99,20 +99,21 @@ If you like solving hard problems and developing solutions that are highly scala
 <![endif]-->
 <div class="cover-page job-matched">
 <nav class="responsible-client-nav">
-<img class="responsible-client-nav__logo" src="/i/logo_black.png" alt="Powered by Talentify">
 <div class="responsible-client-nav__disclaimer">
 <div role="button" class="disclaimer__question toggleable">
-<span>
-Are you in HR or Talent Acquisition? </span>
-<i class="dropdown-arrow disclaimer-dropdown dropdown-arrow-down"></i>
+<span class="responsible-client-nav__logo"><img src="/i/talentify-logo.png" alt="Talentify Logo"></span>
+<span>Work in Talent Acquisition?</span>
+<i class="dropdown-arrow disclaimer-dropdown dropdown-arrow-right"></i>
 </div>
 <div class="disclaimer-hidden">
 <span>
-<strong>Create your Free Account</strong> to learn how Talentify optimizes your jobs’ organic traffic and increases the number of qualified candidates completing your full ATS application! </span>
+<strong>Create your Free Account</strong> to learn how Talentify optimizes your jobs’ organic traffic and increases the number of qualified candidates completing your full ATS application!
+</span>
 <a role="button" class="disclaimer__btn" href="https://app.talentify.io/sign-up">Get started here</a>
 </div>
 </div>
 </nav>
+<hr class="h-line">
 <header class="job-info">
 <a href="https://amazon-jobs-2.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=" class="company-name">Amazon Jobs</a>
 <div class="title-box">
@@ -128,33 +129,21 @@ Are you in HR or Talent Acquisition? </span>
 <p>Employment type: Full-Time</p>
 </div>
 <div class="job-details job-payment">
-<img src="/i/money-bill-red.svg" alt="" style="margin-top: .2em;" width="15" height="13">
+<img src="/i/money-bill-red.svg" alt="" width="15" height="13">
 <p>Pay: Competitive/hour</p>
 </div>
 </section>
-<section class="submit-area">
-<div class="scroll-helper-left"></div>
-<a rel="nofollow" href="https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142/apply?utm_source=&utm_medium=&utm_campaign=" class="submit-area__btn submit-btn">
-<img src="/i/check-icon.svg" alt="Search Button" width="16" height="16">
-I'm interested </a>
-<div class="submit-area__btn share-btn">
-<p>
-SHARE </p>
-<div class="share-icons">
-<a target="_blank" href="https://twitter.com/messages/compose?text=Hi,%20I%20think%20this%20job%20at%20Amazon Jobs%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20%20https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142">
-<img class="share-icon" src="/i/twitter-icon.svg" alt="Share Twitter" width="32" height="32">
-</a>
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142">
-<img class="share-icon" src="/i/messenger-icon.svg" alt="Share Messenger" width="32" height="32">
-</a>
-<a target="_blank" href="https://wa.me/?text=Hi,%20I%20think%20this%20job%20at%20Amazon Jobs%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142">
-<img class="share-icon" src="/i/whatsapp-icon.svg" alt="Share Whatsapp" width="32" height="32">
-</a>
-</div>
-</div>
-<div class="scroll-helper-right"></div>
-</section>
 </header>
+<section class="apply-area">
+<div class="apply-area__wrapper">
+<h2 class="apply-area__title">What's your preference?</h2>
+<a rel="nofollow" href="https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142/apply?utm_source=&utm_medium=&utm_campaign=" class="apply-area__btn apply-with-updates-btn">
+Apply with job updates </a>
+<span class="apply-area__btn apply-without-updates-btn">
+Apply without job updates »
+</span>
+</div>
+</section>
 <section class="job-dropdowns-area">
 <div class="job-description-btn job-dropdown">
 <div class="job-dropdown__title toggleable">
@@ -173,30 +162,6 @@ We're a company of pioneers. It's our job to make bold bets and we get our energ
 <div class="job-dropdown__job-inner-content show-content">Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry, along with Google, Apple, Microsoft, and Facebook. The company has been referred to as &quot;one of the most influential economic and cultural forces in the world&quot;, as well as the world's most valuable brand.</div>
 </div>
 </section>
-<div class="job-info" style="margin-top: 3em">
-<section class="submit-area">
-<div class="scroll-helper-left"></div>
-<a rel="nofollow" href="https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142/apply?utm_source=&utm_medium=&utm_campaign=" class="submit-area__btn submit-btn">
-<img src="/i/check-icon.svg" alt="Search Button" width="16" height="16">
-I'm interested </a>
-<div class="submit-area__btn share-btn">
-<p>
-SHARE </p>
-<div class="share-icons">
-<a target="_blank" href="https://twitter.com/messages/compose?text=Hi,%20I%20think%20this%20job%20at%20Amazon Jobs%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20%20https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142">
-<img class="share-icon" src="/i/twitter-icon.svg" alt="Share Twitter" width="32" height="32">
-</a>
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142">
-<img class="share-icon" src="/i/messenger-icon.svg" alt="Share Messenger" width="32" height="32">
-</a>
-<a target="_blank" href="https://wa.me/?text=Hi,%20I%20think%20this%20job%20at%20Amazon Jobs%20could%20be%20a%20good%20fit%20for%20you,%20check%20it%20out:%20https://amazon-jobs-2.talentify.io/job/software-development-engineer-prague-prague-amazon-jobs-1689142">
-<img class="share-icon" src="/i/whatsapp-icon.svg" alt="Share Whatsapp" width="32" height="32">
-</a>
-</div>
-</div>
-<div class="scroll-helper-right"></div>
-</section>
-</div>
 <p class="not-interested-text">Not interested?</p>
 <a href="https://amazon-jobs-2.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=" class="show-near-jobs-btn">
 <img src="/i/search-solid-dark.svg" alt="Search jobs" width="16" height="16">
@@ -207,23 +172,13 @@ SHARE </p>
 </a>
 </div>
 <script>
-    var submitArea = document.querySelector('.submit-area');
-    var shareBtns = document.querySelectorAll('.share-btn');
-
-    shareBtns.forEach(element => {
-        element.addEventListener('click', () => {
-            element.querySelector('.share-icons').classList.add('share-icons-open')
-            element.parentElement.scrollTo(500,0)
-        })
-    });
-
     var dropDownItems = document.querySelectorAll('.toggleable');
-    var dropDownArrows = document.querySelectorAll('.dropdown-arrow ');
+    var dropDownArrows = document.querySelectorAll('.dropdown-arrow');
 
     dropDownItems.forEach(element => {
         element.addEventListener('click', () => {
             element.nextElementSibling.classList.toggle('show-content')
-            element.querySelector('.dropdown-arrow ').classList.toggle('dropdown-arrow-down')
+            element.querySelector('.dropdown-arrow').classList.toggle('dropdown-arrow-right')
         })
     });
 </script>
@@ -235,8 +190,28 @@ var openingCode      = "8gbqh";
 var isProd           = true;
 var shouldShowAds    = true;
 var adsDelay         = 1;
+var openingPermalink = "software-development-engineer-prague-prague-amazon-jobs-1689142";
+var applyWithoutUpdatesBtn = document.querySelector('.apply-without-updates-btn');
+
+applyWithoutUpdatesBtn.addEventListener('click', fetchAndRedirect);
+
+function generateLink(permalink) {
+    return `/ca/job-opening/${permalink}/export-jobseeker`;
+}
+function fetchAndRedirect() {
+    fetch(generateLink(openingPermalink), { method: 'POST' })
+        .then(function(res) { return res.json()})
+        .then(function (res) {
+            var url = res.url;
+            var forceRedirect = res.forceRedirect;
+
+            if (forceRedirect) {
+                window.location = url
+            }
+        })
+}
 </script>
 <script async type='text/javascript' src='https://click.appcast.io/pixels/talentify1-8599.js?ent=376&jid=8gbqh'></script>
-<script async type="text/javascript" src="/js/tck.js?v=21.08.30-111343"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"519820eb50","applicationID":"68456873","transactionName":"ZAcBNUFWD0tYURBZW11NIBRAQw5VFl0UVVpaDAROXEcEVlBcAw==","queueTime":0,"applicationTime":116,"atts":"SEACQwlMHEU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'687bbe51085b03fe',m:'46940e019998881961c96b63aad640eb0b1891e2-1630470418-1800-AcUHghn0HxKmY8rbzBsG0u0LWMdZaANDlApdOD4eIuavp3Jc7uZ1BkvprJgbuyrn4nqppjV0ar/hC8xOIF0P78WRqOyEHheNL/5TYJPPzC8dGAo7LN+V8eSa2IokUUo7AJapMWvBLRLEV4EsdV0U1/jrDYZM8vyR8m6HeHjXamIVBxm3b5qFsf70fDikpto9EwieID/zVyA9DdOJbT/vqDM=',s:[0x006a923c42,0x92c9afbe11],}})();</script></body>
+<script async type="text/javascript" src="/js/tck.js?v=21.09.01-172012"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"519820eb50","applicationID":"68456873","transactionName":"ZAcBNUFWD0tYURBZW11NIBRAQw5VFl0UVVpaDAROXEcEVlBcAw==","queueTime":0,"applicationTime":156,"atts":"SEACQwlMHEU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6883f7cd684359d4',m:'174b874d97c11a4b39a90dda6b0cac01f52d89aa-1630556658-1800-Acbl7QUNxsFxBir1iBOEYpJ6HQ0P5iwq3ijjvhjFHA1e8p37DW733I34fj9I8tF1/wnaWA48JH1qlX0CAKGqhte9ABfV4pigvlqLD9KJBFN0MbKhlBpnrR4PGk92C9pHCKp7p1569VxP1Kep5VXwv1vvcDxUfWLGbMwg88BelFbmFLdbcnGgE54T9j4Ag9qG+cy26VxAJNZlWLdq3Gn9cSA=',s:[0xe217ba8c02,0x9e678e1580],}})();</script></body>
 </html>
