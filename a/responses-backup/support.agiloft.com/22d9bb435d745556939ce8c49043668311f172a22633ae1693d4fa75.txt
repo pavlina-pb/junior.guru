@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="robots" content="noindex, nofollow" />
+<base href="https://support.agiloft.com/ui/login.jsp">
+<link rel="SHORTCUT ICON" href="/ui/gif/favicons/favicon2.ico" type="image/x-icon">
+<link type="text/css" rel=stylesheet href="/ui/css/utility.css?v=26727"><link type="text/css" rel=stylesheet href="/ui/css/form-controls.css"><link type="text/css" rel=stylesheet href="/ui/styles">
+<![if gte IE 9]>
+<style type="text/css">
+.wrapper, .loginform, .submit { filter: none }
+</style>
+<![endif]>
+<script src="/ui/js/jQuery/jquery.min.js"></script>
+<script src="/ui/js/cookie.jsp"></script>
+<script src="/ui/js/FrameScripts.jsp?console=0"></script>
+<script src="/ui/wizard/wizardjs.jsp"></script>
+<script src="/ui/loginjs.jsp"></script>
+<title>Agiloft Contract Lifecycle Management | Fully Configurable CLM Software | Log in</title>
+<script>
+function quitFrame(){var rootFrame=frameLocator.getRootFrame();if(self!=rootFrame){rootFrame.location.href='/ui/login.jsp';}};quitFrame();function onPageLoad(){document.hotlinkform.submit();self.status="release_22-26727-1155-r222584 2021/09/02 04:05";};function onHelp(){contextID="/?wikiid=PgETAQ";null;var b=d4z8$('a15','a15',0,0,'80%','80%',false);var w$y='a15_';var $ctx=window;$ctx.open('/ui/help/helpindex.jsp?lang=cs&country=&name={0}'.replace('{0}',encodeURIComponent(contextID)),w$y,'width='+b[2]+',height='+b[3]+',top='+b[1]+',left='+b[0]+',toolbar=no,location=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes').focus();if(this.getWidgetId){sessionStorage.setItem('a15_',this.getWidgetId());}else{};};</script>
+</head>
+<body onLoad="onPageLoad()" style="background-color: #003060">
+<form action="/ui/login.jsp;page=sU6W4KW0NQtPs0XCF0ak8g80jpA10000.al" method=post name=hotlinkform>
+<input type="hidden" name="genproject" value="EW Support" /><input type="hidden" name="genhotlink" value="S bHs5jJN oqCizQ izRAPAGWh c4sMqxN4bzLVTYgMZmRCbq4l2cMHX6OBJJrNdUiW7TYVrGpdpJsOBaDIQvFOb30w0SMy3l66nuBw3BaPqGVEh1jkC50VKPd1cTY9E/R6CusrMWfwr5nJ0N2n1ElK7C676AY5AZPQJDlRbjx AR7iewPGnzrtmNBuq0TAoLLUbB9dSO7KKbn/T9do81em2ElrVx9EOz7DVRxCmPK6wZueBiLL8n/BIY6TynJyHK tVIsW5bZ1YaeTZaS6ZybPJeXGW47Qn I9PdQvJPy37jPP/gwi0rPwxOYOLiIMiAMCu0G30F4SOAKb48Nu1DThdTHzjvLtG7zxW9JZ18PeyNUOjMTvc25SgOZZscXr2BeQUNoPYwZshQTb2vMMoaz3TvfgReJBlQe/VyNt8GzLFOjLuUj6SMPfXUakSR31NhAJgkqdAUDlApC3YOuluNxx3sKDK5XCYGsR3gkBTEdp3kpYoeXHlXeK6wiVdVw5or D5sDIji/5VO5Siaz0h7uwdmCUYKg LS/G8X4JOjknxQxhppjHoLzKywPTy9sqtT5I5RztQiO9NevdeHNNJl4YkyLaD/XhMY5Pm9AGK/og9uIVy0fsxFgklcS7TdMo3LmpHTbugTBToki9yceJhYHc6fTXGDAp5 mMNaxsll44=" />
+<input type=hidden name="_anti_cache2" value=true>
+<input type="hidden" name="isHotlink" value="true">
+</form>
+</body>
+</html>

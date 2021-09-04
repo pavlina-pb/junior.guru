@@ -203,9 +203,9 @@ Tým Jobs Contact Consulting, s.r.o., se těší na spolupráci s Vámi!</div><h
                         </div>
                         
                         <div class="jc-footer-icons">
-                            <a href="/cdn-cgi/l/email-protection#8ee7e0e8e1cee4e1ecfdede1e0faefedfaa0edf4" title="mail">
+                            <a href="/cdn-cgi/l/email-protection#e980878f86a983868b9a8a86879d888a9dc78a93" title="mail">
                                 <img src="/customdesigns/JobsContactConsulting/2/4/images/ico_email.png" alt="E-mail" width="42" height="30">
-                                <span><span class="__cf_email__" data-cfemail="6c05020a032c06030e1f0f0302180d0f18420f16">[email&#160;protected]</span></span>
+                                <span><span class="__cf_email__" data-cfemail="91f8fff7fed1fbfef3e2f2feffe5f0f2e5bff2eb">[email&#160;protected]</span></span>
                             </a>
                             <a href="tel:+420602642915">
                                 <img src="/customdesigns/JobsContactConsulting/2/4/images/ico_phone.png" alt="Telefon" width="22" height="30">
@@ -465,7 +465,7 @@ Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jak�
 
 		    setTimeout(function(){ServeLoginAnchor()},800);
 
-dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4145535"],"content_type":"product"}});feedDataLayerDetail('O4145535','Custom design','d15','d15');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4145535"],"content_type":"product"}});feedDataLayerDetail('O4145535','Custom design','d16','d16');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
 $('#offer-send-to-friend').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"E-mail","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-facebook').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Facebook","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-viber').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Viber","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
