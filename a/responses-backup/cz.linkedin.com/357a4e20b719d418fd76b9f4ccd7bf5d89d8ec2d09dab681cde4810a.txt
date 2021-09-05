@@ -17,7 +17,7 @@
       <div>
         
           
-      <img class="artdeco-entity-image artdeco-entity-image--square-5 artdeco-entity-image--ghost" data-delayed-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="PERSONALISTKY.CZ pro úspěšný startup">
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 artdeco-entity-image--ghost" data-delayed-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="PERSONALISTKY.CZ pro úspěšný startup">
   
         
       </div>
@@ -106,7 +106,7 @@
     
     
 
-      <button class="apply-button apply-button--default top-card-layout__cta top-card-layout__cta--primary" data-reference-id="AFEmC5grT2yXYClAOYIAuQ==" data-tracking-control-name="public_jobs_apply-link-easy-apply">
+      <button class="apply-button apply-button--default top-card-layout__cta top-card-layout__cta--primary" data-reference-id="8HIecvuBTtGclMM8Fn8IkQ==" data-tracking-control-name="public_jobs_apply-link-easy-apply">
         Zažádat nyní
       </button>
       
@@ -246,7 +246,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"Heslo smí mít nejvýše 400 znaků"--></code>
 
     <form class="sign-in-form save-job-form-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="7a1f18b8-7eb5-42f4-8878-d7957f709c5c" type="hidden">
+      <input name="loginCsrfParam" value="dece04a5-0af8-43e1-8f48-3da2ac348151" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -427,7 +427,17 @@
 <!---->
 <!---->
 <!---->
-<!----><!---->
+        <div class="apply-button__sticky-container lazy-load onload">
+          
+    
+    
+
+      <button class="apply-button apply-button--default" data-reference-id="8HIecvuBTtGclMM8Fn8IkQ==" data-tracking-control-name="public_jobs_apply-link-easy-apply">
+        Zažádat nyní
+      </button>
+      
+        </div>
+<!---->
     <code id="wwwEasyApplyUrl" style="display: none"><!--"https://www.linkedin.com/jobs/view/2681877823?showGuestApplyModal=true"--></code>
     <code id="decoratedJobPostingId" style="display: none"><!--2681877823--></code>
 <!---->    <code id="joinUrlWithRedirect" style="display: none"><!--"https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fcz.linkedin.com%2Fjobs%2Fview%2Ffull-stack-developer-at-personalistky-cz-pro-%25C3%25BAsp%25C4%259B%25C5%25A1n%25C3%25BD-startup-2681877823&trk=public_jobs_save-job"--></code>
