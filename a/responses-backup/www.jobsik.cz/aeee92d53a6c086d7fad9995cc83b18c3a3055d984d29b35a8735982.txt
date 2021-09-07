@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -206,9 +202,23 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
                 <div class="similarJobs">
                     <h2 class="job-item-detail__title">Podobné nabídky práce</h2>
 
+<div class="job-item" id="job-27294351">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294351/">Developer ERP systému - junior</a></h2>
+    <span class="job-item__date">včera</span>
+    <span class="job-item__place job-item__place--city">Olomouc</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Jana Květoňová</span><br>
+    <span class="job-item__salary" title="Uvedený plat">30000 - 42000 Kč za měsíc</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27160154">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27160154/">Nástup srpen 2021! Operátoři ve strojírenství</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Prostějov</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ŽOLÍKOVÁ PRÁCE s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">25000 - 32000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -278,7 +288,7 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27201854">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27201854/">Servisní technik - oblast střední Morava</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">(Prostějov, Olomouc, Kroměříž)</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Rentel Facility Management s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">25000 - 35000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -292,7 +302,7 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27202646">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202646/">Technik údržby - vyhl. 50</a></h2>
-    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__date">aktivní nabídka</span>
     <span class="job-item__place job-item__place--city">Prostějov</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ŽOLÍKOVÁ PRÁCE s.r.o.</span><br>
     
@@ -320,26 +330,12 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27217194">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27217194/">Konstruktér - i absolventi</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Prostějov</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GASL CZ s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">20000 - 30000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27217221">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27217221/">Operátoři výroby i s ubytováním 160,-Kč/hod nástup ihned</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
-    <span class="job-item__place job-item__place--city">Prostějov</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">PRAGMA personální agentura s.r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">160 Kč za hodinu</span> <span class="job-item__separator"></span>
-        
-        <span class="job-item__accommodation">S ubytováním</span> <span class="job-item__separator"></span>
     
     <div class="cleaner"></div>
 </div>
@@ -579,7 +575,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

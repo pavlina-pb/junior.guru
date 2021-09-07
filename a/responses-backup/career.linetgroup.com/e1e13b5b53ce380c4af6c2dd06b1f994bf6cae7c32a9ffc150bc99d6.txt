@@ -740,32 +740,36 @@
 
 <p> </p>
 
+<p><span style="font-size:11.0pt"><span><span style="font-family:Calibri, sans-serif"><b><span style="font-size:12.0pt"><span style="font-family:&#39;Arial&#39;, sans-serif"><span style="color:red">Pozice je vhodná i pro absolventy.</span></span></span></b></span></span></span></p>
+
+<p> </p>
+
 <p><span style="color:#c0392b"><b>Náplň práce je opravdu velmi pestrá, mezi klíčové aktivity patří:</b></span></p>
 
 <p> </p>
 
 <ul>
-	<li>Implementace, kódování a testování SW v C, popř. C++, C#</li>
-	<li>Tvorba SW modulů </li>
-	<li>Návrh architektury SW, algoritmů a datových struktur</li>
-	<li>Spolupráce s produktovými manažery, vytváření a formulace interního zadání SW </li>
-	<li>Konzultace návrhu HW elektroniky</li>
-	<li>Komunikace a kooperace v týmu, prezentování a obhajoba výsledků práce, reporting</li>
+	<li>Implementace, kódování a testování SW </li>
+	<li>Tvorba SW modulů, vytváření testovacích aplikací pro PC</li>
+	<li><span style="font-size:11.0pt"><span style="font-family:Calibri, sans-serif"><span style="font-size:10.0pt"><span style="font-family:&#39;Arial&#39;, sans-serif">Testování kódu a SW modulů, tvorba a implementace testovacích scénářů</span></span></span></span></li>
+	<li>Komunikace a kooperace v týmu</li>
 </ul>
 
 <p> </p>
 
-<p><span style="color:#c0392b"><b>Jaké znalosti a zkušenosti hledáme?</b></span></p>
+<p><b style="color:#c0392b">Jaké znalosti a zkušenosti hledáme?</b></p>
 
 <p> </p>
 
 <ul>
-	<li>Dobrá znalost jazyka C, praxe ve vývoji softwaru pro embedded zařízení</li>
-	<li>Znalost algoritmizace a programovacích technik</li>
-	<li>Znalost elektroniky, schopnost číst a konzultovat elektrická schémata</li>
-	<li>Analytické schopnosti, zaměření na koncepční vývoj SW, flexibilita kódovacího stylu </li>
+	<li>Dobrá znalost jazyka C, zkušenosti s vývojem softwaru pro embedded zařízení</li>
+	<li>Znalost základních programovacích technik</li>
+	<li>Znalost elektroniky a elektrických schémat</li>
+	<li>Analytické schopnosti, flexibilita kódovacího stylu </li>
 	<li>Proaktivní přístup</li>
+	<li><span style="font-size:11.0pt"><span style="font-family:Calibri, sans-serif"><span style="font-size:10.0pt"><span style="font-family:&#39;Arial&#39;, sans-serif">Schopnost samostatně studovat a zvládat návody, manuály, datasheety a příkladové zdrojové kódy</span></span></span></span></li>
 	<li>SŠ, ideálně VŠ vzdělání se zaměřením na elektroniku / informatiku </li>
+	<li>Řidičský průkaz skupiny B</li>
 	<li>Komunikativní znalost AJ</li>
 </ul>
 
@@ -776,18 +780,18 @@
 <p> </p>
 
 <ul>
-	<li>Znalost platforem ARM Cortex, STM32, Eclipse/GNU-ARM, GIT</li>
-	<li>GCC toolchain, Win32 API, .NET, C++, C#</li>
+	<li>Znalost platforem ARM, STM32, AVR, Eclipse, GIT, Win 32, C++, C<span style="font-size:11.0pt"><span><span style="font-family:Calibri, sans-serif"><span style="font-size:10.0pt"><span><span style="font-family:&#39;Arial&#39;, sans-serif"><span style="color:#5e666d">#</span></span></span></span></span></span></span></li>
+	<li><span style="font-size:11.0pt"><span style="font-family:Calibri, sans-serif"><span style="font-size:10.0pt"><span style="font-family:&#39;Arial&#39;, sans-serif">Dobré komunikační schopnosti a efektivní práce v týmu</span></span></span></span></li>
 </ul>
 
-<p> </p>
+<p style="margin-bottom:16.0px"> </p>
 
 <p><span style="color:#c0392b"><b>Co Vám nabídneme?</b></span></p>
 
 <p> </p>
 
 <ul>
-	<li>Práce na unikátních embedded vývojových projektech pro nemocniční lůžka s celosvětovým dopadem</li>
+	<li>Práce na unikátních vývojových projektech pro nemocniční lůžka s celosvětovým dopadem</li>
 	<li>Příležitost vyvíjet a aplikovat nejmodernější technologie </li>
 	<li>Zázemí úspěšné, rozvíjející se společnosti </li>
 	<li>Možnost spolupráce na IČO </li>
@@ -1004,7 +1008,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "e58058a7-bec1-4049-8c82-a107da789d18"
+						"X-CSRF-Token" : "3dcb729c-97e8-4431-9452-89a8095ff3f5"
 					}
 				});
 			//]]>
@@ -1054,7 +1058,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "e58058a7-bec1-4049-8c82-a107da789d18"
+						"X-CSRF-Token" : "3dcb729c-97e8-4431-9452-89a8095ff3f5"
 					}
 				});
 			//]]>
@@ -1075,7 +1079,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '3fe9df5c-e27a-4a18-b993-6f08fc032452';
+				var ctid = 'b1951783-51d6-44e7-acc6-5eaf82dd8c50';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2701999170';
 				var landing = document.location.href;
 				var brand = '';
@@ -1113,7 +1117,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1466445131"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1629891573"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
