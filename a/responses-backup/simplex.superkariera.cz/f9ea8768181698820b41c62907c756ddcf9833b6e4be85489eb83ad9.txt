@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Portál práce SUPERKARIERA.CZ - nabídky práce, brigády, zaměstnání, volná místa" />
+	<meta name="keywords" content="práce, zaměstnání, volná místa, brigády, brigáda, práce pro absolventy" />
+
+	<title>SUPERKARIERA.CZ | Machine learning Engineer - Junior</title>
+
+	<script type="text/javascript">
+	document.getElementsByTagName('html')[0].className = 'js';
+	</script>
+	
+	<link rel="Shortcut Icon" type="image/ico" href="https://www.superkariera.cz/images/favicon.png" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.superkariera.cz/css/screen.css" />
+    <!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="https://www.superkariera.cz/css/ie.css" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" media="print"    href="https://www.superkariera.cz/css/print_345679.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.superkariera.cz/css/basic_345679.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.superkariera.cz/css/ipaper_345679.css" />
+    
+    	
+</head>
+<body id="job" class="simple">
+
+<div id="topnavwrap">
+    <div class="container">
+        <ul id="topnav">
+            <li ><a class="first" href="https://www.superkariera.cz">Úvod</a></li>
+            <li class="selected"><a href="https://www.superkariera.cz/prace/">Práce</a></li>
+            <li ><a href="https://www.superkariera.cz/brigady/">Brigády</a></li>
+            <li ><a href="https://www.superkariera.cz/poradna/">Poradna</a></li>
+            <li ><a href="https://www.superkariera.cz/hledam-praci">Hledám práci</a></li>
+			<li ><a href="https://www.superkariera.cz/pro-firmy">Pro firmy</a></li>
+
+            				                <li ><a class="right last" href="https://www.superkariera.cz/registrace/uchazec">Registrace</a></li>
+				                <li ><a class="right" href="https://www.superkariera.cz/prihlaseni">Přihlášení</a></li>
+                    </ul>
+    </div>
+</div>
+
+<div class="container">
+<div id="header" class="span-24">
+    <div class="span-6">
+		        <h2 id="logo" class="pngfix"><a href="https://www.superkariera.cz/" class="pngfix" title="superkariera.cz - portál práce"><span>super kariéra - portál práce</span></a></h2>
+		    </div>
+        <div class="span-18 last">
+        <div id="head-search-box">
+            <form method="get" action="https://www.superkariera.cz/prace/">
+                <div class="span-7">
+                    <input id="query" type="text" name="q" maxlength="256" value="" />
+                    <br /><label>Co: </label><small>klíčová slova, název pozice nebo firmy</small>
+                </div>
+                <div class="span-7">
+                    <input id="place" type="text" name="mesto" maxlength="128" value="" />
+                    <br /><label>Kde: </label><small>město, kraj nebo stát</small>
+                </div>
+                <div class="span-4 last">
+                    <button type="submit" class="btn" id="srch-btn"><span class="orange"><span>hledat práci</span></span></button>
+                </div>
+                <div class="clearfix"></div>
+                            </form>
+        </div>
+    </div>
+    	</div>
+
+<div class="span-24" id="crumbs">
+    <ul class="arrow">
+                        <li class="first"><a href="https://www.superkariera.cz"><span>Domu</span></a></li>
+                                	        		<li><a href="https://www.superkariera.cz/prace/">Práce</a></li>
+        	                                <li><span>Machine learning Engineer - Junior</span></li>
+                            </ul>
+</div>
+<div class="clear"></div>
+
+
+
+<h1 class="loud">Machine learning Engineer - Junior</h1>
+
+<div class="span-16">
+	<div id="jobtxt">
+		            <p class="jobheader">Od založení v roce 2000 poskytuje firma SIMPLEX Czech s.r.o. komplexní služby v oblasti náboru zaměstnanců a personálního poradenství. 
+
+Služby náboru zaměstnanců zajišťuje zkušený tým náborových specialistů a externích konzultantů, zodpovědných za jednotlivé obory obsazovaných pracovních míst. To umožňuje poskytovat kvalitní náborové služby od vyhledání kandidátů, přes nábor jednotlivých zaměstnanců, až po budování rozsáhlých týmů. 
+
+Služby personálního poradenství zajišťuje zkušený tým personalistů, manažerů a externích konzultantů, zodpovědných za jednotlivé oblasti řízení lidských zdrojů. To umožňuje poskytovat hodnotné poradenské služby, zaměřené na dosahování strategických cílů organizací.</p>
+            <hr />
+				<h3>Profil zaměstnavatele</h3><p>Naším partnerem je společnost, která v ČR zaměstnává více než 300 inženýrů, kteří se zabývají vývojem řešení v oblastech řízení motorů, výkonová elektronika, automobilové a bezpečnostní systémy apod. Pracovníka pro výše uvedenou pozici hledáme do týmu, který se zabývá vývojem machine learning vývojového prostředí určeného pro nejvýkonnější mikrokontroléry a mikroprocesory.</p><h3>Profil pozice</h3><p>Na této pozici se budete věnovat rozvoji machine learning vývojového prostředí, které kromě jiného obsahuje kompilátory neuronových sítí, optimalizované knihovny a mnoho dalšího.</p><p>Vaším úkolem bude ve zkušeném týmu odborníků vyvíjet aplikace Aplikace založené na datech (Bring Your Own Data), Aplikace řízené modely ML (Bring Your Own Model), ve spolupráci se SW a aplikačními týmy s použitím TensorFlow, Python, JavaScript, Git, … V další části se budete věnovat validaci a integraci frameworků strojového učenína základě zpětné vazby týmu systémového inženýrství a zákazníků s použitím C++, Python, CMake, Git, TensorFlow, ONNX, Arm, ... </p><h3>Profil pracovníka</h3><p>Pokud máte i školní znalosti zkušenosti v oblasti machine learning ( TensorFlow, PyTorch, CUDA …), zkušenosti s programováním C /C++ a skriptováním v jayzce Python a máte chuť se dále rozvíjet v oblasti strojového učení, pak jepro Vás tato nabídka ideální.</p><p>Na této pozici budete mít možnost podílet se na vývoji nových technologických řešení pro zákazníky z celého světa, budete prohlubovat své dosavadní znalosti a zkušenosti a budete pracovat se zkušenými odborníky, kteří Vám budou předávat své znalosti a zkušenosti formou technického mentoringu.</p><h3>Nabídka zaměstnavatele</h3><p>Náš klient Vám nabízí možnost získání špičkových pracovních zkušeností na převážně zahraničních projektech. Budete se podílet na vývoji řešení technologických novinek a prohlubovat své dosavadní odborné znalosti a dovednosti.</p><p>Místo pracoviště je v Brně, nebo v Rožnově pod Radhoštěm.</p><p>Společnost má mimořádnou firemní kulturu, která podporuje další vzdělávání a profesní růst. Mezi zaměstnanecké výhody patří:</p><p>- pružná pracovní dobu s možností pracovat z domova až polovinu pracovní doby</p><p>- propracovaný systém odborného vzdělávání a technického mentoringu</p><p>- dotované stravování a občerstvení na pracovišti</p><p>- finanční příspěvky v případě nemoci pracovníka, či jeho dětí a mnoho dalšího.</p><p>- možnost nástupu po dohodě</p><h3>Průběh výběrového řízení</h3><p>Pokud Vás naše nabídka zaujala, prosíme Vás o zaslání Vašeho anglického životopisu, spolu se souhlasem se zpracováním osobních údajů. Vámi zaslaný životopis je úvodním podkladem výběrového řízení, nikoliv však nejdůležitějším.</p><p>Po obdržení Vašeho životopisu Vás bude kontaktovat konzultant zodpovědný za realizaci výběrového řízení, který Vám předá detailní informace o nabízené pracovní pozici a zjistí více informací o Vašich dosavadních zkušenostech, kariérních představách a požadavcích na budoucího zaměstnavatele.</p><p>V případě Vašeho souhlasu s účastí ve výběrovém řízení prezentuje konzultant Váš odborný profil zaměstnavateli a domlouvá další postup výběrového řízení stanovený zaměstnavatelem. O průběhu výběrového a výsledcích jednotlivých kol Vás budeme průběžně informovat. Pokud budete mít v průběhu výběrového řízení jakékoliv dotazy, kontaktujte přímo svého konzultanta.</p>
+	</div>
+	
+</div>
+
+<div class="span-8 last">
+	<div class="pl1em">
+        <div id="jobcontact">
+            <div class="content">
+                                <p class="center">
+                                    	<a href="https://simplex.superkariera.cz" title="zobrazit detail firmy"><img src="https://www.superkariera.cz/storage/get/708114/a41/7dfc25e4d27e426b8134f1ec58936/logo.png" alt="logo" /></a>
+                                    </p>
+                                <p><span class="label">Firma: </span><span class="info"><b>
+                    <a href="https://simplex.superkariera.cz" title="zobrazit detail firmy" class="quiet">                    SIMPLEX Czech s.r.o.
+                    </a>                </b></span></p>
+                                <p><span class="label">Kontakt: </span><span class="info">
+                                                                    <a href="#odpoved">Simona Procházková</a><br />
+                                                                Na Hroudě 24/3317<br />100 00 Praha 10</span>
+                </p>
+                				
+                                <p>
+					<span class="label">Telefon: </span><span class="info">
+                    +420 224 266 042<br />                    </span>
+                </p>
+                				                        
+                                <div class="clear"></div>
+            </div>
+            <div class="blue">
+                                <p><span class="label">Místo práce: </span><span class="info">Brno</span></p>
+                                <p><span class="label">Typ úvazku: </span><span class="info">hlavní pracovní poměr</span></p>
+                <p><span class="label">Poznámka: </span><span class="info">vhodné pro absolventy</span></p>                                <div class="clear"></div>
+            </div>
+            <div class="content">
+                <ul class="square">
+                                            <li><strong><a href="https://simplex.superkariera.cz" title="zobrazit detail firmy" class="quiet">zobrazit profil firmy</a></strong></li>
+                                                            <li><strong><a class="savejob" rel="1881433" href="https://www.superkariera.cz/prace/savejob/1881433">uložit do oblíbených</a></strong></li>
+                                        
+                        <li><strong>
+                                                            <a href="/prace/reakce/1881433">odpovědět na inzerát</a>
+                                                    </strong></li>
+
+                                        </ul>
+                    
+                                                    </div>
+    
+        </div>
+    </div>
+</div>
+
+<div class="clearfix"></div>
+
+<hr class="space" />
+<hr />
+	
+    <a name="odpoved"></a>
+		    <p class="quiet"><a href="/prace/reakce/1881433" class="btn"><span class="orange large"><span>Reagovat na tuto pozici</span></span></a></p>
+		
+
+<hr class="clear" /><p class="center bottom">
+	<a href="https://www.superkariera.cz/prace/">Práce</a> <span class="verylight">|</span>
+	<a href="https://www.superkariera.cz/brigady/">Brigády</a> <span class="verylight">|</span>
+	<a href="https://moje.superkariera.cz">Moje.kariéra</a> <span class="verylight">|</span>
+	<a href="https://www.superkariera.cz/poradna/">Poradna</a> <span class="verylight">|</span>
+	<a href="https://www.superkariera.cz/o-nas">O nás</a> <span class="verylight">|</span>
+	<a href="https://www.superkariera.cz/kontakt">Kontakt</a> <span class="verylight">|</span>
+	<a href="https://www.superkariera.cz/pro-firmy">Zaměstnavatelé</a>
+</p>
+<p class="center bottom">
+	<a href="https://www.superkariera.cz/obchodni-podminky">Obchodní podmínky</a> <span class="verylight">|</span>
+	<a href="https://www.superkariera.cz/oou">Ochrana osobních údajů</a>
+</p>
+<p class="bottom center light">&copy;2021 KARIERA.CZ s.r.o.</p>
+</div><!--/container-->
+
+<script type="text/javascript" src="https://www.superkariera.cz/js/3rdparty/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="https://www.superkariera.cz/js/3rdparty/jquery.tools.min.js"></script>
+<script type="text/javascript" src="https://www.superkariera.cz/js/3rdparty/ajaxupload.js"></script>
+<script type="text/javascript" src="https://www.superkariera.cz/js/3rdparty/jquery.fancybox.js"></script>
+<script type="text/javascript" src="https://www.superkariera.cz/js/3rdparty/jquery.fullscreen.js"></script>
+
+<script type="text/javascript" src="https://www.superkariera.cz/js/app-all_345888.js"></script>
+<script type="text/javascript" src="https://www.superkariera.cz/js/app-public_345888.js"></script>
+<script type="text/javascript" src="https://www.superkariera.cz/js/ipaper_345888.js"></script>
+
+
+
+
+
+</body>
+</html>
