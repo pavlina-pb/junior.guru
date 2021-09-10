@@ -296,7 +296,7 @@
                         </div>
                 </div>
 
-                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Hlavní město Praha, Czech Republic"></span></span><meta itemprop="datePosted" content="Thu Aug 12 02:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="erstegro01P2">
+                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Hlavní město Praha, Czech Republic"></span></span><meta itemprop="datePosted" content="Fri Sep 10 02:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="erstegro01P2">
                     <div class="jobDisplay">
                             <div class="content">
                                 <div class="jobTitle">
@@ -707,7 +707,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "18c917a3-a669-468b-bb9b-3cd1bd88f479"
+						"X-CSRF-Token" : "f2bbd76b-249d-46ad-a7a0-4f708ea129b9"
 					}
 				});
 			//]]>
@@ -757,7 +757,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "18c917a3-a669-468b-bb9b-3cd1bd88f479"
+						"X-CSRF-Token" : "f2bbd76b-249d-46ad-a7a0-4f708ea129b9"
 					}
 				});
 			//]]>
@@ -778,7 +778,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = 'af9ade4e-acb2-4443-a9d6-d43b8d7cf9a7';
+				var ctid = '74982e48-a067-44cd-bc22-dd0dcb31b82e';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2692320442';
 				var landing = document.location.href;
 				var brand = 'csas';
@@ -816,7 +816,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1489259755"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=938467795"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
