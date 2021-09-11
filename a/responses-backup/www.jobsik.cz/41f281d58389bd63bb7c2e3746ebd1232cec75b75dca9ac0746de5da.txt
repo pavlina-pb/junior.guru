@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -248,7 +244,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27202523">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27202523/">Obsluha CNC strojů fréza, soustruh – Rosice až 210Kč/hod</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Rosice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ABZAKOVO spol.s.r.o.
 Brno</span><br>
@@ -263,7 +259,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27294301">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294301/">Programátor webových aplikací – C#/.NET</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Znojmo</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PŘEDVÝBĚR.CZ s.r.o.</span><br>
     
@@ -277,7 +273,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27294693">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294693/">Operátor/programátor laseru (vhodné pro absolventa)</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Rosice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">IMPACT INDUSTRY BRNO, a.s. </span><br>
     
@@ -331,9 +327,24 @@ Brno</span><br>
 
 
 
+<div class="job-item" id="job-27300222">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27300222/">Pohodová Brigáda Mikulov - 131,-/hod</a></h2>
+    <span class="job-item__date">včera</span>
+    <span class="job-item__place job-item__place--city">Mikulov</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">ABZAKOVO spol.s.r.o.
+Brno</span><br>
+    <span class="job-item__salary" title="Uvedený plat">131 Kč za hodinu</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27096628">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27096628/">Pohodová brigáda v supermarketu – Brno 131,-</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">ABZAKOVO spol.s.r.o.
 Brno</span><br>
@@ -353,20 +364,6 @@ Brno</span><br>
     <span class="job-item__separator-force"></span><span class="job-item__company">Hofmann Wizard s.r.o.
 Import</span><br>
     <span class="job-item__salary" title="Uvedený plat">132 Kč za hodinu</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27244693">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27244693/">Kontrolor / kontrolorka kvality - brigáda</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
-    <span class="job-item__place job-item__place--city">Zbýšov u Brna - Brno-venkov</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">130 Kč za hodinu</span> <span class="job-item__separator"></span>
         
         
     
@@ -610,7 +607,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -210,7 +214,7 @@ Restaurace, supermarket, lékárna i knihovna pár minut chůze od kanceláře
 
 <div class="job-item" id="job-27191484">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27191484/">Junior DevOps inženýr + Junior Developer (C#) - Brno i remote</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">UD4D s.r.o.</span><br>
     
@@ -224,7 +228,7 @@ Restaurace, supermarket, lékárna i knihovna pár minut chůze od kanceláře
 
 <div class="job-item" id="job-27294287">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294287/">DevOps</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PŘEDVÝBĚR.CZ s.r.o.</span><br>
     
@@ -236,23 +240,9 @@ Restaurace, supermarket, lékárna i knihovna pár minut chůze od kanceláře
 
 
 
-<div class="job-item" id="job-27297086">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27297086/">Analytik| DevOps</a></h2>
-    <span class="job-item__date">před 2 dny</span>
-    <span class="job-item__place job-item__place--city">Brno</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27298639">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27298639/">DevOps Engineer (IČO, Remote, 1x/14dní Brno)</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
     
@@ -337,10 +327,24 @@ Brno</span><br>
 
 <div class="job-item" id="job-27294343">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294343/">Recepční</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">IP - TRADING, s. r. o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">12500 Kč za měsíc</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27297008">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27297008/">Kuchař/kuchařka</a></h2>
+    <span class="job-item__date">dnes</span>
+    <span class="job-item__place job-item__place--city">Brno</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Brixton-gastro, s.r.o.</span><br>
+    <span class="job-item__salary" title="Uvedený plat">35000 - 45000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -582,7 +586,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
