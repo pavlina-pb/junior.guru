@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link href="/player-career-site/1.20.18/node_modules/player-core-ui/assets/normalize.css" id="player-normalize" rel="stylesheet" type="text/css" /><link href="/player-career-site/1.20.18/node_modules/player-core-ui/assets/csod-icons.css" id="player-icons" rel="stylesheet" type="text/css" /><link href="/player-career-site/1.20.18/pages/home.styles.css" id="player-page-styles" rel="stylesheet" type="text/css" /><link href="/player-theming/1.0.13/theme.css?baseColor=%23646468" id="player-theming" rel="stylesheet" type="text/css" /></head>
+<body> 
+<div id="cs-root"></div><script type="text/javascript">var csodPlayerRouteInfo={ 
+								"package": "career-site",
+								"page": "home",
+								"cid": "4",
+								"routeInfo": {
+  "reqid": "409",
+  "_rest_": "?c=oriflame&page=jobs"
+} };</script><script type="text/javascript">var csodGoogleMapsClientApi = {"key": "gme-cornerstoneondemand","isPremium": "True"};</script><script type="text/javascript">var csodFacebookAppId = "237871519593593";</script><script type="text/javascript">function extendSession(handler) {
+                                                    if (typeof handler !== 'undefined')
+                                                        handler();
+                                                    else {
+                                                        var getImg = new Image();
+													    var src = '/core/GetImage.aspx' + '?filename=1pt.gif';
+													    if (src.indexOf('?') > -1)
+														    src += '&';
+													    else
+														    src += '?';
+													    src += 't=' + (new Date()).getTime().toString();
+													    getImg.src = src;
+                                                    }
+												} </script><script type="text/javascript">window.gtm_account='GTM-P9CB82G';</script><script async type="text/javascript" src='/Core/scripts/GoogleTagManager.js'></script><script type="text/javascript" src="/player-career-site/1.20.18/pages/home.js"></script><script type="text/javascript">if(!csod.context  || !csod.context.token)  csod.context={"corp":"oriflame","user":-103,"cultureID":1,"cultureName":"en-US","timezone":1,"package":"career-site","page":"home","basePath":"/player-career-site/1.20.18/","serviceBase":"/","applicationBase":"/","playerBase":"/","home":"/ui/home","endpoints":{"cloud":"https://eu-fra.api.csod.com/","api":"/"},"token":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImNsaWQiOiIxOTN0emY4Y2Jhd3pxIn0.eyJjY2lkIjoidWRmbWJ2bnFydXlmeXBrIiwic3ViIjotMTAzLCJhdWQiOiJyd2JxbWljdXZwbWpmcXh1Z2Zoa2J4d3QiLCJjb3JwIjoib3JpZmxhbWUiLCJjdWlkIjoxLCJ0emlkIjoxLCJuYmQiOiIyMDIxMDkxMzExMDIxMDM4OSIsImV4cCI6IjIwMjEwOTEzMTE0ODEwMzg5IiwiaWF0IjoiMjAyMTA5MTMxMTAyMTAzODkifQ.4canApe9yGcvynWIsqaIMZYPXQ2k6lmluRleqUz-0GcK9sDAhj3Ala_gjzdnkl8Ia4bRnZr3osyGCdiwwZOMTw","debug":false,"log":{"level":"Warn","batchSize":5,"service":{"contentSize":1048576,"responseTime":2001},"page":{"loadTime":5000}},"correlation":"f74956ac-a3fc-4dcd-a78a-db011e273b8d","version":"1.20.18","tracking":null,"theming":{"primary":"646468"},"trackerSettings":{"anonymizePortalName":false,"vendorAPIKeys":{"amplitude":"a328ec1895b18ee52643ef53449b6ecb"}}};</script><script type="text/javascript" id="player-page-controls" src="/player-career-site/1.20.18/pages/home.controls.js"></script><script type="text/javascript">csod.player.initialize(csod.context);</script></body>
+</html>
