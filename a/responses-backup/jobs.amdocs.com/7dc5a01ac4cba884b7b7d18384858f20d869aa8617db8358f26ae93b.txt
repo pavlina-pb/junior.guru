@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html class="html5" xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 
@@ -2516,7 +2515,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "6bac7419-578d-4973-9e7a-1a818408c0bc"
+						"X-CSRF-Token" : "c705a5d9-4444-4b8f-94f7-f626e4ea6d1d"
 					}
 				});
 			//]]>
@@ -2547,7 +2546,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = 'b5722f36-af5f-42ee-9eae-aa6a3c3f1150';
+				var ctid = '200f5ee3-f6e6-4c23-87a6-5f455f4ccd85';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2696432973';
 				var landing = document.location.href;
 				var brand = '';
@@ -2585,7 +2584,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=231755580"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=1871896873"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

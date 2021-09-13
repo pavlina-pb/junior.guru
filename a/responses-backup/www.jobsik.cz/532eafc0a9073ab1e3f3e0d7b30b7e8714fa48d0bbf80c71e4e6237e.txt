@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -256,7 +252,7 @@ Restaurace, supermarket, lékárna i knihovna pár minut chůze od kanceláře
     <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">CARGO-HORTIM, spol. s r.o.</span><br>
-    
+    <span class="job-item__salary" title="Uvedený plat">45000 - 50000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -270,7 +266,7 @@ Restaurace, supermarket, lékárna i knihovna pár minut chůze od kanceláře
     <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">CARGO-HORTIM, spol. s r.o.</span><br>
-    
+    <span class="job-item__salary" title="Uvedený plat">35000 - 40000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -582,7 +578,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

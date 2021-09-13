@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -251,20 +247,6 @@ Zaujala Vás tato nabídka? Zašlete svůj životopis na email: kariera@datapart
 
 
 
-<div class="job-item" id="job-27029785">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27029785/">Traťový dělník</a></h2>
-    <span class="job-item__date">před týdnem</span>
-    <span class="job-item__place job-item__place--city">České Budějovice</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">Skanska a.s. </span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27041013">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27041013/">Dopravce s vlastní dodávkou České Budějovice</a></h2>
     <span class="job-item__date">před 5 dny</span>
@@ -354,6 +336,21 @@ Zaujala Vás tato nabídka? Zašlete svůj životopis na email: kariera@datapart
     <span class="job-item__date">před 4 dny</span>
     <span class="job-item__place job-item__place--city">České Budějovice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">OHL ŽS, a.s.</span><br>
+    
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27165677">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27165677/">Specialista péče o zákazníky</a></h2>
+    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__place job-item__place--city">České Budějovice</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Conectart a.s.
+České Budějovice</span><br>
     
         
         
@@ -598,7 +595,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

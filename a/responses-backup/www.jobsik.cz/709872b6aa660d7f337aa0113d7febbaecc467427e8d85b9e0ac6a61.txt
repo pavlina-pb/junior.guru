@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -197,6 +201,36 @@ Souhlas zaměstnavatele se zaměstnaneckou karotou.
                 <div class="similarJobs">
                     <h2 class="job-item-detail__title">Podobné nabídky práce</h2>
 
+<div class="job-item" id="job-27302598">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302598/">Inženýr kvality 50.000Kč</a></h2>
+    <span class="job-item__date">dnes</span>
+    <span class="job-item__place job-item__place--city">Brno</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
+Brno</span><br>
+    
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27302599">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302599/">Inženýr kvality s angličtinou</a></h2>
+    <span class="job-item__date">dnes</span>
+    <span class="job-item__place job-item__place--city">Kuřim</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Advantage Consulting, s.r.o.
+Brno</span><br>
+    
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27247501">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27247501/">Biomedicínský inženýr / Servisní technik - spánková terapie</a></h2>
     <span class="job-item__date">aktivní nabídka</span>
@@ -244,7 +278,7 @@ Souhlas zaměstnavatele se zaměstnaneckou karotou.
     <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">CARGO-HORTIM, spol. s r.o.</span><br>
-    
+    <span class="job-item__salary" title="Uvedený plat">45000 - 50000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -258,7 +292,7 @@ Souhlas zaměstnavatele se zaměstnaneckou karotou.
     <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">CARGO-HORTIM, spol. s r.o.</span><br>
-    
+    <span class="job-item__salary" title="Uvedený plat">35000 - 40000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -301,34 +335,6 @@ Souhlas zaměstnavatele se zaměstnaneckou karotou.
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Pavel Roháč</span><br>
     <span class="job-item__salary" title="Uvedený plat">23000 - 50000 Kč za měsíc</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-26658918">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658918/">Obchodní zástupce s exklus.zastoupením až 70.000Kč</a></h2>
-    <span class="job-item__date">před 6 dny</span>
-    <span class="job-item__place job-item__place--city">Brno , Vyškov , Blansko</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">provize až 70.000kč + náhrada za vlastní automobil</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-26659136">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26659136/">Operátor výroby – až 32 000,- Kč</a></h2>
-    <span class="job-item__date">před 6 dny</span>
-    <span class="job-item__place job-item__place--city">Brno</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">Diallogue Česká republika a.s.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">29000 - 32000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -572,7 +578,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

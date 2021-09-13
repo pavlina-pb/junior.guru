@@ -72,7 +72,7 @@
 <li>Knowledge in any one of the Platforms such as Windows/ Linux and related development technologies with hands-on experience</li>
 <li>At least Upper-intermediate English&nbsp;</li>
 </ul>
-<p>#LI-RK1</p>
+<p>#LI-MC1</p>
 <p>&nbsp;</p>
 
     
@@ -82,7 +82,7 @@
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/acronis/jobs/5321093002" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
         <input type="hidden" name="fingerprint" id="fingerprint" value="c43de20beb795e9ce1fc1f9ee95e6e7574fa6294" />
-        <input type="hidden" name="render_date" id="render_date" value="2021-09-13 10:58:27 +0000" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-09-13 17:47:24 +0000" />
 
 
 
@@ -240,15 +240,6 @@
   </div>
 
 
-            <span id="education_instructions">
-              When autocomplete results are available use up and down arrows to review
-            </span>
-
-            <div id="education_section"></div>
-
-<a id="add_education" href="#">
-  + Add Another <span class="offscreen">Education</span>
-</a>
 
         </div>
 
@@ -389,154 +380,6 @@
 </form>    </div>
 </div>
 
-  <div class="education education-template hidden" data-education-required="true" data-subfield-config="true">
-  <hr/>
-  <fieldset>
-
-      <div class='field'>
-        <label for="education_school_name">
-          School
-            <span class='asterisk'>*</span>
-        </label>
-
-        <input type="hidden" name="job_application[educations][][school_name_id]" id="education_school_name" class="school-name background-field" placeholder="Select a School" aria-required="true" data-url="https://boards-api.greenhouse.io/v1/boards/acronis/education/schools" data-validators="[{&quot;type&quot;:&quot;notBlank&quot;,&quot;key&quot;:&quot;SchoolNameRequired&quot;}]" />
-
-        <a class="remove-background-field" href="#"><img alt="Remove Education" src="https://boards.cdn.greenhouse.io/assets/svg/close-1f51e10a505d573a829e9c16246c3ba1a6d512e93c5c8f188de0772bd491f977.svg" /></a>
-      </div>
-
-      <div class='field'>
-        <label for="education_degree">
-          Degree
-            <span class='asterisk'>*</span>
-        </label>
-
-        <select name="job_application[educations][][degree_id]" id="education_degree" class="degree background-field" aria-required="true" data-placeholder="Select a Degree" data-validators="[{&quot;type&quot;:&quot;notBlank&quot;,&quot;key&quot;:&quot;DegreeRequired&quot;}]"><option value=""></option>
-<option value="10893354002">High School</option>
-<option value="10893355002">Associate&#39;s Degree</option>
-<option value="10893356002">Bachelor&#39;s Degree</option>
-<option value="10893357002">Master&#39;s Degree</option>
-<option value="10893358002">Master of Business Administration (M.B.A.)</option>
-<option value="10893359002">Juris Doctor (J.D.)</option>
-<option value="10893360002">Doctor of Medicine (M.D.)</option>
-<option value="10893361002">Doctor of Philosophy (Ph.D.)</option>
-<option value="10893362002">Engineer&#39;s Degree</option>
-<option value="10893363002">Other</option></select>
-      </div>
-
-      <div class='field'>
-        <label for="education_discipline">
-          Discipline
-            <span class='asterisk'>*</span>
-        </label>
-
-        <select name="job_application[educations][][discipline_id]" id="education_discipline" class="discipline background-field" aria-required="true" data-placeholder="Select a Discipline" data-validators="[{&quot;type&quot;:&quot;notBlank&quot;,&quot;key&quot;:&quot;DisciplineRequired&quot;}]"><option value=""></option>
-<option value="10893364002">Accounting</option>
-<option value="10893365002">African Studies</option>
-<option value="10893366002">Agriculture</option>
-<option value="10893367002">Anthropology</option>
-<option value="10893368002">Applied Health Services</option>
-<option value="10893369002">Architecture</option>
-<option value="10893370002">Art</option>
-<option value="10893371002">Asian Studies</option>
-<option value="10893372002">Biology</option>
-<option value="10893373002">Business</option>
-<option value="10893374002">Business Administration</option>
-<option value="10893375002">Chemistry</option>
-<option value="10893376002">Classical Languages</option>
-<option value="10893377002">Communications &amp; Film</option>
-<option value="10893378002">Computer Science</option>
-<option value="10893379002">Dentistry</option>
-<option value="10893380002">Developing Nations</option>
-<option value="10893381002">Discipline Unknown</option>
-<option value="10893382002">Earth Sciences</option>
-<option value="10893383002">Economics</option>
-<option value="10893384002">Education</option>
-<option value="10893385002">Electronics</option>
-<option value="10893386002">Engineering</option>
-<option value="10893387002">English Studies</option>
-<option value="10893388002">Environmental Studies</option>
-<option value="10893389002">European Studies</option>
-<option value="10893390002">Fashion</option>
-<option value="10893391002">Finance</option>
-<option value="10893392002">Fine Arts</option>
-<option value="10893393002">General Studies</option>
-<option value="10893394002">Health Services</option>
-<option value="10893395002">History</option>
-<option value="10893396002">Human Resources Management</option>
-<option value="10893397002">Humanities</option>
-<option value="10893398002">Industrial Arts &amp; Carpentry</option>
-<option value="10893399002">Information Systems</option>
-<option value="10893400002">International Relations</option>
-<option value="10893401002">Journalism</option>
-<option value="10893402002">Languages</option>
-<option value="10893403002">Latin American Studies</option>
-<option value="10893404002">Law</option>
-<option value="10893405002">Linguistics</option>
-<option value="10893406002">Manufacturing &amp; Mechanics</option>
-<option value="10893407002">Mathematics</option>
-<option value="10893408002">Medicine</option>
-<option value="10893409002">Middle Eastern Studies</option>
-<option value="10893410002">Naval Science</option>
-<option value="10893411002">North American Studies</option>
-<option value="10893412002">Nuclear Technics</option>
-<option value="10893413002">Operations Research &amp; Strategy</option>
-<option value="10893414002">Organizational Theory</option>
-<option value="10893415002">Philosophy</option>
-<option value="10893416002">Physical Education</option>
-<option value="10893417002">Physical Sciences</option>
-<option value="10893418002">Physics</option>
-<option value="10893419002">Political Science</option>
-<option value="10893420002">Psychology</option>
-<option value="10893421002">Public Policy</option>
-<option value="10893422002">Public Service</option>
-<option value="10893423002">Religious Studies</option>
-<option value="10893424002">Russian &amp; Soviet Studies</option>
-<option value="10893425002">Scandinavian Studies</option>
-<option value="10893426002">Science</option>
-<option value="10893427002">Slavic Studies</option>
-<option value="10893428002">Social Science</option>
-<option value="10893429002">Social Sciences</option>
-<option value="10893430002">Sociology</option>
-<option value="10893431002">Speech</option>
-<option value="10893432002">Statistics &amp; Decision Theory</option>
-<option value="10893433002">Urban Studies</option>
-<option value="10893434002">Veterinary Medicine</option>
-<option value="16774227002">Other</option></select>
-      </div>
-
-      <div class='field'>
-        <fieldset>
-          <legend>
-            <label>
-              Start Date
-
-                <span class='asterisk' aria-hidden='true'>*</span>
-            </label>
-          </legend>
-
-            <input type="text" name="job_application[educations][][start_date][month]" class="start-date-month month background-field" placeholder="MM" maxlength="2" aria-label="Education Start Month" aria-required="true" data-validators="[{&quot;type&quot;:&quot;monthFormat&quot;,&quot;key&quot;:&quot;EducationMonthFormat&quot;}]" />
-
-            <input type="text" name="job_application[educations][][start_date][year]" class="start-date-year year background-field" placeholder="YYYY" maxlength="4" aria-label="Education Start Year" aria-required="true" data-validators="[{&quot;type&quot;:&quot;yearFormat&quot;,&quot;key&quot;:&quot;EducationYearFormat&quot;}]" />
-        </fieldset>
-      </div>
-
-      <div class='field'>
-        <fieldset>
-          <legend>
-            <label>
-              End Date
-
-                (Year<span class='asterisk' aria-hidden='true'>*</span>)
-            </label>
-          </legend>
-
-            <input type="text" name="job_application[educations][][end_date][month]" class="end-date-month month background-field" placeholder="MM" maxlength="2" aria-label="Education End Month" aria-required="false" data-validators="[{&quot;type&quot;:&quot;monthFormat&quot;,&quot;key&quot;:&quot;EducationMonthFormat&quot;}]" />
-
-            <input type="text" name="job_application[educations][][end_date][year]" class="end-date-year year background-field" placeholder="YYYY" maxlength="4" aria-label="Education End Year" aria-required="true" data-validators="[{&quot;type&quot;:&quot;yearFormat&quot;,&quot;key&quot;:&quot;EducationYearFormat&quot;}]" />
-        </fieldset>
-      </div>
-  </fieldset>
-</div>
 
 
 
@@ -566,7 +409,7 @@
   <script class="js-metadata" data-key="JBEN.PublicJobBoard.UncacheableAttributes.path" data-type="string" data-value="/uncacheable_attributes.json" type="text/configuration"></script><script class="js-metadata" data-key="LocationControl.Providers.Mapbox.apiKey" data-type="string" data-value="pk.eyJ1IjoiamNtdWxsZXIiLCJhIjoiY2l2YmI2ZG82MDA4bzJ6b3UwNTB1enkycSJ9.oRrvDNk1PKKA76v6qSRFXg" type="text/configuration"></script>
   <script class="js-metadata" data-key="LocationControl.Providers.Pelias.apiKey" data-type="string" data-value="ge-39f1178289d5d0c5" type="text/configuration"></script>
   <script type="application/ld+json">
-  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Acronis","logo":"https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/582/400/resized/acronis.png?1572282109"},"title":"Software Developer C++ with willingness to switch to Golang (Global Maintenance Team)","datePosted":"2021-06-10","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Prague, Prague, Czech Republic","addressRegion":"PR","addressCountry":null,"postalCode":null}},"description":"\u003ch3\u003e\u003cstrong\u003eAs Acronis is dedicated not just to Cyber Protection but to the general protection of its potential and current employees, recruitment and onboarding process are being held online during the current global COVID-19 situation.\u003c/strong\u003e\u003c/h3\u003e\n\u003cp\u003eAcronis leads the world in cyber protection - solving safety, accessibility, privacy, authenticity, and security (SAPAS) challenges with innovative backup, security, disaster recovery, and enterprise file sync and share solutions that run in hybrid cloud environments: on-premises, in the cloud, or at the edge. Enhanced by AI technologies and blockchain-based data authentication, Acronis protects all data, applications and systems in any environment, including physical, virtual, cloud, and mobile.\u003c/p\u003e\n\u003cp\u003eWith dual headquarters in Switzerland and Singapore, Acronis protects the data of more than 5 million consumers and 500,000 businesses in over 150 countries and 20 languages.\u003c/p\u003e\n\u003cp\u003eAcronis is looking for a C++ developer with willingness to switch to Golang and strong troubleshooting skills to join our Global Maintenance Team. The team is responsible for operating, developing, improving, development of Cloud and On-Premise Enterprise products.\u003c/p\u003e\n\u003cp\u003eIn Global Maintenance Team, you will be working on various challenging issues for Cloud products and On-premise products as well. You will get experience with Cloud, High Load, and Enterprise software development. You will be cooperating with your colleagues all around the world: Bulgaria, Singapore, USA.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRESPONSIBILITIES:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eDevelopment and post-deploy improvement of cross-platform Cloud and On-Premise Backup solution, used by millions of users\u003c/li\u003e\n\u003cli\u003eInvestigate Cloud production issues on Development level\u003c/li\u003e\n\u003cli\u003eTroubleshoot issues in various enterprise environments\u003c/li\u003e\n\u003cli\u003ePerform code reviews\u003c/li\u003e\n\u003cli\u003eDebug and integrate code\u003c/li\u003e\n\u003cli\u003eUse cutting-edge tools for agile development and for monitoring such as git, JIRA, ElasticSearch, and lots more\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eSKILLS \u0026amp; EXPERIENCE:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e3+ years of experience in building and debugging highly-scalable applications using C++\u003c/li\u003e\n\u003cli\u003eKnowledge of advanced programming concepts (e.g. Multi-Threading, OS internals, Networking, TCP/IP protocol, IPC mechanisms)\u003c/li\u003e\n\u003cli\u003eStrong troubleshooting skills (e.g. troubleshooting memory leaks, performance problems, bugfixing etc)\u003c/li\u003e\n\u003cli\u003eWillingness to switch to Golang\u003c/li\u003e\n\u003cli\u003eKnowledge in any one of the Platforms such as Windows/ Linux and related development technologies with hands-on experience\u003c/li\u003e\n\u003cli\u003eAt least Upper-intermediate English\u0026nbsp;\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e#LI-RK1\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e"}
+  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Acronis","logo":"https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/582/400/resized/acronis.png?1572282109"},"title":"Software Developer C++ with willingness to switch to Golang (Global Maintenance Team)","datePosted":"2021-06-10","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Prague, Prague, Czech Republic","addressRegion":"PR","addressCountry":null,"postalCode":null}},"description":"\u003ch3\u003e\u003cstrong\u003eAs Acronis is dedicated not just to Cyber Protection but to the general protection of its potential and current employees, recruitment and onboarding process are being held online during the current global COVID-19 situation.\u003c/strong\u003e\u003c/h3\u003e\n\u003cp\u003eAcronis leads the world in cyber protection - solving safety, accessibility, privacy, authenticity, and security (SAPAS) challenges with innovative backup, security, disaster recovery, and enterprise file sync and share solutions that run in hybrid cloud environments: on-premises, in the cloud, or at the edge. Enhanced by AI technologies and blockchain-based data authentication, Acronis protects all data, applications and systems in any environment, including physical, virtual, cloud, and mobile.\u003c/p\u003e\n\u003cp\u003eWith dual headquarters in Switzerland and Singapore, Acronis protects the data of more than 5 million consumers and 500,000 businesses in over 150 countries and 20 languages.\u003c/p\u003e\n\u003cp\u003eAcronis is looking for a C++ developer with willingness to switch to Golang and strong troubleshooting skills to join our Global Maintenance Team. The team is responsible for operating, developing, improving, development of Cloud and On-Premise Enterprise products.\u003c/p\u003e\n\u003cp\u003eIn Global Maintenance Team, you will be working on various challenging issues for Cloud products and On-premise products as well. You will get experience with Cloud, High Load, and Enterprise software development. You will be cooperating with your colleagues all around the world: Bulgaria, Singapore, USA.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRESPONSIBILITIES:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eDevelopment and post-deploy improvement of cross-platform Cloud and On-Premise Backup solution, used by millions of users\u003c/li\u003e\n\u003cli\u003eInvestigate Cloud production issues on Development level\u003c/li\u003e\n\u003cli\u003eTroubleshoot issues in various enterprise environments\u003c/li\u003e\n\u003cli\u003ePerform code reviews\u003c/li\u003e\n\u003cli\u003eDebug and integrate code\u003c/li\u003e\n\u003cli\u003eUse cutting-edge tools for agile development and for monitoring such as git, JIRA, ElasticSearch, and lots more\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eSKILLS \u0026amp; EXPERIENCE:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e3+ years of experience in building and debugging highly-scalable applications using C++\u003c/li\u003e\n\u003cli\u003eKnowledge of advanced programming concepts (e.g. Multi-Threading, OS internals, Networking, TCP/IP protocol, IPC mechanisms)\u003c/li\u003e\n\u003cli\u003eStrong troubleshooting skills (e.g. troubleshooting memory leaks, performance problems, bugfixing etc)\u003c/li\u003e\n\u003cli\u003eWillingness to switch to Golang\u003c/li\u003e\n\u003cli\u003eKnowledge in any one of the Platforms such as Windows/ Linux and related development technologies with hands-on experience\u003c/li\u003e\n\u003cli\u003eAt least Upper-intermediate English\u0026nbsp;\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e#LI-MC1\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e"}
 </script>
 
     <script type='text/javascript' src='https://www.dropbox.com/static/api/2/dropins.js' id='dropboxjs' data-app-key='mh9jyh4mfwjnfhj' async></script>
