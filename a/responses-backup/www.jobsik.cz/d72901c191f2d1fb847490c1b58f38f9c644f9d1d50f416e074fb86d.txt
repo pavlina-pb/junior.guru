@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -242,7 +246,7 @@
 
 <div class="job-item" id="job-26860770">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26860770/">Programátor/ka - analytik delphi/SQL</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">okres Náchod</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PROFI-MEN, s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">40 000 - 50 000Kč</span> <span class="job-item__separator"></span>
@@ -270,7 +274,7 @@
 
 <div class="job-item" id="job-26789455">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26789455/">Obsluha CNC ohraňovacího lisu - možnost nadstandartních výdělků</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Libřice</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">SV metal spol. s r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">130 - 260 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -298,7 +302,7 @@
 
 <div class="job-item" id="job-26840306">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26840306/">Prodavač/ka maso, uzeniny, lahůdky - Hradec Králové</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Hradec Králové</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PMU CZ, a.s</span><br>
     <span class="job-item__salary" title="Uvedený plat">24000-26000 Kč</span> <span class="job-item__separator"></span>
@@ -312,7 +316,7 @@
 
 <div class="job-item" id="job-26850605">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26850605/">Web developer</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Hradec Králové</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PROFI-MEN, s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">16 000 - 32 000 Kč</span> <span class="job-item__separator"></span>
@@ -573,7 +577,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

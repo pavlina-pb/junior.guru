@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -201,7 +205,7 @@ Referenční číslo volného místa: 1693<br />
 
 <div class="job-item" id="job-27200469">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27200469/">Java EE Developer</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Cleverlance</span><br>
     <span class="job-item__salary" title="Uvedený plat">60000 - 100000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -229,7 +233,7 @@ Referenční číslo volného místa: 1693<br />
 
 <div class="job-item" id="job-27297111">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27297111/">Senior Java Developer/Team Lead – vývoj produktu pro Big Data a BI/DWH</a></h2>
-    <span class="job-item__date">před 6 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
     
@@ -269,37 +273,9 @@ Referenční číslo volného místa: 1693<br />
 
 
 
-<div class="job-item" id="job-27294269">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294269/">C++ Developer</a></h2>
-    <span class="job-item__date">před týdnem</span>
-    <span class="job-item__place job-item__place--city">Praha</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">PŘEDVÝBĚR.CZ s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27298585">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27298585/">PHP developer</a></h2>
-    <span class="job-item__date">před 5 dny</span>
-    <span class="job-item__place job-item__place--city">Praha</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27191485">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27191485/">Dynamics 365 Developer</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Cleverlance</span><br>
     <span class="job-item__salary" title="Uvedený plat">60000 - 90000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -331,6 +307,34 @@ Referenční číslo volného místa: 1693<br />
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Cleverlance</span><br>
     <span class="job-item__salary" title="Uvedený plat">60000 - 100000 Kč za měsíc</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27220958">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27220958/">SQL Developer–vývoj BI/DWH řešení, HPP/IČO, 2-3 dny remote</a></h2>
+    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__place job-item__place--city">Praha</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
+    
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27221021">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27221021/">BI Developer–vývoj reportingu, HPP/IČO, 2-3 dny remote</a></h2>
+    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__place job-item__place--city">Praha</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
+    
         
         
     
@@ -572,7 +576,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
