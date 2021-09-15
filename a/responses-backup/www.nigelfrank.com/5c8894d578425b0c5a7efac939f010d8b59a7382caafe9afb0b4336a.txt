@@ -212,7 +212,7 @@
 	<li id="menu-item-wpml-ls-2-it" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-it"><a title="Italian" href="https://www.nigelfrank.com/it/381937/c-developer"><span class="glyphicon Italian"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="it" title="Italiano"><span class="wpml-ls-display">Italian</span></a></li>
 </ul>
 </li>
-<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-8914 active"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
+<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8914"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
 <li id="menu-item-5623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5623 dropdown">
 <a title="Search Jobs" href="/microsoft-jobs" class="has-children" role="button" aria-expanded="false">Search Jobs <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -264,7 +264,7 @@
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -298,7 +298,7 @@
                 <div class="form-group">
                     <select class="form-control" name="role[]">
                         <option value selected="selected">Select Role</option>
-                                                    <option value='1'>Consultant</option>                                                    <option value='2'>Developer</option>                                                    <option value='3'>Other</option>                                                    <option value='4'>Practice Lead</option>                                                    <option value='5'>Pre-Sales</option>                                                    <option value='6'>Project Manager</option>                                                    <option value='7'>Sales</option>                                                    <option value='8'>Support</option>                                                    <option value='10'>Business Analyst</option>                                                    <option value='14'>Development Manager</option>                                                    <option value='15'>IT Director/CIO</option>                                                    <option value='16'>IT Manager</option>                                                    <option value='18'>Programme Manager</option>                                                    <option value='21'>Solution Architect</option>                                                    <option value='22'>Systems Manager</option>                                                    <option value='23'>Technical Architect</option>                                                    <option value='27'>Administrator</option>                                                    <option value='28'>Engineer</option>                                                    <option value='31'>Manager - Other</option>                                            </select>
+                                                    <option value='1'>Consultant</option>                                                    <option value='2'>Developer</option>                                                    <option value='3'>Other</option>                                                    <option value='4'>Practice Lead</option>                                                    <option value='5'>Pre-Sales</option>                                                    <option value='6'>Project Manager</option>                                                    <option value='7'>Sales</option>                                                    <option value='8'>Support</option>                                                    <option value='10'>Business Analyst</option>                                                    <option value='14'>Development Manager</option>                                                    <option value='15'>IT Director/CIO</option>                                                    <option value='16'>IT Manager</option>                                                    <option value='18'>Programme Manager</option>                                                    <option value='21'>Solution Architect</option>                                                    <option value='22'>Systems Manager</option>                                                    <option value='23'>Technical Architect</option>                                                    <option value='24'>Trainer</option>                                                    <option value='27'>Administrator</option>                                                    <option value='28'>Engineer</option>                                                    <option value='31'>Manager - Other</option>                                            </select>
                 </div>
 
                 <div class="form-group">
@@ -406,7 +406,7 @@
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="mtfS9S0uwYIG23kuZJY5XZgZBiR8bTT3Mrn9YqJL">        <input name="jobs[]" type="hidden" value="381937">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="VpgwM54KcF5svfFEVRdjMFe0iK6iSrECZV5ciILS">        <input name="jobs[]" type="hidden" value="381937">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -517,7 +517,7 @@
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/381937?_token=mtfS9S0uwYIG23kuZJY5XZgZBiR8bTT3Mrn9YqJL">
+                                      data-job-id="/saved-jobs/add/381937?_token=VpgwM54KcF5svfFEVRdjMFe0iK6iSrECZV5ciILS">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -560,7 +560,7 @@
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/381937?_token=mtfS9S0uwYIG23kuZJY5XZgZBiR8bTT3Mrn9YqJL">
+                                              data-job-id="/saved-jobs/add/381937?_token=VpgwM54KcF5svfFEVRdjMFe0iK6iSrECZV5ciILS">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -579,7 +579,7 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="mtfS9S0uwYIG23kuZJY5XZgZBiR8bTT3Mrn9YqJL">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="VpgwM54KcF5svfFEVRdjMFe0iK6iSrECZV5ciILS">
 
 
 

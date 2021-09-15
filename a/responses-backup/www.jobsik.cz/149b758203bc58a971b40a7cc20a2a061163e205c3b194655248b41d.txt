@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -198,6 +202,34 @@ Zaměstnavatel mění sídlo společnosti (zatím není zapsáno v OR)
                 <div class="similarJobs">
                     <h2 class="job-item-detail__title">Podobné nabídky práce</h2>
 
+<div class="job-item" id="job-27294948">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294948/">DevOps Engineer (HPP/ IČO)</a></h2>
+    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__place job-item__place--city">Praha</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Randstad HR Solutions s.r.o.</span><br>
+    <span class="job-item__salary" title="Uvedený plat">70000 - 130000 Kč/měsíc</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27302932">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302932/">Electrical Power Engineer</a></h2>
+    <span class="job-item__date">včera</span>
+    <span class="job-item__place job-item__place--city">Praha</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Randstad HR Solutions s.r.o.</span><br>
+    
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27160647">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27160647/">Embedded Cyber Security Engineer</a></h2>
     <span class="job-item__date">aktivní nabídka</span>
@@ -217,6 +249,20 @@ Zaměstnavatel mění sídlo společnosti (zatím není zapsáno v OR)
     <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
+    
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27302801">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302801/">Splunk Engineer/Administrator (full remote possible)</a></h2>
+    <span class="job-item__date">včera</span>
+    <span class="job-item__place job-item__place--city">Praha</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
     
         
         
@@ -288,48 +334,6 @@ Zaměstnavatel mění sídlo společnosti (zatím není zapsáno v OR)
     <span class="job-item__place job-item__place--city">Praha</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
     
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27214350">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27214350/">Siem Engineer - new siem implementations for leading companies</a></h2>
-    <span class="job-item__date">před týdnem</span>
-    <span class="job-item__place job-item__place--city">Praha</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">mBlue Czech, s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27116241">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27116241/">Pracovník ostrahy - strážný/strážná</a></h2>
-    <span class="job-item__date">dnes</span>
-    <span class="job-item__place job-item__place--city">Praha, </span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">Rambrok, s.r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">24500 - 28500 Kč za měsíc</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27121609">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27121609/">Prodavač / Prodavačka na zkrácený úvazek - Primark</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
-    <span class="job-item__place job-item__place--city">Praha</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">Associates in Advertising Ltd</span><br>
-    <span class="job-item__salary" title="Uvedený plat">21000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -571,7 +575,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

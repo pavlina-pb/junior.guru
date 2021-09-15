@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -211,23 +207,9 @@ Nástup ihned.
                 <div class="similarJobs">
                     <h2 class="job-item-detail__title">Podobné nabídky práce</h2>
 
-<div class="job-item" id="job-27294281">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294281/">Programátor (sql, .NET)</a></h2>
-    <span class="job-item__date">před týdnem</span>
-    <span class="job-item__place job-item__place--city">Ostrava</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">PŘEDVÝBĚR.CZ s.r.o.</span><br>
-    <span class="job-item__salary" title="Uvedený plat">30000 - 60000 Kč/měsíc</span> <span class="job-item__separator"></span>
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27294350">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294350/">Konstruktér – technik – junior</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Frýdek-Místek</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Jana Květoňová</span><br>
     <span class="job-item__salary" title="Uvedený plat">29000 - 35000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -283,7 +265,7 @@ Nástup ihned.
 
 <div class="job-item" id="job-26658917">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26658917/">Obchodní zástupce s exklusiv. zastoupením v regionu až 70000Kč</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Ostrava , Frýdek Místek</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GEMSTONED s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">provize až 70.000kč + náhrada za vlastní automobil</span> <span class="job-item__separator"></span>
@@ -297,7 +279,7 @@ Nástup ihned.
 
 <div class="job-item" id="job-26813896">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-26813896/">Kurýr(ka) - rozvoz zásilek dodávkou (sk. B) - depo PPL Ostrava</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Ostrava</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PPL CZ s.r.o. </span><br>
     
@@ -325,7 +307,7 @@ Nástup ihned.
 
 <div class="job-item" id="job-27105042">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27105042/">Zapisovatel odběrných míst / řidič / Ostrava</a></h2>
-    <span class="job-item__date">před 2 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Ostrava</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PAT GROUP s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">28900 - 36400 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -339,10 +321,24 @@ Nástup ihned.
 
 <div class="job-item" id="job-27160116">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27160116/">Specialista prodeje s krásnými bonusy!</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Ostrava</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Studio Moderna s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">20.000,- - 40.000,-</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27161024">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27161024/">Systémový Inženýr QC</a></h2>
+    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__place job-item__place--city">Ostrava</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">Quanta Human Resources CZ s.r.o.</span><br>
+    <span class="job-item__salary" title="Uvedený plat">45000 - 55000 Kč za měsíc</span> <span class="job-item__separator"></span>
         
         
     
@@ -586,7 +582,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
