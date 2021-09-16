@@ -86,10 +86,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -326,6 +322,18 @@
                         <div class="sidepanel__box sidepanel__box--top">
                             <h2 class="sidepanel__title-main">Našli jsme podobné nabídky</h2>
 
+<div class="job-item" id="job-27304895">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27304895/">IT tester / automatizace, Java (40 - 50.000 Kč)</a></h3>
+    
+    <span class="job-item__place job-item__place--city">Hradec Králové</span>
+        <br>
+    
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27041540">
     <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27041540/">Tester řídících systémů zemědělských strojů</a></h3>
     
@@ -352,18 +360,6 @@
 
 <div class="job-item" id="job-27085047">
     <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27085047/">Elektro-inženýr/vývojář</a></h3>
-    
-    <span class="job-item__place job-item__place--city">Hronov</span>
-        <br>
-    
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27200742">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27200742/">Specialista/tka zahraniční podpory</a></h3>
     
     <span class="job-item__place job-item__place--city">Hronov</span>
         <br>
@@ -493,7 +489,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);

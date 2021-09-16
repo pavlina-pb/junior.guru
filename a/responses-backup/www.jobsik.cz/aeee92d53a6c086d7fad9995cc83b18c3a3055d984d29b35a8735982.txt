@@ -85,6 +85,10 @@
     <div class="container relative">
 
 
+                <div class="leaderboard_mobile">
+                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
+                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
+                </div>   
 
 
         <div class="row">
@@ -204,7 +208,7 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27294351">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294351/">Developer ERP systému - junior</a></h2>
-    <span class="job-item__date">dnes</span>
+    <span class="job-item__date">včera</span>
     <span class="job-item__place job-item__place--city">Olomouc</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Jana Květoňová</span><br>
     <span class="job-item__salary" title="Uvedený plat">30000 - 42000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -218,7 +222,7 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27184936">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27184936/">Operátor/ky výroby s nástupem ihned</a></h2>
-    <span class="job-item__date">aktivní nabídka</span>
+    <span class="job-item__date">dnes</span>
     <span class="job-item__place job-item__place--city">Prostějov</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PRAGMA personální agentura s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">160 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -288,7 +292,7 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27217194">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27217194/">Konstruktér - i absolventi</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Prostějov</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GASL CZ s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">20000 - 30000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -302,7 +306,7 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27217223">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27217223/">Nábor z celé ČR: Operátor výroby, krásné ubytování, 160 Kč/hod.</a></h2>
-    <span class="job-item__date">před 5 dny</span>
+    <span class="job-item__date">před týdnem</span>
     <span class="job-item__place job-item__place--city">Prostějov</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PRAGMA personální agentura s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">160 Kč za hodinu</span> <span class="job-item__separator"></span>
@@ -330,7 +334,7 @@ Nabízíme: příjemné pracovní prostředí a přátelský kolektiv, možnost 
 
 <div class="job-item" id="job-27239761">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27239761/">Práce ve výrobě - čisté prostředí - do kmene firmy - 35.000 Kč</a></h2>
-    <span class="job-item__date">včera</span>
+    <span class="job-item__date">před 2 dny</span>
     <span class="job-item__place job-item__place--city">Prostějov</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">GASL CZ s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">25000 - 35000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -575,7 +579,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 4000);
+    }, 10000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
