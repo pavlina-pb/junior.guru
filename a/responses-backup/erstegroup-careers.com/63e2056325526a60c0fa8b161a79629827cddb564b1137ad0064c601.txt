@@ -20,7 +20,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="Developer" />
                 <meta property="og:description" content="Developer" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/51d453b6-66ac-4994-a5e0-0.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/cd02c17a-dd4e-4aa6-b0c6-4.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/5aa8ed44-764f-42fb-9b6e-f.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/efe89a7a-c658-4e61-aca3-0.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/header1.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=38368dc7" />
@@ -707,7 +707,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "e53c1f33-4a10-4a5d-8c74-094fc44bb00e"
+						"X-CSRF-Token" : "cb269dc4-7fe3-4f99-b8e2-f67a2bbc362b"
 					}
 				});
 			//]]>
@@ -757,7 +757,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "e53c1f33-4a10-4a5d-8c74-094fc44bb00e"
+						"X-CSRF-Token" : "cb269dc4-7fe3-4f99-b8e2-f67a2bbc362b"
 					}
 				});
 			//]]>
@@ -778,7 +778,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '7e42e0ec-2f0a-40fe-9736-2613e3bb06fb';
+				var ctid = '714d9542-aced-43ab-8651-0b3ed71caaaa';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2692320442';
 				var landing = document.location.href;
 				var brand = 'csas';
@@ -816,7 +816,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1912793814"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1652189718"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

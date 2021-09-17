@@ -20,7 +20,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="Vývojář Java /.Net a designér pro aplikace České spořitelny" />
                 <meta property="og:description" content="Vývojář Java /.Net a designér pro aplikace České spořitelny" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/51d453b6-66ac-4994-a5e0-0.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/cd02c17a-dd4e-4aa6-b0c6-4.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/5aa8ed44-764f-42fb-9b6e-f.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/efe89a7a-c658-4e61-aca3-0.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/header1.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=38368dc7" />
@@ -695,7 +695,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "43e2a0bf-032e-4270-9255-4f21db05869a"
+						"X-CSRF-Token" : "9195c743-51cc-40a8-a4cb-fe1da71c6855"
 					}
 				});
 			//]]>
@@ -745,7 +745,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "43e2a0bf-032e-4270-9255-4f21db05869a"
+						"X-CSRF-Token" : "9195c743-51cc-40a8-a4cb-fe1da71c6855"
 					}
 				});
 			//]]>
@@ -766,7 +766,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '2a7e22b1-8bf7-41da-8f0e-2635982045fe';
+				var ctid = '9b523066-845e-4ab6-b35b-3eabe50fc01f';
 				var referrer = 'https\x3A\x2F\x2Fcz.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2703439171';
 				var landing = document.location.href;
 				var brand = 'csas';
@@ -804,7 +804,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1912793814"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1652189718"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

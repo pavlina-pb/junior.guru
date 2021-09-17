@@ -106,7 +106,7 @@
     
     
 
-      <button class="apply-button apply-button--default top-card-layout__cta top-card-layout__cta--primary" data-reference-id="WkCsMNjxQzCEkpMTEQak6Q==" data-tracking-control-name="public_jobs_apply-link-easy-apply">
+      <button class="apply-button apply-button--default top-card-layout__cta top-card-layout__cta--primary" data-reference-id="/r+arshFRLuxCW69q+7xfw==" data-tracking-control-name="public_jobs_apply-link-easy-apply">
         Zažádat nyní
       </button>
       
@@ -246,7 +246,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"Heslo smí mít nejvýše 400 znaků"--></code>
 
     <form class="sign-in-form save-job-form-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="8f394f22-0c80-47c1-8695-29de989a7072" type="hidden">
+      <input name="loginCsrfParam" value="c9b9d131-d620-4525-8725-3483561d5e84" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -365,15 +365,22 @@
   
   
 
+    <div class="decorated-job-posting__details">
 <!---->
-    
+      
   
   
   
   
   
 
-  <section class="description">
+  
+    <section class="core-section-container description">
+<!---->
+<!---->
+<!---->
+      <div class="core-section-container__content">
+        
       
     
     
@@ -478,11 +485,15 @@
         </span>
       </li>
 <!----><!---->    </ul>
-  </section>
+  
+      </div>
+    </section>
+  
   
 
 <!---->
-<!---->
+<!---->    </div>
+
 <!---->
 <!----><!---->
     <code id="wwwEasyApplyUrl" style="display: none"><!--"https://www.linkedin.com/jobs/view/2677244766?showGuestApplyModal=true"--></code>
