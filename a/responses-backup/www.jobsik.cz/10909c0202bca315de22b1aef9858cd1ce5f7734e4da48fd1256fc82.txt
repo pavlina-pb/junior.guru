@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -241,20 +237,6 @@ Více informací o nás najdete na www.shopea.cz.     <br />
 
 
 
-<div class="job-item" id="job-27294934">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294934/">Senior PPC specialista/ka</a></h2>
-    <span class="job-item__date">před týdnem</span>
-    <span class="job-item__place job-item__place--city">Brno</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">PŘEDVÝBĚR.CZ s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
 <div class="job-item" id="job-27196889">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27196889/">Metrolog - senior 42 000,- Kč až 60 000,- Kč</a></h2>
     <span class="job-item__date">včera</span>
@@ -271,7 +253,7 @@ Více informací o nás najdete na www.shopea.cz.     <br />
 
 <div class="job-item" id="job-27196896">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27196896/">Účetní - senior s AJ 50.000,- Kč - 80.000,- Kč</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Břeclav</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Fosfa a.s.</span><br>
     <span class="job-item__salary" title="Uvedený plat">50000 - 80000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -283,9 +265,23 @@ Více informací o nás najdete na www.shopea.cz.     <br />
 
 
 
+<div class="job-item" id="job-27294934">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27294934/">Senior PPC specialista/ka</a></h2>
+    <span class="job-item__date">před týdnem</span>
+    <span class="job-item__place job-item__place--city">Brno</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">PŘEDVÝBĚR.CZ s.r.o.</span><br>
+    
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
 <div class="job-item" id="job-27302539">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302539/">Senior HR Consultant - IT</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Randstad HR Solutions s.r.o.</span><br>
     
@@ -313,7 +309,7 @@ Více informací o nás najdete na www.shopea.cz.     <br />
 
 <div class="job-item" id="job-27196888">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27196888/">Junior IT technik 32 000,- Kč až 42 000,- Kč</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Břeclav</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Fosfa a.s.</span><br>
     <span class="job-item__salary" title="Uvedený plat">25000 - 35000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -327,7 +323,7 @@ Více informací o nás najdete na www.shopea.cz.     <br />
 
 <div class="job-item" id="job-27302542">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302542/">Junior konstruktér/ka</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 5 dny</span>
     <span class="job-item__place job-item__place--city">Brno</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Randstad HR Solutions s.r.o.</span><br>
     
@@ -602,7 +598,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
