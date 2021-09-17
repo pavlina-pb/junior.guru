@@ -85,10 +85,6 @@
     <div class="container relative">
 
 
-                <div class="leaderboard_mobile">
-                    <!-- Reklamní systém Adwave - jobsik.cz - jobsik-desk-resp-jobdetail-horni -->
-                    <script type="text/javascript" src="https://www.adwave.cz/get-js.php?id=375"></script><noscript><a href="https://www.adwave.cz/" title="Reklamní systém Adwave">Reklamní systém Adwave</a> - pro zobrazení aktivujte javascript ve Vašem prohlížeči.</noscript>
-                </div>   
 
 
         <div class="row">
@@ -237,7 +233,7 @@
 
 
 <div class="job-item" id="job-27170327">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27170327/">Kontrola kvality - 120 Kč/hod. + bonusy</a></h2>
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27170327/">Kontrola kvality - super brigáda na léto - 120 Kč/hod. + bonusy</a></h2>
     <span class="job-item__date">aktivní nabídka</span>
     <span class="job-item__place job-item__place--city">Kroměříž</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Enter-Prise Sorting, s.r.o.</span><br>
@@ -267,7 +263,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27302796">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302796/">Frézař CNC - Náborový příspěvek až 40 000,-! s ubytováním!</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--district">Kroměříž</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PERM REGIONY</span><br>
     <span class="job-item__salary" title="Uvedený plat">22000 - 35000 Kč za měsíc</span> <span class="job-item__separator"></span>
@@ -279,25 +275,11 @@ Brno</span><br>
 
 
 
-<div class="job-item" id="job-27306817">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27306817/">Stavbyvedoucí - pro stavby oboru pozemního stavitelství</a></h2>
-    <span class="job-item__date">dnes</span>
-    <span class="job-item__place job-item__place--city">Zlínský a Jihomoravský kraj</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
-    
-        
-        
-    
-    <div class="cleaner"></div>
-</div>
-
-
-
-<div class="job-item" id="job-27306825">
-    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27306825/">Vedoucí stavebního střediska - Zlín</a></h2>
-    <span class="job-item__date">dnes</span>
-    <span class="job-item__place job-item__place--city">pracoviště v sídle společnosti ve Zlíně</span>
-    <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
+<div class="job-item" id="job-27302979">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27302979/">Skladník s obsluhou VZV - pouze ranní směna</a></h2>
+    <span class="job-item__date">před 3 dny</span>
+    <span class="job-item__place job-item__place--city">Hulín</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">MANPOWER, s.r.o.</span><br>
     
         
         
@@ -323,7 +305,7 @@ Brno</span><br>
 
 <div class="job-item" id="job-27186706">
     <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27186706/">CNC operátor/programátor/ohraňovací lis,frézar/sustružník/laser</a></h2>
-    <span class="job-item__date">před 4 dny</span>
+    <span class="job-item__date">před 3 dny</span>
     <span class="job-item__place job-item__place--city">Bayern, Baden Württemberg, Sachsen, Brandenburg, e</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">Maximus Personaldienstleistungen GmbH</span><br>
     <span class="job-item__salary" title="Uvedený plat">2400 - 3000 EUR za měsíc</span> <span class="job-item__separator"></span>
@@ -341,6 +323,20 @@ Brno</span><br>
     <span class="job-item__place job-item__place--city">Říčany</span>
     <span class="job-item__separator-force"></span><span class="job-item__company">PARTNER 4 JOB s.r.o.</span><br>
     <span class="job-item__salary" title="Uvedený plat">20000 - 40000 Kč za měsíc</span> <span class="job-item__separator"></span>
+        
+        
+    
+    <div class="cleaner"></div>
+</div>
+
+
+
+<div class="job-item" id="job-27288427">
+    <h2 class="job-item__title"><a class="job-item__link" href="/nabidka-27288427/">Obráběč kovů - obsluha a programátor CNC strojů</a></h2>
+    <span class="job-item__date">aktivní nabídka</span>
+    <span class="job-item__place job-item__place--city">Černošice - okres Praha-západ</span>
+    <span class="job-item__separator-force"></span><span class="job-item__company">JOBSYSTEM s.r.o.</span><br>
+    
         
         
     
@@ -584,7 +580,7 @@ modalShowed = false;
             $('#modalJobsNaEmail').modal({ backdrop: 'static'});
             modalShowed = true;
         }
-    }, 10000);
+    }, 4000);
     window.onload = function () {
         if (typeof history.pushState === "function") {
             history.pushState("jibberish", null, null);
