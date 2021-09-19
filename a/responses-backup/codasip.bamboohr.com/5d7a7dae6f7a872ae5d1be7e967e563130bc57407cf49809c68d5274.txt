@@ -5,10 +5,10 @@
 	
 	<script type="text/javascript">
 (function(ENV, TOKEN) {
-	var isSupportedBrowser = true;
+	var isSupportedBrowser = false;
 	var enabledEnvironments = ['prod', 'stage'];
 	var isEnabled = isSupportedBrowser && enabledEnvironments.indexOf(ENV) > -1;
-	var isMobile = true;
+	var isMobile = false;
 
 	function checkIgnoreCases(isUncaught, args, payload) {
 		var isRemoteUncaught = isIgnoringRemoteUncaught(isUncaught, payload);
@@ -211,7 +211,7 @@ Codasip is a leading provider of RISC-V processor IP and processor design automa
 		var DEFAULT_PERMISSIONS_ERROR_MESSAGE = "You do not have sufficient permissions for this";
 		var GLOBAL_DATEPICKER_MASK = "dd\u0020M\u0020yy";
 		var GLOBAL_NUMBER_REGEX = "\u005E\u0028\u003F\u0021\u002D0\u0024\u0029\u002D\u003F\u0028\u003F\u003D\u005B0\u002D9,\u005D\u0029\u0028\u003F\u00210\u005B0\u002D9\u005D\u0029\u0028\u003F\u003A\\d\u002B\u007C\\d\u007B1,3\u007D\u0028\u003F\u003A\u0020\\d\u007B3\u007D\u0029\u002B\u0029\u003F\u0028\u003F\u003A,\\d\u002B\u0029\u003F\u0024";
-		var CSRF_TOKEN = "4e9742a43a56d90a540459fb3d45549ab0f68c31faf84096116323fcbd1c340fb0aa16cfe2753b6a905e93d64bb5b5fe13cab710f66106e9bee1faf7942359f5";
+		var CSRF_TOKEN = "8204b7d7fb2becc512d3c9f3a76b2bd370c8fa0cef6379d168ed55da830118d5c16f21907cddae5fa96770697387e3e4f831b30f2556f405395b70a95eeef100";
 		var CAN_EMAIL_FILES_AND_REPORTS = null;
 		var EVENT_TRACKING_DEFINITIONS = null;
 	</script>
@@ -586,7 +586,7 @@ Codasip is a leading provider of RISC-V processor IP and processor design automa
 						<div class="jobsApp submitOverlay js-jobs-overlay">
 							<h3 class="applyFormHeader jobsAppHeader">Apply for this Position</h3>
 							<form id="applicationForm" class="candidateApplyForm jobsAppForm candidateInfoForm" method="POST" action="/jobs/view.php?id=81&amp;source=linkedin">
-								<input type="hidden" name="applicantHash" value="44b23cd54524991f259942e47146710df43c7664"/>
+								<input type="hidden" name="applicantHash" value="b2247be50072fd445e00e385e007299eb2e27f8a"/>
 								<input type="hidden" name="eeoOnly" value="off" id="eeoOnly"/>
 								<input type="hidden" name="scoreV3" value="" id="scoreV3"/>
 								<input type="hidden" name="positionHash" value="3372138" id="positionHash"/>
