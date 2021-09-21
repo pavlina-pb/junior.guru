@@ -77,12 +77,9 @@
 
 
 </head>
-    <script>
-        var touchDevice = true;
-    </script>
-    
 
-<body class='body-job-view banner-on  touch-device '>
+
+<body class='body-job-view banner-on   '>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
@@ -409,7 +406,7 @@
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="QmqGhuYGuUFvOn2mTEH035DNDhWRjmUaPghI0UDU">        <input name="jobs[]" type="hidden" value="381937">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="f4qugRFAxHqtafLreYJk1zhNXQS6Pmj2mvy4m0OX">        <input name="jobs[]" type="hidden" value="381937">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -520,7 +517,7 @@
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/381937?_token=QmqGhuYGuUFvOn2mTEH035DNDhWRjmUaPghI0UDU">
+                                      data-job-id="/saved-jobs/add/381937?_token=f4qugRFAxHqtafLreYJk1zhNXQS6Pmj2mvy4m0OX">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -535,15 +532,15 @@
         <h4>
                             Similar Jobs                    </h4>
 
+                    <p><a href="https://www.nigelfrank.com/386872/senior-c-software-developer">Senior C# Software Developer</a><br>
+                Prague, Czech Republic</p>
+                    <p><a href="https://www.nigelfrank.com/386740/c-software-developer">C# Software Developer</a><br>
+                Prague, Czech Republic</p>
+                    <p><a href="https://www.nigelfrank.com/386808/senior-net-developer">Senior .Net Developer</a><br>
+                Czech Republic</p>
+                    <p><a href="https://www.nigelfrank.com/386811/cnet-developer">C#/.Net Developer</a><br>
+                Prague, Czech Republic</p>
                     <p><a href="https://www.nigelfrank.com/383787/c-developer">C# Developer</a><br>
-                Prague, Czech Republic</p>
-                    <p><a href="https://www.nigelfrank.com/383956/ui-ux-designer">UI/UX Designer</a><br>
-                Prague, Czech Republic</p>
-                    <p><a href="https://www.nigelfrank.com/382981/c-developer">C# Developer</a><br>
-                Prague, Czech Republic</p>
-                    <p><a href="https://www.nigelfrank.com/382943/c-developer">C# Developer</a><br>
-                Prague, Czech Republic</p>
-                    <p><a href="https://www.nigelfrank.com/382578/c-software-developer">C++ Software Developer</a><br>
                 Prague, Czech Republic</p>
         
     </div>
@@ -563,7 +560,7 @@
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/381937?_token=QmqGhuYGuUFvOn2mTEH035DNDhWRjmUaPghI0UDU">
+                                              data-job-id="/saved-jobs/add/381937?_token=f4qugRFAxHqtafLreYJk1zhNXQS6Pmj2mvy4m0OX">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -582,7 +579,7 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="QmqGhuYGuUFvOn2mTEH035DNDhWRjmUaPghI0UDU">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="f4qugRFAxHqtafLreYJk1zhNXQS6Pmj2mvy4m0OX">
 
 
 
