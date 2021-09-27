@@ -81,12 +81,9 @@ Our client is a Global, well respected company with a huge presence...">
 
 
 </head>
-    <script>
-        var touchDevice = true;
-    </script>
-    
 
-<body class='body-job-view banner-on  touch-device '>
+
+<body class='body-job-view banner-on   '>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
@@ -211,12 +208,12 @@ Our client is a Global, well respected company with a huge presence...">
 <li id="menu-item-wpml-ls-2-en" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-2-en dropdown">
 <a title="English" href="https://www.nigelfrank.com/383242/full-stack-developer" class="has-children" role="button" aria-expanded="false"><span class="glyphicon English"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/uploads/flags/flags.png" alt="en" title="English"><span class="wpml-ls-display">English</span> <span class="caret"></span></a>
 <ul class="dropdown-menu">
-<li id="menu-item-wpml-ls-2-de" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-de"><a title="German" href="https://www.nigelfrank.com/de/383242/full-stack-developer"><span class="glyphicon German"></span> <img class="wpml-ls-flag" src="http://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" alt="de" title="Deutsch"><span class="wpml-ls-display">German</span></a></li>
-	<li id="menu-item-wpml-ls-2-fr" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-fr"><a title="French" href="https://www.nigelfrank.com/fr/383242/full-stack-developer"><span class="glyphicon French"></span> <img class="wpml-ls-flag" src="http://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" alt="fr" title="FranÃ§ais"><span class="wpml-ls-display">French</span></a></li>
-	<li id="menu-item-wpml-ls-2-nl" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-nl wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-nl"><a title="Dutch" href="https://www.nigelfrank.com/nl/383242/full-stack-developer"><span class="glyphicon Dutch"></span> <img class="wpml-ls-flag" src="http://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/nl.png" alt="nl" title="Nederlands"><span class="wpml-ls-display">Dutch</span></a></li>
-	<li id="menu-item-wpml-ls-2-pl" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-pl wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-pl"><a title="Polish" href="https://www.nigelfrank.com/pl/383242/full-stack-developer"><span class="glyphicon Polish"></span> <img class="wpml-ls-flag" src="http://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png" alt="pl" title="polski"><span class="wpml-ls-display">Polish</span></a></li>
-	<li id="menu-item-wpml-ls-2-es" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-es wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-es"><a title="Spanish" href="https://www.nigelfrank.com/es/383242/full-stack-developer"><span class="glyphicon Spanish"></span> <img class="wpml-ls-flag" src="http://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="EspaÃ±ol"><span class="wpml-ls-display">Spanish</span></a></li>
-	<li id="menu-item-wpml-ls-2-it" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-it"><a title="Italian" href="https://www.nigelfrank.com/it/383242/full-stack-developer"><span class="glyphicon Italian"></span> <img class="wpml-ls-flag" src="http://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="it" title="Italiano"><span class="wpml-ls-display">Italian</span></a></li>
+<li id="menu-item-wpml-ls-2-de" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-de"><a title="German" href="https://www.nigelfrank.com/de/383242/full-stack-developer"><span class="glyphicon German"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" alt="de" title="Deutsch"><span class="wpml-ls-display">German</span></a></li>
+	<li id="menu-item-wpml-ls-2-fr" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-fr"><a title="French" href="https://www.nigelfrank.com/fr/383242/full-stack-developer"><span class="glyphicon French"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" alt="fr" title="FranÃ§ais"><span class="wpml-ls-display">French</span></a></li>
+	<li id="menu-item-wpml-ls-2-nl" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-nl wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-nl"><a title="Dutch" href="https://www.nigelfrank.com/nl/383242/full-stack-developer"><span class="glyphicon Dutch"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/nl.png" alt="nl" title="Nederlands"><span class="wpml-ls-display">Dutch</span></a></li>
+	<li id="menu-item-wpml-ls-2-pl" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-pl wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-pl"><a title="Polish" href="https://www.nigelfrank.com/pl/383242/full-stack-developer"><span class="glyphicon Polish"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png" alt="pl" title="polski"><span class="wpml-ls-display">Polish</span></a></li>
+	<li id="menu-item-wpml-ls-2-es" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-es wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-es"><a title="Spanish" href="https://www.nigelfrank.com/es/383242/full-stack-developer"><span class="glyphicon Spanish"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="EspaÃ±ol"><span class="wpml-ls-display">Spanish</span></a></li>
+	<li id="menu-item-wpml-ls-2-it" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-it"><a title="Italian" href="https://www.nigelfrank.com/it/383242/full-stack-developer"><span class="glyphicon Italian"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="it" title="Italiano"><span class="wpml-ls-display">Italian</span></a></li>
 </ul>
 </li>
 <li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8914"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
@@ -413,7 +410,7 @@ Our client is a Global, well respected company with a huge presence...">
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="fi3Op0ikZDJ0NtRscEpSThiWHS88sjiNy8nJaxiq">        <input name="jobs[]" type="hidden" value="383242">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="kX7mrs8hvt7wfG3a7Bv3CrNqWSqovi2j2W7lzawJ">        <input name="jobs[]" type="hidden" value="383242">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -526,7 +523,7 @@ Our client is a Global, well respected company with a huge presence...">
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/383242?_token=fi3Op0ikZDJ0NtRscEpSThiWHS88sjiNy8nJaxiq">
+                                      data-job-id="/saved-jobs/add/383242?_token=kX7mrs8hvt7wfG3a7Bv3CrNqWSqovi2j2W7lzawJ">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -569,7 +566,7 @@ Our client is a Global, well respected company with a huge presence...">
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/383242?_token=fi3Op0ikZDJ0NtRscEpSThiWHS88sjiNy8nJaxiq">
+                                              data-job-id="/saved-jobs/add/383242?_token=kX7mrs8hvt7wfG3a7Bv3CrNqWSqovi2j2W7lzawJ">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -588,7 +585,7 @@ Our client is a Global, well respected company with a huge presence...">
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="fi3Op0ikZDJ0NtRscEpSThiWHS88sjiNy8nJaxiq">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="kX7mrs8hvt7wfG3a7Bv3CrNqWSqovi2j2W7lzawJ">
 
 
 
