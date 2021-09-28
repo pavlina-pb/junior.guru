@@ -25,7 +25,7 @@
 
         
                         <link rel="stylesheet" href="https://static.oracle.com/cdn/jet/9.1.0/default/css/alta/oj-alta-notag-min.css">
-                  <link rel="stylesheet" href="/hcmUI/CandExpStatic/21.7.60/css/main-minimal.css">
+                  <link rel="stylesheet" href="/hcmUI/CandExpStatic/21.7.62/css/main-minimal.css">
         <link rel="stylesheet" title="cx-custom" data-custom-css href="/hcmUI/CandExpStatic/css/ce-custom.css?themeNumber=default_minimal_theme_CX&lang=en&themeVersion=2&brandVersion=1&brandTlVersion=1&siteNumber=CX"></link>
 
         <script data-cx-config>
@@ -333,13 +333,13 @@
                     vanityBaseUrl : ''
                 }
             };
-                            const HASHBANG_REGEX = /\/?#\/?/;
-                if (window.location.href.match(HASHBANG_REGEX)) {
-                    window.location.replace(window.location.href.replace(HASHBANG_REGEX, '/'));
+                            const HASHBANG_REGEX = /\/?#\/(job|requisitions)\//;
+                if (window.location.href.match(HASHBANG_REGEX)) {	
+                        window.location.replace(window.location.href.replace(HASHBANG_REGEX, '/$1/'));
                 }
                     </script>
-        <script src="https://static.oracle.com/cdn/jet/9.1.0/3rdparty/require/require.js" data-main="/hcmUI/CandExpStatic/js/21.7.60/main-minimal.js" data-base-url="/hcmUI/CandExpStatic/js/21.7.60" defer></script>
-        <script src="/hcmUI/CandExpStatic/js/21.7.60/require-config.js" defer></script>
+        <script src="https://static.oracle.com/cdn/jet/9.1.0/3rdparty/require/require.js" data-main="/hcmUI/CandExpStatic/js/21.7.62/main-minimal.js" data-base-url="/hcmUI/CandExpStatic/js/21.7.62" defer></script>
+        <script src="/hcmUI/CandExpStatic/js/21.7.62/require-config.js" defer></script>
                     <style id="custom-css">
             -html,
 input,
