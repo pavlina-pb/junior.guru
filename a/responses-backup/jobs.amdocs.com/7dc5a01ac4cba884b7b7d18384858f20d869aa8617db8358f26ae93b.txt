@@ -37,7 +37,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="Full Stack Developer (Professional Services Specialist)" />
                 <meta property="og:description" content="Full Stack Developer (Professional Services Specialist)" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/dab119eb-4d46-4726-b8a4-1.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/14c1e4cd-b39f-4ed9-a3a9-1.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/9fb7cd81-8ded-4ddf-9080-f.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/7e51634b-a01b-4d0f-a91e-0.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=974c7eae" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=974c7eae" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=974c7eae" />
@@ -94,13 +94,13 @@ body.coreCSB div.ukCookiePolicy > div.container button.btn, body.coreCSB div.ukC
 }
 /*-------------- btn fix 11/2 added by Sud-------------------*/
 div.rcmCandidateProfileCtr, div.rcmFormSection button.rcmFormSectionTopBar, .rcmFormSection h2.rcmFormSectionTitle {
-    background-color: transparent!important;
+    
     color: #333147!important;
 }
 
 div.rcmCandidateProfileCtr, div.rcmFormSection button.rcmFormSectionTopBar, .rcmFormSection h2.rcmFormSectionTitle:hover { background-colorx: transparent!important;  color: #ffffff!important;}
 
-div.rcmFormSection h2.rcmFormSectionTitle { background-color: transparent!important; color: #333147!important;}
+div.rcmFormSection h2.rcmFormSectionTitle {color: #333147!important;}
 
 div.rcmFormSection h2.rcmFormSectionTitle:hover { background-color: transparent!important; color: #ffffff!important;}
 
@@ -2515,7 +2515,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "0c72517a-b550-4b3c-8e30-8d261d969e37"
+						"X-CSRF-Token" : "d4f42589-5490-4a51-8595-a0757a8a3612"
 					}
 				});
 			//]]>
@@ -2546,7 +2546,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '8ea9477e-f5a7-454a-8ce1-40918ebfc6ca';
+				var ctid = '061c9630-250d-4d57-848b-002568e24aa9';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2732600722';
 				var landing = document.location.href;
 				var brand = '';
@@ -2584,7 +2584,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=955735692"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=1069173730"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

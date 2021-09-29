@@ -221,7 +221,7 @@ This client is looking for an individual capable of developing wed applications 
 	<li id="menu-item-wpml-ls-2-it" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-it"><a title="Italian" href="https://www.nigelfrank.com/it/382231/full-stack-net-developer"><span class="glyphicon Italian"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="it" title="Italiano"><span class="wpml-ls-display">Italian</span></a></li>
 </ul>
 </li>
-<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8914"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
+<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-8914 active"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
 <li id="menu-item-5623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5623 dropdown">
 <a title="Search Jobs" href="/microsoft-jobs" class="has-children" role="button" aria-expanded="false">Search Jobs <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -273,7 +273,7 @@ This client is looking for an individual capable of developing wed applications 
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -314,7 +314,7 @@ This client is looking for an individual capable of developing wed applications 
                     <select class="form-control" name="location[]">
                         <option value="">Select Location</option>
 
-                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='171'>Bulgaria</option><option value='485'>Canada</option><option value='1040'>Cyprus</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1524'>Hungary</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='3608'>Slovenia</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option>                    </select>
+                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='171'>Bulgaria</option><option value='485'>Canada</option><option value='1040'>Cyprus</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1524'>Hungary</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2584'>Mexico</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='3608'>Slovenia</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option>                    </select>
                 </div>
 
                 <div class="form-group">
@@ -415,7 +415,7 @@ This client is looking for an individual capable of developing wed applications 
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="6VNNGBnleB6YeRcOdYtjx7mQTziOEBSbDFVfQgrR">        <input name="jobs[]" type="hidden" value="382231">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="BxYEYR74COFcIJVH5zEV7zVrxuo5qFBElmi4MEul">        <input name="jobs[]" type="hidden" value="382231">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -521,7 +521,7 @@ This client is looking for an individual capable of developing wed applications 
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/382231?_token=6VNNGBnleB6YeRcOdYtjx7mQTziOEBSbDFVfQgrR">
+                                      data-job-id="/saved-jobs/add/382231?_token=BxYEYR74COFcIJVH5zEV7zVrxuo5qFBElmi4MEul">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -564,7 +564,7 @@ This client is looking for an individual capable of developing wed applications 
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/382231?_token=6VNNGBnleB6YeRcOdYtjx7mQTziOEBSbDFVfQgrR">
+                                              data-job-id="/saved-jobs/add/382231?_token=BxYEYR74COFcIJVH5zEV7zVrxuo5qFBElmi4MEul">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -583,7 +583,7 @@ This client is looking for an individual capable of developing wed applications 
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="6VNNGBnleB6YeRcOdYtjx7mQTziOEBSbDFVfQgrR">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="BxYEYR74COFcIJVH5zEV7zVrxuo5qFBElmi4MEul">
 
 
 

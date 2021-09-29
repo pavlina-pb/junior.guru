@@ -1,0 +1,30 @@
+<!DOCTYPE html><html lang="en"><head><title>Redirecting...</title><script type="text/javascript">function navigateTo(browser, window, url) {
+  if (browser != window) {
+    browser.location.href = url;
+    window.location.replace("about:blank");
+  } else {
+    window.location.replace(url);
+  }
+}
+
+function placeQuantcastImagePixel(window, pixelUrl) {
+  var existingOnload = window.onload;
+  window.onload = function() {
+    if (existingOnload)
+      existingOnload();
+
+    var img = window.document.createElement('img');
+    img.src = pixelUrl;
+    img.style.display = 'none';
+    window.document.body.appendChild(img);
+  }
+}
+
+var quantcastImagePixelUrl = "", timeout = quantcastImagePixelUrl ? 300 : 0;
+
+if(quantcastImagePixelUrl) {
+  placeQuantcastImagePixel(window, quantcastImagePixelUrl);
+}
+
+setTimeout(function(){ navigateTo(window.parent, window, "https://drugdevelopmentcareers.labcorp.com/global/en/job/COVAGLOBAL70524EXTERNAL/Software-Engineer-SaaS-Life-science?utm_source=careerarc&utm_campaign=na&utm_medium=job&iis=SocialNetworks&iisn=CareerArc&_ccid=16328912078463tflea4yl"); }, timeout);
+</script></head><body></body></html>

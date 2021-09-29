@@ -61,8 +61,8 @@
             <link rel="alternate" hreflang="de" href="https&#x3A;&#x2F;&#x2F;www.profesia.cz&#x2F;de&#x2F;arbeit-suchen&#x2F;jobs-contact-consulting&#x2F;O4158513" />
     
 <link rel="stylesheet" href="/css/bootstrap.min-f348e78ca.css" type="text/css">
-<link rel="stylesheet" href="/css_compiled/pages/base-20fa4515e.css" type="text/css">
-<link rel="stylesheet" href="/css_compiled/app-ee994d673.css" type="text/css"><link rel="stylesheet" href="/customdesigns/JobsContactConsulting/2/4/css/jc.css" type="text/css" /><link rel="stylesheet" href="/css/styles-custom-design-ff1f8f857.css" type="text/css" /><script>if (window.NodeList && !NodeList.prototype.forEach) {
+<link rel="stylesheet" href="/css_compiled/pages/base-07e4644c6.css" type="text/css">
+<link rel="stylesheet" href="/css_compiled/app-85322f8d8.css" type="text/css"><link rel="stylesheet" href="/customdesigns/JobsContactConsulting/2/4/css/jc.css" type="text/css" /><link rel="stylesheet" href="/css/styles-custom-design-ff1f8f857.css" type="text/css" /><script>if (window.NodeList && !NodeList.prototype.forEach) {
     NodeList.prototype.forEach = Array.prototype.forEach;
 }</script></head><body id="pages" class='detail offer cz' ><script>dataLayer = [{"dimensionUserType":"Not_Logged","designFlag":"ProfesiaCzLayout","offerValidTill":"2021-10-09","dimensionPageCategory":"Offer_detail","adwordsRemarketingCustomParams":{"job_id":"O4158513"},"dimensionOfferType":"Custom design","rtbId":"pr_HNku1IGvto1ZcEvGYsZc_offer_4158513"}];</script>
 
@@ -101,28 +101,21 @@
 </div>
 <header id="profesia-header">
     <div class="container">
+        <div class="logo">
+            <a href="/"><img src="/images/svg-logo/logo_profesia_color2.svg" width="80" height="55" alt="PROFESIA.CZ - práce, zaměstnání, nabídky práce, brigáda, volné pracovní místo"></a>
+        </div>
+        
         <nav>
-            <div class="logo">
-                <a href="/"><img src="/images/svg-logo/logo_profesia_color.svg" width="99" height="65" alt="PROFESIA.CZ - práce, zaměstnání, nabídky práce, brigáda, volné pracovní místo"></a>
-            </div>
-            <ul class="nav navbar-nav">
-                <li><a href="/user_details.php?action=show_my_offers" title="Moje&#x20;vybran&#xE9;&#x20;pracovn&#xED;&#x20;nab&#xED;dky" rel="nofollow"><svg   class='icon star-orange icon icon-md' viewbox="0 0 20 20"><use xlink:href='/images/svg/star-orange.svg#Layer_1'></use></svg><span id="top-star" class="header-favorite-counter">0</span></a></li>
-                            <li>
-            	<button id="login_modal" class="btn btn-default btn-sm margin-on-top margin-on-left">Přihlásit</button>
-            </li>            <li>
-                <a class="btn btn-primary btn-sm hidden-xs pull-right margin-on-left margin-on-top" href="/hledame-zamestnance">Hledám zaměstnance</a>
-            </li>
-            </ul>
+            <a class="relative" href="/user_details.php?action=show_my_offers" title="Moje&#x20;vybran&#xE9;&#x20;pracovn&#xED;&#x20;nab&#xED;dky" rel="nofollow"><svg   class='icon star-orange icon icon-md' viewbox="0 0 20 20"><use xlink:href='/images/svg/star-orange.svg#Layer_1'></use></svg><span id="top-star" class="header-favorite-counter">0</span></a>
+                        	<button id="login_modal" class="btn btn-default btn-sm margin-on-left">Přihlásit</button>                <a class="btn btn-primary btn-sm hidden-xs pull-right margin-on-left" href="/hledame-zamestnance">Hledám zaměstnance</a>
         </nav>
     </div>
-</header><link rel="stylesheet" href="/css_compiled/molecules/chat_bot.css" type="text/css">
+</header>
+<link rel="stylesheet" href="/css_compiled/molecules/chat_bot-3adccb010.css" type="text/css">
 
-<div class="chat-bot-wrapper">
-    <div class="chat-bot-button">
-        <div class="chat-bot-title">Jak Vám poradíme?</div>
-    </div>
-</div>
-<div id="content" class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">Programátor C++ / skvělý šéf i kolektiv! (až 50.000 Kč)</li></ul><nav class="navbar navbar-inverse navbar-fixed-bottom persistent-bar visible-xs">
+<div id="live-agent-chat-button">
+    <div class="chat-bot-title">Jak Vám poradíme?</div>
+</div><div id="content"><div class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">Programátor C++ / skvělý šéf i kolektiv! (až 50.000 Kč)</li></ul><nav class="navbar navbar-inverse navbar-fixed-bottom persistent-bar visible-xs">
     <div class="container">
         <div class="row">
             <div class="col-xs-10 col-xs-offset-1">
@@ -206,9 +199,9 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kontakt</h4><div c
                         </div>
                         
                         <div class="jc-footer-icons">
-                            <a href="/cdn-cgi/l/email-protection#e980878f86a983868b9a8a86879d888a9dc78a93" title="mail">
+                            <a href="/cdn-cgi/l/email-protection#6d04030b022d07020f1e0e0203190c0e19430e17" title="mail">
                                 <img src="/customdesigns/JobsContactConsulting/2/4/images/ico_email.png" alt="E-mail" width="42" height="30">
-                                <span><span class="__cf_email__" data-cfemail="254c4b434a654f4a4756464a4b514446510b465f">[email&#160;protected]</span></span>
+                                <span><span class="__cf_email__" data-cfemail="21484f474e614b4e4352424e4f554042550f425b">[email&#160;protected]</span></span>
                             </a>
                             <a href="tel:+420602642915">
                                 <img src="/customdesigns/JobsContactConsulting/2/4/images/ico_phone.png" alt="Telefon" width="22" height="30">
@@ -290,7 +283,7 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kontakt</h4><div c
 </div>                 </aside>
 
             </div>
-            </div><footer id="profesia-footer">
+            </div></div><footer id="profesia-footer">
     <div class="container">
         <div class="d-sm-flex flex-sm-wrap">
     <nav>
@@ -315,10 +308,10 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kontakt</h4><div c
                 <a id="change-consent" target="_blank"
                    class="no-href-pointer">Nastavení souhlasů</a>
             </li>
-                            <li><a href="&#x2F;cenik-sluzeb"
-                       title="Cen&#x00ED;k">Ceník</a>
-                </li>
-                    </ul>
+            <li><a href="&#x2F;cenik-sluzeb"
+                    title="Cen&#x00ED;k">Ceník</a>
+            </li>
+        </ul>
     </nav>
     <nav class="hidden-xs">
         <h4>Užitečné odkazy</h4>
@@ -346,8 +339,8 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kontakt</h4><div c
     <nav>
         <h4>Naše projekty</h4>
         <ul>
-                                        <li class="hidden-xs"><a href="&#x2F;mark.php&#x3F;to&#x3D;&#x2F;mark" title="HR&#x20;n&#x00E1;stroj&#x20;Mark">HR nástroj Mark</a></li>
-                                                                                        <li><a href="https://www.platy.cz" title="Pr&#x016F;zkum&#x20;plat&#x016F;&#x20;&#x7C;&#x20;p&#x0159;ehled&#x20;plat&#x016F;,&#x20;pr&#x016F;m&#x011B;rn&#x00E1;&#x20;mzda,&#x20;pr&#x016F;m&#x011B;rn&#x00FD;&#x20;plat&#x20;-&#x20;Platy.cz">Platy.cz</a></li>
+                        <li class="hidden-xs"><a href="&#x2F;mark.php&#x3F;to&#x3D;&#x2F;mark" title="HR&#x20;n&#x00E1;stroj&#x20;Mark">HR nástroj Mark</a></li>
+                                                                            <li><a href="https://www.platy.cz" title="Pr&#x016F;zkum&#x20;plat&#x016F;&#x20;&#x7C;&#x20;p&#x0159;ehled&#x20;plat&#x016F;,&#x20;pr&#x016F;m&#x011B;rn&#x00E1;&#x20;mzda,&#x20;pr&#x016F;m&#x011B;rn&#x00FD;&#x20;plat&#x20;-&#x20;Platy.cz">Platy.cz</a></li>
                     </ul>
     </nav>
     <nav>
@@ -368,12 +361,16 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kontakt</h4><div c
                         </a></span>        </div>
     </nav>
 </div>
-<div class="copyright">
-    <div class="logo-footer"></div>
-    <a href="&#x2F;copyright">&copy; 1997-2021 Profesia. Všechna práva vyhrazena.</a> PROFESIA.CZ je členem skupiny Alma Media
-        <br class="hidden-xs">
-    K doporučování nabídek práce využíváme technologii <a href="https://www.matej.ai" target="_blank" rel="nofollow">Matej.ai</a>.
+<div class="copyright d-sm-flex align-items-center">
+    <div class="logo-footer">
+        <img src="https://profesiastatic.sk/images/svg-logo/logo_profesia_gray.svg" width="46" height="30" alt="Logo Profesia">
     </div>
+    <div>
+        <a href="&#x2F;copyright">&copy; 1997-2021 Profesia. Všechna práva vyhrazena.</a> PROFESIA.CZ je členem skupiny Alma Media
+        <br class="hidden-xs">
+        K doporučování nabídek práce využíváme technologii <a href="https://www.matej.ai" target="_blank" rel="nofollow">Matej.ai</a>.
+    </div>
+</div>
 
 
 
@@ -501,7 +498,7 @@ Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jak�
 
 		    setTimeout(function(){ServeLoginAnchor()},800);
 
-dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4158513"],"content_type":"product"}});feedDataLayerDetail('O4158513','Custom design','d19','d19');
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4158513"],"content_type":"product"}});feedDataLayerDetail('O4158513','Custom design','d20','d20');
 
     })
 </script>
