@@ -178,17 +178,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 </section>
 	</main>
-
-<script>
-        var leady_track_key="7ReX0DXNGMgFaNf2";
-        var leady_track_server=document.location.protocol+"//track.leady.cz/";
-        (function(){
-                var l=document.createElement("script");l.type="text/javascript";l.async=true;
-                l.src=leady_track_server+leady_track_key+"/L.js";
-                var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(l,s);
-        })();
-</script>
-
+  
 <!-- Kód Google značky pro remarketing -->
 <!--
 Značka pro remarketing nesmí být spojena s údaji umožňujícími identifikaci osob nebo umístěna na stránkách týkajících se citlivých kategorií. Další informace a postup nastavení značky naleznete na stránce: https://google.com/ads/remarketingsetup
