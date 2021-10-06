@@ -8,7 +8,8 @@
     <meta name="description" content="Our client is Global Business with a large range of teams in the heart of Prague and they're seeking an experienced C# Developer to join their talented team. As a...">
     <meta name="format-detection" content="telephone=no">
     <link rel="alternate" href="https://www.nigelfrank.com/" hreflang="x-default" />
-        <meta property="og:image" name="image" content="https://www.nigelfrank.com/assets/img/opengraph/nfi.jpg">
+            <meta name="robots" content="noindex">
+            <meta property="og:image" name="image" content="https://www.nigelfrank.com/assets/img/opengraph/nfi.jpg">
     <meta property="og:title" content="C# Developer - Prague">
     <meta property="og:description" content="Our client is Global Business with a large range of teams in the heart of Prague and they're seeking an experienced C# Developer to join their talented team. As a...">
             <link rel="stylesheet" type="text/css" media="screen" href="/wp-content/themes/job-board/resources/assets/css/bootstrap.css"/>
@@ -77,9 +78,12 @@
 
 
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
+    
 
-
-<body class='body-job-view banner-on   '>
+<body class='body-job-view banner-on  touch-device '>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
@@ -361,11 +365,7 @@
             </div>
             <div class="clearfix" id="body">
                 <div id="content">
-                    <script type="application/ld+json">
-      {"@context":"http:\/\/schema.org","@type":"JobPosting","title":"C# Developer - Prague","datePosted":"2021-07-08","employmentType":"FULL_TIME","validThrough":"2021-10-06","description":"<img src=\"https:\/\/counter.adcourier.com\/ay5oYWxmb3JkNS45MDEyNC4yNDQzQG5pZ2VsZnJhbmsuYXBsaXRyYWsuY29t.gif\"><p>Our client is Global Business with a large range of teams in the heart of Prague and they're seeking an experienced C# Developer to join their talented team. As a C# Developer you will work on a wide range of new and exciting projects within the business. You will also have a outstanding opportunity to work on complex project with global team members.<\/p>\r\n<br><p><br \/> Role & Responsibilities<\/p>\r\n<br><ul>\r\n<br><li>You will develop back end applications and user interfaces using new tech<\/li>\r\n<br><li>You will help maintain and upgrade current projects, ensuring the business needs are met<\/li>\r\n<br><li>You will develop code and unit testing in .NET, Angular and TypeScript tech<\/li>\r\n<br><li>You will work with your full team to help improve usability  <\/li>\r\n<br><\/ul>\r\n<br><p><br \/> Skills & Qualifications<\/p>\r\n<br><ul>\r\n<br><li>Excellent C# and .Net core Knowledge<\/li>\r\n<br><li>Experience using Entity Framework<\/li>\r\n<br><li>Knowledge and experience with Front End development- TypeScript, CSS, HTML, JavaScript and the following frameworks-Angular, React<\/li>\r\n<br><li>Knowledge of Agile<\/li>\r\n<br><li>Familiar with CI\/CD pipelines<\/li>\r\n<br><li>Experience using GIT, JIRA, TeamCity and Confulence<\/li>\r\n<br><li>Experience with AngularMaterial and DevExtreme would be a plus<\/li>\r\n<br><li>Experience with Cloud Tech-AWS would be a plus<\/li>\r\n<br><\/ul>\r\n<br><p>Benefits<\/p>\r\n<br><ul>\r\n<br><li>Excellent medical package<\/li>\r\n<br><li>5 weeks paid holiday <\/li>\r\n<br><li>Yearly bonus<\/li>\r\n<br><li>7 days extra paternity leave<\/li>\r\n<br><\/ul>\r\n<br><p>If you are interested or know anyone who will be don't hesitate to get in contact,<br \/> Phone: 0191 338 7587<br \/> Email: <a href=\"mailto:k.halford@nigelfrank.com\">k.halford@nigelfrank.com<\/a><\/p>","hiringOrganization":{"@type":"Organization","name":"Nigel Frank","sameAs":"https:\/\/www.nigelfrank.com"},"identifier":{"@type":"PropertyValue","name":"Nigel Frank","value":"080721CD"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Prague, Czech Republic"}},"baseSalary":{"@type":"MonetaryAmount","currency":"EUR","value":"Number","minValue":null,"maxValue":null}}
-    </script>
-
-<div class="container main-container job-view clearfix ">
+                    <div class="container main-container job-view clearfix ">
 
     <div>
         <ul class="unstyled breadcrumbs">
@@ -406,7 +406,7 @@
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="XBBNVkqw8aix6YkalROsHrpwoYANNmDb1hgv0ICl">        <input name="jobs[]" type="hidden" value="381791">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="sS0O7bgZwOlMjvus5Riil7ZV50TEeDdoRZiS8co4">        <input name="jobs[]" type="hidden" value="381791">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -496,10 +496,6 @@
 <br><li>7 days extra paternity leave</li>
 <br></ul>
 <br><p>If you are interested or know anyone who will be don't hesitate to get in contact,<br /> Phone: 0191 338 7587<br /> Email: <a href="mailto:k.halford@nigelfrank.com">k.halford@nigelfrank.com</a></p>                        </div>
-                                                    <div class="row-padding">
-                                                                    <button class="btn btn-primary-theme btn-block btn-bottom-application text-uppercase"
-                                            type="submit">Apply Now                                    </button>
-                                                            </div>
                                             </div>
                 </div>
             </div>
@@ -507,20 +503,7 @@
         <div class="jobmenu">
             <nav class="no-padding-left col-xs-12 col-sm-4 no-gutter-mobile">
                 <ul class="list-unstyled">
-                    
-                                                    <li>
-                                <button class="btn btn-primary-theme btn-application btn-block"
-                                        type="submit">Apply Now                                </button>
-                            </li>
-                        
-                        <li>
-                                                            <span data-lang-add="Save Job"
-                                      data-lang-remove="Saved Job"
-                                      class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/381791?_token=XBBNVkqw8aix6YkalROsHrpwoYANNmDb1hgv0ICl">
-                                        <i class="fa fa-heart-o"></i> Save Job                                    </span>
-                                                    </li>
-
+                                            <p class="text-center"> This job is closed for applications</p>
                                                                 <li><a class="btn btn-secondary-theme btn-block " id="btn-email-me-similar-jobs"
                                data-toggle="modal"
                                data-target=".bs-example-modal">E-mail me similar jobs</a>
@@ -550,20 +533,8 @@
         <div class="sticky-jobbmenu">
             <nav class="col-xs-12 col-sm-4 no-gutter-mobile">
                 <ul class="list-unstyled">
-                    
-                                                    <li>
-                                <button class="btn btn-primary-theme btn-application btn-block"
-                                        type="submit">Apply Now                                </button>
-                            </li>
-                        
-                                                        <li>
-                                                                            <span data-lang-add="Save Job"
-                                              data-lang-remove="Saved Job"
-                                              class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/381791?_token=XBBNVkqw8aix6YkalROsHrpwoYANNmDb1hgv0ICl">
-                                     Save Job                                        </span>
-                                                                    </li>
-                                                                                            <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
+                                            <p class="text-center">This job is closed for applications</p>
+                                                                <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
                                data-target=".bs-example-modal">E-mail me similar jobs</a>
                         </li>
                                     </ul>
@@ -579,7 +550,7 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="XBBNVkqw8aix6YkalROsHrpwoYANNmDb1hgv0ICl">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="sS0O7bgZwOlMjvus5Riil7ZV50TEeDdoRZiS8co4">
 
 
 

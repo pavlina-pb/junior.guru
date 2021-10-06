@@ -77,7 +77,7 @@
     }
 </script>
 <script type="text/javascript">
-    function getUserId() { return ''; }
+    function getUserId() { return '4b83aef5-b123-42d2-8365-ea4db192cfba'; }
 </script>
 <script type="text/javascript">
     function getCompanyId() { return 'qjXaVfw5'; }
@@ -221,23 +221,23 @@ Apply Later    </a>
             <script src="//platform.linkedin.com/in.js" type="text/javascript">
                 lang: en_US
             </script>
-            <script type="IN/Share" data-url="https://jobs.jobvite.com/gooddata/job/oJ9NffwE?__jvst=CareerSite&__jvsd=gooddata&__jvsc=LinkedIn"></script>
+            <script type="IN/Share" data-url="https://jobs.jobvite.com/gooddata/job/oJ9NffwE?__jvst=JobBoard&__jvsd=juniorguru&__jvsc=LinkedIn"></script>
             <a class="jv-button-list-item jv-button-list-item-1-of-4 jv-button-list-item-first needsclick" href="" ng-click="linkedinShare()">
                 <span class="jv-button-icon needsclick jv-brand-linkedin">
                     <i class="icon icon-linkedin-onecolor needsclick"><span>LinkedIn</span></i>
                 </span>
             </a>
-            <a class="jv-button-list-item jv-button-list-item-1-of-4" href="" ng-click="facebookShare('https:\/\/jobs.jobvite.com\/gooddata\/job\/oJ9NffwE?__jvst=CareerSite&__jvsd=gooddata&__jvsc=Facebook')">
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" href="" ng-click="facebookShare('https:\/\/jobs.jobvite.com\/gooddata\/job\/oJ9NffwE?__jvst=JobBoard&__jvsd=juniorguru&__jvsc=Facebook')">
                 <span class="jv-button-icon jv-brand-facebook">
                     <i class="icon icon-facebook-onecolor"><span>Facebook</span></i>
                 </span>
             </a>
-            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DCareerSite%26__jvsd%3Dgooddata%26__jvsc%3DTwitter&amp;text={{ jvShareMessage }}">
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DJobBoard%26__jvsd%3Djuniorguru%26__jvsc%3DTwitter&amp;text={{ jvShareMessage }}">
                 <span class="jv-button-icon jv-brand-twitter">
                     <i class="icon icon-twitter-onecolor"><span>Twitter</span></i>
                 </span>
             </a>
-            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-click="emailShare()" ng-href="mailto:?subject={{ jvShareTitleEmail }}&amp;body={{ jvShareMessageEmail }}%0A%0Ahttps%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DCareerSite%26__jvsd%3Dgooddata%26__jvsc%3DEmail">
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-click="emailShare()" ng-href="mailto:?subject={{ jvShareTitleEmail }}&amp;body={{ jvShareMessageEmail }}%0A%0Ahttps%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DJobBoard%26__jvsd%3Djuniorguru%26__jvsc%3DEmail">
                 <span class="jv-button-icon jv-icon-container">
                     <i class="icon icon-message"><span>Email</span></i>
                 </span>

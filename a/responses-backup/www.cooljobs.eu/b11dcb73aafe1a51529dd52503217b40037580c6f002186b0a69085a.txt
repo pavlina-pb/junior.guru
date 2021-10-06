@@ -65,11 +65,11 @@ vyhody
 <meta property="og:image:height" content="1000">
 
 <link rel="alternate" hreflang="de" href="https://www.cooljobs.eu/at/25489" /><link rel="alternate" hreflang="cs" href="https://www.cooljobs.eu/cz/25489" /><link rel="alternate" hreflang="en" href="https://www.cooljobs.eu/en/25489" /><link rel="alternate" hreflang="sk" href="https://www.cooljobs.eu/sk/25489" /><link rel="alternate" hreflang="x-default" href="https://www.cooljobs.eu/cz/25489" />
-<link rel="stylesheet" href="tmp/minify/1633359285__sitewide.css">
-<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1633359311__a0543e7191d97ce9b6a79eeada081693a1111367.css">
-<script src="tmp/minify/1633408883__sitewide.js"></script>
+<link rel="stylesheet" href="tmp/minify/1633439596__sitewide.css">
+<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1633439610__a0543e7191d97ce9b6a79eeada081693a1111367.css">
+<script src="tmp/minify/1633494592__sitewide.js"></script>
 <script src="components/sweetalert2/sweetalert2.all.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script><script src="tmp/minify/1633359285__e17849c481b2c88c2dbf31cb41c542b3709dbd82.js"></script><script src="tmp/minify/1633359285__03d8bef2dd19bc13b8ce2440171f6cbc6783c534.js"></script><script src="tmp/minify/1633359285__498cdcdfb7da7a61e0337b246ee775b2d1753e0f.js"></script><script src="tmp/minify/1633359285__09e11dde4cde98d3e1feaa6b6a6595046ae46ee8.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script><script src="tmp/minify/1633439596__e17849c481b2c88c2dbf31cb41c542b3709dbd82.js"></script><script src="tmp/minify/1633439596__03d8bef2dd19bc13b8ce2440171f6cbc6783c534.js"></script><script src="tmp/minify/1633439596__498cdcdfb7da7a61e0337b246ee775b2d1753e0f.js"></script><script src="tmp/minify/1633439596__09e11dde4cde98d3e1feaa6b6a6595046ae46ee8.js"></script>
 <script>
 var moduleVars = {"WebModuleHref":"https://www.cooljobs.eu/en/pos/1116.html","csrf":"","error":"Error","timeout_error":"It's not possible connect with the server, please try again later.","unknown_error":"Unexpected error, please try again later.","ajaxpost_in_progress":"Please wait till processing of the previous request","debugmode":0}; Object.freeze(moduleVars);</script>
 
@@ -140,78 +140,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <div class="body">
-
+<div><div class="archived-position-warning">This job is no longer available.</div></div>
 <p>Aktuálně hledám nového člena týmu, který navrhuje, vyvíjí a integruje vestavěný firmware pro inovativní zařízení. Na pozici <strong>Testera</strong> využijete své zkušenosti a technické dovednosti. Budete zajišťovat vysokou kvalitu a bezchybnost produktů a systémů určených pro globální trh. Potřebujete minimálně tři roky zkušeností s manuálním testováním,&nbsp;certifikace <strong>5</strong><span><strong>0/1978</strong> Sb. §6 a zkušenosti s dokumentací.<br /><br /></span><strong>Náplň práce</strong><br />- podílení se v rámci týmu na návrhu, vývoji a integraci firmware<br />- provádění Test cases, reporting průběhu testování<br />- tvorba a realizace manuálních a automatizovaných test cases, regression testů<br />- troubleshooting, report problémů vývojovému týmu<br />- dodržování harmonogramu<br /><br /><strong>Požadavky</strong><br />- min. 3 roky zkušeností s manuálním testováním<br />- certifikace 5<span>0/1978 Sb. §6</span><br />- zkušenosti s dokumentací<br /><br /><strong>Výhody<br /></strong>- VŠ vzdělání v oboru informatiky, elektrotechniky, výpočetní techniky<br />- zkušenosti s platformami a nástroji pro automatizaci testů<br />- praxe s integračními testy</p>
 </div>
 
 </div>
 
 
-
-<div class="form-row">
-<form id="applyform" class="form labels-left-collapsible" style="flex-grow:2">
-<h2>I'm interested, pls. contact me</h2>
-<div style="max-width: 450px;">
-<div class="field" style="">
-<label>Name</label>
-<input type="text" name="jmeno" id="jmeno">
-</div>
-<div class="field" style="">
-<label>E-mail</label>
-<input type="text" name="email" id="email">
-</div>
-<div class="field" style="">
-<label>Phone</label>
-<input type="text" name="telefon" id="telefon" placeholder="+420">
-</div>
-<div class="field">
-<label for="poznamka">Message</label>
-<div class="autosize-textarea with-emoji" style="min-height: 100px;">
-<div class="hiddentext"></div>
-<textarea name="poznamka" id="poznamka" placeholder="Your message"></textarea>
-<i class="fal fa-smile emoji-picker"></i>
-</div>
-</div>
-<div class="field cvRow">
-<label for="cv">My current CV<span class="cvVolitelne">- nepovinné, pokud jej nemáte u sebe, pošlete bez něj</span></spam></label>
-<div style="display: flex; align-items: center">
-<button type="button" class="btn btn-gray btn-small" style="width:auto;margin-right: 10px;" id="cv-filebutton">choose file</button>
-<span id="cv-filename" style="font-size: 9pt;"></span>
-</div>
-<input type="file" name="cv" id="cv-fileinput" style="display: none">
-</div>
-<div class="row souhlasRow" style="align-items: center;margin-top: 40px;margin-bottom: 20px;">
-<input id="souhlas" name="souhlas" type="checkbox" /> <label for="souhlas">I agree with processing <a id="zasady_anchor" style="text-decoration: underline" href="#">personal data</a></label>
-</div>
-<div class="field">
-<button type="submit" class="btn btn-primary" id="submit-application-button">Send</button>
-<input type="hidden" name="requestid" id="requestid" value="25489">
-</div>
-</div>
-</form>
-<div id="contact" class="form labels-above matedotaz" style="flex-basis:350px; flex-grow:0; flex-shrink:0">
-<h2>Your contact</h2>
-
-<p><strong><a href="ondrej-jiricek">Ondřej Jiříček</a></strong></p>
-<p><a href="mailto:ondrej.jiricek@coolpeople.cz?subject=Job #25489">ondrej.jiricek@coolpeople.cz</a></p>
-<a href="tel:+420 605 548 673">+420 605 548 673</a>
-
-<img class="avatar_img" src="https://avatar.coolpeople.cz/1811.jpg?1631292602" />
-
-<p>Do you have a question?</p>
-
-
-			<div class="autosize-textarea with-emoji" style="max-width: 500px;">
-				<div class="hiddentext"></div>
-				<textarea id="matedotaz-zprava"></textarea>
-				<i class="fal fa-smile emoji-picker"></i>
-			</div>
-			<div>
-				<button type="submit" class="btn btn-secondary btn-small" id="matedotaz-sendbtn" style="margin-top:10px;display: none">Send</button>
-			</div>
-
-</div>
-</div>
 
 
 <h2>Similar jobs</h2><ul class="podobne-pozice"><li><a href='25271'>Tester (25271)</a></li></ul>
