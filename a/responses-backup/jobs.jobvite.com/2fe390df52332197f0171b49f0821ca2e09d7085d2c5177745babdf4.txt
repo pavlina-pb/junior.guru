@@ -14,17 +14,17 @@
             <meta name="twitter:card" content="summary_large_image" />
                     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=210930024134" type="image/x-icon">
-        <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=210930024134">
+        <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=211006012334" type="image/x-icon">
+        <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=211006012334">
 
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=210930024134">
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-desktop.css?v=210930024134">
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=210930024134">
-        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=210930024134"></script>
-        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=210930024134"></script>
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=211006012334">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-desktop.css?v=211006012334">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=211006012334">
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=211006012334"></script>
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=211006012334"></script>
 
                     <!--[if lte IE 8]>
-                <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/es5-shim.min.js?v=210930024134"></script>
+                <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/es5-shim.min.js?v=211006012334"></script>
             <![endif]-->
 
     <!-- JV Google Analytics -->
@@ -77,7 +77,7 @@
     }
 </script>
 <script type="text/javascript">
-    function getUserId() { return '4b83aef5-b123-42d2-8365-ea4db192cfba'; }
+    function getUserId() { return '3f12bf42-4c81-4d59-ada8-361de441cdeb'; }
 </script>
 <script type="text/javascript">
     function getCompanyId() { return 'qjXaVfw5'; }
@@ -221,23 +221,23 @@ Apply Later    </a>
             <script src="//platform.linkedin.com/in.js" type="text/javascript">
                 lang: en_US
             </script>
-            <script type="IN/Share" data-url="https://jobs.jobvite.com/gooddata/job/oJ9NffwE?__jvst=JobBoard&__jvsd=juniorguru&__jvsc=LinkedIn"></script>
+            <script type="IN/Share" data-url="https://jobs.jobvite.com/gooddata/job/oJ9NffwE?__jvst=CareerSite&__jvsd=gooddata&__jvsc=LinkedIn"></script>
             <a class="jv-button-list-item jv-button-list-item-1-of-4 jv-button-list-item-first needsclick" href="" ng-click="linkedinShare()">
                 <span class="jv-button-icon needsclick jv-brand-linkedin">
                     <i class="icon icon-linkedin-onecolor needsclick"><span>LinkedIn</span></i>
                 </span>
             </a>
-            <a class="jv-button-list-item jv-button-list-item-1-of-4" href="" ng-click="facebookShare('https:\/\/jobs.jobvite.com\/gooddata\/job\/oJ9NffwE?__jvst=JobBoard&__jvsd=juniorguru&__jvsc=Facebook')">
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" href="" ng-click="facebookShare('https:\/\/jobs.jobvite.com\/gooddata\/job\/oJ9NffwE?__jvst=CareerSite&__jvsd=gooddata&__jvsc=Facebook')">
                 <span class="jv-button-icon jv-brand-facebook">
                     <i class="icon icon-facebook-onecolor"><span>Facebook</span></i>
                 </span>
             </a>
-            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DJobBoard%26__jvsd%3Djuniorguru%26__jvsc%3DTwitter&amp;text={{ jvShareMessage }}">
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DCareerSite%26__jvsd%3Dgooddata%26__jvsc%3DTwitter&amp;text={{ jvShareMessage }}">
                 <span class="jv-button-icon jv-brand-twitter">
                     <i class="icon icon-twitter-onecolor"><span>Twitter</span></i>
                 </span>
             </a>
-            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-click="emailShare()" ng-href="mailto:?subject={{ jvShareTitleEmail }}&amp;body={{ jvShareMessageEmail }}%0A%0Ahttps%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DJobBoard%26__jvsd%3Djuniorguru%26__jvsc%3DEmail">
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-click="emailShare()" ng-href="mailto:?subject={{ jvShareTitleEmail }}&amp;body={{ jvShareMessageEmail }}%0A%0Ahttps%3A%2F%2Fjobs.jobvite.com%2Fgooddata%2Fjob%2FoJ9NffwE%3F__jvst%3DCareerSite%26__jvsd%3Dgooddata%26__jvsc%3DEmail">
                 <span class="jv-button-icon jv-icon-container">
                     <i class="icon icon-message"><span>Email</span></i>
                 </span>
@@ -263,7 +263,7 @@ Apply Later    </a>
         </div>
     </div>
     
-    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.desktop.app.js?v=210930024134"></script>
+    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.desktop.app.js?v=211006012334"></script>
     <script>
         angular.module('preloadedData', []).constant('preloadedData', {
                 applyLinkUrl: '${job.applyLinkUrl}',
@@ -283,7 +283,7 @@ Apply Later    </a>
             dropBoxApiKey: 'w5fg28zznqcyg4w',
             baseUrl: '/gooddata',
             cdnURL: '//d3igejkwe1ucjd.cloudfront.net',
-            releaseVersion: '210930024134',
+            releaseVersion: '211006012334',
             careersiteName: 'gooddata',
             careersiteDomainName: '${careersiteDomainName}',
             careersiteSourceTypeId: 'P8DoXfwQ'
