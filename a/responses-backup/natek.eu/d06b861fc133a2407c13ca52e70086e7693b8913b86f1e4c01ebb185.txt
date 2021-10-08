@@ -45,12 +45,12 @@ var dataLayer = dataLayer || [];
 <meta property="og:description" content="..." />
 <meta property="og:url" content="https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/" />
 <meta property="og:site_name" content="NATEK Work IT with us" />
-<meta property="article:modified_time" content="2021-10-05T15:00:14+00:00" />
+<meta property="article:modified_time" content="2021-10-07T16:00:16+00:00" />
 <meta property="og:image" content="https://natek.eu/wp-content/uploads/2018/10/autumn-cover-08.png" />
 <meta property="og:image:width" content="2500" />
 <meta property="og:image:height" content="1306" />
 <meta name="twitter:card" content="summary" />
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://natek.eu/#organization","name":"Natek","url":"https://natek.eu/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://natek.eu/#logo","inLanguage":"en-US","url":"https://natek.eu/wp-content/uploads/2017/02/logo-mobile.png","width":169,"height":74,"caption":"Natek"},"image":{"@id":"https://natek.eu/#logo"}},{"@type":"WebSite","@id":"https://natek.eu/#website","url":"https://natek.eu/","name":"NATEK Work IT with us","description":"NATEK zapewnia specjalist\u00f3w najwy\u017cszej pr\u00f3by, przygotowanych do pracy z dowoln\u0105 technologi\u0105 \u2013 internetow\u0105, mobiln\u0105 czy desktopow\u0105.","publisher":{"@id":"https://natek.eu/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://natek.eu/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/#webpage","url":"https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/","name":"Biometry Fullstack Software Engineer - C#/.NET - NATEK Work IT with us","isPartOf":{"@id":"https://natek.eu/#website"},"datePublished":"2021-09-30T10:47:03+00:00","dateModified":"2021-10-05T15:00:14+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/"]}]}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://natek.eu/#organization","name":"Natek","url":"https://natek.eu/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://natek.eu/#logo","inLanguage":"en-US","url":"https://natek.eu/wp-content/uploads/2017/02/logo-mobile.png","width":169,"height":74,"caption":"Natek"},"image":{"@id":"https://natek.eu/#logo"}},{"@type":"WebSite","@id":"https://natek.eu/#website","url":"https://natek.eu/","name":"NATEK Work IT with us","description":"NATEK zapewnia specjalist\u00f3w najwy\u017cszej pr\u00f3by, przygotowanych do pracy z dowoln\u0105 technologi\u0105 \u2013 internetow\u0105, mobiln\u0105 czy desktopow\u0105.","publisher":{"@id":"https://natek.eu/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://natek.eu/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/#webpage","url":"https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/","name":"Biometry Fullstack Software Engineer - C#/.NET - NATEK Work IT with us","isPartOf":{"@id":"https://natek.eu/#website"},"datePublished":"2021-09-30T10:47:03+00:00","dateModified":"2021-10-07T16:00:16+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/"]}]}]}</script>
 <!-- / Yoast SEO plugin. -->
 <link rel='dns-prefetch' href='//ajax.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -620,7 +620,7 @@ jQuery('.st-search-field .search-results').fadeOut("fast").html("");
 selected='selected'<option value=""  selected='selected'></option><option value=".NET (C#)" >.NET (C#)</option><option value="Administration" >Administration</option><option value="Business Analyst" >Business Analyst</option><option value="C/C++" >C/C++</option><option value="Customer Support" >Customer Support</option><option value="DB - SQL" >DB - SQL</option><option value="Database Administrator" >Database Administrator</option><option value="ERP Functional Consultant" >ERP Functional Consultant</option><option value="Frontend Developer" >Frontend Developer</option><option value="Hardware" >Hardware</option><option value="Human Resources" >Human Resources</option><option value="IT Infrastructure and Tools" >IT Infrastructure and Tools</option><option value="Java J2EE" >Java J2EE</option><option value="Javascript" >Javascript</option><option value="Network Specialist" >Network Specialist</option><option value="Operations" >Operations</option><option value="Project Manager" >Project Manager</option><option value="Quality Assurance, Security" >Quality Assurance, Security</option><option value="SAP Basis (R3, ECC)" >SAP Basis (R3, ECC)</option><option value="Sales" >Sales</option><option value="Scrum Master" >Scrum Master</option><option value="Software Developer" >Software Developer</option><option value="Solution Architect" >Solution Architect</option><option value="Sourcing" >Sourcing</option><option value="System Administrator" >System Administrator</option><option value="System Integrator" >System Integrator</option><option value="Tester" >Tester</option><option value="Web Specialist" >Web Specialist</option>			</select><!--
 --><select name="pcountry" id="pcountry" class="select-country" form="job-form">
 <option value="">All Countries</option>
-<option value="Czech Republic" >Czech Republic</option><option class="select-city-option" id="select-city-Czech Republic" value="Prague">Prague</option><option class="select-city-option" id="select-city-Czech Republic" value="Brno">Brno</option><option class="select-city-option" id="select-city-Czech Republic" value="Ostrava">Ostrava</option><option value="Slovakia" >Slovakia</option><option class="select-city-option" id="select-city-Slovakia" value="Bratislava">Bratislava</option><option class="select-city-option" id="select-city-Slovakia" value="Kosice">Kosice</option><option value="Poland" >Poland</option><option class="select-city-option" id="select-city-Poland" value="Warsaw">Warsaw</option><option class="select-city-option" id="select-city-Poland" value="Cracow">Cracow</option><option class="select-city-option" id="select-city-Poland" value="Wroclaw">Wroclaw</option><option class="select-city-option" id="select-city-Poland" value="Bydgoszcz">Bydgoszcz</option><option class="select-city-option" id="select-city-Poland" value="Gdansk">Gdansk</option><option class="select-city-option" id="select-city-Poland" value="Gdynia">Gdynia</option><option value="Bulgaria" >Bulgaria</option><option class="select-city-option" id="select-city-Bulgaria" value="Sofia">Sofia</option><option class="select-city-option" id="select-city-Bulgaria" value="Kosice">Kosice</option><option value="Germany" >Germany</option>
+<option value="XX" >XX</option><option value="Bulgaria" >Bulgaria</option><option class="select-city-option" id="select-city-Bulgaria" value="Sofia">Sofia</option><option class="select-city-option" id="select-city-Bulgaria" value="Kosice">Kosice</option><option value="Poland" >Poland</option><option class="select-city-option" id="select-city-Poland" value="Warsaw">Warsaw</option><option class="select-city-option" id="select-city-Poland" value="Cracow">Cracow</option><option class="select-city-option" id="select-city-Poland" value="Wroclaw">Wroclaw</option><option class="select-city-option" id="select-city-Poland" value="Bydgoszcz">Bydgoszcz</option><option class="select-city-option" id="select-city-Poland" value="Gdansk">Gdansk</option><option class="select-city-option" id="select-city-Poland" value="Gdynia">Gdynia</option><option value="Czech Republic" >Czech Republic</option><option class="select-city-option" id="select-city-Czech Republic" value="Prague">Prague</option><option class="select-city-option" id="select-city-Czech Republic" value="Brno">Brno</option><option class="select-city-option" id="select-city-Czech Republic" value="Ostrava">Ostrava</option>
 </select>
 <!--Implementation for IT-3508-->
 <!-- <select name="pcity" id="pcity" class="select-country" form="job-form"> -->
@@ -666,7 +666,7 @@ Biometry Fullstack Software Engineer &#8211; C#/.NET			</h1>
 <ul class="job-quick-info">
 <li><strong>Offer ID:</strong> CZ3426</li>
 <li><strong>Category:</strong> .NET (C#)</li>
-<li><strong>Place:</strong> Prague, Czech Republic</li>
+<li><strong>Place:</strong> Prague, XX</li>
 </ul>
 </div>
 <div class="small-12 medium-6 columns text-center medium-text-left">
@@ -753,7 +753,7 @@ You haven’t found the position you were looking for? <span style="display: uns
 <div class="small-12 columns text-left">
 <div style="display: flex;">
 <img style="width: 20px; height: 25px;" src="https://natek.eu/wp-content/themes/natek/assets/images/jobs/location.svg">
-<p style="color: #545454; margin: 0; margin-left: 20px; font-family: 'Montserrat';">Location: <strong>Prague, Czech Republic</strong></p>
+<p style="color: #545454; margin: 0; margin-left: 20px; font-family: 'Montserrat';">Location: <strong>Prague, XX</strong></p>
 </div>
 <div style="display: flex; margin-top: 15px;">
 <img style="width: 20px; height: 25px;" src="https://natek.eu/wp-content/themes/natek/assets/images/jobs/type.svg">
@@ -792,19 +792,19 @@ _____________PROPONOWANE_______________
 <div class="sidebar-stanowisko">
 <div class="sidebar-job-item text-center medium-text-left">
 <p  class="text-center medium-text-left"><a href="https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/" rel="bookmark" title="Biometry Fullstack Software Engineer &#8211; C#/.NET">Biometry Fullstack Software Engineer &#8211; C#/.NET</a><br>
-<span><strong>Prague, Czech Republic</strong></span>
+<span><strong>Prague, XX</strong></span>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3426" target="_blank" class="button blog-more-button">Apply</a>
 </div>
 <div class="sidebar-job-item text-center medium-text-left">
 <p  class="text-center medium-text-left"><a href="https://natek.eu/jobs/senior-net-c-developer/" rel="bookmark" title="Senior .Net/C# Developer">Senior .Net/C# Developer</a><br>
-<span><strong>Wroclaw, Poland</strong></span>
+<span><strong>Wroclaw, XX</strong></span>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3419" target="_blank" class="button blog-more-button">Apply</a>
 </div>
 <div class="sidebar-job-item text-center medium-text-left">
 <p  class="text-center medium-text-left"><a href="https://natek.eu/jobs/net-developer-13/" rel="bookmark" title="Senior .Net Developer">Senior .Net Developer</a><br>
-<span><strong>Wroclaw, Poland</strong></span>
+<span><strong>Wroclaw, XX</strong></span>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3370" target="_blank" class="button blog-more-button">Apply</a>
 </div>
@@ -819,42 +819,42 @@ _____________PROPONOWANE_______________
 <div class="medium-4 columns sidebar-job-item text-center medium-text-left" style="color: #545454; margin-bottom: 30px;">
 <h6 style="border-top: 1px solid #D7D7D7; padding-top: 10px;"><a style="color: #545454" href="https://natek.eu/jobs/it-researcher-8/" rel="bookmark" title="IT Researcher">IT Researcher</a><br></h6>
 <p>
-<strong>Prague, Czech Republic</strong>
+<strong>Prague, XX</strong>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3430" target="_blank" class="button blog-more-button" style="padding: 8px 28px 8px 22px; margin: 0">Apply</a>
 </div>
 <div class="medium-4 columns sidebar-job-item text-center medium-text-left" style="color: #545454; margin-bottom: 30px;">
 <h6 style="border-top: 1px solid #D7D7D7; padding-top: 10px;"><a style="color: #545454" href="https://natek.eu/jobs/information-security-engineer-analyst/" rel="bookmark" title="Information Security Engineer Analyst">Information Security Engineer Analyst</a><br></h6>
 <p>
-<strong>Prague, Czech Republic</strong>
+<strong>Prague, XX</strong>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3429" target="_blank" class="button blog-more-button" style="padding: 8px 28px 8px 22px; margin: 0">Apply</a>
 </div>
 <div class="medium-4 columns sidebar-job-item text-center medium-text-left" style="color: #545454; margin-bottom: 30px;">
 <h6 style="border-top: 1px solid #D7D7D7; padding-top: 10px;"><a style="color: #545454" href="https://natek.eu/jobs/senior-salesforce-developer/" rel="bookmark" title="Senior Salesforce Developer">Senior Salesforce Developer</a><br></h6>
 <p>
-<strong>Prague, Czech Republic</strong>
+<strong>Prague, XX</strong>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3428" target="_blank" class="button blog-more-button" style="padding: 8px 28px 8px 22px; margin: 0">Apply</a>
 </div>
 <div class="medium-4 columns sidebar-job-item text-center medium-text-left" style="color: #545454; margin-bottom: 30px;">
 <h6 style="border-top: 1px solid #D7D7D7; padding-top: 10px;"><a style="color: #545454" href="https://natek.eu/jobs/biometry-fullstack-software-engineer-c-net/" rel="bookmark" title="Biometry Fullstack Software Engineer &#8211; C#/.NET">Biometry Fullstack Software Engineer &#8211; C#/.NET</a><br></h6>
 <p>
-<strong>Prague, Czech Republic</strong>
+<strong>Prague, XX</strong>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3426" target="_blank" class="button blog-more-button" style="padding: 8px 28px 8px 22px; margin: 0">Apply</a>
 </div>
 <div class="medium-4 columns sidebar-job-item text-center medium-text-left" style="color: #545454; margin-bottom: 30px;">
 <h6 style="border-top: 1px solid #D7D7D7; padding-top: 10px;"><a style="color: #545454" href="https://natek.eu/jobs/senior-java-engineer-for-digital-factory/" rel="bookmark" title="Senior Java Engineer for Digital Factory">Senior Java Engineer for Digital Factory</a><br></h6>
 <p>
-<strong>Prague, Czech Republic</strong>
+<strong>Prague, XX</strong>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3416" target="_blank" class="button blog-more-button" style="padding: 8px 28px 8px 22px; margin: 0">Apply</a>
 </div>
 <div class="medium-4 columns sidebar-job-item text-center medium-text-left" style="color: #545454; margin-bottom: 30px;">
-<h6 style="border-top: 1px solid #D7D7D7; padding-top: 10px;"><a style="color: #545454" href="https://natek.eu/jobs/devops-engineer-11/" rel="bookmark" title="DevOps Engineer for Military solution (Chris Kosmakos)">DevOps Engineer for Military solution (Chris Kosmakos)</a><br></h6>
+<h6 style="border-top: 1px solid #D7D7D7; padding-top: 10px;"><a style="color: #545454" href="https://natek.eu/jobs/devops-engineer-11/" rel="bookmark" title="DevOps Engineer for Military solution">DevOps Engineer for Military solution</a><br></h6>
 <p>
-<strong>Prague, Czech Republic</strong>
+<strong>Prague, XX</strong>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3404" target="_blank" class="button blog-more-button" style="padding: 8px 28px 8px 22px; margin: 0">Apply</a>
 </div>
@@ -1008,7 +1008,7 @@ wp.i18n.setLocaleData( localeData, domain );
 <script type='text/javascript' src='https://natek.eu/wp-includes/js/dist/api-fetch.min.js?ver=4dec825c071b87c57f687eb90f7c23c3' id='wp-api-fetch-js'></script>
 <script type='text/javascript' id='wp-api-fetch-js-after'>
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://natek.eu/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "f83207b8a7" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "13b8bca3cf" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://natek.eu/wp-admin/admin-ajax.php?action=rest-nonce";
@@ -1046,4 +1046,4 @@ var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[href*='#']:
 <script type='text/javascript' src='https://natek.eu/wp-content/themes/natek/assets/js/slick.min.js?ver=1.6.1' id='slick-js-js'></script>
 </body>
 </html><!-- end page -->
-<!-- WP Fastest Cache file was created in 0.89821410179138 seconds, on 05-10-21 17:15:42 -->
+<!-- WP Fastest Cache file was created in 2.6512489318848 seconds, on 07-10-21 18:09:12 -->
