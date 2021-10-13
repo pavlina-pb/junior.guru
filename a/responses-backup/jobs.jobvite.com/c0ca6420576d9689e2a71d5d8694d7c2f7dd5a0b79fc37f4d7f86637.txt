@@ -1,9 +1,6 @@
 
 
 
-
-
-
         
     <!doctype html>
     <html class="no-js" lang="en-US">
@@ -16,19 +13,20 @@
         <meta property="og:image" content="https://app.jobvite.com/logo/ZetaLogo_1625672767395.png" />
             <meta property="og:description" content="Zeta Global is looking for Email Front-End Developer. Learn more or Jobvite a friend." />
             <meta name="twitter:card" content="summary_large_image" />
-                    <meta name="HandheldFriendly" content="True">
-            <meta name="MobileOptimized" content="320">
-            <meta name="viewport" content="width=device-width, maximum-scale=5, minimum-scale=1, initial-scale=1, user-scalable=1"/>
-            <meta http-equiv="cleartype" content="on">
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=211006012334" type="image/x-icon">
         <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=211006012334">
 
         <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=211006012334">
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-mobile.css?v=211006012334">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-desktop.css?v=211006012334">
         <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=211006012334">
         <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=211006012334"></script>
         <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=211006012334"></script>
+
+                    <!--[if lte IE 8]>
+                <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/es5-shim.min.js?v=211006012334"></script>
+            <![endif]-->
 
     <!-- JV Google Analytics -->
     <script type="text/javascript">
@@ -80,7 +78,7 @@
     }
 </script>
 <script type="text/javascript">
-    function getUserId() { return ''; }
+    function getUserId() { return '3e3a8c28-9507-428d-95c8-cb193326eb1d'; }
 </script>
 <script type="text/javascript">
     function getCompanyId() { return 'qoWaVfw9'; }
@@ -116,8 +114,11 @@
                 document.documentElement.className += ' jv-iframe';
             }
         </script>
-                <script src="https://use.fontawesome.com/d14f3c2a4f.js"></script>
-        <style>
+                <link rel="shortcut icon" href="//careers.jobvite.com/common/logos/favicon-zeta.ico" type="image/x-icon">
+        <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+        <script type="text/javascript" src="//careers.jobvite.com/jquery-ui.min.js"></script>
+        <script src="//use.fontawesome.com/d14f3c2a4f.js"></script>
+                <style>
 @font-face{ 
     font-family: "Whitney A"; src: url(data:application/x-font-woff2;base64,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); 
     font-weight:300; 
@@ -208,84 +209,89 @@
     font-weight:400; 
     font-style:normal; 
 }
+ 
+.logo {width: 15rem;}
+.jv-page {width:100%;}
+.jv-wrapper {width:100%;max-width:1030px;margin:0 auto;padding:0 20px;}
 
-.jv-page-body {font-size:1em;}
+.jv-page-body {padding-bottom:2em;}
 
-.jv-page-header {background:#fff;padding:5px 25px;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);z-index:1;}
-h1.jv-logo {border:none;line-height:1;font-size:1em;margin:0;}
-.jv-logo:after {display:none;}
-.jv-logo img {display:block;}
-.jv-nav-open-link {color:#004764!important;font-size:1.5em;margin-right: 38px;margin-top: 2px;}
-.jv-nav-open-link:before {font-size:1.4em;}
-.jv-nav {background:#fff;padding-top:10px;}
-.jv-nav-link {color:#004764!important;font-size: 14px;text-transform: uppercase;padding-left:31px;padding:0 0 0 31px;line-height:48px;}
-.jv-nav-link:hover {color:#004764;}
-.jv-nav-link:hover, .jv-nav-link:active, .sub-nav a:hover, .sub-nav a:active {background-color: rgba(0, 0, 0, 0.05);}
-.jv-nav-link > span {font-size:11.2px;}
-.sub-nav {list-style-type:none;padding-left:0;}
-.sub-nav li a {padding:0 0 0 46px;text-transform:uppercase;font-size:14px;line-height:48px;display:block;}
-.sub-nav li span {font-size:11.2px;}
+/* .jv-page-header {position:fixed;width:100%;top:0;background:#fff;box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);z-index:10;}
+.jv-page-header .jv-wrapper {max-width:100%;}
+h1.jv-logo {border:none;line-height:1;font-size:1em;margin:0;float:left;}
+.jv-logo img {margin:13px 20px 10px;}
+.top-nav {margin:0;padding:27px 0;float:right;}
+.top-nav li {display:inline-block;}
+.top-nav li a {display:block;color:#004764;font-size:14.4px;line-height:1.8;padding:0 5px;margin:0 10px;font-weight:400;border-bottom:1px solid transparent;text-transform:uppercase;}
+.top-nav li a:hover {border-bottom: 1px solid #bdd638;}  */
 
 .jv-button {transition: all .3s ease-out;}
 .jv-button-primary {background:#654f89;border-color:#654f89;}
 .jv-button-primary:hover {background:#715899;border-color:#715899;}
 
+    
 *{box-sizing:border-box;}
 body {
-    background:transparent;
+    background:#fff;
     color:#004764;
     font-family: 'Whitney A', 'Whitney B', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
+    font-size:16px;
+    -webkit-font-smoothing: antialiased !important;
 }
 a, a:visited {color:#004764;font-weight:400;}
 a:hover {color:#654f89;}
-.center {text-align:center;}   
-
-.jv-job-category-label, .jv-job-category-link .jv-list-icon, .jv-text-link, .jv-search-list .jv-list-label, .jv-search-list .jv-list-icon, .jv-icon-primary {color:#004764;}
-.jv-job-list-inner {background:#004764;}
+.center {text-align:center;}
+h1,h2,h3 {text-transform:uppercase;}
 
 
-.jv-featured-jobs {background:rgba(20, 80, 104, 0.15);}
+.jv-featured-jobs {border:none;background:none;display:table;padding:0;margin-bottom:3em;}
+.jv-featured-jobs-header {text-align:center;text-transform:uppercase;}
+.jv-featured-job {display:table-cell;width:25%;border-right:12px solid #fff;padding:1em 1em 3em;background:rgba(20, 80, 104, 0.15);position:relative;}
+.jv-featured-job-title a {font-size:1.2em;padding:5px 0 10px;display:block;font-weight:bold;}
+.jv-featured-job-location {font-size:.9em;color:#666;padding-bottom:10px;}
+.jv-featured-job a.link {position:absolute;bottom:15px;left:15px;}
+.jv-featured-job a.link i {color:#cade61;}
+.jv-featured-job-desc {padding-bottom:15px;height:200px;overflow-y:auto;}
 
-.jv-search-form {background:#f3f4f4;margin:0;padding:1em;}
+.jv-search-form {background:none;border:none;padding:0;margin:2em 0;}
 .jv-search-form .jv-form-field-label {display:none;}
-.jv-search-form #jv-search-keyword {padding-left:35px;background:#fff;}
-.jv-search-form .jv-button {margin-bottom:0;}
+.jv-search-form .jv-form-field {display:inline-block;width:24%;margin-right:-4px;margin-bottom:0;}
+.jv-search-form .jv-form-field .jv-form-field-control {width:100%;padding-right:10px;}
+.jv-search-form select, .jv-search-field .jv-search-input[type="search"] {width:100%;min-width:100%;height:33px;}
+.jv-search-form .jv-button {width:4%;padding:.4em 0;}
 
-.jv-footer {background:#004764;padding:2em 0 0;color:#fff;font-size:12px;}
-.jv-footer .jv-wrapper {padding:0 30px;}
-.jv-footer .center {font-size:14px;margin-bottom:20px;}
-.jv-footer p a {color:#fff;}
+h3.h2 {font-size:1.714em;border-bottom:1px solid #cade61;margin-bottom:10px;display:inline-block;}
+.jv-job-list td {border:none;}
+
+.tools {margin:3em 0;}
+.tools a {margin-right:2em; padding:.5em 0;display:inline-block;text-decoration:none;}
+.tools a i {color:#cade61;font-size:1.2em;position:relative;top:2px;}
+
+/* .jv-footer {background:#004764;padding:2em 0 0;color:#fff;font-size:12px;text-align:center;}
+.jv-footer p a {color:#bdd448;}
 .jv-footer >div >div {overflow:hidden;}
 .jv-powered-by, .jv-powered-by .icon-powered-by {color:#fff;}
 .jv-powered-by span {font-size:0;}
+.jv-footer span.center {font-size:14px;display:inline-block;padding-top:10px;}
+.jv-footer span.center a {color:#bdd448;}
 .jv-footer .social {float:right;}
-.jv-footer .social a {display:inline-block;padding:5px;font-size:1.5em;background:#fff;border-radius:50%;height:35px;width:35px;text-align:center;margin:10px 3px;}
+.jv-footer .social a {display:inline-block;padding:7px 0;font-size:2em;background:#fff;border-radius:50%;height:40px;width:40px;text-align:center;margin:10px 3px;}
 .footer-logo {float:left;}
-.footer-container {padding:2em 0;line-height:25.2px;}
-.footer-container span {display:block;text-transform:uppercase;}
-.footer-container span a {color:#fff;font-weight:300;}
-.footer-locations {padding-left:0;text-align:justify;}
-.footer-locations li {display:inline-block;text-align:left;text-transform:uppercase;margin:0 25px 0 2px;line-height:25.2px;}
-
-
+.footer-container {padding:2em 0;}
+.footer-container span {display:inline-block;text-transform:uppercase;}
+.footer-container span a {color:#fff;font-weight:300;} */
 </style>
 
     </head>
-    <body class="jv-mobile jv-page-job " ng-app="jv.careersite.mobile.app" ng-controller="JVMain">
+    <body class="jv-desktop jv-page-job " ng-app="jv.careersite.desktop.app" ng-controller="JVMain">
             <div class="jv-page-container">
         <div class="jv-page">
                 <div class="jv-page-content">
             <header class="jv-page-header" role="banner">
         <div class="jv-wrapper">
-            <h1 class="jv-logo">
-                <a href="http://www.zetaglobal.com">
-                    <img src="https://careers.jobvite.com/zetaglobal/zetaglobal_logo.png" class="footer-logo" width="" height="60" alt="Zeta Global">
-                </a>
-            </h1>
+                                                                                                                                                                        <img class="logo" src="https://careers.jobvite.com/zetaglobal/zetaglobal_logo.png" alt="Zeta Global Logo">
         </div>
-                    <a href="#nav" class="jv-nav-open-link icon icon-menu-flyout" aria-haspopup="true" ng-click="toggleMenu($event)"><span>Menu</span></a>
-
     </header>
     
     <article class="jv-page-body" role="main"  ng-controller="JVJobDetail" >
@@ -316,21 +322,21 @@ a:hover {color:#654f89;}
                 Email Front-End Developer
 
     </h2>
-                    <h3 class="jv-job-detail-location jv-sub-header">
-                <i class="jv-icon-primary icon icon-pin"></i>
-
+                <p class="jv-job-detail-meta">
+                Marketing<span class='jv-inline-separator'></span>
         
             Praha,
             Czech Republic
         
-            </h3>
+
+        </p>
+        <hr />
 
         <div class="jv-job-detail-top-actions">
     
     <a class="jv-button jv-button-primary jv-button-apply" href="/zetaglobal/job/oRwPffwb/apply">
         Apply
     </a>
-        
         </div>
         <div class="jv-job-detail-description" ng-non-bindable>
             <h3>Description</h3>
@@ -343,7 +349,6 @@ a:hover {color:#654f89;}
     <a class="jv-button jv-button-primary jv-button-apply" href="/zetaglobal/job/oRwPffwb/apply">
         Apply
     </a>
-        
     <a class="jv-button jv-button-apply-later" ng-href="mailto:?subject=Apply for Email Front-End Developer at Zeta Global&amp;body=To apply for Email Front-End Developer at Zeta Global, click the link below:%0A%0A{{ mailUrl }}">
 Apply Later    </a>
     <div class="jv-current-openings">
@@ -352,6 +357,8 @@ Apply Later    </a>
         </a>
     </div>
     </div>
+                <hr />
+
     <div class="jv-share-widget"
         jv-share-title="Zeta Global is looking for Email Front-End Developer."
         jv-share-message="Zeta Global is looking for Email Front-End Developer. Learn more or Jobvite a friend.">
@@ -390,87 +397,19 @@ Apply Later    </a>
     <footer class="jv-footer">
         <div class="jv-wrapper">
             <p class="jv-text-center">
-                <a class="jv-powered-by" target="_parent" href="http://recruiting.jobvite.com/"><i class="icon icon-powered-by"><span>Powered by Jobvite</span></i></a>
+                                <hr />
+
+                    <a class="jv-powered-by" target="_parent" href="https://www.jobvite.com/"><i class="icon icon-powered-by"><span>Powered by Jobvite</span></i></a>
             </p>
-            <div>
-                                <img src="https://zetaglobal.com/wp-content/uploads/2017/09/Bottom_Logo@2x.png" class="footer-logo" width="79" height="60" alt="zeta">
-                <div class="social">
-                    <a href="https://www.facebook.com/zetaglobal" target="_blank"><i class="fa fa-facebook"></i></a>
-                    <a href="https://twitter.com/zetaglobal" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.linkedin.com/company/zetainteractive" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-                    <a href="https://plus.google.com/+XLMarketing/about" target="_blank"><i class="fa fa-google-plus"></i></a>
-                </div>
-            </div>
-            <p class="center">Email Us: <a href="/cdn-cgi/l/email-protection#0d64636b624d7768796c6a61626f6c61236e6260"><span class="__cf_email__" data-cfemail="e0898e868fa09a859481878c8f82818cce838f8d">[email&#160;protected]</span></a></p>
-            <ul class="footer-locations">
-                <li>ny hq</li>
-                <li>boston</li>
-                <li>nashville</li>
-                <li>silicon valley</li>
-                <li>london</li>
-                <li>hyderabad</li>
-                <li>bengaluru</li>
-                <li>chennai</li>
-            </ul>
-            <div class="footer-container text-uppercase">
-                <span>© Copyright <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear())</script> Zeta. All rights reserved. </span>
-                <span><a href="http://www.zetaglobal.com/privacy-policy">Privacy Policy</a> | <a href="http://www.zetaglobal.com/acceptable-use-policy/">Acceptable Use Policy</a></span>
-            </div>
         </div>
     </footer>
 
     </div>
-    <nav id="nav" class="jv-nav" role="navigation" tabindex="-1" jv-focus-on="sidebarVisible" aria-hidden="{{ !sidebarVisible }}">
-                <ul class="jv-nav-items">
-        <li class="jv-nav-item"><a class="jv-nav-link">About</a>
-            <ul class="sub-nav">
-                <li><a href="http://www.zetaglobal.com/about">General</a></li>
-                <li><a href="http://www.zetaglobal.com/company">Company</a></li>
-                <li><a href="http://www.zetaglobal.com/leadership">Leadership</a></li>
-                <li><a href="http://www.zetaglobal.com/culture">Culture</a></li>
-                <li><a href="http://www.zetaglobal.com/clients">Clients</a></li>
-                <li><a href="http://www.zetaglobal.com/awards">Awards</a></li>
-                <li><a href="http://www.zetaglobal.com/videos">Video Hub</a></li>
-            </ul>
-        </li>
-        <li class="jv-nav-item"><a class="jv-nav-link" href="http://www.zetaglobal.com/zetahub">Z<span>eta</span>H<span>ub</span></a></li>
-        <li class="jv-nav-item"><a class="jv-nav-link">Solutions</a>
-            <ul class="sub-nav">
-                <li><a href="http://www.zetaglobal.com/solutions">General</a></li>
-                <li><a href="http://www.zetaglobal.com/crm">Z<span>eta</span>CRM</a></li>
-                <li><a href="http://www.zetaglobal.com/zx">Z<span>eta</span>ZX</a></li>
-                <li><a href="http://www.zetaglobal.com/cx">Z<span>eta</span>CX</a></li>
-                <li><a href="http://www.zetaglobal.com/actions">Z<span>eta</span>A<span>ctions</span></a></li>
-                <li><a href="http://www.zetaglobal.com/smart">Z<span>eta</span>S<span>mart</span></a></li>
-                <li><a href="http://www.zetaglobal.com/retail">Z<span>eta</span>R<span>etail</span></a></li>
-                <li><a href="http://www.zetaglobal.com/zync">ZYNC</a></li>
-                <li><a href="http://www.zetaglobal.com/ai">Z<span>eta</span>AI</a></li>
-            </ul>
-        </li>
-        <li class="jv-nav-item"><a class="jv-nav-link" href="http://www.zetaglobal.com/news">News</a></li>
-        <li class="jv-nav-item"><a class="jv-nav-link" href="http://resources.zetaglobal.com/">Resources</a></li>
-        <li class="jv-nav-item"><a class="jv-nav-link" href="http://blog.zetaglobal.com/">Blog</a></li>
-        <!-- <li class="jv-nav-item"><a class="jv-nav-link" href="http://zetaglobal.com/#services">Services</a></li>
-        <li class="jv-nav-item"><a class="jv-nav-link" href="http://zetaglobal.com/#portfolio">Portfolio</a></li> -->
-        <li class="jv-nav-item"><a class="jv-nav-link" href="/zetaglobal/">Careers</a></li>
-        <li class="jv-nav-item"><a class="jv-nav-link" href="http://www.zetaglobal.com/locations">Locations</a></li>
-        <li class="jv-nav-item"><a class="jv-nav-link" href="http://www.zetaglobal.com/contact">Contact</a></li>
-        <!-- <li class="jv-nav-item">
-            <a class="jv-nav-link" href="/zetaglobal/">Jobs</a>
-        </li> -->
-            <li class="jv-nav-item">
-                <a class="jv-nav-link" href="/zetaglobal/jobs/#/p/about">About</a>
-            </li>
-            <li class="jv-nav-item">
-                <a class="jv-nav-link" href="/zetaglobal/jobs/#/p/alerts">Job Alerts</a>
-            </li>
-    </ul>
-    </nav>
 
         </div>
     </div>
     
-    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.mobile.app.js?v=211006012334"></script>
+    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.desktop.app.js?v=211006012334"></script>
     <script>
         angular.module('preloadedData', []).constant('preloadedData', {
                 applyLinkUrl: '${job.applyLinkUrl}',
