@@ -37,7 +37,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="Full Stack Developer (Professional Services Specialist)" />
                 <meta property="og:description" content="Full Stack Developer (Professional Services Specialist)" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/2bb9985d-d11d-4fa6-b299-7.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/2a042c7c-91af-4c4b-a95b-d.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/4a2a79c2-ca65-471e-8d61-d.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/b6a22421-a3ee-4099-a538-7.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=974c7eae" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=974c7eae" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=974c7eae" />
@@ -774,7 +774,7 @@ $(function() {
 </script>
 <script>
 $(document).ready(function(){
-$( ".headermain" ).replaceWith( "<div class='row' style='background: #000;'><div class='col-sm-12 col-md-12 blackBG dispNone'><ul class='menu'><li class='menu-item'><a href='https://www.amdocs.com/?pubID=null?utm_source=null?utm_medium=null?utm_campaign=null' id='submenuTop'>Amdocs.com</a></li><li class='menu-item'><a href='#' onclick='j2w.TC.handleViewProfileAction(event)' id='submenuTop'>My profile</a></li></ul></div></div><div class='row blackBG bdrGray'><div class='col-sm-12 col-md-3'><img class='coh-image coh-image-responsive-xs' src='https://www.amdocs.com/sites/default/files/styles/coh_xx_small/public/2021-05/amdocs-logo-2x_0.png?itok=sEaesRTo' alt='Amdocs Logo'></div><div class='col-sm-12 col-md-9'><div class='topnav' id='myTopnav'><a href='https://www.amdocs.com/careers' class='topnav2'>Careers</a><a href='https://jobs.amdocs.com/content/Search-by-Location/?locale=en_US' class='topnav2'>Locations</a><a href='https://jobs.amdocs.com/content/fields-of-work/?locale=en_US' class='topnav2'>Fields of Work</a><a href='https://www.amdocs.com/careers/life-at-amdocs' class='topnav2'>Life at amdocs</a><a href='https://www.amdocs.com/careers/benefits' class='topnav2'>Benefits</a><a href='https://www.amdocs.com'class='topnav2 dispOK'style='font-size: 12px;border-top: #eee solid 1px;'>Amdocs.com</a><a href='#' onclick='j2w.TC.handleViewProfileAction(event)' class='topnav2 dispOK'style='font-size: 12px;'>My profile</a><a href='javascript:void(0);' class='icon' onclick='myFunction()'><i class='fa fa-bars'></i></a></div></div></div>");
+$( ".headermain" ).replaceWith( "<div class='row' style='background: #000;'><div class='col-sm-12 col-md-12 blackBG dispNone'><ul class='menu'><li class='menu-item'><a href='https://www.amdocs.com/?pubID=null?utm_source=null?utm_medium=null?utm_campaign=null' id='submenuTop'>Amdocs.com</a></li><li class='menu-item'><a href='#' onclick='j2w.TC.handleViewProfileAction(event)' id='submenuTop'>My profile</a></li></ul></div></div><div class='row blackBG bdrGray'><div class='col-sm-12 col-md-3'><a href='https://www.amdocs.com'><img class='coh-image coh-image-responsive-xs' src='https://www.amdocs.com/sites/default/files/styles/coh_xx_small/public/2021-05/amdocs-logo-2x_0.png?itok=sEaesRTo' alt='Amdocs Logo' style='border:0px;'></a></div><div class='col-sm-12 col-md-9'><div class='topnav' id='myTopnav'><a href='https://www.amdocs.com/careers' class='topnav2'>Careers</a><a href='https://jobs.amdocs.com/content/Search-by-Location/?locale=en_US' class='topnav2'>Locations</a><a href='https://jobs.amdocs.com/content/fields-of-work/?locale=en_US' class='topnav2'>Fields of Work</a><a href='https://www.amdocs.com/careers/life-at-amdocs' class='topnav2'>Life at amdocs</a><a href='https://www.amdocs.com/careers/benefits' class='topnav2'>Benefits</a><a href='https://www.amdocs.com'class='topnav2 dispOK'style='font-size: 12px;border-top: #eee solid 1px;'>Amdocs.com</a><a href='#' onclick='j2w.TC.handleViewProfileAction(event)' class='topnav2 dispOK'style='font-size: 12px;'>My profile</a><a href='javascript:void(0);' class='icon' onclick='myFunction()'><i class='fa fa-bars'></i></a></div></div></div>");
 });
 </script>
 
@@ -2622,7 +2622,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "b2a83d1a-8914-4357-b8c4-07bd2fd8a2ae"
+						"X-CSRF-Token" : "86247389-c53b-458a-b6a7-f545c59d7b03"
 					}
 				});
 			//]]>
@@ -2653,7 +2653,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = 'e46f34ba-d709-4620-8f31-1fce5b30f003';
+				var ctid = '39fac4f0-7a10-421e-aa51-d6eb4033dd0b';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2732600722';
 				var landing = document.location.href;
 				var brand = '';
@@ -2691,7 +2691,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=405544990"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=70256946"></script>
             <script type="text/javascript">
                 //<![CDATA[
                     var subscribeWidgetSetup = {
