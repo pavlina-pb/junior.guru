@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cs" data-updated-at="2021-10-23T06:49:55.636446+02:00">
+<html lang="cs" data-updated-at="2021-10-24T07:04:42.731979+02:00">
   <head>
     <meta charset="utf-8">
     <meta name="robots" content="noindex">
@@ -39,11 +39,11 @@
     
     </p>
     <p>
-      <strong>Aktualizace:</strong> dnes, 2021-10-23T06:49:55.636446+02:00
+      <strong>Aktualizace:</strong> dnes, 2021-10-24T07:04:42.731979+02:00
     </p>
     <hr>
     
-<h1>Chyby v nabídkách (nabídek 0, pavouků 1)</h1>
+<h1>Chyby v nabídkách (nabídek 0, pavouků 0)</h1>
 <p>
   Nejdřív metriky z posledního běhu robota. Každý sloupec představuje konkrétní <em>spider</em> obstarávající jeden zdroj nabídek.
 </p>
@@ -69,32 +69,37 @@
   
     <tr>
       <th>downloader/response_status_count/200</th>
-      <td>2</td><td>14</td><td>770</td><td>99</td><td>171</td><td>24</td><td>113</td>
+      <td>2</td><td>14</td><td>1553</td><td>99</td><td>171</td><td>23</td><td>112</td>
     </tr>
   
     <tr>
       <th>downloader/response_status_count/301</th>
-      <td>0</td><td>0</td><td>39</td><td>0</td><td>0</td><td>0</td><td>0</td>
+      <td>0</td><td>0</td><td>43</td><td>0</td><td>0</td><td>0</td><td>0</td>
     </tr>
   
     <tr>
       <th>downloader/response_status_count/302</th>
-      <td>0</td><td>0</td><td>38</td><td>0</td><td>0</td><td>0</td><td>0</td>
+      <td>0</td><td>0</td><td>64</td><td>0</td><td>0</td><td>0</td><td>0</td>
+    </tr>
+  
+    <tr>
+      <th>downloader/response_status_count/403</th>
+      <td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
     </tr>
   
     <tr>
       <th>downloader/response_status_count/429</th>
-      <td>0</td><td>0</td><td>171</td><td>0</td><td>0</td><td>0</td><td>0</td>
+      <td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td>
     </tr>
   
     <tr>
       <th>elapsed_time_seconds</th>
-      <td>5</td><td>26</td><td>1252</td><td>139</td><td>275</td><td>48</td><td>42</td>
+      <td>18</td><td>26</td><td>1908</td><td>136</td><td>271</td><td>52</td><td>55</td>
     </tr>
   
     <tr>
       <th>item_dropped_count</th>
-      <td>0</td><td>85</td><td>361</td><td>96</td><td>159</td><td>46</td><td>110</td>
+      <td>0</td><td>85</td><td>724</td><td>96</td><td>159</td><td>45</td><td>109</td>
     </tr>
   
     <tr>
@@ -119,30 +124,20 @@
   
     <tr>
       <th>item_dropped_reasons_count/NotEntryLevel</th>
-      <td>0</td><td>0</td><td>339</td><td>80</td><td>92</td><td>45</td><td>110</td>
+      <td>0</td><td>0</td><td>512</td><td>82</td><td>92</td><td>45</td><td>109</td>
     </tr>
   
     <tr>
       <th>item_dropped_reasons_count/ShortDescription</th>
-      <td>0</td><td>0</td><td>18</td><td>15</td><td>0</td><td>1</td><td>0</td>
+      <td>0</td><td>0</td><td>208</td><td>13</td><td>0</td><td>0</td><td>0</td>
     </tr>
   
     <tr>
       <th>item_saved_count</th>
-      <td>0</td><td>5</td><td>28</td><td>0</td><td>1</td><td>28</td><td>0</td>
-    </tr>
-  
-    <tr>
-      <th>log_count/ERROR</th>
-      <td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td>
+      <td>0</td><td>5</td><td>46</td><td>0</td><td>1</td><td>27</td><td>0</td>
     </tr>
   
 </table>
-
-<hr>
-<p>
-  <strong>Ajajaj!</strong> Vypadá to, že nastaly chyby tak ošklivé, že je robot nedokázal zachytit a uložit. Budeš muset jít do <a href="https://app.circleci.com/pipelines/github/honzajavorek/junior.guru?branch=main">posledního buildu</a> a omrknout <code>check-scrapers</code> a hlavně <code>sync</code>.
-</p>
 
 <hr>
 
