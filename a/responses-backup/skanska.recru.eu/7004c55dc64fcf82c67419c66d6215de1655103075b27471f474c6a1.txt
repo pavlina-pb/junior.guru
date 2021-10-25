@@ -71,7 +71,7 @@
 <link href="/assets/global/plugins/icheck/skins/all.css" rel="stylesheet" type="text/css" />
 <link href="/assets/global/plugins/webui-popover/jquery.webui-popover.css" rel="stylesheet" type="text/css">
 <link href="/assets/pages/css/pricing.min.css" rel="stylesheet" type="text/css">
-<link href="/css/recru.css?v=20211024" rel="stylesheet" type="text/css" />
+<link href="/css/recru.css?v=20211025" rel="stylesheet" type="text/css" />
 	
 <!-- BEGIN CORE HEADER PLUGINS -->
 <script src="/assetsCustom/global/plugins/jquery.min.js" type="text/javascript"></script>
@@ -82,7 +82,7 @@
 <!-- END CORE HEADER PLUGINS -->
 
 <!-- BEGIN RECRU PLUGINS -->
-<script type="text/javascript" src="https://skanska.recru.eu/js/recru.js?v=20211024"></script>
+<script type="text/javascript" src="https://skanska.recru.eu/js/recru.js?v=20211025"></script>
 <script type="text/javascript">
     var Recru = new Recru({
         subdomain: 'skanska',
@@ -100,7 +100,7 @@
         Notifications: { notifications: [] }
     });
 </script>
-<script type="text/javascript" src="https://skanska.recru.eu/api/jobseeker/js-api?v=6174e453e6d98&token="></script>
+<script type="text/javascript" src="https://skanska.recru.eu/api/jobseeker/js-api?v=617644585394c&token="></script>
 
 
 <!-- END RECRU PLUGINS -->
@@ -453,7 +453,7 @@
 <script src="/assets/global/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
 <script src="/assets/global/plugins/object_hash.js" type="text/javascript"></script>
 <script src="/assets/global/plugins/jquery.actual.js" type="text/javascript"></script>
-    <script type="text/javascript" src="https://skanska.recru.eu/api/translator?locale=en_UK&v=20211024"></script>
+    <script type="text/javascript" src="https://skanska.recru.eu/api/translator?locale=en_UK&v=20211025"></script>
     </body>
 
 </html>
