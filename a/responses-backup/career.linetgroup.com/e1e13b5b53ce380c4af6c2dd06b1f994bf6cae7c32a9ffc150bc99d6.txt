@@ -1019,7 +1019,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "c0d76e48-ceeb-4f9a-9935-b997539b4738"
+						"X-CSRF-Token" : "ed693027-315a-4ecc-841c-3ab23caa3252"
 					}
 				});
 			//]]>
@@ -1069,7 +1069,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "c0d76e48-ceeb-4f9a-9935-b997539b4738"
+						"X-CSRF-Token" : "ed693027-315a-4ecc-841c-3ab23caa3252"
 					}
 				});
 			//]]>
@@ -1090,7 +1090,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '0de6b5a6-4ea4-4b72-a195-540f99e1ad70';
+				var ctid = 'b8c546ac-7cd0-485a-8797-6bfb500886e0';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2756886696';
 				var landing = document.location.href;
 				var brand = '';
@@ -1128,7 +1128,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=2066074332"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1328745357"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

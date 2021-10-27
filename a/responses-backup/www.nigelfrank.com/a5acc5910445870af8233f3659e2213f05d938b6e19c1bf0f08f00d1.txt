@@ -68,14 +68,7 @@ I am currently working alongside an MS partner...">
             ga('create', 'UA-3375037-1', 'auto');
             ga('send', 'pageview');
         </script>
-            <!-- Google Tag Manager -->
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer', 'GTM-5H92QGK');</script>
-        <!-- End Google Tag Manager -->
-   
+    
     <script type="application/ld+json">
         {"@context":"http:\/\/schema.org","@type":"Organization","name":"Nigel Frank","sameAs":["https:\/\/www.facebook.com\/NigelFrankInternational","https:\/\/www.linkedin.com\/company\/nigel-frank-international","https:\/\/twitter.com\/NigelFrank"],"url":"https:\/\/www.nigelfrank.com","logo":"https:\/\/www.nigelfrank.com\/assets\/nfi\/img\/logo-square.jpg"}    </script>
 
@@ -84,7 +77,6 @@ I am currently working alongside an MS partner...">
 
 
 <body class='body-job-view banner-on   '>
-
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -410,7 +402,7 @@ I am currently working alongside an MS partner...">
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="HO7Lg94jNb65IDpYUG5dDysFGr9d2okHZVB29ysG">        <input name="jobs[]" type="hidden" value="388577">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="32lbau2YDBnuvokKGzAGnIVcJ11wfYb4hl4ZoEzN">        <input name="jobs[]" type="hidden" value="388577">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -511,7 +503,7 @@ I am currently working alongside an MS partner...">
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/388577?_token=HO7Lg94jNb65IDpYUG5dDysFGr9d2okHZVB29ysG">
+                                      data-job-id="/saved-jobs/add/388577?_token=32lbau2YDBnuvokKGzAGnIVcJ11wfYb4hl4ZoEzN">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -548,7 +540,7 @@ I am currently working alongside an MS partner...">
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/388577?_token=HO7Lg94jNb65IDpYUG5dDysFGr9d2okHZVB29ysG">
+                                              data-job-id="/saved-jobs/add/388577?_token=32lbau2YDBnuvokKGzAGnIVcJ11wfYb4hl4ZoEzN">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -567,7 +559,7 @@ I am currently working alongside an MS partner...">
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="HO7Lg94jNb65IDpYUG5dDysFGr9d2okHZVB29ysG">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="32lbau2YDBnuvokKGzAGnIVcJ11wfYb4hl4ZoEzN">
 
 
 
@@ -1130,8 +1122,7 @@ I am currently working alongside an MS partner...">
                     |
                     <a href="https://www.frankgroup.com/modern-slavery" title="Modern Slavery">Modern Slavery</a>
                                         |
-                    <button style="color: white;background: none;border: none;" data-toggle="modal"
-                            data-target="#cookieModal">Cookie Preferences                    </button> | <button style="color: white;background: none;border: none; cursor: pointer; display: inline;" onclick="location.href='https://www.frankgroup.com/frg-website-covid-19-risk-statement/'">Covid Risk Assessment Statement</button>
+                    <button  id="ot-sdk-btn" class="ot-sdk-show-settings"  style="color: white;background: none;border: none; font-size: inherit; padding: 0;">Cookie Preferences                    </button> | <button style="color: white;background: none;border: none; cursor: pointer; display: inline;" onclick="location.href='https://www.frankgroup.com/frg-website-covid-19-risk-statement/'">Covid Risk Assessment Statement</button>
                 </p>
             </div>
 
@@ -1201,360 +1192,8 @@ I am currently working alongside an MS partner...">
 
 <script>"use strict";!function(){var t=window.driftt=window.drift=window.driftt||[];if(!t.init){if(t.invoked)return void(window.console&&console.error&&console.error("Drift snippet included twice."));t.invoked=!0,t.methods=["identify","config","track","reset","debug","show","ping","page","hide","off","on"],t.factory=function(e){return function(){var r=Array.prototype.slice.call(arguments);return r.unshift(e),t.push(r),t}},t.methods.forEach(function(e){t[e]=t.factory(e)}),t.load=function(t){var e=3e5*Math.ceil(new Date/3e5),r=document.createElement("script");r.type="text/javascript",r.async=!0,r.crossorigin="anonymous",r.src="https://js.driftt.com/include/"+e+"/"+t+".js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)}}}(),drift.SNIPPET_VERSION="0.3.1",drift.load("wpaz466drhw3");</script>
 <style>
-    .cookie-list label {
-        width: 160px;
-    }
-
-    .cookie-list li {
-        padding-bottom: 10px;
-    }
-
-    .cookie-dropdown {
-        padding: 5px;
-        border: 1px solid #e2e2e2;
-        border-radius: 5px;
-    }
-
+div.cookie-alert { display: none !important }
 </style>
-
-<div id="cookie-overlay">
-    <div class="cookie-manager-wrapper">
-        <div id="cookie-manager" class="cookie-manager-content">
-            <h5>Your Cookies</h5>
-            <p>By continuing to use this website, we will assume you are happy to receive carefully selected cookies. Do you accept these cookies and the processing of personal data involved?</p><a class="btn btn-primary-theme btn-xs accept">Accept Policy</a><a class="btn btn-primary-theme btn-xs" data-toggle="modal" data-target="#cookieModal" style="margin-left: 10px;">Review</a>        </div>
-    </div>
-</div>
-
-<style>
-
-    div.cookie-alert {
-        display: none !important;
-    }
-
-    div#cookie-overlay {
-        position: fixed; /* Sit on top of the page content */
-        display: none; /* Hidden by default *!*/
-        width: 100%; /* Full width (cover the whole page) */
-        height: 100%; /* Full height (cover the whole page) */
-        top: 0;
-        left: 0;
-        background-color: rgba(0, 0, 0, 0.65); /* Black background with opacity */
-        z-index: 1000; /* Specify a stack order in case you're using a different order for other elements */
-        cursor: pointer; /* Add a pointer on hover */
-    }
-
-
-    div.cookie-manager-wrapper {
-        position: relative;
-        height: 100%;
-    }
-
-    div#cookie-manager {
-        background-color: #fff;
-    }
-
-    div#cookie-manager h5 {
-        font-size: 28px;
-        padding: 0 0 20px 0;
-        text-transform: uppercase;
-    }
-
-    div#cookie-manager p {
-        padding: 0;
-        margin-bottom: 30px;
-    }
-
-    div.cookie-manager-content {
-        width: 50%;
-        max-width: 436px;
-        height: 50%;
-        max-height: 300px;
-        overflow: auto;
-        margin: auto;
-        position: absolute;
-        top: 0;
-        left: 0;
-        bottom: 0;
-        right: 0;
-        text-align: center;
-        padding: 40px;
-        border-radius: 4px;
-    }
-
-    div#cookie-manager a.btn {
-        text-transform: uppercase;
-        font-size: 18px;
-        font-weight: bold;
-        float: left;
-        color: #fff;
-        outline: none;
-        border: none;
-        width: 45%;
-        padding: 4px 4px;
-        background-color: #9E9E9E;
-        background-image: none;
-    }
-
-    div#cookie-manager a.accept {
-        float: right;
-        background-color: orange;
-    }
-
-    div#cookie-manager a.btn:hover {
-        cursor: pointer;
-    }
-
-    @media (max-width: 767px) {
-
-        div#cookie-manager a.btn {
-            font-size: 13px;
-        }
-
-        div.cookie-manager-content {
-            width: 90%;
-            max-width: 90%;
-            height: 90%;
-            max-height: 270px;
-            padding: 20px;
-        }
-    }
-
-    @media (max-width: 1200px) {
-        div#cookie-manager a.btn {
-            font-size: 15px;
-        }
-
-    }
-
-
-</style>
-</div>
-
-
-<div class="modal fade" id="cookieModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
-                            aria-hidden="true">&times;</span>
-                </button>
-                <h4 class="modal-title" id="myModalLabel">Cookie Preference</h4>
-            </div>
-
-            <style>
-                select.cookie-dropdown {
-                    font-size: 12px;
-                }
-
-                select.cookie-dropdown label {
-                    width: 100%;
-                }
-            </style>
-
-            <div class="modal-body">
-                <h4>Required Cookies</h4>
-                <p>
-                    Certain cookies are necessary for the website to function and cannot be switched off.
-                    To find out the list of required cookies, please visit <a target="_blank"
-                                                                              href="https://www.frankgroup.com/privacy-policy">our
-                        cookie policy</a>
-                </p>
-                <hr>
-                <h4>Functional Cookies</h4>
-                <p>
-                    These are cookies which provide extra features to the website. Main functionality of websites
-                    will
-                    not be
-                    affected if these cookies are turned off.
-                <ul class="cookie-list list-unstyled">
-                                            <li>
-                            <label>Linkedin:</label>
-                            <select class="cookie-dropdown" id="cookie-linkedin">
-                                                                    <option value="on">On</option>
-                                    <option value="off">Off</option>
-                                                            </select>
-                        </li>
-                                            <li>
-                            <label>Kickfire:</label>
-                            <select class="cookie-dropdown" id="cookie-kickfire">
-                                                                    <option value="on">On</option>
-                                    <option value="off">Off</option>
-                                                            </select>
-                        </li>
-                                            <li>
-                            <label>Lead Forensics:</label>
-                            <select class="cookie-dropdown" id="cookie-lead_forensics">
-                                                                    <option value="on">On</option>
-                                    <option value="off" selected="selected">Off</option>
-                                                            </select>
-                        </li>
-                                            <li>
-                            <label>Indeed Tag:</label>
-                            <select class="cookie-dropdown" id="cookie-indeed-tag">
-                                                                    <option value="on">On</option>
-                                    <option value="off" selected="selected">Off</option>
-                                                            </select>
-                        </li>
-                                            <li>
-                            <label>Facebook:</label>
-                            <select class="cookie-dropdown" id="cookie-facebook">
-                                                                    <option value="on">On</option>
-                                    <option value="off" selected="selected">Off</option>
-                                                            </select>
-                        </li>
-                                            <li>
-                            <label>Hot Jar:</label>
-                            <select class="cookie-dropdown" id="cookie-hotjar">
-                                                                    <option value="on">On</option>
-                                    <option value="off" selected="selected">Off</option>
-                                                            </select>
-                        </li>
-                                            <li>
-                            <label>Olark:</label>
-                            <select class="cookie-dropdown" id="cookie-olark">
-                                                                    <option value="on">On</option>
-                                    <option value="off">Off</option>
-                                                            </select>
-                        </li>
-                                            <li>
-                            <label>Pardot:</label>
-                            <select class="cookie-dropdown" id="cookie-pardot">
-                                                                    <option value="on">On</option>
-                                    <option value="off" selected="selected">Off</option>
-                                                            </select>
-                        </li>
-                                    </ul>
-                </p>
-                <br>
-                <hr>
-                <br>
-                <button class="btn btn-cookie" data-dismiss="modal">Cancel</button>
-                <button class="btn btn-primary" id="btn-cookie-submit">Submit</button>
-                <span style="font-size: 10px;">- OR -</span>
-                <button class="btn btn-success accept-all">Accept All &amp; Continue</button>
-            </div>
-
-            <script>
-
-                document.addEventListener('DOMContentLoaded', function () {
-
-                    setTimeout(
-                        function () {
-                            if (!readCookie('cookie_policy')) {
-                                jQuery('div#cookie-overlay').fadeIn('slow');
-                            }
-                        }, 3000);
-
-                    jQuery('#btn-cookie-submit').click(function () {
-
-                        var $cookieLinkedin = jQuery('#cookie-linkedin').val();
-                        var $cookieKickfire = jQuery('#cookie-kickfire').val();
-                        var $cookieForensics = jQuery('#cookie-lead_forensics').val();
-                        var $cookieIndeed = jQuery('#cookie-indeed-tag').val();
-                        var $cookieFacebook = jQuery('#cookie-facebook').val();
-                        var $cookieHotJar = jQuery('#cookie-hotjar').val();
-                        var $cookieOlarkChat = jQuery('#cookie-olark').val();
-                        var $cookiePardot = jQuery('#cookie-pardot').val();
-
-                        createCookie('cookie-linkedin', $cookieLinkedin);
-                        createCookie('cookie-kickfire', $cookieKickfire);
-                        createCookie('cookie-lead_forensics', $cookieForensics);
-                        createCookie('cookie-indeed-tag', $cookieIndeed);
-                        createCookie('cookie-facebook', $cookieFacebook);
-                        createCookie('cookie-hotjar', $cookieHotJar);
-                        createCookie('cookie-olark', $cookieOlarkChat);
-                        createCookie('cookie-pardot', $cookiePardot);
-
-                        // store that we have accepted the cookie policy
-                        createCookie('cookie_policy', true, 365);
-
-                                                jQuery('div#cookie-overlay').hide();
-                        jQuery('div.modal-backdrop').remove();
-                    });
-
-                    jQuery('div#cookie-overlay a.accept').click(function () {
-
-                        // store that we have accepted the cookie policy
-                        createCookie('cookie_policy', true, 365);
-
-                        createCookie('cookie-linkedin', 'On');
-                        createCookie('cookie-kickfire', 'On');
-                        createCookie('cookie-lead_forensics', 'On');
-                        createCookie('cookie-indeed-tag', 'On');
-                        createCookie('cookie-facebook', 'On');
-                        createCookie('cookie-hotjar', 'On');
-                        createCookie('cookie-olark', 'On');
-                        createCookie('cookie-pardot', 'On');
-
-                        jQuery('div#cookie-overlay').hide();
-
-                        location.reload();
-                    });
-
-                    jQuery('div#cookieModal button.accept-all').click(function () {
-
-                        // store that we have accepted the cookie policy
-                        createCookie('cookie_policy', true, 365);
-
-                        // change all dropdown values to yes
-                        jQuery('div#cookieModal select option').each(function () {
-                            jQuery(this).removeAttr('selected');
-                        });
-
-                        // change all dropdown values to yes
-                        jQuery('div#cookieModal select option').each(function () {
-                            var value = jQuery(this).val();
-                            if (value === 'on') {
-                                jQuery(this).prop('selected', true);
-                            }
-                        });
-
-                        // trigger submission
-                        jQuery('#btn-cookie-submit').click();
-                        jQuery('div#cookie-overlay').hide();
-                    });
-
-                    /**
-                     * Has to be added due to not being present on some parts of system
-                     * Creates a new cookie
-                     * @param {string} name
-                     * @param {string} value
-                     * @param {int} days
-                     */
-                    function createCookie(name, value, days) {
-                        if (days) {
-                            var date = new Date();
-                            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                            var expires = "; expires=" + date.toGMTString();
-                        } else
-                            var expires = "";
-                        document.cookie = name + "=" + value + expires + "; path=/";
-                    }
-
-                    /**
-                     *  Get cookie by its name
-                     * @param {string} name
-                     * @returns {unresolved}
-                     */
-                    function readCookie(name) {
-                        var nameEQ = name + "=";
-                        var ca = document.cookie.split(';');
-                        for (var i = 0; i < ca.length; i++) {
-                            var c = ca[i];
-                            while (c.charAt(0) == ' ')
-                                c = c.substring(1, c.length);
-                            if (c.indexOf(nameEQ) == 0)
-                                return c.substring(nameEQ.length, c.length);
-                        }
-                        return null;
-                    }
-
-                });
-            </script>
-
-        </div>
-    </div>
-</div>
 <script src="https://www.nigelfrank.com/wp-content/themes/job-board/resources/assets/js/main-min.js?ver=1582193313" type="text/javascript"></script>
 <script src='https://www.google.com/recaptcha/api.js?hl=en' defer></script>
 </body>
