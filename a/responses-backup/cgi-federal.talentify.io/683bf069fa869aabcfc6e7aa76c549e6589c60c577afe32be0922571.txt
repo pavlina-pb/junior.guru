@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+<head>
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"519820eb50",applicationID:"68456873"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n){return function(){return o(t,[u.now()].concat(f(arguments)),e?null:this,n),e?void 0:this}}var o=t("handle"),a=t(8),f=t(9),c=t("ee").get("tracer"),u=t("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){s[e]=i(p+e,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),t,n],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){function r(){return f.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,f=t(10);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],4:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],5:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?d("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&d("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d("cls",[t])})}function a(t){if(t instanceof m&&!g){var e=Math.round(t.timeStamp),n={type:t.type};e<=p.now()?n.fid=p.now()-e:e>p.offset&&e<=Date.now()?(e-=p.offset,n.fid=p.now()-e):e=p.now(),g=!0,d("timing",["fi",e,n])}}function f(t){"hidden"===t&&d("pageHide",[p.now()])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var c,u,s,d=t("handle"),p=t("loader"),l=t(7),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,h=["click","keydown","mousedown","pointerdown","touchstart"];h.forEach(function(t){document.addEventListener(t,a,!1)})}l(f)}},{}],6:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],7:[function(t,e,n){function r(t){function e(){t(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],8:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],9:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],10:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,c,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var f=e(i),c=v(n),u=c.length,s=0;s<u;s++)c[s].apply(f,r);var p=d[w[n]];return p&&p.push([b,n,r,f]),f}}function o(t,e){y[t]=v(t).concat(e)}function m(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function v(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:e,buffer:h,abort:f,aborted:!1};return b}function o(t){return u(t,c,a)}function a(){return new r}function f(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",u=t("gos"),s=t(8),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!R++){var t=M.info=NREUM.info,e=v.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();f("mark",["onload",n+M.offset],null,"api"),f("timing",["load",n]);var r=v.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===v.readyState&&o()}function o(){f("mark",["domContent",a()+M.offset],null,"api")}var a=t(3),f=t("handle"),c=t(8),u=t("ee"),s=t(6),d=t(4),p=t(2),l=p.getConfiguration("ssl")===!1?"http":"https",m=window,v=m.document,g="addEventListener",h="attachEvent",y=m.XMLHttpRequest,w=y&&y.prototype,b=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:y,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1211.min.js"},O=y&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(5),v[g]?(v[g]("DOMContentLoaded",o,!1),m[g]("load",r,!1)):(v[h]("onreadystatechange",i),m[h]("onload",r)),f("mark",["firstbyte",a.getLastTimestamp()],null,"api");var R=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,c],s],t)}f(n+"start",[o,a,c],s,u);try{return p=e.apply(a,o)}catch(m){throw f(n+"err",[o,a,m],s,u),m}finally{f(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var f,c,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)c=e[u],f=t[c],a(f)||(t[c]=n(f,s?c+r:r,i,c,o))}function f(n,r,o,a){if(!m||e){var f=m;m=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}m=f}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function f(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function c(t,e,n){var r=t[e];t[e]=f(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(9),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;e.exports=r,e.exports.wrapFunction=f,e.exports.wrapInPlace=c,e.exports.argsToArray=u},{}]},{},["loader"]);</script> <script>
+        let script = document.createElement('script');
+        script.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2767175017337175";
+        script.setAttribute('crossorigin', 'anonymous')
+        setTimeout(() => {
+            document.head.append(script);
+        }, 3000);
+    </script>
+<link rel="preload" href='/css/fastCover.css?v=21.10.29-160053' as='style'>
+<link href='/css/fastCover.css?v=21.10.29-160053' rel='stylesheet' type='text/css'>
+<script type="text/javascript">
+            (function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "3vnv3t67yz");
+        </script>
+
+<script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                });
+                var f                          = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async                        = true;
+                j.src                          =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-M5HN5H6');</script>
+
+<title>Junior Java Developer – skvělá šance pro absolventy! at CGI Federal in Prague, Pr J0521-3310</title>
+<meta name="description" content="Junior Java Developer – skvělá šance pro absolventy! at CGI Federal in Prague, Pr. 
+
+Pojď s námi pracovat na implementacích pro naše klienty. Konkrétně se jedná o implementaci a další rozvoj našeho produktu, který je založený na mikroservisech.
+Neutopíme Tě tady ve starých technologiích, budeš pracovat s novými a to hlavně s Docker, Kafka, Java 8+, Spring Boot, Esper, ELK Stack, ….
+Budeš s námi pracovat na zajímavých projektech ve finančních institucích, bankách nebo také v pojišťovnách, kde implementujeme fraud detection systémy nebo systém J0521-3310" />
+<link rel="canonical" href="https://cgi-federal.talentify.io/job/junior-java-developer-and-ndash-skv-and-283l-and-aacute-and-scaronance-pro-absolventy-prague-pr-cgi-federal-j0521-3310" />
+<link rel="alternate" hreflang="pt-br" href="https://cgi-federal.talentify.io/job/junior-java-developer-and-ndash-skv-and-283l-and-aacute-and-scaronance-pro-absolventy-prague-pr-cgi-federal-j0521-3310?lang=pt_BR" />
+<link rel="alternate" hreflang="en-us" href="https://cgi-federal.talentify.io/job/junior-java-developer-and-ndash-skv-and-283l-and-aacute-and-scaronance-pro-absolventy-prague-pr-cgi-federal-j0521-3310?" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Junior Java Developer – skvělá šance pro absolventy! at CGI Federal in Prague, Pr J0521-3310" />
+<meta property="og:url" content="https://cgi-federal.talentify.io/job/junior-java-developer-and-ndash-skv-and-283l-and-aacute-and-scaronance-pro-absolventy-prague-pr-cgi-federal-j0521-3310" />
+<meta property="og:image" content="https://app.talentify.io/i/og.png" />
+<meta property="og:description" content="Junior Java Developer – skvělá šance pro absolventy! at CGI Federal in Prague, Pr. 
+
+Pojď s námi pracovat na implementacích pro naše klienty. Konkrétně se jedná o implementaci a další rozvoj našeho produktu, který je založený na mikroservisech.
+Neutopíme Tě tady ve starých technologiích, budeš pracovat s novými a to hlavně s Docker, Kafka, Java 8+, Spring Boot, Esper, ELK Stack, ….
+Budeš s námi pracovat na zajímavých projektech ve finančních institucích, bankách nebo také v pojišťovnách, kde implementujeme fraud detection systémy nebo systém J0521-3310" />
+<meta property="og:site_name" content="Talentify" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=no">
+<script>
+        (function(w, d, e, u, c, g, a, b){
+            w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {ss_cid : c, domain_info: g};
+            a = d.createElement(e);
+            a.async = true;
+            a.src = u;
+            b = d.getElementsByTagName(e)[0];
+            b.parentNode.insertBefore(a, b);
+
+        })(window,document,"script","https://cdn.perfdrive.com/aperture/aperture.js","bgop","auto");
+
+    </script>
+<link rel="icon" href="/i/icon/favicon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/i/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/i/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/i/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/i/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/i/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/i/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/i/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/i/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/i/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/i/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/i/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/i/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/i/icon/favicon-16x16.png">
+<link rel="manifest" href="/i/icon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/i/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body>
+
+<noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5HN5H6"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+<!--[if lte IE 9]>
+<style>
+    div[class^="col-"] {
+        float: left;
+    }
+</style>
+<![endif]-->
+<div class="cover-page job-matched">
+<header class="job-info">
+<a href="https://cgi-federal.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=">
+<img src="//static.talentflux.com/i/company/616db5f86b5eb7.86219216cgi-logo.jpg" alt="company logo" class="company-logo">
+</a>
+<div class="title-box">
+<h1>Junior Java Developer – skvělá šance pro absolventy!</h1>
+</div>
+<section class="job-details-section">
+<div class="job-details job-location">
+<img src="/i/map-icon-red.svg" alt="" width="15" height="20">
+<p>Location: Prague / Pr</p>
+</div>
+<div class="job-details job-type">
+<img src="/i/briefcase-icon-red.svg" alt="Job type" width="15" height="15">
+<p>Employment type: Full-Time</p>
+</div>
+<div class="job-details job-payment">
+<img src="/i/money-bill-red.svg" alt="" width="15" height="13">
+<p>Pay: Competitive/hour</p>
+</div>
+</section>
+</header>
+<section class="apply-area">
+<div class="apply-area__wrapper">
+<h2 class="apply-area__title">What's your preference?</h2>
+<a rel="nofollow" href="https://cgi-federal.talentify.io/job/junior-java-developer-and-ndash-skv-and-283l-and-aacute-and-scaronance-pro-absolventy-prague-pr-cgi-federal-j0521-3310/apply?utm_source=&utm_medium=&utm_campaign=" class="apply-area__btn apply-with-updates-btn">
+Apply with job updates </a>
+<span class="apply-area__btn apply-without-updates-btn">
+Apply without job updates »
+</span>
+</div>
+</section>
+<section class="job-dropdowns-area">
+<div class="job-description-btn job-dropdown">
+<div class="job-dropdown__title toggleable">
+<p>Job description</p>
+<i class="dropdown-arrow"></i>
+</div>
+<div class="job-dropdown__job-inner-content show-content">
+<small class="job-id-info">Req#: J0521-3310</small><br><br>
+<h2></h2> <p>Pojď s námi pracovat na implementacích pro naše klienty. Konkrétně se jedná o implementaci a další rozvoj našeho produktu, který je založený na mikroservisech. <br><br>Neutopíme Tě tady ve starých technologiích, budeš pracovat s novými a to hlavně s Docker, Kafka, Java 8+, Spring Boot, Esper, ELK Stack, ….<br><br>Budeš s námi pracovat na zajímavých projektech ve finančních institucích, bankách nebo také v pojišťovnách, kde implementujeme fraud detection systémy nebo systémy na zpracování transakcí či na hodnocení rizika. </p> <h2>Your future duties and responsibilities:</h2> <p>Naši vývojáři píší kód v IntelliJ Idee, verzují jej v GitLabu, kde také probíhá vytváření merge requestů a code review.<br><br>Budeš se účastnit jak komunikace se zákazníkem, tak i se podílet na přímém dění na projektu - na plánování projektu a tvorbě odhadů. Výsledky své práce budeš nasazovat na různá prostředí a ve spolupráci s testery budeš validovat kvalitu své práce.<br><br>Pro nasazování upravených komponent do různých prostředí používáme i GitLab pipelines, které také průběžně kontrolují kvalitu spouštěním unit testů a integračních testů. Práce s nejmodernějšími technologiemi jako je Spring Boot, Apache Kafka, ElasticSearch, Redis, EsperTech Esper, Gradle ti umožní efektivně implementovat nejen požadavky klientů, ale i požadavky na údržbu námi naimplementovaných řešení.</p> <h2>Required qualifications to be successful in this role:</h2> <p><strong>Co požadujeme od Tebe:</strong> <br>• Zkušenosti ve vývoji v Javě (nevadí, že jenom na školních projektech) a aspoň s některými výše vyjmenovanými technologiemi<br>• Chuť pracovat s námi na dodávaní našeho řešení zákazníkům, ochota vzít na sebe trochu zodpovědnosti a užít si s námi spoustu společně odvedené práce.<br>• Hlavně češtinu nebo slovenštinu a zároveň angličtinu na úrovni čtení dokumentace.<br><br><strong>Co na Tebe čeká v CGI: </strong> <br>• Profesní rozvoj postavený na certifikovaných vzdělávacích programech<br>• Individuální budget na vzdělávání Sdílení znalostí se spoustou kolegů<br>• Účast na zisku společnosti (Profit Participation Plan)<br>• Firemní akciový program (Share Purchase Plan) – možnost nákupu zaměstnaneckých akcií<br>• 5 týdnů dovolené<br>• 3 sick-days<br>• 30 dní plně hrazené krátkodobé nemoci<br>• Stravenky v hodnotě 105 CZK za odpracovaný den (stravenkovou kartu máme od společnosti SODEXO)<br>• 10 800 CZK ročně v rámci Benefit Plus programu<br>• Bonus za doporučení nových kolegů 30 000 CZK<br>• Bezúroční půjčka pro zaměstnance<br>• Multisport karta<br>• Očkování proti chřipce<br>• Participace na různých sportovních událostech jako Král Šumavy, Pražský Maraton,…<br>• Member Assistance Program – možnost využití služeb odborníků při zdravotních, pracovních nebo jiných životných potížích<br>• A mnoho dalších!</p> <h2>What you can expect from us:</h2> <p><strong>Build your career with us.</strong> <br><br>It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change—supporting our clients’ digital journeys and offering our professionals exciting career opportunities. <br><br>At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.<br><br>Be part of building one of the largest independent technology and business services firms in the world.<br><br>Learn more about CGI at www.cgi.com.<br><br>No unsolicited agency referrals please.<br><br>CGI is an equal opportunity employer.</p><br><p><i>By submitting your interest in this job, you agree to receive text notifications with additional steps to complete your job application. You will receive up to 6 messages from the number "63879". Message & data rates may apply. Please refer to our privacy policy for more information.</i></p> </div>
+</div>
+<div class="company-description-btn job-dropdown">
+<div class="job-dropdown__title toggleable">
+<p>About company</p>
+<i class="dropdown-arrow"></i>
+</div>
+<div class="job-dropdown__job-inner-content show-content">CGI Federal is a wholly owned subsidiary of CGI Inc., partnering with U.S. federal agencies to provide mission-critical solutions in defense, diplomacy, intelligence, healthcare, environment, homeland security, justice, treasury and more.</div>
+</div>
+</section>
+<p class="not-interested-text">Not interested?</p>
+<a href="https://cgi-federal.talentify.io/jobs-near-me?utm_source=&utm_campaign=&utm_medium=" class="show-near-jobs-btn">
+<img src="/i/search-solid-dark.svg" alt="Search jobs" width="16" height="16">
+<p>SHOW OPEN JOBS NEAR ME</p>
+</a>
+<a href="https://www.talentify.io/" class="powered-by-link">
+<img src="/i/powered-by.png" alt="Powered by Talentify" width="180" height="43">
+</a>
+</div>
+<script>
+    var dropDownItems = document.querySelectorAll('.toggleable');
+    var dropDownArrows = document.querySelectorAll('.dropdown-arrow');
+
+    dropDownItems.forEach(element => {
+        element.addEventListener('click', () => {
+            element.nextElementSibling.classList.toggle('show-content')
+            element.querySelector('.dropdown-arrow').classList.toggle('dropdown-arrow-right')
+        })
+    });
+</script>
+<script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"JobPosting","baseSalary":{"@type":"MonetaryAmount","currency":"USD","value":{"@type":"QuantitativeValue","unitText":"HOUR"}},"datePosted":"2021-05-31T00:00:00+00:00","description":" <p>Poj\u010f s n\u00e1mi pracovat na implementac\u00edch pro na\u0161e klienty. Konkr\u00e9tn\u011b se jedn\u00e1 o implementaci a dal\u0161\u00ed rozvoj na\u0161eho produktu, kter\u00fd je zalo\u017een\u00fd na mikroservisech. <br><br>Neutop\u00edme T\u011b tady ve star\u00fdch technologi\u00edch, bude\u0161 pracovat s nov\u00fdmi a to hlavn\u011b s Docker, Kafka, Java 8+, Spring Boot, Esper, ELK Stack, \u2026.<br><br>Bude\u0161 s n\u00e1mi pracovat na zaj\u00edmav\u00fdch projektech ve finan\u010dn\u00edch instituc\u00edch, bank\u00e1ch nebo tak\u00e9 v poji\u0161\u0165ovn\u00e1ch, kde implementujeme fraud detection syst\u00e9my nebo syst\u00e9my na zpracov\u00e1n\u00ed transakc\u00ed \u010di na hodnocen\u00ed rizika. </p> Your future duties and responsibilities: <p>Na\u0161i v\u00fdvoj\u00e1\u0159i p\u00ed\u0161\u00ed k\u00f3d v IntelliJ Idee, verzuj\u00ed jej v GitLabu, kde tak\u00e9 prob\u00edh\u00e1 vytv\u00e1\u0159en\u00ed merge request\u016f a code review.<br><br>Bude\u0161 se \u00fa\u010dastnit jak komunikace se z\u00e1kazn\u00edkem, tak i se pod\u00edlet na p\u0159\u00edm\u00e9m d\u011bn\u00ed na projektu - na pl\u00e1nov\u00e1n\u00ed projektu a tvorb\u011b odhad\u016f. V\u00fdsledky sv\u00e9 pr\u00e1ce bude\u0161 nasazovat na r\u016fzn\u00e1 prost\u0159ed\u00ed a ve spolupr\u00e1ci s testery bude\u0161 validovat kvalitu sv\u00e9 pr\u00e1ce.<br><br>Pro nasazov\u00e1n\u00ed upraven\u00fdch komponent do r\u016fzn\u00fdch prost\u0159ed\u00ed pou\u017e\u00edv\u00e1me i GitLab pipelines, kter\u00e9 tak\u00e9 pr\u016fb\u011b\u017en\u011b kontroluj\u00ed kvalitu spou\u0161t\u011bn\u00edm unit test\u016f a integra\u010dn\u00edch test\u016f. Pr\u00e1ce s nejmodern\u011bj\u0161\u00edmi technologiemi jako je Spring Boot, Apache Kafka, ElasticSearch, Redis, EsperTech Esper, Gradle ti umo\u017en\u00ed efektivn\u011b implementovat nejen po\u017eadavky klient\u016f, ale i po\u017eadavky na \u00fadr\u017ebu n\u00e1mi naimplementovan\u00fdch \u0159e\u0161en\u00ed.</p> Required qualifications to be successful in this role: <p><strong>Co po\u017eadujeme od Tebe:</strong> <br>\u2022 Zku\u0161enosti ve v\u00fdvoji v Jav\u011b (nevad\u00ed, \u017ee jenom na \u0161koln\u00edch projektech) a aspo\u0148 s n\u011bkter\u00fdmi v\u00fd\u0161e vyjmenovan\u00fdmi technologiemi<br>\u2022 Chu\u0165 pracovat s n\u00e1mi na dod\u00e1van\u00ed na\u0161eho \u0159e\u0161en\u00ed z\u00e1kazn\u00edk\u016fm, ochota vz\u00edt na sebe trochu zodpov\u011bdnosti a u\u017e\u00edt si s n\u00e1mi spoustu spole\u010dn\u011b odveden\u00e9 pr\u00e1ce.<br>\u2022 Hlavn\u011b \u010de\u0161tinu nebo sloven\u0161tinu a z\u00e1rove\u0148 angli\u010dtinu na \u00farovni \u010dten\u00ed dokumentace.<br><br><strong>Co na Tebe \u010dek\u00e1 v CGI: </strong> <br>\u2022 Profesn\u00ed rozvoj postaven\u00fd na certifikovan\u00fdch vzd\u011bl\u00e1vac\u00edch programech<br>\u2022 Individu\u00e1ln\u00ed budget na vzd\u011bl\u00e1v\u00e1n\u00ed Sd\u00edlen\u00ed znalost\u00ed se spoustou koleg\u016f<br>\u2022 \u00da\u010dast na zisku spole\u010dnosti (Profit Participation Plan)<br>\u2022 Firemn\u00ed akciov\u00fd program (Share Purchase Plan) \u2013 mo\u017enost n\u00e1kupu zam\u011bstnaneck\u00fdch akci\u00ed<br>\u2022 5 t\u00fddn\u016f dovolen\u00e9<br>\u2022 3 sick-days<br>\u2022 30 dn\u00ed pln\u011b hrazen\u00e9 kr\u00e1tkodob\u00e9 nemoci<br>\u2022 Stravenky v hodnot\u011b 105 CZK za odpracovan\u00fd den (stravenkovou kartu m\u00e1me od spole\u010dnosti SODEXO)<br>\u2022 10 800 CZK ro\u010dn\u011b v r\u00e1mci Benefit Plus programu<br>\u2022 Bonus za doporu\u010den\u00ed nov\u00fdch koleg\u016f 30 000 CZK<br>\u2022 Bez\u00faro\u010dn\u00ed p\u016fj\u010dka pro zam\u011bstnance<br>\u2022 Multisport karta<br>\u2022 O\u010dkov\u00e1n\u00ed proti ch\u0159ipce<br>\u2022 Participace na r\u016fzn\u00fdch sportovn\u00edch ud\u00e1lostech jako Kr\u00e1l \u0160umavy, Pra\u017esk\u00fd Maraton,\u2026<br>\u2022 Member Assistance Program \u2013 mo\u017enost vyu\u017eit\u00ed slu\u017eeb odborn\u00edk\u016f p\u0159i zdravotn\u00edch, pracovn\u00edch nebo jin\u00fdch \u017eivotn\u00fdch pot\u00ed\u017e\u00edch<br>\u2022 A mnoho dal\u0161\u00edch!</p> What you can expect from us: <p><strong>Build your career with us.</strong> <br><br>It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change\u2014supporting our clients\u2019 digital journeys and offering our professionals exciting career opportunities. <br><br>At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.<br><br>Be part of building one of the largest independent technology and business services firms in the world.<br><br>Learn more about CGI at www.cgi.com.<br><br>No unsolicited agency referrals please.<br><br>CGI is an equal opportunity employer.</p><br><p><i>By submitting your interest in this job, you agree to receive text notifications with additional steps to complete your job application. You will receive up to 6 messages from the number \"63879\". Message & data rates may apply. Please refer to our privacy policy for more information.</i></p>","employmentType":["FULL_TIME"],"hiringOrganization":{"@type":"Organization","name":"CGI Federal","logo":"https://static.talentflux.com/i/company/616db5f86b5eb7.86219216cgi-logo.jpg","sameAs":"https://cgi.com/us/en-us/federal"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"CZ","addressRegion":"Pr","addressLocality":"Prague","streetAddress":""}},"title":"Junior Java Developer \u2013 skv\u011bl\u00e1 \u0161ance pro absolventy!","url":"https://cgi-federal.talentify.io/job/junior-java-developer-and-ndash-skv-and-283l-and-aacute-and-scaronance-pro-absolventy-prague-pr-cgi-federal-j0521-3310","jobBenefits":""}    </script>
+<script type="text/javascript">
+var openingId        = "19481967";
+var openingCode      = "blkdr";
+var isProd           = true;
+var shouldShowAds    = true;
+var adsDelay         = 1;
+var openingPermalink = "junior-java-developer-and-ndash-skv-and-283l-and-aacute-and-scaronance-pro-absolventy-prague-pr-cgi-federal-j0521-3310";
+var applyWithoutUpdatesBtn = document.querySelector('.apply-without-updates-btn');
+
+applyWithoutUpdatesBtn.addEventListener('click', fetchAndRedirect);
+
+function generateLink(permalink) {
+    return `/ca/job-opening/${permalink}/export-jobseeker`;
+}
+function fetchAndRedirect() {
+    fetch(generateLink(openingPermalink), { method: 'POST' })
+        .then(function(res) { return res.json()})
+        .then(function (res) {
+            var url = res.url;
+            var forceRedirect = res.forceRedirect;
+
+            if (forceRedirect) {
+                window.location = url
+            }
+        })
+}
+</script>
+<script async type='text/javascript' src='https://click.appcast.io/pixels/talentify1-8599.js?ent=376&jid=blkdr'></script>
+<script async type="text/javascript" src="/js/tck.js?v=21.10.29-160053"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"519820eb50","applicationID":"68456873","transactionName":"ZAcBNUFWD0tYURBZW11NIBRAQw5VFl0UVVpaDAROXEcEVlBcAw==","queueTime":0,"applicationTime":121,"atts":"SEACQwlMHEU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6a74d18d7c7d46f1',m:'6FaeXjhV9xUVERbT93.z0pidROFJh_iOOT1ZViN47eY-1635766515-0-AfGTUwnSdzCpeI+pysge6cKfaKq0yQc+aNgPqYyzAPGdMEvSaLBlB1YrVpUdDRMyVCA/IQCTHpy423XEEtXcILIjFE43eKM9dd/7vRpQme7s/1oVwlnkrOzVdCkHzCQmu4+CADNjv8/0j7b3hV3jphAVrt4mDmw/Ze+tCCE5rfzI1eVOnum1Oz5jTST4UdGkMDOZuDYwrantCbRsBbRAie5r61Q7R7gzRRwlF1pXKtdDF3R6AMNChQdYJO+rpdotk/4JaE8mOTuMoP0ipgmwNrU=',s:[0x5866721d7a,0x34764cee77],}})();</script></body>
+</html>
