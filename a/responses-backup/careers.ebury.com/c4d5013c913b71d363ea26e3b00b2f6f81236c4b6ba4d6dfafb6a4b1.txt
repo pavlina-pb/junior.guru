@@ -740,7 +740,7 @@ body {
   <script>
   window.addEventListener('load', function() {
     var payload = {
-      ed: '9bOY59Z7A6slzS/xDVPtvRJGRU50w3iVWwZ+t6NnLyi8psYgFpsB/s/lu1MP2Q9zSl2ysvk4YK8heOygto3H2h1ZuR2eZ2JUvco958UDVSgmSPZc6tKT0Q+WM5OKOUMynrBgefu9ypzL5NvRlgGw4i+G8EJ5qy10lfpGxPwgHGbwPZHC2fhKsTk=--05KFjfeFZNnnbFoJ--m6FN0xON67FzWpIAGzqt3A==',
+      ed: '8nbz8TvLiesG3AxnRxOgoa+4zJqL6CmYRhxEiSU+UgvwAlYp1myo9RMmlgZW3r5XM2ID6Dbj2OkZtmRSVMhuSA2SShUKQ3/mcDX+h0cip/JYojAcXT/1T/BH9EiKhpWkAFAU1US4SXo0OvpmXg5ARN1yBWQYMC7GybTAN1N0h1sahvk3Yp3iec0=--Eh1jkJqSjS1R1BCM--gmwEYtxdQtiBb6/NM4Au4A==',
       referrer: document.referrer,
       data: {
         ua: navigator.userAgent,
@@ -1376,7 +1376,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 
           <div class="c-employee-referral__form">
             <form method="post" action="https://careers.ebury.com/auto_join" class="filter row">
-              <input type="hidden" name="authenticity_token" id="authenticity_token" value="2bEgqLUFnelZUCkuEHLf0DqbNgiwLi9FCTQbmHMOzZVQhGUjddoh1vZxg0nqNfuNOTw684MxdijpYsu3VYdvyg==">
+              <input type="hidden" name="authenticity_token" id="authenticity_token" value="5qbjfNn0Y4eKbAoMV8zMj8ItDla6GMeR18lWoBtZn1s9lzuhpgaKc8QS+J6tfKC/99/FtjUqt2TKzBXNFz5rLQ==">
               
               <button class="btn c-employee-referral__button tt-button--filled u-primary-button-text-color u-primary-button-background-color"
                 data-event-tracking="click"
