@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Job Application for Field Software Engineer - EMEA at Canonical - Jobs</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-0b83f797e71a267c31193781fff2814dfb78746f800ca278a81be45c6664afeb.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-9bc84e316c0e62c281f938d9a4217ce6017c348b675e254d1a3c8c82f2d88f9b.css" />
+  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! There was an error processing your application. Please try again.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;},&quot;job_post&quot;:{&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;Paste&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;errors&quot;:{&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-35c550072911634142c2e1d9f355979693558ca180c68334bdb0a333793e7abf.svg" type="text/configuration"></script>
+    <meta property="og:title" content="Field Software Engineer - EMEA"></meta>
+    <meta property="og:description" content="Home based - Europe Time Zones - Czech Republic"></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/canonicaljobs/jobs/3020135"></meta>
+    <meta property="og:image" content="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/012/263/original/canonical_aubergine_hex_su.png?1596511991"></meta>
+    <meta property="og:type" content="article"></meta>
+
+  <script class="js-metadata" data-key="JBEN.linkedin_csrf" data-type="string" data-value="3e8db6cd68227c925c782737" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.host" data-type="string" data-value="https://boards.greenhouse.io" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.internalBoardsHost" data-type="string" data-value="https://app.greenhouse.io" type="text/configuration"></script>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+
+
+
+<div id='app_body' style='padding-left:20px'>
+    <div id="logo"><a target="_blank" href="https://www.canonical.com/"><img alt="Canonical - Jobs Logo" src="https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/012/263/resized/canonical_aubergine_hex_su.png?1596511991" width="200" height="27" /></a></div>
+
+    <div id="header">
+    <a href='#app' id='apply_button' class='button'>
+      Apply Now
+    </a>
+
+  <h1 class='app-title'>Field Software Engineer - EMEA</h1>
+
+  <span class='company-name'>
+    at Canonical - Jobs
+  </span>
+
+    <a data-mapped="true" href="/canonicaljobs">(View all jobs)</a>
+
+    <div class='location'>
+      Home based - Europe Time Zones - Czech Republic
+    </div>
+</div>
+  <div id="content" class="">
+    
+
+    <p><span style="font-weight: 400;">Combine your Python software engineering skills, your love of travel, and your general knowledge of the full stack, from hardware to application, networking, Linux and open source, to help customers embrace Canonical's offering on public and private clouds. Our field engineering team bring infrastructure-as-code and high-level application automation to bear to help customers create sophisticated open source deployments - from OpenStack to Kubernetes, Hadoop to Airflow.</span></p>
+<p><span style="font-weight: 400;">This is an exceptional opportunity for a competitive open source technology leader who enjoys solving problems under pressure and wants to travel regularly. The main responsibilities of this position are:&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apply your knowledge of Linux, virtualisation using libvirt/KVM and your knowledge of TCP/IP networking to deliver customised solutions for our customers.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understanding and hands on experience with popular open source software such as PostgreSQL, MongoDB, Kafka, Cassandra and NGINX.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Discuss detailed architecture, designing complex solutions and guiding customers to successful data-center infrastructure operations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Engage early on in the pre-sales process and remain engaged throughout the delivery phase</span></li>
+</ul>
+<p><span style="font-weight: 400;">If you have a passion for the latest open source technologies, cloud-native development, data-center technologies such as Openstack, Kubernetes, Public Cloud (AWS, Azure, Google Cloud) and computer networking, you will love the Field Engineer role at Canonical.&nbsp;</span></p>
+<p><strong>The successful Field Software Engineer will have :</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">BA/BS degree in Computer Science or related technical field</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">3 years of Linux development experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Must be able to speak English fluently</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong background contributing code in Python and Go to open source projects in the cloud or devices area</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent communication and presentation skills</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">High motivation, ability to multi-task and follow-up reliably on commitments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interest in customer-facing engagement, including pitching, demonstrating and understanding customer environment and needs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working with at least one or more of these technologies OpenStack, Kubernetes, Ceph, and/or Ubuntu</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with or willingness to learn new technologies, including LXD, Snaps, MAAS, Juju and Ubuntu</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to travel globally for periods up to two weeks; up to 50% of travel time (pending on covid-19 restrictions)</span></li>
+</ul>
+<p><strong>Nice to have:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Second language - French, German, Italian or Spanish</span></li>
+</ul>
+<p><em><span style="font-weight: 400;">Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.&nbsp;</span></em></p>
+<p><em><span style="font-weight: 400;">#LI-Remote</span></em></p>
+<p><em><span style="font-weight: 400;">#stack</span></em></p>
+
+    
+</div>
+
+    <div id='application' class="">
+      <a name='app'></a>
+      <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/canonicaljobs/jobs/3020135" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="d51344ab40b2a6c127d625794ede887147b4d1dc" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-11-01 10:32:52 +0000" />
+
+
+
+        <div id='main_fields'>
+            <h2 class='heading'>Apply for this Job</h2>
+
+            <div class='required-fields'>
+              <span class='asterisk'>*</span> Required
+            </div>
+
+          <div class='clear'></div>
+
+            <div id="apply_with_buttons">
+                
+
+  <div name="widget-holder">
+  <script type="text/javascript" src="https://www.linkedin.com/mjobs/awli/awliWidget"></script>
+  <script type="IN/AwliWidget" data-company-job-code="3020135" data-allow-sign-in="true" data-callback-method="JBEN.LinkedinProfile.receive" data-mode="BUTTON_DATA" data-api-key="775iqcl0oenj80" data-integration-context="urn:li:organization:234280">
+//<![CDATA[
+
+//]]>
+</script>
+  <script>
+    window.addEventListener('load', function() {
+      if ($) {
+        $("iframe[src*='linkedin.com']").attr("title", "Apply with LinkedIn")
+      }
+    });
+  </script>
+</div>
+
+
+
+
+              <hr/>
+            </div>
+
+          
+<script>
+  var EMAIL_ADDRESS_VALIDATOR_URL = 'https://email-address-validator.us.greenhouse.io/address/validate';
+</script>
+
+<div class='field'>
+  <label for='first_name'>First Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='first_name' name='job_application[first_name]' aria-required="true" maxlength="255" autocomplete="given-name"/>
+</div>
+<div class='field'>
+  <label for='last_name'>Last Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='last_name' name='job_application[last_name]' aria-required="true" maxlength="255" autocomplete="family-name" />
+</div>
+<div class='field'>
+  <label for='email'>Email <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='email' name='job_application[email]' aria-required="true" maxlength="255" autocomplete="email" />
+</div>
+<div class='field'>
+  <label for='phone'>Phone</label>
+  <input type='text' id='phone' name='job_application[phone]' maxlength="255" autocomplete="tel" />
+</div>
+
+
+            <div class='field'>
+              <label for='job_application_location'>
+                Location (City)
+                  <span class='asterisk' aria-hidden='true'>*</span>
+              </label>
+
+              <input type="text" name="job_application[location]" id="job_application_location" class="job-application-location" aria-required="true" role="presentation" maxlength="255" data-provider="Pelias" data-type="locality,localadmin,borough" />
+            </div>
+
+          
+<div class='field'>
+  <label aria-label="required" id="resume">Resume/CV <span class='asterisk' aria-hidden='true'>*</span></label>
+  
+<div class="attach-or-paste " required="required" data-allow-s3="true" data-field="resume" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="resume_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <span id="resume_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="resume" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="resume" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="resume" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="resume" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_resume style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+    <textarea name="job_application[resume_text]" id="resume_text" class="paste">
+</textarea>
+
+</div>
+
+</div>
+
+  <div class='field'>
+    <label id='cover_letter' aria-label="">Cover Letter</label>
+    
+<div class="attach-or-paste " data-allow-s3="true" data-field="cover_letter" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="cover_letter_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <span id="cover_letter_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="cover_letter" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="cover_letter" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="cover_letter" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="cover_letter" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_cover_letter style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+    </a>
+</div>
+    <textarea name="job_application[cover_letter_text]" id="cover_letter_text" class="paste">
+</textarea>
+
+</div>
+
+  </div>
+
+
+            <span id="education_instructions">
+              When autocomplete results are available use up and down arrows to review
+            </span>
+
+            <div id="education_section"></div>
+
+<a id="add_education" href="#">
+  + Add Another <span class="offscreen">Education</span>
+</a>
+
+        </div>
+
+            <hr/>
+
+          <div id='custom_fields'>
+            <div class="field">
+  <label>LinkedIn Profile
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][0][question_id]" id="job_application_answers_attributes_0_question_id" value="24246783" />
+<input type="hidden" name="job_application[answers_attributes][0][priority]" id="job_application_answers_attributes_0_priority" value="0" />
+
+<input type="text" name="job_application[answers_attributes][0][text_value]" id="job_application_answers_attributes_0_text_value" maxlength="255" autocomplete="custom-question-linkedin-profile" />
+
+
+</label></div>
+<div class="field">
+  <label>Website
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][1][question_id]" id="job_application_answers_attributes_1_question_id" value="24246784" />
+<input type="hidden" name="job_application[answers_attributes][1][priority]" id="job_application_answers_attributes_1_priority" value="1" />
+
+<input type="text" name="job_application[answers_attributes][1][text_value]" id="job_application_answers_attributes_1_text_value" maxlength="255" autocomplete="custom-question-website" />
+
+
+</label></div>
+<div class="field">
+  <label>What time zone are you in?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][2][question_id]" id="job_application_answers_attributes_2_question_id" value="24246785" />
+<input type="hidden" name="job_application[answers_attributes][2][priority]" id="job_application_answers_attributes_2_priority" value="2" />
+
+<select name="job_application[answers_attributes][2][answer_selected_options_attributes][2][question_option_id]" id="job_application_answers_attributes_2_answer_selected_options_attributes_2_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="66563316">Europe, Middle East or Africa Time Zones</option>
+<option value="66563317">American Time Zones</option>
+<option value="66563318">Asia Pacific Time Zones</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>How did you do in maths, physics or computer science, at high school or university?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][3][question_id]" id="job_application_answers_attributes_3_question_id" value="24246786" />
+<input type="hidden" name="job_application[answers_attributes][3][priority]" id="job_application_answers_attributes_3_priority" value="3" />
+
+<select name="job_application[answers_attributes][3][answer_selected_options_attributes][3][question_option_id]" id="job_application_answers_attributes_3_answer_selected_options_attributes_3_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="66563319">Top student</option>
+<option value="66563320">Top 5%</option>
+<option value="66563321">Top 10%</option>
+<option value="66563322">Top 20%</option>
+<option value="66563323">Top 50%</option>
+<option value="66563324">Not a strength</option>
+<option value="66563325">Cannot recall</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>How did you do in English or your home language, at high school or university?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][4][question_id]" id="job_application_answers_attributes_4_question_id" value="24246787" />
+<input type="hidden" name="job_application[answers_attributes][4][priority]" id="job_application_answers_attributes_4_priority" value="4" />
+
+<select name="job_application[answers_attributes][4][answer_selected_options_attributes][4][question_option_id]" id="job_application_answers_attributes_4_answer_selected_options_attributes_4_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="66563326">Top student</option>
+<option value="66563327">Top 5%</option>
+<option value="66563328">Top 10%</option>
+<option value="66563329">Top 20%</option>
+<option value="66563330">Top 50%</option>
+<option value="66563331">Not a strength</option>
+<option value="66563332">Cannot recall</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Have you completed a full Bachelors degree or equivalent?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][5][question_id]" id="job_application_answers_attributes_5_question_id" value="24246788" />
+<input type="hidden" name="job_application[answers_attributes][5][priority]" id="job_application_answers_attributes_5_priority" value="5" />
+
+<select name="job_application[answers_attributes][5][boolean_value]" id="job_application_answers_attributes_5_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Represented as a percentage (%), how much international travel are you comfortable with?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][6][question_id]" id="job_application_answers_attributes_6_question_id" value="24246789" />
+<input type="hidden" name="job_application[answers_attributes][6][priority]" id="job_application_answers_attributes_6_priority" value="6" />
+
+<input type="text" name="job_application[answers_attributes][6][text_value]" id="job_application_answers_attributes_6_text_value" aria-required="true" maxlength="255" autocomplete="custom-question-represented-as-a-percentage--how-much-international-travel-are-you-comfortable-with" />
+
+
+</label></div>
+<div class="field">
+  <label>How many years of professional experience do you have?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][7][question_id]" id="job_application_answers_attributes_7_question_id" value="24246790" />
+<input type="hidden" name="job_application[answers_attributes][7][priority]" id="job_application_answers_attributes_7_priority" value="7" />
+
+<select name="job_application[answers_attributes][7][answer_selected_options_attributes][7][question_option_id]" id="job_application_answers_attributes_7_answer_selected_options_attributes_7_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="66563333">&lt;3 years</option>
+<option value="66563334">3-5 years</option>
+<option value="66563335">&gt;5 years</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>What are you most interested in working with?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][8][question_id]" id="job_application_answers_attributes_8_question_id" value="24246791" />
+<input type="hidden" name="job_application[answers_attributes][8][priority]" id="job_application_answers_attributes_8_priority" value="8" />
+
+<div>
+  <div class="msg-container" set="24246791"></div>
+</div>
+
+
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][0][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_0_question_option_id" value="66563336" set="24246791" aria-required="true" />&nbsp;&nbsp;Python
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][1][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_1_question_option_id" value="66563337" set="24246791" aria-required="true" />&nbsp;&nbsp;Go
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][2][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_2_question_option_id" value="66563338" set="24246791" aria-required="true" />&nbsp;&nbsp;Networking
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][3][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_3_question_option_id" value="66563339" set="24246791" aria-required="true" />&nbsp;&nbsp;OpenStack
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][4][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_4_question_option_id" value="66563340" set="24246791" aria-required="true" />&nbsp;&nbsp;Kubernetes
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][5][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_5_question_option_id" value="66563341" set="24246791" aria-required="true" />&nbsp;&nbsp;Ceph and open source storage
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][6][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_6_question_option_id" value="66563342" set="24246791" aria-required="true" />&nbsp;&nbsp;Public cloud
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][7][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_7_question_option_id" value="66563343" set="24246791" aria-required="true" />&nbsp;&nbsp;Ubuntu
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][8][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_8_question_option_id" value="66563344" set="24246791" aria-required="true" />&nbsp;&nbsp;Hadoop and big data
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][9][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_9_question_option_id" value="66563345" set="24246791" aria-required="true" />&nbsp;&nbsp;NoSQL databases
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][10][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_10_question_option_id" value="66563346" set="24246791" aria-required="true" />&nbsp;&nbsp;Postgres and other SQL databases
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][11][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_11_question_option_id" value="66563347" set="24246791" aria-required="true" />&nbsp;&nbsp;Open source applications
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][8][answer_selected_options_attributes][12][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_12_question_option_id" value="66563348" set="24246791" aria-required="true" />&nbsp;&nbsp;Linux desktop
+</label>
+<br/>
+
+
+
+
+</label></div>
+<div class="field">
+  <label>Do you have professional experience in customer-facing technical roles?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][9][question_id]" id="job_application_answers_attributes_9_question_id" value="24246792" />
+<input type="hidden" name="job_application[answers_attributes][9][priority]" id="job_application_answers_attributes_9_priority" value="9" />
+
+<select name="job_application[answers_attributes][9][boolean_value]" id="job_application_answers_attributes_9_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+
+          </div>
+
+
+
+
+          <div id='captcha_container'></div>
+  <hr/>
+
+
+
+        <div id='error_message'></div>
+
+        <div id='submit_buttons'>
+          <input
+            type='button'
+            value='Submit Application'
+            id='submit_app'
+            class='button'>
+        </div>
+</form>    </div>
+</div>
+
+  <div class="education education-template hidden" data-education-required="true" data-subfield-config="true">
+  <hr/>
+  <fieldset>
+
+      <div class='field'>
+        <label for="education_school_name">
+          School
+        </label>
+
+        <input type="hidden" name="job_application[educations][][school_name_id]" id="education_school_name" class="school-name background-field" placeholder="Select a School" aria-required="false" data-url="https://boards-api.greenhouse.io/v1/boards/canonicaljobs/education/schools" data-validators="[{&quot;type&quot;:&quot;notBlank&quot;,&quot;key&quot;:&quot;SchoolNameRequired&quot;}]" />
+
+        <a class="remove-background-field" href="#"><img alt="Remove Education" src="https://boards.cdn.greenhouse.io/assets/svg/close-1f51e10a505d573a829e9c16246c3ba1a6d512e93c5c8f188de0772bd491f977.svg" /></a>
+      </div>
+
+      <div class='field'>
+        <label for="education_degree">
+          Degree
+            <span class='asterisk'>*</span>
+        </label>
+
+        <select name="job_application[educations][][degree_id]" id="education_degree" class="degree background-field" aria-required="true" data-placeholder="Select a Degree" data-validators="[{&quot;type&quot;:&quot;notBlank&quot;,&quot;key&quot;:&quot;DegreeRequired&quot;}]"><option value=""></option>
+<option value="11331789">High School</option>
+<option value="11331790">Associate&#39;s Degree</option>
+<option value="11331791">Bachelor&#39;s Degree</option>
+<option value="11331792">Master&#39;s Degree</option>
+<option value="11331793">Master of Business Administration (M.B.A.)</option>
+<option value="11331794">Juris Doctor (J.D.)</option>
+<option value="11331795">Doctor of Medicine (M.D.)</option>
+<option value="11331796">Doctor of Philosophy (Ph.D.)</option>
+<option value="11331797">Engineer&#39;s Degree</option>
+<option value="11331798">Other</option>
+<option value="11881594">Computer Science Degree</option></select>
+      </div>
+
+      <div class='field'>
+        <label for="education_discipline">
+          Discipline
+            <span class='asterisk'>*</span>
+        </label>
+
+        <select name="job_application[educations][][discipline_id]" id="education_discipline" class="discipline background-field" aria-required="true" data-placeholder="Select a Discipline" data-validators="[{&quot;type&quot;:&quot;notBlank&quot;,&quot;key&quot;:&quot;DisciplineRequired&quot;}]"><option value=""></option>
+<option value="11331799">Accounting</option>
+<option value="11331800">African Studies</option>
+<option value="11331801">Agriculture</option>
+<option value="11331802">Anthropology</option>
+<option value="11331803">Applied Health Services</option>
+<option value="11331804">Architecture</option>
+<option value="11331805">Art</option>
+<option value="11331806">Asian Studies</option>
+<option value="11331807">Biology</option>
+<option value="11331808">Business</option>
+<option value="11331809">Business Administration</option>
+<option value="11331810">Chemistry</option>
+<option value="11331811">Classical Languages</option>
+<option value="11331812">Communications &amp; Film</option>
+<option value="11331813">Computer Science</option>
+<option value="11331814">Dentistry</option>
+<option value="11331815">Developing Nations</option>
+<option value="11331816">Discipline Unknown</option>
+<option value="11331817">Earth Sciences</option>
+<option value="11331818">Economics</option>
+<option value="11331819">Education</option>
+<option value="11331820">Electronics</option>
+<option value="11331821">Engineering</option>
+<option value="11331822">English Studies</option>
+<option value="11331823">Environmental Studies</option>
+<option value="11331824">European Studies</option>
+<option value="11331825">Fashion</option>
+<option value="11331826">Finance</option>
+<option value="11331827">Fine Arts</option>
+<option value="11331828">General Studies</option>
+<option value="11331829">Health Services</option>
+<option value="11331830">History</option>
+<option value="11331831">Human Resources Management</option>
+<option value="11331832">Humanities</option>
+<option value="11331833">Industrial Arts &amp; Carpentry</option>
+<option value="11331834">Information Systems</option>
+<option value="11331835">International Relations</option>
+<option value="11331836">Journalism</option>
+<option value="11331837">Languages</option>
+<option value="11331838">Latin American Studies</option>
+<option value="11331839">Law</option>
+<option value="11331840">Linguistics</option>
+<option value="11331841">Manufacturing &amp; Mechanics</option>
+<option value="11331842">Mathematics</option>
+<option value="11331843">Medicine</option>
+<option value="11331844">Middle Eastern Studies</option>
+<option value="11331845">Naval Science</option>
+<option value="11331846">North American Studies</option>
+<option value="11331847">Nuclear Technics</option>
+<option value="11331848">Operations Research &amp; Strategy</option>
+<option value="11331849">Organizational Theory</option>
+<option value="11331850">Philosophy</option>
+<option value="11331851">Physical Education</option>
+<option value="11331852">Physical Sciences</option>
+<option value="11331853">Physics</option>
+<option value="11331854">Political Science</option>
+<option value="11331855">Psychology</option>
+<option value="11331856">Public Policy</option>
+<option value="11331857">Public Service</option>
+<option value="11331858">Religious Studies</option>
+<option value="11331859">Russian &amp; Soviet Studies</option>
+<option value="11331860">Scandinavian Studies</option>
+<option value="11331861">Science</option>
+<option value="11331862">Slavic Studies</option>
+<option value="11331863">Social Science</option>
+<option value="11331864">Social Sciences</option>
+<option value="11331865">Sociology</option>
+<option value="11331866">Speech</option>
+<option value="11331867">Statistics &amp; Decision Theory</option>
+<option value="11331868">Urban Studies</option>
+<option value="11331869">Veterinary Medicine</option>
+<option value="12065635">Other</option></select>
+      </div>
+
+
+  </fieldset>
+</div>
+
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-e052cd57a78e17c73aac02274af8a878a99cc9fd4b83a41744e6495236645677.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-f65c5d81eae763babdb175248ae53fe028e64b2abddb5fcfe3959a500f7398c7.js"></script>
+
+  <div class="s3-upload-form" data-presigned-form="resume"></div>
+
+  <div class="s3-upload-form" data-presigned-form="cover_letter"></div>
+<script class="js-metadata" data-key="JBEN.hideCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.alternateCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.geetestPath" data-type="string" data-value="/geetest" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.publicKey" data-type="string" data-value="6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL" type="text/configuration"></script>      <script src='https://www.google.com/recaptcha/enterprise.js?render=6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL' async></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/show_init-a1597e28bd287ce9ccfa9f99f287f0c27a5a277e5cb23115af8880da506e57ee.js"></script>
+  
+
+
+  <script class="js-metadata" data-key="JBEN.PublicJobBoard.UncacheableAttributes.path" data-type="string" data-value="/uncacheable_attributes.json" type="text/configuration"></script><script class="js-metadata" data-key="LocationControl.Providers.Mapbox.apiKey" data-type="string" data-value="pk.eyJ1IjoiamNtdWxsZXIiLCJhIjoiY2l2YmI2ZG82MDA4bzJ6b3UwNTB1enkycSJ9.oRrvDNk1PKKA76v6qSRFXg" type="text/configuration"></script>
+  <script class="js-metadata" data-key="LocationControl.Providers.Pelias.apiKey" data-type="string" data-value="ge-39f1178289d5d0c5" type="text/configuration"></script>
+  <script type="application/ld+json">
+  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Canonical - Jobs","logo":"https://recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/000/012/263/resized/canonical_aubergine_hex_su.png?1596511991"},"title":"Field Software Engineer - EMEA","datePosted":"2021-03-27","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Prague, Prague, Czech Republic","addressRegion":"PR","addressCountry":null,"postalCode":null}},"description":"\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eCombine your Python software engineering skills, your love of travel, and your general knowledge of the full stack, from hardware to application, networking, Linux and open source, to help customers embrace Canonical's offering on public and private clouds. Our field engineering team bring infrastructure-as-code and high-level application automation to bear to help customers create sophisticated open source deployments - from OpenStack to Kubernetes, Hadoop to Airflow.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eThis is an exceptional opportunity for a competitive open source technology leader who enjoys solving problems under pressure and wants to travel regularly. The main responsibilities of this position are:\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eApply your knowledge of Linux, virtualisation using libvirt/KVM and your knowledge of TCP/IP networking to deliver customised solutions for our customers.\u0026nbsp;\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eUnderstanding and hands on experience with popular open source software such as PostgreSQL, MongoDB, Kafka, Cassandra and NGINX.\u0026nbsp;\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eDiscuss detailed architecture, designing complex solutions and guiding customers to successful data-center infrastructure operations\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eEngage early on in the pre-sales process and remain engaged throughout the delivery phase\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIf you have a passion for the latest open source technologies, cloud-native development, data-center technologies such as Openstack, Kubernetes, Public Cloud (AWS, Azure, Google Cloud) and computer networking, you will love the Field Engineer role at Canonical.\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eThe successful Field Software Engineer will have :\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eBA/BS degree in Computer Science or related technical field\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003e3 years of Linux development experience\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eMust be able to speak English fluently\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eStrong background contributing code in Python and Go to open source projects in the cloud or devices area\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eExcellent communication and presentation skills\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eHigh motivation, ability to multi-task and follow-up reliably on commitments\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eInterest in customer-facing engagement, including pitching, demonstrating and understanding customer environment and needs\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eExperience working with at least one or more of these technologies OpenStack, Kubernetes, Ceph, and/or Ubuntu\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eExperience with or willingness to learn new technologies, including LXD, Snaps, MAAS, Juju and Ubuntu\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eAbility to travel globally for periods up to two weeks; up to 50% of travel time (pending on covid-19 restrictions)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eNice to have:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eSecond language - French, German, Italian or Spanish\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cem\u003e\u003cspan style=\"font-weight: 400;\"\u003eCanonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.\u0026nbsp;\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cspan style=\"font-weight: 400;\"\u003e#LI-Remote\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cspan style=\"font-weight: 400;\"\u003e#stack\u003c/span\u003e\u003c/em\u003e\u003c/p\u003e"}
+</script>
+
+    <script type='text/javascript' src='https://www.dropbox.com/static/api/2/dropins.js' id='dropboxjs' data-app-key='mh9jyh4mfwjnfhj' async></script>
+
+<script class="js-metadata" data-key="googlePickerDeveloperKey" data-type="string" data-value="AIzaSyCratp6KuOmiXWfR3ABY8azVmw8XFnBl64" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerClientId" data-type="string" data-value="594601915089-7c2994029qkt5qu2tmbppujr9jqrqqrs.apps.googleusercontent.com" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerAppId" data-type="number" data-value="594601915089" type="text/configuration"></script>
+  <script type='text/javascript' src='https://apis.google.com/js/client.js?onload=googleDriveLoader' async></script>
+  <script type='text/javascript' src='https://apis.google.com/js/api.js?onload=googlePickerLoader' async></script>
+
+
+  </body>
+</html>
