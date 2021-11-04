@@ -2624,7 +2624,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "332181bd-ace5-41cb-af33-f020243a6862"
+						"X-CSRF-Token" : "b0e7066b-56fe-43a8-892e-d3bc1d08d1ed"
 					}
 				});
 			//]]>
@@ -2655,7 +2655,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = 'c38060bc-1e2c-4729-8796-dbb54e02bf9f';
+				var ctid = '7c62c56c-28ac-442b-a5b2-321e4d30ad83';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2769838798';
 				var landing = document.location.href;
 				var brand = '';

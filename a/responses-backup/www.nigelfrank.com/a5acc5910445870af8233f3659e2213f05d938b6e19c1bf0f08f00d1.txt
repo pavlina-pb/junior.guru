@@ -74,32 +74,13 @@ I am currently working alongside an MS partner...">
 
 
 </head>
-    <script>
-        var touchDevice = true;
-    </script>
-    
 
-<body class='body-job-view banner-on  touch-device '>
+
+<body class='body-job-view  '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
-<div class="banner-top" id="bannerTop" style="background: linear-gradient(#21BBBA,#A420E3)">
-                    <div class="banner-top-center">
-                <div class="banner-top-img" style="float: left;    margin-left: 15px;">
-                    <img src="https://www.nigelfrank.com/wp-content/themes/job-board/resources/external-assets/DRA favicon-1.png">
-                </div>
-                <div class="banner-top-text">
-                    <h5 style="text-align: left;"><strong>&nbsp; Celebrate excellence in the cloud technology industry with the Digital Revolution Awards</strong></h5>                </div>
-                                    <div class="banner-button">
-                        <a href="https://digitalrevolutionawards.com/how-to-nominate/?utm_source=nfiwebsite&utm_medium=banner&utm_campaign=DRA22" type="submit" class="btn btn-primary-theme"
-                           target="_blank">
-                            <span>Nominate a cloud MVP</span>
-                        </a>
-                    </div>
-                                <div class="banner-close" id="closeBannerTop">x</div>
-            </div>
-                </div>
     <script>var WRInitTime=(new Date()).getTime();</script>
     <div id="body-wrapper">
         <div id="wrapper">
@@ -263,7 +244,7 @@ I am currently working alongside an MS partner...">
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-132 current_page_item current_page_parent menu-item-142 active"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -304,7 +285,7 @@ I am currently working alongside an MS partner...">
                     <select class="form-control" name="location[]">
                         <option value="">Select Location</option>
 
-                        <option value='1'>Aruba</option><option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1040'>Cyprus</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2584'>Mexico</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='3608'>Slovenia</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
+                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1040'>Cyprus</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2584'>Mexico</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='3608'>Slovenia</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
                 </div>
 
                 <div class="form-group">
@@ -405,7 +386,7 @@ I am currently working alongside an MS partner...">
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">        <input name="jobs[]" type="hidden" value="388577">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">        <input name="jobs[]" type="hidden" value="388577">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -506,7 +487,7 @@ I am currently working alongside an MS partner...">
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/388577?_token=K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">
+                                      data-job-id="/saved-jobs/add/388577?_token=iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -543,7 +524,7 @@ I am currently working alongside an MS partner...">
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/388577?_token=K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">
+                                              data-job-id="/saved-jobs/add/388577?_token=iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -562,7 +543,7 @@ I am currently working alongside an MS partner...">
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">
 
 
 

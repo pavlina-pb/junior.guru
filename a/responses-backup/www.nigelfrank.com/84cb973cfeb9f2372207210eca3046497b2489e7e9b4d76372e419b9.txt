@@ -78,27 +78,11 @@ Within this role you will be working within a small team, developing web applica
 </head>
 
 
-<body class='body-job-view banner-on   '>
+<body class='body-job-view  '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
-<div class="banner-top" id="bannerTop" style="background: linear-gradient(#21BBBA,#A420E3)">
-                    <div class="banner-top-center">
-                <div class="banner-top-img" style="float: left;    margin-left: 15px;">
-                    <img src="https://www.nigelfrank.com/wp-content/themes/job-board/resources/external-assets/DRA favicon-1.png">
-                </div>
-                <div class="banner-top-text">
-                    <h5 style="text-align: left;"><strong>&nbsp; Celebrate excellence in the cloud technology industry with the Digital Revolution Awards</strong></h5>                </div>
-                                    <div class="banner-button">
-                        <a href="https://digitalrevolutionawards.com/how-to-nominate/?utm_source=nfiwebsite&utm_medium=banner&utm_campaign=DRA22" type="submit" class="btn btn-primary-theme"
-                           target="_blank">
-                            <span>Nominate a cloud MVP</span>
-                        </a>
-                    </div>
-                                <div class="banner-close" id="closeBannerTop">x</div>
-            </div>
-                </div>
     <script>var WRInitTime=(new Date()).getTime();</script>
     <div id="body-wrapper">
         <div id="wrapper">
@@ -210,7 +194,7 @@ Within this role you will be working within a small team, developing web applica
 	<li id="menu-item-wpml-ls-2-it" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-it"><a title="Italian" href="https://www.nigelfrank.com/it/383787/c-developer"><span class="glyphicon Italian"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="it" title="Italiano"><span class="wpml-ls-display">Italian</span></a></li>
 </ul>
 </li>
-<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-8914 active"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
+<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8914"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
 <li id="menu-item-5623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5623 dropdown">
 <a title="Search Jobs" href="/microsoft-jobs" class="has-children" role="button" aria-expanded="false">Search Jobs <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -262,7 +246,7 @@ Within this role you will be working within a small team, developing web applica
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -303,7 +287,7 @@ Within this role you will be working within a small team, developing web applica
                     <select class="form-control" name="location[]">
                         <option value="">Select Location</option>
 
-                        <option value='1'>Aruba</option><option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1040'>Cyprus</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2584'>Mexico</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='3608'>Slovenia</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
+                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1040'>Cyprus</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2584'>Mexico</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='3608'>Slovenia</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
                 </div>
 
                 <div class="form-group">
@@ -404,7 +388,7 @@ Within this role you will be working within a small team, developing web applica
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">        <input name="jobs[]" type="hidden" value="383787">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">        <input name="jobs[]" type="hidden" value="383787">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -508,7 +492,7 @@ Within this role you will be working within a small team, developing web applica
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/383787?_token=K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">
+                                      data-job-id="/saved-jobs/add/383787?_token=iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -523,6 +507,8 @@ Within this role you will be working within a small team, developing web applica
         <h4>
                             Similar Jobs                    </h4>
 
+                    <p><a href="https://www.nigelfrank.com/390937/senior-c-developer">Senior C# Developer</a><br>
+                Prague, Czech Republic</p>
                     <p><a href="https://www.nigelfrank.com/390819/c-web-developer">C# Web Developer</a><br>
                 Prague, Czech Republic</p>
                     <p><a href="https://www.nigelfrank.com/388937/senior-c-developer">Senior C# Developer</a><br>
@@ -531,8 +517,6 @@ Within this role you will be working within a small team, developing web applica
                 Prague, Czech Republic</p>
                     <p><a href="https://www.nigelfrank.com/387881/senior-net-developer">Senior .Net Developer</a><br>
                 Czech Republic</p>
-                    <p><a href="https://www.nigelfrank.com/387799/ux-ui-platform-developer">UX/UI Platform Developer</a><br>
-                Prague, Czech Republic</p>
         
     </div>
             </div>
@@ -551,7 +535,7 @@ Within this role you will be working within a small team, developing web applica
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/383787?_token=K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">
+                                              data-job-id="/saved-jobs/add/383787?_token=iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -570,7 +554,7 @@ Within this role you will be working within a small team, developing web applica
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="K99WPryaNHSyg8cD5tzuHLYkh7O0WgVZ9uH4Vrx9">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="iAXTOI6gullrLQ54fCRDPJsz6d4CRqM2oqFwwmvN">
 
 
 
