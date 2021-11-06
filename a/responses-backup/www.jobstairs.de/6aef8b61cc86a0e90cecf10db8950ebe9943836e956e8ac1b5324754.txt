@@ -359,7 +359,7 @@
         <div class="container jobad-module-content-iframe">
             <div class="row">
                 <div class="col-xs-12">
-                    <iframe id="jobview-iframe" frameborder="0" src="https://www.jobstairs.de/jobview/stellenangebot-software-engineer-mfdiverse-commerzbank--1482151.html?jobad_stamp=0"></iframe>
+                    <iframe id="jobview-iframe" frameborder="0" src="https://www.jobstairs.de/jobview/stellenangebot-software-engineer-mfdiverse-commerzbank--1482151.html?jobad_stamp=0" loading=lazy></iframe>
                 </div>
                 <script>
                     $(function () {

@@ -359,7 +359,7 @@
         <div class="container jobad-module-content-iframe">
             <div class="row">
                 <div class="col-xs-12">
-                    <iframe id="jobview-iframe" frameborder="0" src="https://www.jobstairs.de/jobview/stellenangebot-full-stack-java-developer-cplm-juniormidsenior-level-mfdiverse-commerzbank--1496538.html?jobad_stamp=0"></iframe>
+                    <iframe id="jobview-iframe" frameborder="0" src="https://www.jobstairs.de/jobview/stellenangebot-full-stack-java-developer-cplm-juniormidsenior-level-mfdiverse-commerzbank--1496538.html?jobad_stamp=0" loading=lazy></iframe>
                 </div>
                 <script>
                     $(function () {

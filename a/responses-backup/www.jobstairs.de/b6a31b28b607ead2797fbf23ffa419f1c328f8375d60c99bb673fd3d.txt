@@ -55,7 +55,7 @@
             var COMPLETION_URL = '//api.jobstairs.de/v2/search/completion/';
             var JOBAD_URL = '//api.jobstairs.de/v2/jobs';
             var GEOFEED_URL = '//api.jobstairs.de/v2/search/geofeed.json';
-            var DEVICE_IS_IOS = true;
+            var DEVICE_IS_IOS = false;
             var CONFIG_JOB_BOARD = '/js/jobboard.config.production.json';
             var p;
             //Cookie Consent
@@ -359,7 +359,7 @@
         <div class="container jobad-module-content-iframe">
             <div class="row">
                 <div class="col-xs-12">
-                    <iframe id="jobview-iframe" frameborder="0" src="https://www.jobstairs.de/jobview/stellenangebot-software-engineer-mobile-digital-banking-mfdiverse-commerzbank--1617452.html?jobad_stamp=0"></iframe>
+                    <iframe id="jobview-iframe" frameborder="0" src="https://www.jobstairs.de/jobview/stellenangebot-software-engineer-mobile-digital-banking-mfdiverse-commerzbank--1617452.html?jobad_stamp=0" loading=lazy></iframe>
                 </div>
                 <script>
                     $(function () {
