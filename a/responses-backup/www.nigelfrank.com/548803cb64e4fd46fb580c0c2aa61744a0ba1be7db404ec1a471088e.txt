@@ -9,7 +9,8 @@
 Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of one of our clients. Our client is Global Company with a large range of teams...">
     <meta name="format-detection" content="telephone=no">
     <link rel="alternate" href="https://www.nigelfrank.com/" hreflang="x-default" />
-        <meta property="og:image" name="image" content="https://www.nigelfrank.com/assets/img/opengraph/nfi.jpg">
+            <meta name="robots" content="noindex">
+            <meta property="og:image" name="image" content="https://www.nigelfrank.com/assets/img/opengraph/nfi.jpg">
     <meta property="og:title" content="Full Stack Developer">
     <meta property="og:description" content="Job Description
 Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of one of our clients. Our client is Global Company with a large range of teams...">
@@ -190,7 +191,7 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
 	<li id="menu-item-wpml-ls-2-it" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-it"><a title="Italian" href="https://www.nigelfrank.com/it/383830/full-stack-developer"><span class="glyphicon Italian"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="it" title="Italiano"><span class="wpml-ls-display">Italian</span></a></li>
 </ul>
 </li>
-<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8914"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
+<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-8914 active"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
 <li id="menu-item-5623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5623 dropdown">
 <a title="Search Jobs" href="/microsoft-jobs" class="has-children" role="button" aria-expanded="false">Search Jobs <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -242,7 +243,7 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -283,7 +284,7 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
                     <select class="form-control" name="location[]">
                         <option value="">Select Location</option>
 
-                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1040'>Cyprus</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2584'>Mexico</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='3608'>Slovenia</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
+                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1524'>Hungary</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2531'>Lithuania</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2584'>Mexico</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3572'>Singapore</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
                 </div>
 
                 <div class="form-group">
@@ -339,11 +340,7 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
             </div>
             <div class="clearfix" id="body">
                 <div id="content">
-                    <script type="application/ld+json">
-      {"@context":"http:\/\/schema.org","@type":"JobPosting","title":"Full Stack Developer","datePosted":"2021-08-11","employmentType":"FULL_TIME","validThrough":"2021-11-09","description":"<img src=\"https:\/\/counter.adcourier.com\/ay5oYWxmb3JkNS42MzMzNC4yNDQzQG5pZ2VsZnJhbmsuYXBsaXRyYWsuY29t.gif\"><p>Job Description<\/p>\n<br><p>Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of one of our clients. Our client is Global Company with a large range of teams in the heart of Prague and they're seeking a talented Full Stack Developer to join their team in Prague. As a Full Stack Developer you will work on a wide range of new and exciting projects within the business.<\/p>\n<br><p><br \/> Role &amp; Responsibilities<\/p>\n<br><ul>\n<br><li>You will research and analyse new product features<\/li>\n<br><li>You will develop code and unit testing in .Net, Angular and TypeScript<\/li>\n<br><li>You will Develop back end applications and UI <\/li>\n<br><li>You will maintain and improve current projects<\/li>\n<br><\/ul>\n<br><p><br \/> Skills &amp; Qualifications<\/p>\n<br><ul>\n<br><li>Excellent C# and .Net core Knowledge<\/li>\n<br><li>Experience using Entity Framework<\/li>\n<br><li>Knowledge and experience with Front End development- TypeScript, CSS, HTML, JavaScript and the following frameworks-Angular, React<\/li>\n<br><li>Knowledge of Agile<\/li>\n<br><li>Familiar with CI\/CD pipelines<\/li>\n<br><li>Experience using GIT, JIRA, TeamCity and Confulence<\/li>\n<br><li>Experience with AngularMaterial and DevExtreme would be a plus<\/li>\n<br><li>Experience with Cloud Tech-AWS would be a plus<\/li>\n<br><\/ul>\n<br><p>Benefits<\/p>\n<br><ul>\n<br><li>Excellent medical package<\/li>\n<br><li>5 weeks paid holiday <\/li>\n<br><li>Yearly bonus<\/li>\n<br><li>7 days extra paternity leave<\/li>\n<br><\/ul>\n<br><p>If you are interested or know anyone who will be don't hesitate to get in contact,<br \/> Phone: 0191 338 7587<br \/> Email: <a href=\"mailto:k.halford@frankgroup.com\">k.halford@frankgroup.com<\/a><\/p>\n<br><p> <\/p>","hiringOrganization":{"@type":"Organization","name":"Nigel Frank","sameAs":"https:\/\/www.nigelfrank.com"},"identifier":{"@type":"PropertyValue","name":"Nigel Frank","value":"100821FSD"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Prague, Czech Republic"}},"baseSalary":{"@type":"MonetaryAmount","currency":"EUR","value":"Number","minValue":null,"maxValue":null}}
-    </script>
-
-<div class="container main-container job-view clearfix ">
+                    <div class="container main-container job-view clearfix ">
 
     <div>
         <ul class="unstyled breadcrumbs">
@@ -384,7 +381,7 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="yjyWlOQoHlSPmTu5fPuCmyFNZM7jEGiA36cAZNNH">        <input name="jobs[]" type="hidden" value="383830">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="lNjoTSE2qpiVZE4kigTr0tNby9MgdLxt8HWlAcnB">        <input name="jobs[]" type="hidden" value="383830">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -476,10 +473,6 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
 <br></ul>
 <br><p>If you are interested or know anyone who will be don't hesitate to get in contact,<br /> Phone: 0191 338 7587<br /> Email: <a href="mailto:k.halford@frankgroup.com">k.halford@frankgroup.com</a></p>
 <br><p> </p>                        </div>
-                                                    <div class="row-padding">
-                                                                    <button class="btn btn-primary-theme btn-block btn-bottom-application text-uppercase"
-                                            type="submit">Apply Now                                    </button>
-                                                            </div>
                                             </div>
                 </div>
             </div>
@@ -487,20 +480,7 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
         <div class="jobmenu">
             <nav class="no-padding-left col-xs-12 col-sm-4 no-gutter-mobile">
                 <ul class="list-unstyled">
-                    
-                                                    <li>
-                                <button class="btn btn-primary-theme btn-application btn-block"
-                                        type="submit">Apply Now                                </button>
-                            </li>
-                        
-                        <li>
-                                                            <span data-lang-add="Save Job"
-                                      data-lang-remove="Saved Job"
-                                      class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/383830?_token=yjyWlOQoHlSPmTu5fPuCmyFNZM7jEGiA36cAZNNH">
-                                        <i class="fa fa-heart-o"></i> Save Job                                    </span>
-                                                    </li>
-
+                                            <p class="text-center"> This job is closed for applications</p>
                                                                 <li><a class="btn btn-secondary-theme btn-block " id="btn-email-me-similar-jobs"
                                data-toggle="modal"
                                data-target=".bs-example-modal">E-mail me similar jobs</a>
@@ -518,10 +498,6 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
                 Prague, Czech Republic</p>
                     <p><a href="https://www.nigelfrank.com/387762/graphic-user-interface-developer">Graphic User Interface Developer</a><br>
                 Prague, Czech Republic</p>
-                    <p><a href="https://www.nigelfrank.com/383748/net-developer">.Net Developer</a><br>
-                Prague, Czech Republic</p>
-                    <p><a href="https://www.nigelfrank.com/383498/senior-net-developer">Senior .Net Developer</a><br>
-                Prague, Czech Republic</p>
         
     </div>
             </div>
@@ -530,20 +506,8 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
         <div class="sticky-jobbmenu">
             <nav class="col-xs-12 col-sm-4 no-gutter-mobile">
                 <ul class="list-unstyled">
-                    
-                                                    <li>
-                                <button class="btn btn-primary-theme btn-application btn-block"
-                                        type="submit">Apply Now                                </button>
-                            </li>
-                        
-                                                        <li>
-                                                                            <span data-lang-add="Save Job"
-                                              data-lang-remove="Saved Job"
-                                              class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/383830?_token=yjyWlOQoHlSPmTu5fPuCmyFNZM7jEGiA36cAZNNH">
-                                     Save Job                                        </span>
-                                                                    </li>
-                                                                                            <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
+                                            <p class="text-center">This job is closed for applications</p>
+                                                                <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
                                data-target=".bs-example-modal">E-mail me similar jobs</a>
                         </li>
                                     </ul>
@@ -559,7 +523,7 @@ Frank Recruitment Group is currently hiring a Full Stack Developer on behalf of 
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="yjyWlOQoHlSPmTu5fPuCmyFNZM7jEGiA36cAZNNH">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="lNjoTSE2qpiVZE4kigTr0tNby9MgdLxt8HWlAcnB">
 
 
 
