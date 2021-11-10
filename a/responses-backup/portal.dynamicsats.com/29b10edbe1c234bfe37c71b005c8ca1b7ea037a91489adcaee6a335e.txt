@@ -1,0 +1,391 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Front End SW Developer </title>
+        <link rel="shortcut icon" href="/Content/org/CJ9DR2K5DG5G2WV2/icon.gif" />
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+<link href="https://kendo.cdn.telerik.com/2017.2.621/styles/kendo.common-material.min.css" rel="stylesheet" type="text/css" />
+<link href="https://kendo.cdn.telerik.com/2017.2.621/styles/kendo.mobile.all.min.css" rel="stylesheet" type="text/css" />
+<link href="https://kendo.cdn.telerik.com/2017.2.621/styles/kendo.dataviz.min.css" rel="stylesheet" type="text/css" />
+<link href="https://kendo.cdn.telerik.com/2017.2.621/styles/kendo.material.min.css" rel="stylesheet" type="text/css" />
+<link href="https://kendo.cdn.telerik.com/2017.2.621/styles/kendo.dataviz.material.min.css" rel="stylesheet" type="text/css" />
+<link href="/Content/custom/dcrs-notification.css" rel="stylesheet" type="text/css" />
+<script src="https://kendo.cdn.telerik.com/2017.2.621/js/jquery.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2017.2.621/js/angular.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2017.2.621/js/jszip.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2017.2.621/js/kendo.all.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2017.2.621/js/kendo.aspnetmvc.min.js"></script>
+<script src="/Scripts/kendo.modernizr.custom.js"></script>
+<script src="https://kendo.cdn.telerik.com/2017.2.621/js/jszip.min.js"></script>
+
+    
+<script src="/Scripts/cultures/kendo.culture.en-US.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2017.2.621/js/messages/kendo.messages.en-US.min.js"></script>
+<script>
+    kendo.culture("en-US");
+</script>
+    <style>
+        .widget-button {
+            cursor: pointer;
+        }
+
+        .widget-button.st-custom-button a {
+            color: #95D03A;
+            border: 2px solid #95D03A;
+            padding: 7px 20px;
+            font-size: .8em;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-decoration: none;
+            transition: background-color 0.2s ease-out,border-color 0.2s ease-out;
+        }
+
+            .widget-button.st-custom-button a:hover {
+                border-color: #95D03A;
+                background-color: #95D03A;
+                color: #fff;
+            }
+
+            .widget-button.st-custom-button i {
+                margin-right: 5px;
+            }
+
+    </style>
+    <link href="/JobListing/WebForm/GetCustomDetailsCss?formId=be9c621a-ba9d-41b6-bc7b-917d59117a03" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5b29572ba7603d0012fa8619&product=custom-share-buttons"></script>
+            <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"JobPosting","title":"Front End SW Developer ","description":"&lt;p style=\"line-height:normal;\"&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:14.0pt;font-family:CIDFont+F2;\"&gt;Quorum Software is hiring a Front-End Developer to the Energy Component team. Do you want to join us?&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;\"&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;About us&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;\"&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Energy Components Global Solutions is a product suite developed for the Oil and Gas industry. It monitors business processes for the production, transport and sales of oil and gas, and facilitates collaboration between license holders in oil fields around the world.&lt;/span&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;\"&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;This position is opened for a Java Frontend Software Developer who is interested to work in a cross functional team and can support the team by her\\his strengths. Position is based in Ostrava, Czech Republic. &lt;/span&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;text-autospace:none;\"&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;You will take part in activities such as:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Work with the Product team and our customers to create the best features for our users&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Propose and drive new and innovative product enhancements&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Design, develop and build new features and functionalities&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Create and propose technical designs and specifications&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Scrum Ceremonies with daily stand-up, planning, reviews and retrospective meetings&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=\"line-height:normal;text-autospace:none;\"&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;text-autospace:none;\"&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;As part of the EC-team you will work out of our office located in Ostrava, your colleagues will be a global team of experts both with respect to technology and the business we support, and most importantly, you will have the chance to be yourself in a social and passionate environment!&lt;/span&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;text-autospace:none;\"&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;text-autospace:none;\"&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Qualifications&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;:&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Relevant higher technical education on master or bachelor level&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;English skills for verbal communication and reading technical documentation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Technical requirements:&lt;/span&gt;&lt;ul style=\"list-style-type:circle;\"&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Proficient in Java Script / Type Script / HTML / CSS / WebComponents / &lt;/span&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;REST API&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Experience with Development Frameworks: Mainly Angular (10+ version), sometimes React&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Experience in development of solutions for Mobile devices (Android &amp;amp; iOS)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Test case automation (Mock / Karma / Cypress.io / Spectron)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Deployment and integration, CI/CD pipeline (Jenkins)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Linux, virtualization, dockers&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Git for SW handling&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Jira and confluence as planning tool for programs and teams&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Agile ways of working (Scrum, Kanban)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Well-versed with relational databases - preferably Oracle &amp;amp; PL/SQL&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Experience with any of the below is a nice to have, however not required:&lt;/span&gt;&lt;ul style=\"list-style-type:circle;\"&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;DevOps, Amazon AWS, MS Azure, WildFly&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=\"line-height:normal;text-autospace:none;\"&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=\"line-height:normal;text-autospace:none;\"&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Personality:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Team player who enjoys working with people across multiple countries and cultures&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;You strive to maintain excellent quality in all aspects of your work&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Structured but creative in your work&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Good communication skills&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Ability to handle complex scenarios and transform these into good quality designs and Code&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Responsible, service-minded and caring for colleagues and customers&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=\"line-height:normal;\"&gt;&lt;strong&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;We offer:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;friendly, open-source company culture &amp;amp; modern office&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;permanent working contract, 4+1 weeks off, 2 Sick Days&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;possibilities to rapidly increase your technical and soft skills by internal and external trainings&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;food &amp;bdquo;flat rate&amp;ldquo; 65czk/working day&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;home office according to your needs and actual project situation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;contribution for life and pension insurance&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;Cafeteria system of company benefits &amp;ndash;you choose how to spend your credits: restaurants, wellness, culture, sports, traveling...&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=\"EN-GB\" style=\"font-size:11.0pt;font-family:'Calibri',sans-serif;\"&gt;free fitness in Ostrava&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;","image":"https://portal.dynamicsats.com//Content/org/CJ9DR2K5DG5G2WV2/q logo.gif","baseSalary":{"@type":"MonetaryAmount"},"datePosted":"2021-11-09","hiringOrganization":{"@type":"Organization","name":"Quorum Software","logo":"https://portal.dynamicsats.com//Content/org/CJ9DR2K5DG5G2WV2/q logo.gif"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"Czechia","addressLocality":"Ostrava ","addressRegion":"Přívoz","postalCode":"70200 "}},"skills":["Confluence","Energy Components","PL/SQL","Sports","Virtualization","Oracle","Insurance","Technology","production","Oil","English","Education","Gas","SQL","Linux","Sales","HTML","Java","Scrum","Integration","Communication","Databases","Energy","Automation","JIRA"]}
+        </script>
+</head>
+<body>
+    <input name="__RequestVerificationToken" type="hidden" value="Qiw6BZBbweyIgKMqCFEhOj8SftQfgWInf5g1-NCnqXZtHis-JrZelFdl_qQNWPS7GLP5rNveMD1RYa1gKLWHssaDd4e0jBskIEEP6i7SQLM1" />
+    <div class="viewport">
+    <div class="container-fluid">
+        <div class="details-header">
+            <div class="details-header-content">
+                <div class="tagline">
+                    <h1>Front End SW Developer </h1>
+                    <h4>Moravská Ostrava a Přívoz</h4>
+                </div>
+            </div>
+        </div>
+        <div class="details-body">
+            <nav class="breadcrumb">
+                <a href="https://portal.dynamicsats.com/JobListing/be9c621a-ba9d-41b6-bc7b-917d59117a03"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> Back to Careers</a>
+            </nav>
+            <div class="row career-info">
+                <div class="col-sm-12">
+                    <h3>Opportunity Details</h3>
+                </div>
+                <div class="col-sm-12 col-md-4 col-md-push-8">
+                    <div class="career-panel">
+                        <p>
+                            <span>Full Time</span>
+                            <b class="career-title">Front End SW Developer </b>
+                        </p>
+                        <div class="career-location">
+                            <span><i class="fa fa-map-marker"></i> Moravská Ostrava a Přívoz</span>
+                        </div>
+                        <div id="widget-buttons">
+                            <div class="widget-button apply integration-action" data-process-id="403" data-showmodal="true" ><a>Apply Now</a></div><div class="widget-button st-custom-button share-action" data-network="sharethis" data-title="Front End SW Developer " ><a><i class="fa fa-share-alt" ></i>Share This</a></div><div class="widget-button copy copy-action"><a>Copy URL</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-8 col-md-pull-4">
+                    <p style="line-height:normal;"><strong><span lang="EN-GB" style="font-size:14.0pt;font-family:CIDFont+F2;">Quorum Software is hiring a Front-End Developer to the Energy Component team. Do you want to join us?</span></strong><strong></strong></p><p style="line-height:normal;"><strong><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">About us</span></strong></p><p style="line-height:normal;"><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Energy Components Global Solutions is a product suite developed for the Oil and Gas industry. It monitors business processes for the production, transport and sales of oil and gas, and facilitates collaboration between license holders in oil fields around the world.</span></p><p style="line-height:normal;"><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">This position is opened for a Java Frontend Software Developer who is interested to work in a cross functional team and can support the team by her\his strengths. Position is based in Ostrava, Czech Republic. </span></p><p style="line-height:normal;text-autospace:none;"><strong><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">You will take part in activities such as:</span></strong></p><ul><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Work with the Product team and our customers to create the best features for our users</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Propose and drive new and innovative product enhancements</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Design, develop and build new features and functionalities</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Create and propose technical designs and specifications</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Scrum Ceremonies with daily stand-up, planning, reviews and retrospective meetings</span></li></ul><p style="line-height:normal;text-autospace:none;"><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">&nbsp;</span></p><p style="line-height:normal;text-autospace:none;"><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">As part of the EC-team you will work out of our office located in Ostrava, your colleagues will be a global team of experts both with respect to technology and the business we support, and most importantly, you will have the chance to be yourself in a social and passionate environment!</span></p><p style="line-height:normal;text-autospace:none;"><strong><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">&nbsp;</span></strong></p><p style="line-height:normal;text-autospace:none;"><strong><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Qualifications</span></strong><strong><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">:</span></strong><strong></strong></p><ul><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Relevant higher technical education on master or bachelor level</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">English skills for verbal communication and reading technical documentation</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Technical requirements:</span><ul style="list-style-type:circle;"><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Proficient in Java Script / Type Script / HTML / CSS / WebComponents / </span><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">REST API</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Experience with Development Frameworks: Mainly Angular (10+ version), sometimes React</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Experience in development of solutions for Mobile devices (Android &amp; iOS)</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Test case automation (Mock / Karma / Cypress.io / Spectron)</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Deployment and integration, CI/CD pipeline (Jenkins)</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Linux, virtualization, dockers</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Git for SW handling</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Jira and confluence as planning tool for programs and teams</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Agile ways of working (Scrum, Kanban)</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Well-versed with relational databases - preferably Oracle &amp; PL/SQL</span></li></ul></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Experience with any of the below is a nice to have, however not required:</span><ul style="list-style-type:circle;"><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">DevOps, Amazon AWS, MS Azure, WildFly</span></li></ul></li></ul><p style="line-height:normal;text-autospace:none;"><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">&nbsp;</span></p><p style="line-height:normal;text-autospace:none;"><strong><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Personality:</span></strong></p><ul><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Team player who enjoys working with people across multiple countries and cultures</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">You strive to maintain excellent quality in all aspects of your work</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Structured but creative in your work</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Good communication skills</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Ability to handle complex scenarios and transform these into good quality designs and Code</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Responsible, service-minded and caring for colleagues and customers</span><strong></strong></li></ul><p style="line-height:normal;"><strong><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">We offer:</span></strong></p><ul><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">friendly, open-source company culture &amp; modern office</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">permanent working contract, 4+1 weeks off, 2 Sick Days</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">possibilities to rapidly increase your technical and soft skills by internal and external trainings</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">food &bdquo;flat rate&ldquo; 65czk/working day</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">home office according to your needs and actual project situation</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">contribution for life and pension insurance</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">Cafeteria system of company benefits &ndash;you choose how to spend your credits: restaurants, wellness, culture, sports, traveling...</span></li><li><span lang="EN-GB" style="font-size:11.0pt;font-family:'Calibri',sans-serif;">free fitness in Ostrava</span></li></ul><p><span>&nbsp;</span></p>
+                </div>
+            </div>
+        </div>
+        <a href="#0" class="cd-top">Top</a>
+        <a href="#0" class="cd-down cd-is-visible">Down</a>
+    </div>
+</div>
+
+    <div id="appWindowDialog" style="display:none"></div><script>
+	kendo.syncReady(function(){jQuery("#appWindowDialog").kendoWindow({"modal":false,"iframe":false,"draggable":false,"scrollable":true,"pinned":false,"title":null,"resizable":false,"actions":["Close"]});});
+</script>
+    <script>
+        var entityId;
+        var formId;
+
+        function onProfileData(profileData) {
+            if (entityId == '00000000-0000-0000-0000-000000000000') return;
+
+            var token = $('[name=__RequestVerificationToken]').val();
+            var model = {
+                FormId: formId,
+                EntityId: entityId,
+                LogicalName: "dcrs_job",
+                ClientId: "",
+                IntegrationContext: "",
+                ProfileData: profileData
+            };
+
+            $.ajax({
+                type: 'POST',
+                data: { model: model },
+                url: '/JobListing/WebForm/LinkedInV2Application',
+                headers: { "__RequestVerificationToken": token },
+                success: function (result) {
+                    var completionWindow = $("#appWindowDialog").data().kendoWindow;
+
+                    completionWindow.bind("refresh", function (e) {
+                        this.center();
+                    });
+
+                    completionWindow.setOptions({
+                        resizable: true,
+                        width: "600",
+                        height: "600",
+                        draggable: true,
+                        iframe: true,
+                        actions: ["Close"],
+                        modal: true
+                    });
+
+                    completionWindow.title("Status");
+
+                    completionWindow.refresh({
+                        url: '/JobListing/WebForm/LinkedInApplySubmitted' + "?data=" + btoa(JSON.stringify(result))
+                    });
+
+                    completionWindow.open().center(true);
+                }
+            });
+        }
+
+        function onMonsterApplied(data) {
+            console.log("onMonsterApplied");
+            console.log(data);
+            console.log(data.event);
+
+            if (entityId == '00000000-0000-0000-0000-000000000000') return;
+
+            var token = $('[name=__RequestVerificationToken]').val();
+            var model = {
+                FormId: formId,
+                EntityId: entityId,
+                LogicalName: "dcrs_job",
+                Url: data.req.requestUrl
+            };
+
+            $.ajax({
+                type: 'POST',
+                data: { model: model },
+                url: '/JobListing/WebForm/MonsterApply',
+                headers: { "__RequestVerificationToken": token },
+                success: function (result) {
+                    console.log("success");
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            entityId = '8617e40b-b301-ec11-94ef-002248259569';
+            formId = 'be9c621a-ba9d-41b6-bc7b-917d59117a03';
+
+            var winDialog = $("#appWindowDialog").data().kendoWindow;
+            winDialog.bind("refresh", function (e) {
+                this.center();
+            });
+
+            $(document).on('click', '.header-fragment', function (e) {
+                e.preventDefault();
+                $(e.target).closest('div').hide();
+            });
+
+            $(".integration-action").on("click", function (event) {
+                event.preventDefault();
+
+                if (entityId == '00000000-0000-0000-0000-000000000000') return;
+
+                var processId = $(this).data("process-id");
+                var token = $('[name=__RequestVerificationToken]').val();
+                var windowProperties = "scrollbars=1,resizable=1,toolbar=no,menubar=no,directories=no,status=no";
+                var showModal = $(this).data("showmodal");
+                var appWindow;
+
+                if (processId == 501) {
+                    windowProperties = "height=600,width=600,scrollbars=1,resizable=1,toolbar=no,menubar=no,directories=no,status=no";
+                }
+
+                if (typeof showModal === "undefined" || showModal == false) {
+                    appWindow = window.open("about:blank", "auth" + processId, windowProperties);
+                }
+
+                $.ajax({
+                    type: 'POST',
+                    data: { formId: formId, entityId: entityId, logicalName: 'dcrs_job', processId: processId },
+                    url: '/JobListing/WebForm/AuthorizeIntegration',
+                    headers: { "__RequestVerificationToken": token },
+                    success: function (result) {
+                        if (result.HasError == false) {
+                            if (processId == 403 && showModal) {
+                                var contentWidth = $(window).width();
+                                var contentHeight = $(window).height();
+                                var winWidth = 768;
+                                var winHeight = 1024;
+
+                                if ((contentWidth / 2) < winWidth) {
+                                    winWidth = 600;
+                                    winHeight = 800;
+                                }
+
+                                if (contentWidth < winWidth) winWidth = contentWidth;
+                                if (contentHeight < winHeight) winHeight = contentHeight - 25;
+
+                                winDialog.setOptions({
+                                    resizable: true,
+                                    width: winWidth.toString(),
+                                    height: winHeight.toString(),
+                                    draggable: true,
+                                    iframe: true,
+                                    actions: ["Maximize", "Close"],
+                                    modal: true
+                                });
+
+                                winDialog.refresh({
+                                    url: result.Model.Url
+                                });
+
+                                winDialog.title("Front End SW Developer ");
+                                winDialog.open().center(true);
+                                return;
+                            }
+                            else {
+                                appWindow.location.href = result.Model.Url
+                            }
+                        }
+                        else {
+                            displayNotification("mainNotification", "error", result.Message);
+                        }
+                    }
+                });
+            });
+
+            $(".copy-action").on("click", function (event) {
+                event.preventDefault();
+                textToCopy(window.location.href)
+            });
+
+            var $scrollUp, $scrollDown, scroll_duration, scroll_amount, scroll_clicked, scroll_cache;
+
+            scroll_duration = 300;
+            scroll_amount = 300;
+            scroll_clicked = false;
+            $scrollUp = $(".cd-top");
+            $scrollDown = $(".cd-down");
+            scroll_cache = 0;
+
+            if ($(window).height() == $(document).height()) {
+                $scrollDown.removeClass("cd-is-visible");
+            }
+
+            $(window).scroll(function () {
+                if ($(this).scrollTop() == 0) {
+                    $scrollUp.removeClass("cd-is-visible");
+                    $scrollDown.addClass("cd-is-visible");
+                }
+                else if (Math.ceil($(this).scrollTop() + $(this).height()) >= $(document).height()) {
+                    $scrollUp.addClass("cd-is-visible");
+                    $scrollDown.removeClass("cd-is-visible");
+                }
+                else {
+                    $scrollUp.addClass('cd-is-visible');
+                    $scrollDown.addClass('cd-is-visible');
+                }
+            });
+
+            $scrollUp.on("click", function (event) {
+                event.preventDefault();
+                if (scroll_clicked) return;
+                scroll_clicked = true;
+                var div = $("body");
+                if (div.scrollTop() == 0) div = $("html,body");
+
+                scroll_cache = div.scrollTop() - scroll_amount;
+                if (Math.abs(scroll_cache) < scroll_amount) {
+                    scroll_cache = scroll_amount * -1;
+                }
+
+                div.animate({
+                    scrollTop: scroll_cache
+                }, scroll_duration, function () {
+
+                    if (scroll_cache == scroll_amount * -1) {
+                        scroll_cache = 0;
+                    }
+
+                    scroll_clicked = false;
+                });
+            });
+
+            $scrollDown.on("click", function (event) {
+                //console.log($('body').scrollTop());
+                //console.log($('html,body').scrollTop());
+                //console.log(scroll_cache);
+                //console.log("-----");
+                event.preventDefault();
+                if (scroll_clicked) return;
+                scroll_clicked = true;
+                var div = $('body');
+                if (div.scrollTop() == 0) div = $("html,body");
+
+                var scrollValue = div.scrollTop();
+
+                if (scrollValue == 0) {
+                    scrollValue = scroll_cache + scroll_amount;
+                    //console.log("using cache");
+                }
+                else {
+                    scrollValue += scroll_amount;
+                    //console.log("using scroll");
+                }
+
+                scroll_cache = scrollValue;
+
+                //console.log($(window).scrollTop() + $(window).height());
+                //console.log($(document).height());
+                //console.log($(document).height() - ($(window).scrollTop() + $(window).height()));
+                //console.log("-----");
+
+                if ($(document).height() - ($(window).scrollTop() + $(window).height()) < scroll_amount) {
+                    //console.log("adjust");
+                    scroll_cache += $(document).height() - ($(window).scrollTop() + $(window).height());
+                }
+
+                div.animate({
+                    scrollTop: scrollValue
+                }, scroll_duration, function () { scroll_clicked = false; });
+            });
+
+            var delay = (function () {
+                var timer = 0;
+                return function (callback, ms) {
+                    clearTimeout(timer);
+                    timer = setTimeout(callback, ms);
+                };
+            })();
+
+            $(window).resize(function () {
+                delay(function () {
+                    if ($(window).height() == $(document).height()) {
+                        $scrollDown.removeClass("cd-is-visible");
+                    }
+                    else {
+                        $scrollDown.addClass("cd-is-visible");
+                    }
+
+                }, 500);
+            });
+        });
+    </script>
+    <script src="/Scripts/custom/dcrs.ui.clipboard.js"></script>
+</body>
+</html> 

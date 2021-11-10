@@ -173,7 +173,7 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kdo Vám pomůže?
         <footer class="jc-container py-3s py-sm-4">
             <a class="text-secondary font-weight-bold text-decoration-none line-height-normal" href="https://www.jobscontact.cz/" target="_blank" rel="nofollow">Jobs Contact<br><span class="text-grey font-weight-normal">Personální agentura</span></a>
             <div class="w-100 d-lg-none"></div>
-            <a class="fsz-14 mt-3 mt-lg-0" href="/cdn-cgi/l/email-protection#fb9f948f9a81bb919499889894958f9a988fd59881"><img src="/customdesigns/JobsContactConsulting/3/2/images/icons/mail.png" alt="" width="20" height="16"><span class="__cf_email__" data-cfemail="197d766d78635973767b6a7a76776d787a6d377a63">[email&#160;protected]</span></a>
+            <a class="fsz-14 mt-3 mt-lg-0" href="/cdn-cgi/l/email-protection#03676c77627943696c6170606c6d776260772d6079"><img src="/customdesigns/JobsContactConsulting/3/2/images/icons/mail.png" alt="" width="20" height="16"><span class="__cf_email__" data-cfemail="33575c47524973595c5140505c5d475250471d5049">[email&#160;protected]</span></a>
             <a class="fsz-14 mt-3 mt-lg-0" href="tel:+420602642915"><img src="/customdesigns/JobsContactConsulting/3/2/images/icons/tel.png" alt="" width="20" height="21">+420 602 642 915</a>
             <a class="fsz-14 mt-3 mt-lg-0" href="https://www.google.com/maps/place/K%C5%99enov%C3%A1+531%2F69a,+602+00+Brno-st%C5%99ed-Trnit%C3%A1/@49.1917821,16.6223621,17z/data=!3m1!4b1!4m5!3m4!1s0x471294fa6972fee7:0x112c327a62a10302!8m2!3d49.1917821!4d16.6245508" target="_blank" rel="nofollow"><img src="/customdesigns/JobsContactConsulting/3/2/images/icons/pin.png" alt="" width="16" height="21">Křenová 531/69a, 602 00 Brno</a>
             <div class="w-100 d-xl-none"></div>
@@ -191,39 +191,7 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kdo Vám pomůže?
                     <path d="M8.13,7.89h2.39v1.09h0.03c0.33-0.63,1.14-1.29,2.35-1.29c2.52,0,2.98,1.66,2.98,3.81v4.39H13.4V12 c0-0.93-0.02-2.12-1.29-2.12c-1.29,0-1.49,1.01-1.49,2.05v3.96H8.13V7.89z"/>
                 </svg></a>
             </div>
-        </footer></section><!-- end .jc-design --></div><input id="recaptcha-input" type="hidden" name="recaptcha" value="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://polyfill.io/v3/polyfill.js?features=Symbol%2CObject.getOwnPropertySymbols"></script>
-<script src="https://www.google.com/recaptcha/api.js?render=6LfW078UAAAAAP8W23ZRdOJVWuliaPJeg_4su3wO&lh=cs&ver=3.0"></script>
-<script>
-    grecaptcha.ready(function() {
-        grecaptcha.execute('6LfW078UAAAAAP8W23ZRdOJVWuliaPJeg_4su3wO', {action: 'offer_details'}).then(function(token) {
-            $.ajax({
-                url: "/verify_captcha",
-                type: "POST",
-                data: {
-                    "action": 'offer_details',
-                    "token": token,
-                },
-                dataType: "json",
-
-                success: function (data) {
-                    const captcha = data.isSuccess ? 3 : 2;
-                    const buttons = document.querySelectorAll(".offer-reaction, #offer-reaction-menu");
-
-                    for (let i = 0; i < buttons.length; i++) {
-                        buttons[i].setAttribute("href", buttons[i].href + "&verification=" + captcha);
-                    }
-                },
-                error: function (error) {
-                    console.log(`reCaptcha verification error: ${error}`);
-                },
-            });
-
-        });
-    });
-</script>
-
-<div class="padding-on-bottom overall-info">
+        </footer></section><!-- end .jc-design --></div><div class="padding-on-bottom overall-info">
     <strong>ID: </strong>4186534&nbsp;
     <strong> Datum zveřejnění: </strong> <span>20.10.2021</span>&nbsp;
 
@@ -232,7 +200,7 @@ Tým Jobs Contact se těší na spolupráci s Vámi!</div><h4>Kdo Vám pomůže?
     
                         <strong>Spodní hranice mzdy (brutto):</strong> 35 000 Kč/měsíc
             </div>
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
     document.addEventListener('DOMContentLoaded', function () {
         var url = '\/cz\/offers\/4186534\/recommendations\/offer\u002Ddetail\u003Fcategories\u00255B0\u00255D\u003D5\u0026regions\u00255B0\u00255D\u003D46098\u0026positions\u00255B0\u00255D\u003D720\u0026positions\u00255B1\u00255D\u003D70\u0026positions\u00255B2\u00255D\u003D593\u0026positions\u00255B3\u00255D\u003D594\u0026positions\u00255B4\u00255D\u003D595\u0026position_level\u003D4\u0026job_type_id\u003D1';
         $.getJSON(url).done(function (response) {
@@ -390,8 +358,8 @@ var LS_I_ADD_SIDEBAR = '<svg   class=\'icon 1-star orange\' viewbox=\"0 0 20 20\
         
 
                 $('#id-show-map4').click( function(){
-                    $('#idAddOfferComment3').length ? 0 : $('body').append("<div aria-hidden=\"false\" aria-labelledby=\"idAddOfferComment2\" role=\"dialog\" tabindex=\"-1\" class=\"modal fade\" id=\"idAddOfferComment3\">\n    <div class=\"modal-dialog \">\n        <div class=\"modal-content\">\n            <div class=\"modal-header\" id=\"idAddOfferComment4\"><button type=\"button\" class=\"close \" data-dismiss=\"modal\" aria-label=\"Zav&#x0159;&#xED;t\"><span aria-hidden=\"true\">\u00d7<\/span><\/button>    <h4 class=\"modal-title\" id=\"idAddOfferComment2\">M\u00edsto pr\u00e1ce: Zl\u00edn, \u010cesko<\/h4><\/div>\n            <div class=\"modal-body\" id=\"idAddOfferComment5\"><iframe src=\"&#x2F;show_map.php&#x3F;action&#x3D;offer&amp;offer_id&#x3D;4186534&amp;region_place_id&#x3D;12693\" width=\"100%\" height=\"406px\"  frameborder=\"0\"><\/iframe><\/div>\n            <div class=\"modal-footer\" id=\"idAddOfferComment6\"><button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\"  >Zav\u0159\u00edt<\/button><\/div>\n        <\/div>\n    <\/div>\n<\/div>");
-                    $('#idAddOfferComment3').modal();
+                    $('#idAddOfferComment1').length ? 0 : $('body').append("<div aria-hidden=\"false\" aria-labelledby=\"idAddOfferComment\" role=\"dialog\" tabindex=\"-1\" class=\"modal fade\" id=\"idAddOfferComment1\">\n    <div class=\"modal-dialog \">\n        <div class=\"modal-content\">\n            <div class=\"modal-header\" id=\"idAddOfferComment2\"><button type=\"button\" class=\"close \" data-dismiss=\"modal\" aria-label=\"Zav&#x0159;&#xED;t\"><span aria-hidden=\"true\">\u00d7<\/span><\/button>    <h4 class=\"modal-title\" id=\"idAddOfferComment\">M\u00edsto pr\u00e1ce: Zl\u00edn, \u010cesko<\/h4><\/div>\n            <div class=\"modal-body\" id=\"idAddOfferComment3\"><iframe src=\"&#x2F;show_map.php&#x3F;action&#x3D;offer&amp;offer_id&#x3D;4186534&amp;region_place_id&#x3D;12693\" width=\"100%\" height=\"406px\"  frameborder=\"0\"><\/iframe><\/div>\n            <div class=\"modal-footer\" id=\"idAddOfferComment4\"><button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\"  >Zav\u0159\u00edt<\/button><\/div>\n        <\/div>\n    <\/div>\n<\/div>");
+                    $('#idAddOfferComment1').modal();
                     return false;
                 });
             
@@ -471,7 +439,7 @@ Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jak�
 
 		    setTimeout(function(){ServeLoginAnchor()},800);
 
-dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4186534"],"content_type":"product"}});feedDataLayerDetail('O4186534','Custom design','d20','d20');
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4186534"],"content_type":"product"}});feedDataLayerDetail('O4186534','Custom design','d21','d21');
 
     })
 </script>
@@ -488,10 +456,10 @@ dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"
 
     <script type="text/javascript"
             src="/assets/js/profesia_trackingb0778b818b391bc51618.js"></script>
-<div aria-hidden="false" aria-labelledby="idAddOfferComment11" role="dialog" tabindex="-1" class="modal fade" id="login_modal_main">
+<div aria-hidden="false" aria-labelledby="idAddOfferComment9" role="dialog" tabindex="-1" class="modal fade" id="login_modal_main">
     <div class="modal-dialog ">
         <div class="modal-content">
-            <div class="modal-header" id="login_modal_header"><button type="button" class="close " data-dismiss="modal" aria-label="Zav&#x0159;&#xED;t"><span aria-hidden="true">×</span></button>    <h4 class="modal-title" id="idAddOfferComment11"><span class="login-layer-title1">Přihlášení</span><span class="login-layer-title2 hide">Přihlášení/registrace</span></h4></div>
+            <div class="modal-header" id="login_modal_header"><button type="button" class="close " data-dismiss="modal" aria-label="Zav&#x0159;&#xED;t"><span aria-hidden="true">×</span></button>    <h4 class="modal-title" id="idAddOfferComment9"><span class="login-layer-title1">Přihlášení</span><span class="login-layer-title2 hide">Přihlášení/registrace</span></h4></div>
             <div class="modal-body" id="login_modal_body"><div id="login_modal_form"></div></div>
             
         </div>
@@ -500,7 +468,7 @@ dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"
     <div class="modal-dialog ">
         <div class="modal-content">
             
-            <div class="modal-body" id="idAddOfferComment14"><button type="button" class="close " data-dismiss="modal" aria-label="Zav&#x0159;&#xED;t"><span aria-hidden="true">×</span></button><div class='modal-text'></div> </div>
+            <div class="modal-body" id="idAddOfferComment12"><button type="button" class="close " data-dismiss="modal" aria-label="Zav&#x0159;&#xED;t"><span aria-hidden="true">×</span></button><div class='modal-text'></div> </div>
             
         </div>
     </div>

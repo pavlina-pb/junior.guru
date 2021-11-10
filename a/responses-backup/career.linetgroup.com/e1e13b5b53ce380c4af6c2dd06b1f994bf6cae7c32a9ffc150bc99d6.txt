@@ -37,7 +37,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="SW inženýr junior" />
                 <meta property="og:description" content="SW inženýr junior" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/60a7f4f8/9717f6a6-a8c1-468d-b9ae-7.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/60a7f4f8/b23c26f9-bac0-4086-9277-8.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/60a7f4f8/8196077f-2335-4370-bafa-d.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/60a7f4f8/86a0ee26-341e-45e9-8507-f.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=38368dc7" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=38368dc7" />
@@ -1019,7 +1019,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "ae5fe4a4-f689-492c-998d-6ad1f08cecd1"
+						"X-CSRF-Token" : "aeb4c1ca-912f-46f8-81a6-3de01a42fee5"
 					}
 				});
 			//]]>
@@ -1069,7 +1069,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "ae5fe4a4-f689-492c-998d-6ad1f08cecd1"
+						"X-CSRF-Token" : "aeb4c1ca-912f-46f8-81a6-3de01a42fee5"
 					}
 				});
 			//]]>
@@ -1090,7 +1090,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '9ece1d5a-381b-4ab8-9776-9042dd952275';
+				var ctid = 'e2894644-34df-4b09-aee5-ac70cbd057b9';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2783796932';
 				var landing = document.location.href;
 				var brand = '';
@@ -1128,7 +1128,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=2073961262"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=2032837096"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
