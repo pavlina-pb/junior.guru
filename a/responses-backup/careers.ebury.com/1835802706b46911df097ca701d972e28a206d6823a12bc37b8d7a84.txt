@@ -740,7 +740,7 @@ body {
   <script>
   window.addEventListener('load', function() {
     var payload = {
-      ed: 'VxZZ4Xqi+4oYb9Lq86DTGItM5DQVJ9mFNhwxL54ccSL96+Us/l31G923ji0PDdL2ZA4OpKU55KENGgKuNB7+1rg2bU0u4GmtGVvgoosOQvhRtZz8zU3AqXnnogrY1ZJR+0NgtsO5fWf/QRr+4FfC+XuidfLJIZz6CUHv1F8YWh/XniINLMfaNa0=--wWIeblwf+hjA8TwP--AJjydQR+EY51DC68xknimg==',
+      ed: 'iyWctE++vg1gn+hR2DGUOCOtuB6Sp9DGrfDd7qdIJ6nfyg0GN7NFWYz3buf9AE0jYyKkmG+groxcLmwBgPDR92MAN56P4KLgpORBg7qzpXQWIl4IYvCLUZ7yntWkGK+IXvRNMm3na/3yOV7JFJY5BssTQ2vaF64dz1h5uOH5Z8JJ4Ry2Kqxo/VI=--PqpU0NY2ngPm4s2q--PNBDT/F1wEsA3GGuWSrkGA==',
       referrer: document.referrer,
       data: {
         ua: navigator.userAgent,
@@ -1533,7 +1533,7 @@ Manage the relationship with our account management team to speed up the convers
 
           <div class="c-employee-referral__form">
             <form method="post" action="https://careers.ebury.com/auto_join" class="filter row">
-              <input type="hidden" name="authenticity_token" id="authenticity_token" value="/xgn7XJS2U/KRFN3kJpkRTPI9owq+zZPbzax6FOJ7yJpddz2JqCGff1p3tHc+3sj/C1TZD91doc8w68q5TcKug==">
+              <input type="hidden" name="authenticity_token" id="authenticity_token" value="eeAFoQ9j0GwlosAeODniMCyWGywdBzIPkJp630TeikR8s/2yBlh+9imxm546SxQPXx/ukhOyER/GtleeXIePcw==">
               
               <button class="btn c-employee-referral__button tt-button--filled u-primary-button-text-color u-primary-button-background-color"
                 data-event-tracking="click"
