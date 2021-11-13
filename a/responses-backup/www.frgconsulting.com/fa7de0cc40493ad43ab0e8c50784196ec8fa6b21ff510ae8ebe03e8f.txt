@@ -107,7 +107,7 @@
             <div class="col-xs-12">
                                     <div id="navbar" class="main-nav navbar-collapse collapse nav navbar-nav navbar-right">
                         <ul id="mainbarnav" class="nav navbar-nav">
-<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-6 active"><a title="Home" href="/">Home</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a title="Home" href="/">Home</a></li>
 <li id="menu-item-145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145"><a title="Search Jobs" href="https://www.frgconsulting.com/search">Search Jobs</a></li>
 <li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a title="Upload Resume" href="https://www.frgconsulting.com/job-seekers/upload-resume/">Upload Resume</a></li>
 <li id="menu-item-185" class="drop-down-parent menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-185 dropdown">
@@ -127,7 +127,7 @@
 </ul>
 </li>
 <li id="menu-item-835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-835"><a title="Candidate Search" href="https://candidate-search.frgconsulting.com/search/results">Candidate Search</a></li>
-<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a title="Blog" href="https://www.frgconsulting.com/blog/">Blog</a></li>
+<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-632"><a title="Blog" href="https://www.frgconsulting.com/blog/">Blog</a></li>
 <li id="menu-item-237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237"><a title="Work For Us" target="_blank" href="https://careers.frankgroup.com/jobs/">Work For Us</a></li>
 <li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a title="Contact Us" href="https://www.frgconsulting.com/contact/">Contact Us</a></li>
 <li id="menu-item-375" class="display-on-mobile menu-item menu-item-type-custom menu-item-object-custom menu-item-375"><a title="Login" href="https://www.frgconsulting.com/candidates/login">Login</a></li>
@@ -252,7 +252,7 @@
 
     
     <div>
-        <form method="POST" action="https://www.frgconsulting.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="9fTvj0Kmjx9oUjH8WtZMiWJlQm4vZMv2uB2ZzDGy">        <input name="jobs[]" type="hidden" value="27568">
+        <form method="POST" action="https://www.frgconsulting.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="EcDjGwhjNjyzQpXjosVNA8KUeSnpKJBKxVFLDhvR">        <input name="jobs[]" type="hidden" value="27568">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -337,7 +337,7 @@
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/27568?_token=9fTvj0Kmjx9oUjH8WtZMiWJlQm4vZMv2uB2ZzDGy">
+                                      data-job-id="/saved-jobs/add/27568?_token=EcDjGwhjNjyzQpXjosVNA8KUeSnpKJBKxVFLDhvR">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -380,7 +380,7 @@
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/27568?_token=9fTvj0Kmjx9oUjH8WtZMiWJlQm4vZMv2uB2ZzDGy">
+                                              data-job-id="/saved-jobs/add/27568?_token=EcDjGwhjNjyzQpXjosVNA8KUeSnpKJBKxVFLDhvR">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -399,7 +399,7 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.frgconsulting.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="9fTvj0Kmjx9oUjH8WtZMiWJlQm4vZMv2uB2ZzDGy">
+                <form method="POST" action="https://www.frgconsulting.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="EcDjGwhjNjyzQpXjosVNA8KUeSnpKJBKxVFLDhvR">
 
 
 

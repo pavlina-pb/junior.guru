@@ -86,8 +86,8 @@
     <div id='application' class="">
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/wargamingen/jobs/3317865" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
-        <input type="hidden" name="fingerprint" id="fingerprint" value="fb5172ff54ca4a449fe4715104f072f515031b97" />
-        <input type="hidden" name="render_date" id="render_date" value="2021-11-12 05:14:33 +0000" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="82c4c7c520922bded99f63e8e6846257382c0234" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-11-13 04:57:41 +0000" />
 
 
 
@@ -260,6 +260,18 @@
 <select name="job_application[answers_attributes][2][boolean_value]" id="job_application_answers_attributes_2_boolean_value" aria-required="false"><option value="">--</option>
 <option value="1">Yes</option>
 <option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Preferable Language Of Communication<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][3][question_id]" id="job_application_answers_attributes_3_question_id" value="28866124" />
+<input type="hidden" name="job_application[answers_attributes][3][priority]" id="job_application_answers_attributes_3_priority" value="3" />
+
+<select name="job_application[answers_attributes][3][answer_selected_options_attributes][3][question_option_id]" id="job_application_answers_attributes_3_answer_selected_options_attributes_3_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="85729063">English</option>
+<option value="85729066">Russian</option></select>
 
 
 </label></div>
