@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!--<link rel="shortcut icon" type="image/ico" href="/uploads/favicon.ico">-->
+    <link rel="icon" type="image/png" sizes="32x32" href="/uploads/favicon-32x32.png"> 
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/uploads/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/uploads/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/uploads/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/uploads/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/uploads/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/uploads/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/uploads/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/uploads/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="/uploads/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="/uploads/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="/uploads/favicon-32x32.png" sizes="32x32" />
+
+    <title></title>
+    <!-- framework -->
+    <link rel="stylesheet" href="/content/bootstrap.min.css">
+    <link rel="stylesheet" href="/content/theme.css">
+    <link rel="stylesheet" href="/content/main.css">
+    <link rel="stylesheet" href="/content/animate.css">
+    <!--<link rel="stylesheet" href="/content/dashboard.css">-->
+    <link rel="stylesheet" href="/content/contact-us.css">
+    <link rel="stylesheet" href="/content/news.css">
+    <link rel="stylesheet" href="/content/slick.css">
+
+    <!-- icon fonts -->
+    <link rel="stylesheet" href="/content/font-awesome.min.css">
+    
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- REMOVE POST DEVELOPMENT -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+    
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MM57R4V');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="bi7n9qGkV7y3J4oTPgZQJOfkzvgLO6uGe8Zojio-l64" />
+    <meta name="description" content="" /><meta name="keywords" content="" />
+    
+<meta name="referrer" content="unsafe-url"></head>
+
+<body ng-app class="internal">
+    
+    <div class="sticky-top">
+        <a href="/" class="logo" title="Apollo Sollutions"></a>
+        
+            <div class="navbar-utilities">
+                <div class="navbar-item">
+            	    <a href="tel:+44 (0)20 3167 3167" aria-label="Telephone">+44 (0)20 3167 3167</a>
+                </div>
+                <div class="navbar-item">
+                    <a href="/jobs/" aria-label="Job Search"><i class="fa fa-search"></i>Job Search</a>
+                </div>
+            	<div class="navbar-item">
+            		<a role="button" data-toggle="modal" data-target="#cvUpload" class="button is-link modal-button clickable" aria-label="Upload CV">
+            			<span class="icon">
+            				<i class="fas fa-file-upload" aria-hidden="true"></i>
+            			</span>
+            			<span>Upload CV</span>
+            		</a>
+            	</div>
+            </div>        
+        
+        <a class="menu-toggle"><span><i></i><i></i><i></i></span></a>
+    </div>
+    <div class="off-canvas-menu">
+    <div class="off-canvas-menu-top">
+        <a href="/" title="Apollo" class="logo"></a>
+        <ul class="utilities" id="dashboardLinks">
+            <li v-if="is_logged_in == false" class="signin clickable">
+                <a title="Sign in" href="/login/">
+                    Sign in
+                </a>
+            </li>
+            <li v-if="is_logged_in == false" class="signin clickable">
+                <a title="Sign in" href="/register/">
+                    Register
+                </a>
+            </li>
+            <li v-if="is_logged_in == true" >
+                <a href="/dashboard/" title="Dashboard">
+                    Dashboard
+                </a>
+            </li>
+            <li v-if="is_logged_in == true" >
+                <a title="Signout" @click="signOutDashboard">
+                    Signout
+                </a>
+            </li>
+            <li><a href="" data-toggle="modal" data-target="#cvUpload" title="Upload CV">Upload CV</a></li>
+        </ul>
+        <a href="" id="closeMenuToggle" class="close-menu-toggle"><span></span><span></span></a>
+    </div>
+    <div class="off-canvas-menu-body">
+        <div class="container wide">
+            <div class="row">
+                <div class="col-xs-12 col-sm-3">
+    <ul class="menu-list">
+        
+        <li>
+            <a href="/about-us/" title="About Us">About Us</a>
+             
+        </li>
+        
+        <li>
+            <a href="/candidates/" title="Candidates">Candidates</a>
+             
+        </li>
+        
+        <li>
+            <a href="/clients/" title="Clients">Clients</a>
+             
+        </li>
+        
+        <li>
+            <a href="/jobs/" title="Job Search">Job Search</a>
+             
+        </li>
+        
+        <li>
+            <a href="/join-us/" title="Join Us">Join Us</a>
+             
+        </li>
+        
+        <li>
+            <a href="/news/" title="News">News</a>
+             
+        </li>
+        
+    </ul>
+</div>
+                <div class="col-xs-12 col-sm-3">
+    <ul class="menu-list">
+        
+        <li>
+            <a href="/corporate-governance/" title="Corporate Governance">Corporate Governance</a>
+             <ul class="sub-nav"><li><a href="/corporate-governance/audit-advisory/" title="Audit & Advisory">Audit & Advisory</a></li><li><a href="/corporate-governance/risk-compliance/" title="Risk & Compliance">Risk & Compliance</a></li><li><a href="/corporate-governance/corporate-finance/" title="Corporate Finance">Corporate Finance</a></li><li><a href="/corporate-governance/forensics-litigation/" title="Forensics & Litigation">Forensics & Litigation</a></li></ul>
+        </li>
+        
+    </ul>
+</div>
+                <div class="col-xs-12 col-sm-3">
+    <ul class="menu-list">
+        
+        <li>
+            <a href="/technology/" title="Technology">Technology</a>
+             <ul class="sub-nav"><li><a href="/technology/software-development/" title="Software Development">Software Development</a></li><li><a href="/technology/networks-infrastructure/" title="Networks & Infrastructure">Networks & Infrastructure</a></li><li><a href="/technology/devops/" title="DevOps">DevOps</a></li><li><a href="/technology/information-cyber-security/" title="Information & Cyber Security">Information & Cyber Security</a></li><li><a href="/technology/data-analytics/" title="Data & Analytics">Data & Analytics</a></li></ul>
+        </li>
+        
+    </ul>
+</div>
+                <div class="col-xs-12 col-sm-3">
+    <div class="contact-details">
+        <h3><a href="/contact-us/">Contact Us</a></h3>
+        <p>By phone<br /> 
+            <a href="tel:+44 (0)20 3167 3167">+44 (0)20 3167 3167</a>
+        </p>
+        <p>By email <br /> 
+            <a href="mailto:contact@apollo-solutions.com">contact@apollo-solutions.com</a>
+        </p>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="off-canvas-menu-footer">
+        <p class="copy">&copy; <span class="year">2019</span> Apollo Solutions </p>
+        <ul class="social-accounts">
+    <li><a href="https://www.linkedin.com/company/apollo-solutions" title="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    
+    
+    
+    
+</ul>
+        <ul class="off-canvas-menu-footer-sub-links">
+    
+        <li><a href="/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+    
+        <li><a href="/terms-conditions/" title="Terms & Conditions">Terms & Conditions</a></li>
+    
+</ul>
+    </div>
+</div>
+    
+    <div class="content-wrapper hide-delay" id="skrollr-body">
+     
+        <div class="top">
+            <a href="/" class="logo" title="Apollo Solutions"></a>
+            
+            <div class="navbar-utilities">
+                <div class="navbar-item">
+            	    <a href="tel:+44 (0)20 3167 3167" aria-label="Telephone">+44 (0)20 3167 3167</a>
+                </div>
+                <div class="navbar-item">
+                    <a href="/jobs/" aria-label="Job Search"><i class="fa fa-search"></i>Job Search</a>
+                </div>
+            	<div class="navbar-item">
+            		<a role="button" data-toggle="modal" data-target="#cvUpload" class="button is-link modal-button clickable" aria-label="Upload CV">
+            			<span class="icon">
+            				<i class="fas fa-file-upload" aria-hidden="true"></i>
+            			</span>
+            			<span>Upload CV</span>
+            		</a>
+            	</div>
+            </div>
+            
+            <a href="" id="menuToggle" class="menu-toggle"><span><i></i><i></i><i></i></span></a>
+        </div>
+
+
+        <header role="banner" class="secondary text-center details-header">
+    <div class="header-content">
+        <h2>Search for jobs</h2>
+        <p>The latest Corporate Governance & Technology vacancies, right here</p>
+    </div>
+    <div class="hd-img-holder" style="background-image: url(/uploads/thankyoucontact.jpg);"></div>
+    
+</header><div id='replacemoduleeey1hltgfjv8vlb3tamfkxefppp1ceky141ohqskf4c' class='ajax-search-results'><script> window.addEventListener('load', function () { GetRevolveData('https://www.apteve.com/revolveapi/revolvemodule/gsFKIcy7dbA=/7zBRXJHgR6E=/', '#replacemoduleeey1hltgfjv8vlb3tamfkxefppp1ceky141ohqskf4c', false, '') }); </script></div><div id='replacemoduleqsyvjs5msi78vlb3tamfkxefppp1ceky141ohqskf4c' class='ajax-search-results'><script> window.addEventListener('load', function () { GetRevolveData('https://www.apteve.com/revolveapi/revolvemodule/gsFKIcy7dbA=/7PVPf06UJbI=/', '#replacemoduleqsyvjs5msi78vlb3tamfkxefppp1ceky141ohqskf4c', false, '') }); </script></div>
+        <footer>
+    <div class="container wide">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="footer-logo">
+                    <a href="/" class="logo"></a> 
+                </div>
+            </div>   
+        </div>
+        
+        <div class="row">
+            <div class="col-xs-12">
+              
+                <ul class="footer-columns">
+                    <li>
+    <div class="footer-col">
+        <div class="footer-col-inner">
+            <div class="footer-col-inner-hd">
+                <h2>Contact Us</h2>
+            </div>
+            <div class="footer-col-inner-bd">
+                <address>
+                    <p>Apollo Solutions Ltd.<br />8 Devonshire Square<br />London, EC2M 4PL</p>
+                </address>
+                <ul class="contact-details-list">
+                    <li>T.<a href="tel:and44-020-3167-3167"> +44 (0)20 3167 3167</a></li>
+                    <li>E. <a href="mailto:contact@apollo-solutions.com">contact@apollo-solutions.com</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</li>
+                    
+                    
+<li>
+    <div class="footer-col">
+        <div class="footer-col-inner">
+            <div class="footer-col-inner-hd">
+                <h2>Our Sectors</h2>
+            </div>
+             <div class="footer-col-inner-bd"><ul class="nav-list"><li><a href="/corporate-governance/" title="Corporate Governance">Corporate Governance</a></li><li><a href="/technology/" title="Technology">Technology</a></li></ul></div>
+        </div>
+    </div>
+</li>   
+
+<li>
+    <div class="footer-col">
+        <div class="footer-col-inner">
+            <div class="footer-col-inner-hd">
+                <h2>Useful Links</h2>
+            </div>
+             <div class="footer-col-inner-bd"><ul class="nav-list"><li><a href="/jobs/" title="Job Search">Job Search</a></li><li><a href="/contact-us/" title="Contact Us">Contact Us</a></li><li><a href="/candidates/" title="Candidates">Candidates</a></li><li><a href="/clients/" title="Clients">Clients</a></li><li><a href="/join-us/" title="Join Us">Join Us</a></li></ul></div>
+        </div>
+    </div>
+</li>   
+
+<li>
+    <div class="footer-col">
+        <div class="footer-col-inner">
+            <div class="footer-col-inner-hd">
+                <h2>Legal Information</h2>
+            </div>
+             <div class="footer-col-inner-bd"><ul class="nav-list"><li><a href="/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li><li><a href="/terms-conditions/" title="Terms & Conditions">Terms & Conditions</a></li></ul></div>
+        </div>
+    </div>
+</li>   
+
+                    
+                </ul>
+              
+            </div>   
+        </div>
+        
+        <div class="row">
+            <div class="col-xs-12">
+                <ul class="footer-social-links">
+    <li><a href="https://www.linkedin.com/company/apollo-solutions" title="" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
+    
+    
+    
+    
+</ul>
+            </div>
+        </div>
+    </div>
+
+    
+
+</footer>
+<div class="signoff">
+    <div class="signoff-inner">
+        
+        <div class="signoff-inner-primary">
+            <p>© Apollo Solutions Ltd. All rights reserved · Registration No. 06454181 · </p>
+            <ul class="pages">
+                
+                <li>
+                    <a href="/terms-conditions/" title="Terms & Conditions">Terms & Conditions · </a>  
+                </li>
+                
+                <li>
+                    <a href="/privacy-policy/" title="Privacy Policy">Privacy Policy · </a>  
+                </li>
+                
+            </ul>
+        </div>
+        
+        <div class="signoff-inner-secondary">
+            <p>Brave idea by <a href="https://www.venndigital.co.uk/" title="Privacy Policy" target="_blank" rel="nofollow">Venn Digital</a></p>
+        </div>        
+        
+    </div>
+</div>
+
+
+    </div>
+<div id="jobApply" class="modal styled apply-modal custom-modal fade" tabindex="-1" role="dialog" aria-labelledby="jobApply">
+    <div class="modal-dialog" role="document">
+
+        <div class="modal-content">
+            <button type="button" class="close-modal" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"></span></button>
+            <form action="https://www.apteve.com/form/submit/" enctype="multipart/form-data" id="job-apply-form" method="post" novalidate="novalidate"  onkeypress="updateForm('job-apply-form', 'https://www.apteve.com', 'kg9qO7L__9s8=')" class="modal-form"><input type="hidden" value="kg9qO7L__9s8=" name="formlink" />
+    	    <input type="hidden" value="" name="extra" /><input type="hidden" value="" name="authenticationkey" class="authenticationkey" />
+                <div class="modal-panel bg-primary">
+                    <div class="modal-panel-hd" >
+                         <span class="job-ref" id="applyjobref"></span>
+                    </div>
+                    <div class="modal-panel-bd">
+                        <div class="job-details-wrap">
+                            <ul class="job-details">
+                                <li class="title">
+                                    <span>Job Title</span>
+                                    <h2 id="applyjobtitle"></h2>
+                                </li>
+                            </ul>
+                            <ul class="job-details">
+                                <li>
+                                    <span id="applysalary"></span> 
+                                </li>
+                                <li>
+                                    <span id="applylocation"></span>
+                                </li>
+                            </ul>
+                            <ul class="job-details" id="jobdetailsmargintop">
+                                <li>
+                                   <span id="applyjobtype"></span>
+                                </li>
+                                <li>
+                                   <span id="applysector"></span> 
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <p class="terms"><a href="/terms-conditions/" title="Terms &amp; Conditions regarding your application" target="_blank">Terms &amp; Conditions regarding your application</a></p>
+                </div>
+                <div class="modal-panel bg-light">
+                    <div class="modal-panel-hd top-padding">
+                        <h2>Apply for this job</h2>
+                    </div>
+                    <div class="modal-panel-bd bottom-padding">
+                        <ul>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only" for="applyFullName"></label>
+                                    <input placeholder="First Name"  placeholder="Firstname" id="firstname" name="firstname" type="text" data-val="true" data-val-required='This is a required field' id="applyFullName" class="form-control"/>
+                                    <p class="error"><span class="field-validation-valid" data-valmsg-for="firstname" data-valmsg-replace="true"></span></p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only" for="applyFullName"></label>
+                                    <input placeholder="Last Name"  placeholder="Lastname" id="lastname" name="lastname" type="text" data-val="true" data-val-required='This is a required field' id="applyFullName" class="form-control"/>
+                                    <p class="error"><span class="field-validation-valid" data-valmsg-for="lastname" data-valmsg-replace="true"></span></p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only" for="applyEmail">Email Address</label>
+                                    <input placeholder="Email Address"  placeholder="Email" id="email" name="email" type="email" data-val="true" data-val-required='This is a required field'data-val-email='A valid email address is required'  class="form-control" id="applyEmail"/>
+                                    <p class="error"><span class="field-validation-valid" data-valmsg-for="email" data-valmsg-replace="true"></span></p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only" for="applyTelephone">Telephone Number</label>
+                                    <input placeholder="Telephone Number"  placeholder="Telephone" id="telephone" name="telephone" type="text" data-val="true" data-val-required='This is a required field' class="form-control" id="applyTelephone"/>
+                                    <p class="error"><span class="field-validation-valid" data-valmsg-for="telephone" data-valmsg-replace="true"></span></p>
+                                </div>
+                            </li>
+                            <li id="cvorlinkedin">
+                                <div class="form-group">
+                                    <label class="" id="cvlabelclick" style="text-decoration: underline;">Upload CV</label> or <label class="" id="linkedinlabelclick" style="text-decoration: underline;">LinkedIn Profile URL</label> 
+                                </div>
+                                <p class="error"></p>
+                            </li>
+                            <li class="cv-upload-wrap" style="display:none;">
+                                <div class="form-group">
+                                    <div class="cv-upload">
+                                        <input  placeholder="CV" id="cv" name="cv" type="file" data-val="false"  />
+                                        <p>Upload CV</p>
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="linkedin-upload-wrap" style="display:none;">
+                                <div class="form-group">
+                                    <label class="sr-only" for="applyLinkedIn">LinkedIn Profile URL</label>
+                                    <input placeholder="LinkedIn Profile URL"  placeholder="LinkedIn" id="linkedin" name="linkedin" type="text" data-val="false"  class="form-control" id="applyLinkedIn"/>
+                                </div>
+                            </li>
+                            <input type="hidden" id="jobref" name="jobref" value="">
+                            <li>
+                                <div class="form-group">
+                                    <input class="btn btn-primary" type="submit" id="dev-apply-btn" value="Send" />
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            
+            </form>
+        </div>
+
+    </div>
+</div>
+<div id="cvUpload" class="modal styled cv-modal custom-modal fade" tabindex="-1" role="dialog" aria-labelledby="cv-upload-modal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close-modal" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true"></span>
+            </button>
+            <form action="https://www.apteve.com/form/submit/" enctype="multipart/form-data" id="upload-cv-form" method="post" novalidate="novalidate"  onkeypress="updateForm('upload-cv-form', 'https://www.apteve.com', 'FoR80W88phM=')" class="modal-form">
+                <input type="hidden" value="FoR80W88phM=" name="formlink" />
+    	    <input type="hidden" value="" name="extra" /><input type="hidden" value="" name="authenticationkey" class="authenticationkey" />
+                <div class="modal-panel bg-secondary padding-top-md">
+                    <div class="modal-panel-bd cv-upload-wrap">
+                        <div class="cv-upload">
+                            <input  placeholder="CV File" id="cv-file" name="cv-file" type="file" data-val="true" data-val-required='This is a required field' />
+                            <h2>Select a file to upload <i></i></h2>
+                            <p>
+                                <label class="filename"><span class="field-validation-valid" data-valmsg-for="cv-file" data-valmsg-replace="true"></span></label>
+                            </p>
+                        </div>
+                    </div>
+                    <p class="terms">
+                        <a href="/terms-conditions/" title="Terms and Conditions regarding submitting your CV" target="_blank">Terms and Conditions regarding submitting your CV</a>
+                    </p>
+                </div>
+                <div class="modal-panel bg-light padding-top-md ">
+                    <div class="modal-panel-hd">
+                        <img src="/img/apollo-solutions-wordmark-logo-dark.png" alt="Apollo Solutions" class="logo">
+                        <h2>Send us your CV</h2>
+                    </div>
+                    <div class="modal-panel-bd">
+                        <ul>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Name</label>
+                                    <input placeholder="Name"  placeholder="Name" id="name" name="name" type="text" data-val="true" data-val-required='This is a required field' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="name" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <!--<li>-->
+                            <!--    <div class="form-group">-->
+                            <!--       <label class="sr-only">Email</label>-->
+                            <!--       <input  class="form-control"/>-->
+                            <!--        <p class="error"></p>-->
+                            <!--    </div>-->
+                            <!--</li>-->
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Telephone Number</label>
+                                    <input placeholder="Telephone Number"  placeholder="Telephone Number" id="telephone-number" name="telephone-number" type="text" data-val="true" data-val-required='This is a required field' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="telephone-number" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Email Address</label>
+                                    <input placeholder="Email Address"  placeholder="Email Address" id="email-address" name="email-address" type="text" data-val="true" data-val-required='This is a required field' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="email-address" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <input class="btn btn-primary" type="submit" value="Send" />
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+<div id="submitVacancy" class="modal styled cv-modal custom-modal fade" tabindex="-1" role="dialog" aria-labelledby="cv-upload-modal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close-modal" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true"></span>
+            </button>
+            <form action="https://www.apteve.com/form/submit/" enctype="multipart/form-data" id="register-form" method="post" novalidate="novalidate"  onkeypress="updateForm('register-form', 'https://www.apteve.com', 'sNm60Ibkatk=')" class="modal-form">
+                <input type="hidden" value="sNm60Ibkatk=" name="formlink" />
+    	    <input type="hidden" value="" name="extra" /><input type="hidden" value="" name="authenticationkey" class="authenticationkey" />
+                <div class="modal-panel bg-secondary padding-top-md">
+                    <div class="modal-panel-bd cv-upload-wrap">
+                        <div class="cv-upload">
+                            <input  placeholder="File" id="file" name="file" type="file" data-val="false"  />
+                            <h2>File Upload <i></i></h2>
+                            <p>
+                                <label class="filename"></label>
+                            </p>
+                        </div>
+                    </div>
+                    <p class="terms">
+                        <a href="/terms-conditions/" target="_blank" title="I agree to the Terms & Conditions">I agree to the Terms & Conditions</a>
+                    </p>
+                </div>
+                <div class="modal-panel bg-light padding-top-md ">
+                    <div class="modal-panel-hd">
+                        <img src="/img/apollo-solutions-wordmark-logo-dark.png" alt="Apollo Solutions" class="logo">
+                        <h2>Register a vacancy</h2>
+                    </div>
+                    <div class="modal-panel-bd">
+                        <ul>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">First Name</label>
+                                    <input placeholder="First Name"  placeholder="First Name" id="first-name" name="first-name" type="text" data-val="true" data-val-required='This is a required field' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="first-name" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Last Name</label>
+                                    <input placeholder="Last Name"  placeholder="Last Name" id="last-name" name="last-name" type="text" data-val="true" data-val-required='This is a required field' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="last-name" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Company</label>
+                                    <input placeholder="Company"  placeholder="Company" id="company" name="company" type="text" data-val="true" data-val-required='This is a required field' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="company" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Email Address</label>
+                                    <input placeholder="Email Address"  placeholder="Email" id="email" name="email" type="email" data-val="true" data-val-required='This is a required field'data-val-email='A valid email address is required' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="email" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Telephone Number</label>
+                                    <input placeholder="Telephone Number"  placeholder="Telephone Number" id="telephone-number" name="telephone-number" type="text" data-val="true" data-val-required='This is a required field' class="form-control"/>
+                                    <span class="field-validation-valid" data-valmsg-for="telephone-number" data-valmsg-replace="true"></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Job Type</label>
+                                    <select  title="Job Type" id="job-type" name="job-type" type="select" data-val="true" data-val-required='This is a required field'><option>Permanent</option><option>Contract</option><select ></select>
+                                    
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <label class="sr-only">Position</label>
+                                    <input placeholder="Position"  placeholder="Position" id="position" name="position" type="text" data-val="false"  class="form-control"/>
+                                    
+                                </div>
+                            </li>
+                            <li>
+                                <div class="form-group">
+                                    <input class="btn btn-primary" type="submit" value="Submit Role" />
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+    <!-- scripts -->
+    <script src="/scripts/jquery-3.1.0.min.js"></script>
+    <script src="/scripts/bootstrap.min.js"></script>
+    <script src="/scripts/jquery.validate.min.js"></script>
+    <script src="/scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
+    
+    <script src="/scripts/jquery-simple-pagination-plugin.js"></script>
+    <script src="/scripts/jjquery.selectric.min.js"></script>
+    <script src="/scripts/plugins.js"></script>
+    <script src="/scripts/jquery.cookie.js"></script>
+      <script src="/scripts/getfilesize.js"></script>
+       <script src="/scripts/revolve.js"></script>
+      <script src="/scripts/apteve.js"></script>
+    <script src="/scripts/custom-additional.js"></script>
+    <script src="/scripts/custom.js"></script>
+    
+    
+   <script src="/scripts/vuejs.js"></script>
+   <script src="/scripts/v-dashboard.js"></script>
+    
+    <link rel="stylesheet" href="/content/toastr.min.css"><script src="/scripts/toastr.min.js"></script>
+ <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MM57R4V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+</body>
+
+</html>
