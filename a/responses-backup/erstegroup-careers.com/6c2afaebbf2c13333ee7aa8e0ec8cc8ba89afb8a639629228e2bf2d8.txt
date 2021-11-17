@@ -296,7 +296,7 @@
                         </div>
                 </div>
 
-                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Hlavní město Praha, Czech Republic"></span></span><meta itemprop="datePosted" content="Tue Oct 19 02:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="erstegro01P2">
+                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Hlavní město Praha, Czech Republic"></span></span><meta itemprop="datePosted" content="Wed Nov 17 02:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="erstegro01P2">
                     <div class="jobDisplay">
                             <div class="content">
                                 <div class="jobTitle">
@@ -716,7 +716,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "36af6ec3-8cce-4870-b84f-026891a0c187"
+						"X-CSRF-Token" : "4e68dd7c-daa2-48e3-a1a8-221dd7d61bcb"
 					}
 				});
 			//]]>
@@ -766,7 +766,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "36af6ec3-8cce-4870-b84f-026891a0c187"
+						"X-CSRF-Token" : "4e68dd7c-daa2-48e3-a1a8-221dd7d61bcb"
 					}
 				});
 			//]]>
@@ -787,7 +787,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '0c8a5c97-0f64-4520-9d57-a0e70dbb3ba0';
+				var ctid = 'a0a93d13-ca35-4bc2-a89c-9ccaa7d9d431';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2785548856';
 				var landing = document.location.href;
 				var brand = 'csas';
