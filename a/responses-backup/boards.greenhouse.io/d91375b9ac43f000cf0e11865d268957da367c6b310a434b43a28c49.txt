@@ -29,101 +29,12 @@
 <div id='app_body' style='padding-left:20px'>
     
 
-    <div id="header">
-    <a href='#app' id='apply_button' class='button'>
-      Apply Now
-    </a>
-
-  <h1 class='app-title'>Machine Learning Engineer / Data Scientist</h1>
-
-  <span class='company-name'>
-    at Productboard
-  </span>
-
-    <a data-mapped="true" href="/productboard">(View all jobs)</a>
-
-    <div class='location'>
-      Remote Europe
-    </div>
-</div>
-  <div id="content" class="">
-    
-
-    <p>We’re looking for experienced Machine Learning enthusiasts to join our team.</p>
-<h2>Our tech stack</h2>
-<p>You’ll work with the following frameworks, tools, and languages:</p>
-<ul>
-<li>ML code is written mainly in Python, but we are open to others as Go or Scala</li>
-<li>We use orchestration frameworks Airflow 2+ and Kubernetes for scheduling ML pipelines</li>
-<li>Real-time services running on Kubernetes using Git, CICD, Docker, Helm, and Kafka</li>
-<li>For solution monitoring, we use Prometheus and Grafana, for business overview we use Looker</li>
-</ul>
-<h2>About you</h2>
-<p>We’re looking for someone with the following skills and qualities:</p>
-<ul>
-<li>Strong record of data science / ML projects in production</li>
-<li>Software engineering skills with a desire to go further and learn MLOps (AWS, databases, deployment, k8s, testing)</li>
-<li>Confident working with a variety of roles such as Product managers, infrastructure, data or software engineers</li>
-<li>Ability to work autonomously and drive tasks</li>
-<li>Willing to learn new things, very open-minded, and a tech enthusiast</li>
-</ul>
-<h3>You will help us with</h3>
-<ul>
-<li>Build Machine Learning powered features to our product</li>
-<li>Prototyping and experimenting in different areas, conducting feasibility research, creating MVP, discuss the results with stakeholders and plan the implementation and execution</li>
-<li>Improving our internal ML stack, discover and implement new technologies</li>
-<li>Cooperate with other ML engineers, bring new ideas and approaches to the team</li>
-</ul>
-<h3>The team has recently worked on:</h3>
-<ul>
-<li>Training NLP models used by thousands of our customers and retraining every day</li>
-<li>Real-time inference streaming predictions using Kafka</li>
-<li>Setting up Airflow 2 for running multiple ML pipelines with thousands of jobs every day</li>
-<li>Discovering new opportunities for further research along with Product managers, designers, and software engineers</li>
-</ul>
-<h3><strong><br>#LI-Remote<br>_________________________________________<br><br>You can look forward to the following benefits:</strong></h3>
-<p><span style="font-weight: 400;">💰 Stock options</span></p>
-<p><span style="font-weight: 400;">💻 MacBook</span></p>
-<p><span style="font-weight: 400;">📚 Budget for online courses, books, and conferences</span></p>
-<p><span style="font-weight: 400;">🏝 5 weeks of vacation + sick days</span></p>
-<p><span style="font-weight: 400;">❤️ 1 Volunteer Day per year for you to help causes close to your heart&nbsp;</span></p>
-<p><span style="font-weight: 400;">🍹 Team events, such as off-sites and retreats</span></p>
-<p><span style="font-weight: 400;">💚 Shared Headspace account for mindfulness &amp; mental health&nbsp;</span></p>
-<p><span style="font-weight: 400;">🧒🏻 Parental benefits</span></p>
-<p><span style="font-weight: 400;">🎓 Language lessons</span></p>
-<p><span style="font-weight: 400;">🍀 Mental Wellness Program to support your well-being and self-care</span></p>
-<p><span style="font-weight: 400;">📢 Productboard Toastmasters Club</span></p>
-<p><span style="font-weight: 400;">🌁 Opportunity to travel to San Francisco</span></p>
-<h3 class="p-rich_text_section"><strong data-stringify-type="bold">About Productboard</strong></h3>
-<p>Productboard is the customer-centric product management platform that helps teams get the right products to market faster. Over 5,000 companies, including Microsoft, 1-800-Contacts, and UiPath, use Productboard <strong data-stringify-type="bold">to understand what users need, prioritize what to build next, and rally everyone around their roadmap.&nbsp;</strong>In April 2021, we closed our $72M Series-C round, backed by VC giants like Tiger Global Management, Index Ventures, Kleiner Perkins, Sequoia Capital, and Bessemer Venture Partners.&nbsp;Headquartered in San Francisco, we are a truly international company, with offices in Vancouver and Prague.</p>
-<ul class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list" data-indent="0">
-<li data-stringify-indent="0">We are backed by top Silicon Valley investors, giving us access to capital, networks, mentors, and markets</li>
-<li data-stringify-indent="0">You’ll enjoy an exciting team atmosphere building a new and complex product</li>
-<li data-stringify-indent="0">We iterate quickly and decisions are fast. You’ll have a voice in what we do and see the impact of your work</li>
-<li data-stringify-indent="0">With modern offices in San Francisco, Vancouver, and Prague, you can expect occasional travel across the Atlantic!</li>
-</ul>
-<h3><strong>About our culture</strong></h3>
-<p>At Productboard, values aren’t just something we like to talk about, they’re something we live and breathe. We believe in creating a work environment where:</p>
-<ul>
-<li>People feel empowered, supported, and included</li>
-<li>Trust and transparency are built into the way we work</li>
-<li>Creativity, curiosity, and continuous improvement are encouraged and nurtured every day</li>
-</ul>
-<p>You can get to know your future colleagues by listening to our&nbsp;<a href="https://open.spotify.com/show/7zKJ18PXMIFeSwszV05VTe">People of Productboard</a>&nbsp;podcast, or check out our&nbsp;<a href="https://www.instagram.com/productboard/?hl=en">Instagram</a>&nbsp;profile and&nbsp;<a href="https://www.facebook.com/peopleofproductboard/">People of Productboard</a>&nbsp;FB page for more info about life at Productboard.</p>
-<h3><strong>Equal Opportunity Employer Statement</strong></h3>
-<p>We are an equal opportunity employer and champion of equity. It is our aim to help people from all backgrounds, cultures, and groups realize their full potential at Productboard.&nbsp;</p>
-<p>As such, we do not tolerate any discrimination or harassment based upon gender identity, race, color, religion, age, sexual orientation, non-disqualifying physical or mental disability, national origin, veteran status, or any other basis covered by appropriate law.</p>
-<p>All aspects of employment including hiring, training, promotion, and terminations are based on merit, competence, performance, and business needs. We are committed to an inclusive hiring process and provide all candidates with equal opportunity to demonstrate their abilities.</p>
-<p>Togetherness is one of our core values and our&nbsp;<a href="https://www.productboard.com/blog/why-we-are-launching-our-diversity-council/">Diversity Council</a>&nbsp;helps us ensure that we uphold the values of authenticity, humanity, and diversity to create an environment where every human being matters. We are committed to leading by example to drive societal change.&nbsp;</p>
-
-    
-</div>
 
     <div id='application' class="">
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/productboard/jobs/5535381002" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
         <input type="hidden" name="fingerprint" id="fingerprint" value="fe735ebeb1e0533b3a8b4834500795115af39aec" />
-        <input type="hidden" name="render_date" id="render_date" value="2021-11-18 04:37:13 +0000" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-11-19 04:46:11 +0000" />
 
 
 
