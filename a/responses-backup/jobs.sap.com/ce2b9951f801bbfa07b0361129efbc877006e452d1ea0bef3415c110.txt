@@ -3,15 +3,14 @@
 
         <head>
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-            <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <meta name="google-site-verification" content="MTLm9NY-bYqQoPynbngTJgj-X05_yridAT8KCtib3x8" />
             <meta name="msvalidate.01" content="C4850D39391A3B03984C206793ED6F1C" />
                         <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=59bd7fe4" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=c89e94c7" />
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/navbar-fixed-top.css" /><!--[if lt IE 9]>
-                            <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css?h=59bd7fe4" /><![endif]-->
+                            <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css?h=c89e94c7" /><![endif]-->
 
         <script type="text/javascript" src="/platform/js/jquery/jquery-3.5.1.min.js"></script>
                 <script type="text/javascript" src="/platform/js/jquery/jquery-migrate-1.4.1.js"></script>
@@ -26,11 +25,11 @@
                 <meta property="og:description" content="Full Stack Developer" />
             <meta property="og:image" content="http://rmkcdn.successfactors.com/84a30c28/897052b7-2ab3-4c93-a101-f.png" />
                 <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/84a30c28/cc6b5d9f-8584-415d-ad5a-6.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/84a30c28/04b6af1b-8308-4bdb-8c71-d.css" /><![endif]-->
-                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=59bd7fe4" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=59bd7fe4" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=59bd7fe4" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/search/BS3ColumnizedSearchHideLabels.css?h=59bd7fe4" />
-                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=59bd7fe4" /><!-- SAP UI5 Icons -->
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=c89e94c7" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=c89e94c7" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=c89e94c7" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/search/BS3ColumnizedSearchHideLabels.css?h=c89e94c7" />
+                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=c89e94c7" /><!-- SAP UI5 Icons -->
 <!-- https://rmk-libary-demo.valhalla.stage.jobs2web.com/content/sap-ui5-icons/ -->
 <script type="text/javascript">
     $(function () {
@@ -667,7 +666,7 @@
 
         </script>
         <div id="skip">
-            <div id="diversion" tabindex="-1"><span class="sr-only">Press Tab to Move to Skip to Content Link</span></div>
+            <div id="diversion" tabindex="-1" aria-label="Press Tab to Move to Skip to Content Link"></div>
             <a href="#content" id="skipLink" class="skipLink" title="Skip to main content"><span>Skip to main content</span></a>
         </div>
 
@@ -720,7 +719,7 @@
                 <div class="menu mobile upper">
                     <div class="nav">
                         <div class="dropdown mobile-nav">
-                            <a href="#" title="Menu" aria-label="Menu" class="dropdown-toggle" role="button" aria-expanded="false" data-toggle="collapse" data-target="#dropdown-menu-mobile" aria-controls="dropdown-menu-mobile"><i class="mobilelink fa fa-bars"></i></a>
+                            <a href="#" title="Menu" aria-label="Menu" class="dropdown-toggle" role="button" data-toggle="collapse" data-target="#dropdown-menu-mobile" aria-controls="dropdown-menu-mobile"><i class="mobilelink fa fa-bars"></i></a>
                             
                         </div>
                     </div>
@@ -799,7 +798,7 @@
                     <div class="menu tablet upper">
                         <div class="nav">
                             <div class="dropdown mobile-nav">
-                                <a href="#" title="Menu" aria-label="Menu" class="dropdown-toggle" role="button" aria-expanded="false" data-toggle="collapse" data-target="#dropdown-menu-tablet" aria-controls="dropdown-menu-tablet"><i class="mobilelink fa fa-bars"></i></a>
+                                <a href="#" title="Menu" aria-label="Menu" class="dropdown-toggle" role="button" data-toggle="collapse" data-target="#dropdown-menu-tablet" aria-controls="dropdown-menu-tablet"><i class="mobilelink fa fa-bars"></i></a>
                                 
                             </div>
                         </div>
@@ -924,7 +923,7 @@
                 <div id="search-wrapper">
 
         <div class="well well-small searchwell">
-            <form class="form-inline jobAlertsSearchForm" name="keywordsearch" method="get" action="/search/" xml:lang="en-US" lang="en-US" style="margin: 0;">
+            <form id="keywordsearch" class="form-inline jobAlertsSearchForm" name="keywordsearch" method="get" action="/search/" xml:lang="en-US" lang="en-US" style="margin: 0;">
                 <input name="createNewAlert" type="hidden" value="false" />
                 <div class="container-fluid">
                     <div class="row">
@@ -932,7 +931,7 @@
                                     <span class="lbl" aria-hidden="true">Search by keyword</span>
 
                                 <i class="keywordsearch-icon"></i>
-                                <input type="text" class="keywordsearch-q columnized-search" name="q" placeholder="Search by keyword" maxlength="50" aria-label="Search by keyword" />
+                                <input type="text" id="keywordsearch-q" class="keywordsearch-q" name="q" placeholder="Search by keyword" maxlength="50" aria-label="Search by keyword" />
                                     <div class="row optionsLink optionsLink-padding">
             <span>
                 
@@ -940,6 +939,25 @@
             </span>
                                     </div>
                             </div>
+                            <div class="col-md-5 rd-locationsearch">
+                                    <span class="lbl" aria-hidden="true">Search by location</span>
+
+                                <i class="locationsearch-icon"></i>
+                                <input type="text" id="keywordsearch-locationsearch" class="keywordsearch-locationsearch" name="locationsearch" placeholder="Search by location" maxlength="50" aria-label="Search by location" />
+                            </div>
+
+                        <div id="rd-searchbutton" class="col-md-2">
+                            <div class="row emptylabelsearchspace labelrow">
+                                 
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12 search-submit">
+                                            <input type="submit" class="btn keywordsearch-button" id="keywordsearch-button" value="Search jobs" title="Search jobs" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="row">
             <div>
                 <div id="moreOptionsDiv" style="" class="optionsDiv collapse">
 
@@ -983,27 +1001,7 @@
                     </div>
                 </div>
             </div>
-                            <div class="col-md-5 rd-locationsearch">
-                                    <span class="lbl" aria-hidden="true">Search by location</span>
-
-                                <i class="locationsearch-icon"></i>
-                                <input type="text" class="keywordsearch-locationsearch columnized-search" name="locationsearch" placeholder="Search by location" maxlength="50" aria-label="Search by location" />
-                            </div>
-
-                        <div class="rd-searchbutton col-md-2">
-                            <div class="row emptylabelsearchspace labelrow">
-                                 
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12 col-sm-12 col-xs-12 search-submit">
-                                            <input type="submit" class="btn keywordsearch-button" value="Search jobs" title="Search jobs" />
-                                </div>
-                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                            <div class="moreOptionsCollapseArea"> </div>
-                    </div>
                 </div>
             </form>
         </div>
@@ -3515,7 +3513,7 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
                 </span>
                     <span class="jobsegments">
                     <br /><strong>Job Segment: </strong>
-                    <span itemprop="industry">Developer, ERP, Web Design, Computer Science, Database, Technology, Creative
+                    <span itemprop="industry">Developer, ERP, SAP, Computer Science, Java, Technology
                     </span>
                     </span>
             </p>
@@ -9470,8 +9468,8 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
 </style>
 <!-- CUT HERE -->
 <div id='ZN_5nJlIFvi0GWTj3D'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=59bd7fe4"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=c89e94c7"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=c89e94c7"></script>
 
 		<script type="text/javascript">
 			//<![CDATA[
@@ -9504,12 +9502,12 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "58f64947-daa0-4b06-ad4c-9c59cd6e617c"
+						"X-CSRF-Token" : "5e1c7b2f-1eea-46b7-aeaa-32e976f37fd7"
 					}
 				});
 			//]]>
 		</script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.apply.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.apply.min.js?h=c89e94c7"></script>
             <script type="text/javascript">
                 //<![CDATA[
                 j2w.Apply.init({
@@ -9522,6 +9520,26 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
                 });
                 //]]>
             </script>
+		<script type="text/javascript">
+		//<![CDATA[
+			$(function() 
+			{
+				var ctid = '80db3d20-b816-46be-ba45-e75c192b60b9';
+				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2804717657';
+				var landing = document.location.href;
+				var brand = '';
+				$.ajax({ url: '/services/t/l'
+						,data: 'referrer='+ encodeURIComponent(referrer)
+								+ '&ctid=' + ctid 
+								+ '&landing=' + encodeURIComponent(landing)
+								+ '&brand=' + brand
+						,dataType: 'json'
+						,cache: false
+						,success: function(){}
+				});
+			});
+		//]]>
+		</script>
         <script type="text/javascript">
             //<![CDATA[
             $(function() {
@@ -9534,17 +9552,17 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
             });
             //]]>
         </script>
-					<script type="text/javascript" src="/platform/js/localized/strings_en_US.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/localized/strings_en_US.js?h=c89e94c7"></script>
 
         <script type="text/javascript" src="/platform/js/knockout-2.3.0.js"></script>
-					<script type="text/javascript" src="/platform/js/search/search.js?h=59bd7fe4"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=59bd7fe4"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/search/search.js?h=c89e94c7"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=c89e94c7"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=c89e94c7"></script>
         
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=73145041"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=394494469"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
@@ -9585,7 +9603,7 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
                 }
             //]]>
             </script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.sso.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.sso.min.js?h=c89e94c7"></script>
             <script type="text/javascript">
                 //<![CDATA[
                 j2w.SSO.init({
@@ -9622,7 +9640,7 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
                     };
                 //]]>
             </script>
-					<script type="text/javascript" src="/platform/js/tc/subscribeWidget.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/tc/subscribeWidget.js?h=c89e94c7"></script>
                         <script type="text/javascript">
                             //<![CDATA[
                             $(function() {
@@ -9651,7 +9669,7 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
                             });
                             //]]>
                         </script>
-					<script type="text/javascript" src="/platform/js/j2w/min/options-search.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/options-search.min.js?h=c89e94c7"></script>
             <script type="application/javascript">
                 //<![CDATA[
                 var j2w = j2w || {};
@@ -9663,7 +9681,7 @@ button.btn.btn-primary.btn-large.btn-lg.dropdown-toggle {
                 };
                 //]]>
             </script>
-					<script type="text/javascript" src="/platform/js/sfshorturl.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/sfshorturl.js?h=c89e94c7"></script>
             <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=addthisj2w"></script><!-- Jobs2Web, Inc. Site Scope Monitoring Comment - PLO -->
 		</body>
     </html>

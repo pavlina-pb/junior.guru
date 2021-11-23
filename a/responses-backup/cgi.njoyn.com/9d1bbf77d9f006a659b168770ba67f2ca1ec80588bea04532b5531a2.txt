@@ -1,0 +1,996 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+
+<head>
+    <meta name="theme-color" content="#C03"/>
+    <meta charset="utf-8" />
+    <script type="text/javascript">        window.NREUM || (NREUM = {}), __nr_require = function (e, t, n) { function r(n) { if (!t[n]) { var o = t[n] = { exports: {} }; e[n][0].call(o.exports, function (t) { var o = e[n][1][t]; return r(o || t) }, o, o.exports) } return t[n].exports } if ("function" == typeof __nr_require) return __nr_require; for (var o = 0; o < n.length; o++) r(n[o]); return r }({ 1: [function (e, t, n) { function r() { } function o(e, t, n) { return function () { return i(e, [f.now()].concat(u(arguments)), t ? null : this, n), t ? void 0 : this } } var i = e("handle"), a = e(2), u = e(3), c = e("ee").get("tracer"), f = e("loader"), s = NREUM; "undefined" == typeof window.newrelic && (newrelic = s); var p = ["setPageViewName", "setCustomAttribute", "setErrorHandler", "finished", "addToTrace", "inlineHit", "addRelease"], d = "api-", l = d + "ixn-"; a(p, function (e, t) { s[t] = o(d + t, !0, "api") }), s.addPageAction = o(d + "addPageAction", !0), s.setCurrentRouteName = o(d + "routeName", !0), t.exports = newrelic, s.interaction = function () { return (new r).get() }; var m = r.prototype = { createTracer: function (e, t) { var n = {}, r = this, o = "function" == typeof t; return i(l + "tracer", [f.now(), e, n], r), function () { if (c.emit((o ? "" : "no-") + "fn-start", [f.now(), r, o], n), o) try { return t.apply(this, arguments) } catch (e) { throw c.emit("fn-err", [arguments, this, e], n), e } finally { c.emit("fn-end", [f.now()], n) } } } }; a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","), function (e, t) { m[t] = o(l + t) }), newrelic.noticeError = function (e) { "string" == typeof e && (e = new Error(e)), i("err", [e, f.now()]) } }, {}], 2: [function (e, t, n) { function r(e, t) { var n = [], r = "", i = 0; for (r in e) o.call(e, r) && (n[i] = t(r, e[r]), i += 1); return n } var o = Object.prototype.hasOwnProperty; t.exports = r }, {}], 3: [function (e, t, n) { function r(e, t, n) { t || (t = 0), "undefined" == typeof n && (n = e ? e.length : 0); for (var r = -1, o = n - t || 0, i = Array(o < 0 ? 0 : o); ++r < o;) i[r] = e[t + r]; return i } t.exports = r }, {}], 4: [function (e, t, n) { t.exports = { exists: "undefined" != typeof window.performance && window.performance.timing && "undefined" != typeof window.performance.timing.navigationStart } }, {}], ee: [function (e, t, n) { function r() { } function o(e) { function t(e) { return e && e instanceof r ? e : e ? c(e, u, i) : i() } function n(n, r, o, i) { if (!d.aborted || i) { e && e(n, r, o); for (var a = t(o), u = m(n), c = u.length, f = 0; f < c; f++) u[f].apply(a, r); var p = s[y[n]]; return p && p.push([b, n, r, a]), a } } function l(e, t) { v[e] = m(e).concat(t) } function m(e) { return v[e] || [] } function w(e) { return p[e] = p[e] || o(n) } function g(e, t) { f(e, function (e, n) { t = t || "feature", y[n] = t, t in s || (s[t] = []) }) } var v = {}, y = {}, b = { on: l, emit: n, get: w, listeners: m, context: t, buffer: g, abort: a, aborted: !1 }; return b } function i() { return new r } function a() { (s.api || s.feature) && (d.aborted = !0, s = d.backlog = {}) } var u = "nr@context", c = e("gos"), f = e(2), s = {}, p = {}, d = t.exports = o(); d.backlog = s }, {}], gos: [function (e, t, n) { function r(e, t, n) { if (o.call(e, t)) return e[t]; var r = n(); if (Object.defineProperty && Object.keys) try { return Object.defineProperty(e, t, { value: r, writable: !0, enumerable: !1 }), r } catch (i) { } return e[t] = r, r } var o = Object.prototype.hasOwnProperty; t.exports = r }, {}], handle: [function (e, t, n) { function r(e, t, n, r) { o.buffer([e], r), o.emit(e, t, n) } var o = e("ee").get("handle"); t.exports = r, r.ee = o }, {}], id: [function (e, t, n) { function r(e) { var t = typeof e; return !e || "object" !== t && "function" !== t ? -1 : e === window ? 0 : a(e, i, function () { return o++ }) } var o = 1, i = "nr@id", a = e("gos"); t.exports = r }, {}], loader: [function (e, t, n) { function r() { if (!x++) { var e = h.info = NREUM.info, t = d.getElementsByTagName("script")[0]; if (setTimeout(s.abort, 3e4), !(e && e.licenseKey && e.applicationID && t)) return s.abort(); f(y, function (t, n) { e[t] || (e[t] = n) }), c("mark", ["onload", a() + h.offset], null, "api"); var n = d.createElement("script"); n.src = "https://" + e.agent, t.parentNode.insertBefore(n, t) } } function o() { "complete" === d.readyState && i() } function i() { c("mark", ["domContent", a() + h.offset], null, "api") } function a() { return E.exists && performance.now ? Math.round(performance.now()) : (u = Math.max((new Date).getTime(), u)) - h.offset } var u = (new Date).getTime(), c = e("handle"), f = e(2), s = e("ee"), p = window, d = p.document, l = "addEventListener", m = "attachEvent", w = p.XMLHttpRequest, g = w && w.prototype; NREUM.o = { ST: setTimeout, SI: p.setImmediate, CT: clearTimeout, XHR: w, REQ: p.Request, EV: p.Event, PR: p.Promise, MO: p.MutationObserver }; var v = "" + location, y = { beacon: "bam.nr-data.net", errorBeacon: "bam.nr-data.net", agent: "js-agent.newrelic.com/nr-1071.min.js" }, b = w && g && g[l] && !/CriOS/.test(navigator.userAgent), h = t.exports = { offset: u, now: a, origin: v, features: {}, xhrWrappable: b }; e(1), d[l] ? (d[l]("DOMContentLoaded", i, !1), p[l]("load", r, !1)) : (d[m]("onreadystatechange", o), p[m]("onload", r)), c("mark", ["firstbyte", u], null, "api"); var x = 0, E = e(4) }, {}] }, {}, ["loader"]);</script>
+    <meta name="title" content="Careers- Current Opportunities | CGI.com" />
+    <meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+    <meta name="MobileOptimized" content="width" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.cgi.com/sites/default/files/favicons/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.cgi.com/sites/default/files/favicons/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="194x194" href="https://www.cgi.com/sites/default/files/favicons/favicon-194x194.png"/>
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.cgi.com/sites/default/files/favicons/android-chrome-192x192.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.cgi.com/sites/default/files/favicons/favicon-16x16.png" />
+    <title>Careers - Zkušený Vue.js Vývojář | CGI.com</title>
+    <style media="all">
+    @import url("clientfiles/cgi_v2a/resources/client/css/node.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/ajax-progress.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/align.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/autocomplete-loading.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/fieldgroup.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/container-inline.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/clearfix.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/details.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/hidden.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/item-list.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/js.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/nowrap.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/position-container.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/progress.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/reset-appearance.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/resize.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/sticky-header.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/system-status-counter.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/system-status-report-counters.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/system-status-report-general-info.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/tabledrag.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/tablesort.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/tree-child.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/tabs.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/poll.base.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/poll.theme.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/views.module.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/core.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/button.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/resizable.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/dialog.css?pb35j7");
+    </style>
+    <style media="all">
+    @import url("clientfiles/cgi_v2a/resources/client/css/menu.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/autocomplete.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/anchor_link.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/light-top.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/ckeditor-accordion.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/better_exposed_filters.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/search_api_autocomplete.css?pb35j7");
+    </style>
+    <style media="all">
+    @import url("clientfiles/cgi_v2a/resources/client/fontawesome/font-awesome-css.min.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/fontawesome/font-awesome.css?pb35j7");    @import url("clientfiles/cgi_v2a/resources/client/css/nunitoSans.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/poppins.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/jquery.mmenu.all.css?pb35j7");
+    @import url("clientfiles/cgi_v2a/resources/client/css/styles.css?pb35j7");
+    </style>
+
+    <!--[if lte IE 8]>
+    <script src="clientfiles/cgi_v2a/resources/client/js/html5shiv.min.js?v=3.7.3"></script>
+    <![endif]-->
+    <script src="clientfiles/cgi_v2a/resources/client/js/modernizr.min.js?v=3.3.1"></script>
+
+
+    <link href="clientfiles/cgi_v2a/resources/css/njoyn.css" rel="stylesheet" type="text/css">
+    <link href="clientfiles/cgi_v2a/resources/css/client.css" rel="stylesheet" type="text/css">
+    <link href="clientfiles/cgi_v2a/resources/css/responsive.css" rel="stylesheet" type="text/css" />
+    <link href="clientfiles/cgi_v2a/resources/css/client-responsive.css" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="clientfiles/cgi_v2a/resources/css/validation.css" type="text/css" />
+    <script type="text/javascript" src="clientfiles/cgi_v2a/resources/js/livevalidation_standalone.js"></script>
+    <script type="text/javascript" src="include/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="include/jquery-migrate-1.4.1.min.js"></script>
+
+    <script type="text/javascript">
+        <!--Google Analytics -->
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-28538218-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+        
+        function sb(sfrm) {
+            return true;
+        }
+    </script>
+
+
+<meta property="og:title" content="CGI Zkušený Vue.js Vývojář | Software Development/ Engineering Careers | Prague, Ostrava, Praha, hlavní mešto, Czech Republic"/>
+<meta property="og:description" content="CGI Zkušený Vue.js Vývojář | Software Development/ Engineering Careers | Prague, Ostrava, Praha, hlavní mešto, Czech Republic" />
+<meta name="description" content="CGI Zkušený Vue.js Vývojář | Software Development/ Engineering Careers | Prague, Ostrava, Praha, hlavní mešto, Czech Republic" /> 
+<meta property="og:url" content="https://cgi.njoyn.com/CGI/xweb/XWeb.asp?clid=21001&page=jobdetails&jobid=J0921-1397&BRID=859484&SBDID=20561&LANG=1" />
+<meta property="og:image" content="https://cgi.njoyn.com/CGI/xweb/clientfiles/cgi/logo3.png"/>
+<meta property="og:image:height" content="200" />
+<meta property="og:image:width" content="200" />
+<meta name="author" property="og:author" content="CGI" />
+<meta name="title" content="CGI Zkušený Vue.js Vývojář | Software Development/ Engineering Careers | Prague, Ostrava, Praha, hlavní mešto, Czech Republic" /> 
+<link rel="image_src" href="clientfiles/cgi/favicon.ico" / ><!-- replace with bigger logo or other appropriate image -->
+<link rel="canonical" href="https://cgi.njoyn.com/CGI/in/share/JobDetails.asp?clid=21001&jobid=J0921-1397&BRID=859484&LANG=1&SBDID=20561" />
+
+<!-- NJN_XWEB_HINT_SKIP_VALIDATION_JSCRIPT -->
+<!-- NJN_XWEB_HINT_CLEANUP_CONTROLS -->
+
+
+
+
+    
+	<script type="application/ld+json"> {
+	  "@context" : "http://schema.org/",
+	  "@type" : "JobPosting",
+	  "title" : "Zkušený Vue.js Vývojář",
+	  "description" : "Do týmu zaměřeného na end-to-end tvorbu digitálního obsahu hledáme zkušené front-end vývojáře s dobrou znalostí frameworku Vue.js, kteří by pomohli rozšířit naší stávající technologickou nabídku dosud postavenou primárně na Angular.js a React.js. <br /><br />Naším cílem je postavit plnohodnotný tým schopný samostatně dodávat projekty našim zákazníkům a integrovat jej s dalšími členy jako jsou UX designérky a designéři, API developeři či týmy pro Android a iOS aplikace. Pro nově postavený tým již máme připravené uplatnění na konkrétním projektu, které bychom postupně rádi rozšiřovali i u dalších klientů.<br /><br />Buďte u zrodu nového týmu. Těšit se můžete na technologicky hodně zajímavé projekty v celé řadě odvětví, velkou autonomii co do sebe-organizace týmu a velký prostor pro rozvoj a uplatnění nejnovějších přístupů k tvorbě webových aplikací.",
+	  "identifier": {
+	    "@type": "PropertyValue",
+	    "name": "CGI",
+	    "value": "21001"
+	  },
+	  "datePosted" : "2021-09-17",
+
+	  "validThrough" : "2021-12-31",
+
+	  "employmentType" : "FULL_TIME",
+	  "hiringOrganization" : {
+	    "@type" : "Organization",
+	    "name" : "CGI",
+	    "sameAs" : "http://www.cgi.com",
+	    "logo" : "https://cgi.njoyn.com/CGI/xweb/clientfiles/cgi/logo3.png"
+	  },
+	  "jobLocation" : {
+	    "@type" : "Place",
+	    "address" : {
+	      "@type" : "PostalAddress",
+	      "streetAddress" : "",
+	      "addressLocality" : "Prague, Ostrava",
+	      "addressRegion" : "PR",
+	      "postalCode" : "",
+	      "addressCountry": "CZ "
+	    }
+	  }
+	  
+	}
+	</script>
+
+<meta name="robots" content="index,follow,noodp,noydir" />
+<script type="text/JavaScript" src="include/util.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="clientfiles/cgi_v2a/resources/js/clipboard.min.js"></script>
+
+<script type="text/javaScript">
+    function CheckContactExist(thisform,sEmail, action)
+    {
+        var bExists;
+        bExists = false;
+	
+	    if (sEmail.length > 0){
+		    if (window.XMLHttpRequest)
+		    {// code for IE7+, Firefox, Chrome, Opera, Safari
+		  	    xmlhttp=new XMLHttpRequest();
+		    }
+		    else
+		    {// code for IE6, IE5
+		  	    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		    }
+
+		    xmlhttp.open("GET","XWeb.asp?NTKN=c&page=ContactExist&email=" + sEmail + "&action=" + action,false);
+		    xmlhttp.send();
+		    if (xmlhttp.readyState==4 && xmlhttp.status==200) {
+			    bExists = xmlhttp.responseText;
+			    //alert("here: bExists: " + bExists);
+			    return bExists;
+		    }
+	    }
+        return bExists;
+    }
+
+    function Next_Form(f)
+    {
+	    if(document.getElementById('pane_ReferralName').style.display=="none")
+	    {
+		    f.Inp_Cand_Referral_FirstName.value="";
+		    f.Inp_Cand_Referral_LastName.value="";
+		    f.Inp_Cand_Referral_Email.value="";
+	    }
+	    //track JobApplication event
+	    var rndNum = GetRndNum();
+	    
+		    _gaq.push(['_trackEvent', 'JobApplication', "JA_FirstStep_J0921-1397_" + rndNum, "JA_FirstStep", 1, true]);
+	    
+
+	    document.form1.BT_Apply.value = "One moment please ...";
+	    document.form1.BT_Apply.disabled = true;
+	    document.form1.submit(); 
+	    return true;	
+    }
+		
+    function GetRndNum()
+    {
+        return Math.random().toString(36).substr(2) + Math.random().toString(36).substr(2);
+    }
+
+
+    
+
+    // --- Toggle Yes or No Radio Buttons ---
+    function toggleYesNo(id,oButton){
+	    var bShow;
+	    var oHiddenObject = document.getElementById(id);
+	    if(oHiddenObject==null) return "";
+	
+	    if(oButton.value==undefined){ // is an interger: 1 or 0
+		    bShow = oButton;
+	    } else { // otherwise assume a radio button
+		    bShow = oButton.value;
+	    }
+	
+	    if(bShow==1){
+		    oHiddenObject.style.display = "inline";
+		    oHiddenObject.style.visibility = "visible";
+	    }
+	    else{
+		    oHiddenObject.style.visibility = "hidden";
+		    oHiddenObject.style.display = "none";
+	    }
+    }
+
+    function emailJobs(form){
+        return true;	
+    }	
+
+	
+    function Initialize()
+    {
+	    		
+	    document.getElementById('jd').html = true;
+    
+    }
+	
+    $(document).ready(function() {
+        var clipboard = new Clipboard('.btn');
+	
+	    clipboard.on('success', function (e) {
+		    //$("button.btn").live("click", function(){
+		    //	alert('Link copied to your clipboard for ' + $(this).closest("tr").attr("jobtitle"))
+    	    //});
+    	    alert("Link copied");
+    	    console.log(e);
+    	
+	    });
+
+	    clipboard.on('error', function (e) {
+		    console.log(e);
+	    });
+
+		    var jid = "J0921-1397";
+			var jtitle = encodeURI("CGI Careers " + "Zkušený Vue.js Vývojář");
+		    var jcity = encodeURI("Prague, Ostrava");
+		    var jprov = encodeURI("Praha, hlavní mešto");
+		    var jcountry = encodeURI("Czech Republic");
+
+
+        $(".FBIcon").on("click", function(){
+            window.open('https://www.addthis.com/bookmark.php?v=300&winname=addthis&pub=cginjoyn&source=men-300&lng=en&s=facebook&url=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fin%2Fshare%2FJobDetails.asp%3FPage%3DJobDetails%26SBDID%3D1%26Jobid%3D' + jid + '%26BRID%3D859484%26clid%3D21001%26lang%3D1&title=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&ate=AT-cginjoyn/-/-/5c49d1138cb82186/4&frommenu=1&ips=1&uid=5c05646e0cc0da5e&shortener=bitly&description=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&uud=1&ct=1&pre=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXweb.asp%3Fpage%3Djoblisting%26CLID%3D21001&tt=0&captcha_provider=recaptcha2&pro=0')
+        });
+	
+	    $(".LIIcon").on("click", function(){
+		    window.open('https://www.addthis.com/bookmark.php?v=300&winname=addthis&pub=cginjoyn&source=men-300&lng=en&s=linkedin&url=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXWeb.asp%3FPage%3DJobDetails%26SBDID%3D21814%26Jobid%3D' + jid + '%26BRID%3D859484%26SBDID%3D21814%26clid%3D21001&title=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&ate=AT-cginjoyn/-/-/5c49d1138cb82186/4&frommenu=1&ips=1&uid=5c05646e0cc0da5e&shortener=bitly&description=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&uud=1&ct=1&pre=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXweb.asp%3Fpage%3Djoblisting%26CLID%3D21001&tt=0&captcha_provider=recaptcha2&pro=0')
+        });
+
+	    $(".TWIcon").on("click", function(){
+            window.open('https://www.addthis.com/bookmark.php?v=300&winname=addthis&pub=cginjoyn&source=men-300&lng=en&s=twitter&url=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXWeb.asp%3FPage%3DJobDetails%26SBDID%3D21814%26Jobid%3D' + jid + '%26BRID%3D859484%26SBDID%3D21814%26clid%3D21001&title=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&ate=AT-cginjoyn/-/-/5c49d1138cb82186/4&frommenu=1&ips=1&uid=5c05646e0cc0da5e&shortener=bitly&description=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&uud=1&ct=1&pre=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXweb.asp%3Fpage%3Djoblisting%26CLID%3D21001&tt=0&captcha_provider=recaptcha2&pro=0')
+        });
+    
+        $("#btnEmail").on("click", function(){
+            window.open('https://www.addthis.com/tellfriend_v2.php?v=300&winname=addthis&pub=cginjoyn&source=tbx-300&lng=en&s=email&url=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXWeb.asp%3FPage%3DJobDetails%26Jobid%3D' + jid + '%26BRID%3D859484%26SBDID%3D21812%26clid%3D21001&title=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&ate=AT-cginjoyn/-/-/580679fe2979bef6/3&ips=1&uid=5c05646e0cc0da5e&shortener=bitly&description=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&uud=1&ct=1&ui_email_to=&ui_email_from=&ui_email_note=&pre=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXweb.asp%3Fpage%3Djoblisting%26CLID%3D21001&tt=0&captcha_provider=recaptcha2&pro=0&ats=imp_url%3D1%26url%3Dhttps%253A%252F%252Fcgi.njoyn.com%252FCGI%252Fxweb%252FXWeb.asp%253FPage%253DJobDetails%2526Jobid%253D' + jid + '%2526BRID%253D859484%2526SBDID%253D21812%2526searchFilled%253D%26title%3D' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '%26description%3D' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '%26smd%3Drsi%253D%2526gen%253D0%2526rsc%253D%2526dr%253Dhttps%25253A%25252F%25252Fcgi.njoyn.com%25252FCGI%25252Fxweb%25252FXweb.asp%25253Fpage%25253Djoblisting%252526CLID%25253D21001%2526sta%253DAT-cginjoyn%25252F-%25252F-%25252F580679fe2979bef6%25252F1%26hideEmailSharingConfirmation%3Dfalse%26service%3Demail%26media%3Dundefined%26passthrough%3Dundefined%26email_template%3Dundefined%26email_vars%3D&atc=username%3Dcginjoyn%26services_exclude%3Dskype%26services_exclude_natural%3Dskype%26services_compact%3Dtwitter%252Clinkedin%252Cfacebook%252Cfavorites%252Cemail%252Cprint%252Cpinterest_share%252Cgmail%252Cgoogle_plusone_share%252Cmailto%252Ctumblr%252Cmore%26product%3Dtbx-300%26widgetId%3Dundefined%26pubid%3Dcginjoyn%26ui_pane%3Demail&rb=false')
+        });
+    
+        $("#btnEmail2").on("click", function(){
+            window.open('https://www.addthis.com/tellfriend_v2.php?v=300&winname=addthis&pub=cginjoyn&source=tbx-300&lng=en&s=email&url=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXWeb.asp%3FPage%3DJobDetails%26Jobid%3D' + jid + '%26BRID%3D859484%26SBDID%3D21812%26clid%3D21001&title=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&ate=AT-cginjoyn/-/-/580679fe2979bef6/3&ips=1&uid=5c05646e0cc0da5e&shortener=bitly&description=' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '&uud=1&ct=1&ui_email_to=&ui_email_from=&ui_email_note=&pre=https%3A%2F%2Fcgi.njoyn.com%2FCGI%2Fxweb%2FXweb.asp%3Fpage%3Djoblisting%26CLID%3D21001&tt=0&captcha_provider=recaptcha2&pro=0&ats=imp_url%3D1%26url%3Dhttps%253A%252F%252Fcgi.njoyn.com%252FCGI%252Fxweb%252FXWeb.asp%253FPage%253DJobDetails%2526Jobid%253D' + jid + '%2526BRID%253D859484%2526SBDID%253D21812%2526searchFilled%253D%26title%3D' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '%26description%3D' + jtitle + ' %7C ' + jcity + '%2C ' + jprov + '%2C ' + jcountry + '%26smd%3Drsi%253D%2526gen%253D0%2526rsc%253D%2526dr%253Dhttps%25253A%25252F%25252Fcgi.njoyn.com%25252FCGI%25252Fxweb%25252FXweb.asp%25253Fpage%25253Djoblisting%252526CLID%25253D21001%2526sta%253DAT-cginjoyn%25252F-%25252F-%25252F580679fe2979bef6%25252F1%26hideEmailSharingConfirmation%3Dfalse%26service%3Demail%26media%3Dundefined%26passthrough%3Dundefined%26email_template%3Dundefined%26email_vars%3D&atc=username%3Dcginjoyn%26services_exclude%3Dskype%26services_exclude_natural%3Dskype%26services_compact%3Dtwitter%252Clinkedin%252Cfacebook%252Cfavorites%252Cemail%252Cprint%252Cpinterest_share%252Cgmail%252Cgoogle_plusone_share%252Cmailto%252Ctumblr%252Cmore%26product%3Dtbx-300%26widgetId%3Dundefined%26pubid%3Dcginjoyn%26ui_pane%3Demail&rb=false')
+        
+        });
+    });
+
+    function displayanyerror() {
+        if (noerrordetected ==false) {
+            alert("Please fill in the required field(s)");
+            scrolltotop();
+        }
+    }
+   
+    function scrolltotop(){
+        //Click event to scroll to top
+        $('html, body').animate({scrollTop : ($('.LV_invalid').first().offset().top)},800);
+    }
+
+    var createHtmlMessageDiv = function (scope) {
+        var div = document.createElement('div');
+        div.innerHTML = scope.message;
+        return div;
+    }
+
+    var myLiveValidationCallback = function () {
+        this.insertMessage(createHtmlMessageDiv(this));
+        this.addFieldClass();
+    }
+</script>
+
+<style>
+.node-content-wrapper{
+	padding-top: 50px !important;
+}
+</style>      
+
+
+
+
+<!-- 41005 start -->
+
+<!-- 41005 end -->
+
+</head>
+<body id="bdCGI" class="domain-cgi-com path--careers-search alias--careers-search logged-out path--career-search" onload="if (window.Initialize) { Initialize(); }">
+<div id="skip">
+    <a class="visually-hidden focusable skip-link" href="#main-menu">
+        Skip to main navigation
+    </a>
+</div>
+
+<div  class="page-standard" id="pg__c"> 
+  <!-- ______________________ HEADER _______________________ -->
+    <div class="navigation-wrapper">
+        <div id="brand-nav">
+            <div id="block-cgi-default-branding" data-block-plugin-id="system_branding_block" class="site-branding">
+                <a href="https://www.cgi.com/en" title="Home" rel="home" class="logo">
+                    <img src="clientfiles/cgi_v2a/resources/client/img/logo-mobile-white.png" height="20" alt="Home" class="logo-img small-screen"/>
+                    <img src="clientfiles/cgi_v2a/resources/client/img/logo.png" height="46" alt="Home" class="logo-img up-small-screen"/>
+                </a>
+            </div>
+        </div>
+        <!-- /#brand-nav -->
+
+        <div id="pre-nav">
+            <div class="cog--full mq-pre-nav">
+                <div class="region region-pre-header" style="margin-top:20px;">
+
+                    <nav role="navigation" aria-labelledby="block-secondmenu--2-menu" id="Nav1" data-block-plugin-id="system_menu_block:second-menu" class="block block-menu navigation block-system-menublock menu--second-menu">
+                        <h2 class="visually-hidden" id="H1">Second menu</h2>
+                        <nav class="second-menu">
+                            <ul class="country-widget">
+                                <li></li>
+                            </ul> 
+                        </nav>
+                    </nav>
+
+
+                            
+                </div>
+            </div>
+        </div>
+    <!-- /#pre-nav -->
+
+        <div id="main-nav">
+            <div class="cog--full mq-main-nav">
+                <div class="region region-header">
+                    <ul class="menu menu-level-0">
+                        <li class="menu-item menu-item--expanded title">
+                            <a href="" data-drupal-link-system-path="&lt;front&gt;">Visit career sites</a>
+                            <section class="mega-menu-career-sites">
+                                <div class="main-block">
+                                    <div class="list-wrapper">
+                                        <div style="border-bottom:1px solid #e61739; margin-bottom: 15px; text-align: left;"><a href="https://www.cgi.com/en/careers" class="lnkCareers">Global careers site</a></div>
+                                            <ul class="menu level-1  col2-children career-sites">
+                                                <li id="subCareerLink"><a href="https://www.cgi.com/en/careers">Global careers site</a></li>
+                                                <li><a href="http://www.cgi.com.au/en-au/careers">Australia</a></li>
+                                                <li><a href="http://www.cgi.com/belgium/en/belgium/careers">Belgium</a></li>
+                                                <li><a href="http://www.cgi.com/brasil/pt-br/brazil/careers">Brasil</a></li>
+                                                <li><a href="http://www.cgi.com/canada/en-ca/careers">Canada</a></li>
+                                                <li><a href="http://www.cgi.com/ceska-republika/cs/kariera">Česká Republika</a></li>
+                                                <li><a href="http://www.cgi.dk/da/karriere">Danmark</a></li>
+                                                <li><a href="http://www.de.cgi.com/de/karriere">Deutschland</a></li>
+                                                <li><a href="http://www.cgi.ee/et/karjaars">Estonia</a></li>
+                                                <li><a href="http://www.cgi.com/spain/es/unete-a-cgi-en-españa">España</a></li>
+                                                <li><a href="http://www.cgi.fi/fi/ura">Finland</a></li>
+                                                <li><a href="http://www.cgi.fr/fr-fr/recrute">France</a></li>
+                                                <li><a href="http://www.cgi.com/magyarorszag/hu/karrier">Hungary</a></li>
+                                                <li><a href="http://www.cgi.com/india/en/india/careers">India</a></li>
+                                                <li><a href="http://www.cgi.com/italy/en/italy/careers">Italy</a></li>
+                                                <li><a href="http://www.cgi.com/luxembourg/fr/luxembourg/carrieres">Luxembourg</a></li>                                                <li><a href="http://www.cgi.com/malaysia/en/malaysia/careers">Malaysia</a></li>
+                                                <li><a href="http://www.cgi.com/maroc/fr/carrieres">Maroc</a></li>
+                                                <li><a href="http://www.cginederland.nl/nl/werken-bij-cgi">Nederland</a></li>
+                                                <li><a href="http://www.cgi.com/norway/nb/careers">Norge</a></li>
+                                                <li><a href="http://www.cgi.com/philippines/en/philippines/careers">Philippines</a></li>
+                                                <li><a href="http://www.cgi.com/polska/pl/kariera">Polska</a></li>
+                                                <li><a href="http://www.cgi.com/portugal/pt-pt/portugal/careers">Portugal</a></li>                                                <li><a href="http://www.cgi.com/romania/en/careers">Romania</a></li>                                                <li><a href="http://www.cgi.com/slovensko/sk/kariera-v-cgi">Slovensko</a></li>
+                                                <li><a href="http://www.cgi.se/sv/karriar">Sverige</a></li>
+                                                <li><a href="http://www.cgi-group.co.uk/en-gb/careers">United Kingdom</a></li>
+                                                <li><a href="http://www.cgi.com/us/en-us/careers">United States</a></li>
+
+                                            </ul>
+                                        <div class="link-right"></div>
+                                    </div>
+                                </div>    
+                            </section>
+                        </li>
+  
+                        <li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=joblisting">Search careers</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=JobMatchSubscription">Activate alerts</a></li>
+                        <li><a href="xweb.asp?NTKN=c&amp;page=login&amp;clid=21001">My Profile</a></li>
+                        
+
+                        <li class="title">
+                                <a href="" style="text-transform: initial !important;">Language <i class="fa fa-angle-down"></i></a>
+                                <div class="mega-menu" style="width: 200px;">
+                                    <div class="main-block">
+                                        <div class="list-wrapper">
+                                            <ul class="menu level-1  col2-children">
+                                                <li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=1">English</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=2">French</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=4">German</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=5">Portuguese</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=6">Spanish</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=8">Swedish</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=9">Dutch</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=11">Polish</a></li><li><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=12">Czech</a></li><li class="last"><a href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=jobdetails&amp;JobId=J0921-1397&lang=13">Slovak</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                    </ul>
+  
+                </div>
+            </div>
+        </div>
+    <!-- /#main-nav -->
+
+
+    <div class="mobile-search-icon">
+    </div>
+
+    <div class="mobile-icon">
+      <button class="mobile-icon-btn mobile-icon--collapse" type="button" role="button" aria-label="Search">
+        <span class="mobile-icon-box">
+          <span class="mobile-icon-inner"></span>
+        </span>
+      </button>
+    </div>
+
+    <div class="region region-contact">
+        <div id="block-cgicontactusblockcontact" data-block-plugin-id="cgi_contactus">
+            <a href="xweb.asp?NTKN=c&amp;page=support" class="contact-us contact-us-contact contact-us-4"  alt="Questions">Questions</a>
+        </div>
+    </div>
+
+</div>
+
+  <!-- ______________________ HEADER MAIN If there is a title _______________________ -->
+<header class="content-header">
+    <div class="hero-banner" style="display:none;">
+        <img src="clientfiles/cgi_v2a/resources/client/img/cgi-career-opportunities-background-banner.jpg" alt="">
+    </div>
+    <div class="content-wrapper">
+        <div class="node-content-wrapper"  style="padding-top:50px !important;">
+            <div class="node-content">
+                <div class="parent-link"  style="visibility:hidden;">
+                    <a href="https://www.cgi.com/en/careers">Careers</a>
+                </div>
+                <h1  style="display:none;">Zkušený Vue.js Vývojář</h1>
+            </div>
+        </div>
+    </div>
+</header>
+  <!-- ______________________ Pre content _______________________ -->
+  
+    <!-- ______________________ MAIN _______________________ -->
+    <div class="cog--mq mq-main" id="career">
+    	
+
+        <section id="content">
+        	
+          <div id="content-area">
+
+             <div id="njnContentContainer" class="njnContentContainer" style="min-height: 400px;">
+             	<div id="njoyn_cgi_menu" style="width:20%; position:absolute; left:-20%; top:150px;"><ul style="list-style:none; font-size: 18px; font-weight: 700;  text-transform: uppercase;"><li class="leaf"><a class="" href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=login">Create your Profile | Sign in</a></li><li class="leaf"><a class="" href="XWeb.asp?NTKN=c&amp;clid=21001&amp;page=JobMatchSubscription">Activate Career Alerts</a></li></ul></div>
+
+            
+<!-- Njoyn content -->
+
+<!-- NJOYN content -->
+
+ <div id="njoynPageContainer" class="njoynPageContainer jobdetails">
+    <div class="njnPageSection noborder">
+    
+<div class="job-posting-wrapper aside-content">
+
+
+
+        <form id="form1" name="form1" method="post" onsubmit="return Next_Form(this);" action="XWeb.asp?NTKN=c&page=login&amp;BRID=859484&amp;jobid=J0921-1397">
+    
+	
+    <input type="hidden" name="jobid" value="J0921-1397" />
+	<input type="hidden" name="BDID" value="1" />
+
+
+    <aside class="b-aside">
+        <div class="sharing-widget-wrapper">
+            <h2>Share this</h2>
+            <div id="block-socialsharingblock" data-block-plugin-id="social_sharing_block">
+                <div class="social-media-sharing">
+                <ul class="">
+                    <li>
+                        <img alt="Facebook" src="clientfiles/cgi_v2a/resources/client/img/Social_Media_Facebook.svg" class="FBIcon" style="cursor:pointer;" />
+                    </li>
+                    
+                    <li>
+                        <img alt="Linkedin" src="clientfiles/cgi_v2a/resources/client/img/Social_Media_LinkedIn.svg" class="LIIcon" style="cursor:pointer;" />
+                    </li>
+                    
+                    <li>
+                        <img alt="Twitter" src="clientfiles/cgi_v2a/resources/client/img/Social_Media_Twitter.svg" class="TWIcon" style="cursor:pointer;" />
+                    </li>
+                    
+                   
+                    <li>
+                        <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+  							<a class="addthis_button_compact"></a>
+						</div>
+                    </li>
+                </ul>
+                </div>
+            </div>
+            
+        </div> 
+    </aside>
+   
+    <div class="back-link">
+        <a href="XWeb.asp?NTKN=c&amp;page=jobmatches&amp;txtJobId=J0921-1397&amp;clid=21001&amp;jid=1143507"><i class="fa fa-chevron-left"></i><span>Find similar career opportunities</span></a>    
+    </div>
+    
+    <section class="job-desc">
+        <header>
+
+        
+            <div class="btn-wrapper pull-right" >
+              	<input class="btn" type="submit" name="BT_Apply" value="I'm Interested" />
+            </div>
+            
+            <h1>Zkušený Vue.js Vývojář</h1>
+            <div>
+            
+              <span class="bolder">Category:</span>
+              <span>Software Development/ Engineering</span>
+            </div>
+            <div>
+              <span class="bolder">City:</span>
+              <span>Prague, Ostrava, Praha, hlavní mešto, Czech Republic</span>
+            </div>
+            <div>
+              <span class="bolder">Position ID:</span>
+              <span>J0921-1397</span>
+            </div>
+            <div>
+              <span class="bolder">Employment Type:</span>
+                 
+              <span>Full Time</span>
+            </div>
+        </header>
+        
+        <div class="job-posting-content">
+	        <!-- setting up video and image. To be moved when page is rebranded            		-->
+			<!-- Image ===================================================================================== -->
+			
+			<!-- Image ===================================================================================== -->
+				
+			<!-- video ===================================================================================== -->
+			
+			<!-- video ===================================================================================== -->
+        
+            <div class="job-info-row">
+             	<h2>Position Description:</h2>
+                <p id="jd">Do týmu zaměřeného na end-to-end tvorbu digitálního obsahu hledáme zkušené front-end vývojáře s dobrou znalostí frameworku Vue.js, kteří by pomohli rozšířit naší stávající technologickou nabídku dosud postavenou primárně na Angular.js a React.js. <br /><br />Naším cílem je postavit plnohodnotný tým schopný samostatně dodávat projekty našim zákazníkům a integrovat jej s dalšími členy jako jsou UX designérky a designéři, API developeři či týmy pro Android a iOS aplikace. Pro nově postavený tým již máme připravené uplatnění na konkrétním projektu, které bychom postupně rádi rozšiřovali i u dalších klientů.<br /><br />Buďte u zrodu nového týmu. Těšit se můžete na technologicky hodně zajímavé projekty v celé řadě odvětví, velkou autonomii co do sebe-organizace týmu a velký prostor pro rozvoj a uplatnění nejnovějších přístupů k tvorbě webových aplikací.
+          	</div>
+            
+      	
+			<div class="job-info-row">
+	            <h2>Your future duties and responsibilities:</h2>
+	            <p><strong>O projektu:</strong><br />•	Na zelené louce budeme budovat framework a firemní portfolio mikro-frontendů pro digitální kanály, které oslovují uživatele napříč Evropou.<br />•	Mikroservisní architektura – aplikace BFF patternu<br />•	Práce s realtime daty – až desítky tisíc operací za minutu<br />•	DevOps přístup v plně automatizovaném/kontejnerizovaném prostředí <br />•	Projekt je cca na 2-3 roky s možností rotace (možnost změny projektu, přístup k inovacím a novým technologiím v rámci EmTech týmu)<br />•	Technologie: Vue.js,  websocketes, kontejnerizovaný deployment (Kubernetes, Docker, Openshift)<br /><br /><br /><strong>Náplň práce:</strong><br />•	Vývoj reaktivních webových aplikací - primárně Vue.js<br />•	Zapojení do kompletního cyklu vývoje systému, od návrhu architektury až po vývoj a nasazení do produkčního prostředí<br />•	Komunikace se členy týmu – nastavení pravidel, aplikace vhodných metodik pro projekt<br />•	Práce částečně z HO, částečně z kanceláře CGI (dle potřeb projektu)</p>
+			</div>
+		
+			<div class="job-info-row">
+	            <h2>Required qualifications to be successful in this role:</h2>
+	            <p><strong>Očekáváme:</strong><br />•	Zkušenosti s Vue.js <br />•	Dobrá znalost JavaScript, HTML5/CSS3<br />•	Spolehlivost a zodpovědnost<br />•	Schopnost týmové spolupráce<br />•	Anglický jazyk min. na úrovni B1<br /><br /><strong>Výhodou:</strong><br />•	Zkušenosti s React.js či Angular.js (second sklil)<br />•	Full-stack: Znalost back-end orientovaných jazyků a frameworků jako Node.js (Express, Hapi, Koa)<br />•	Zájem o nové webové technologie, zájem o mobilní aplikace<br /><br /><strong>Co na Tebe čeká v CGI: </strong><br />•	Profesní rozvoj postavený na certifikovaných vzdělávacích programech<br />•	Individuální budget na vzdělávání <br />•	Sdílení znalostí se spoustou kolegů<br />•	Účast na zisku společnosti (Profit Participation Plan)<br />•	Firemní akciový program (Share Purchase Plan) – možnost nákupu zaměstnaneckých akcií<br />•	5 týdnů dovolené<br />•	3 sick-days<br />•	30 dní plně hrazené krátkodobé nemoci<br />•	Stravenky v hodnotě 105 CZK za odpracovaný den (stravenkovou kartu máme od společnosti SODEXO)<br />•	10 800 CZK ročně v rámci Benefit Plus programu<br />•	Bonus za doporučení nových kolegů 30 000 CZK<br />•	Bezúroční půjčka pro zaměstnance<br />•	Multisport karta<br />•	Očkování proti chřipce a klíšťové encefalitidě<br />•	Participace na různých sportovních událostech jako Král Šumavy, Pražský Maraton,…<br />•	Member Assistance Program – možnost využití služeb odborníků při zdravotních,  pracovních nebo jiných životných potížích<br />•	A mnoho dalších!</p>
+			</div>
+		
+			<div class="job-info-row">
+	            <h2>Skills:</h2>
+	            <ul><li>Vue.js</li></ul><!--<font style="display: none;">~49891,0~</font>-->
+			</div>
+    	
+	
+			<div class="job-info-row">
+	            <h2>What you can expect from us:</h2>
+	            	
+	            	<p><strong>Build your career with us.</strong><br /><br />It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change—supporting our clients’ digital journeys and offering our professionals exciting career opportunities. <br /><br />At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.<br /><br />Be part of building one of the largest independent technology and business services firms in the world.<br /><br />Learn more about CGI at www.cgi.com.<br /><br />No unsolicited agency referrals please.<br /><br />CGI is an equal opportunity employer.</p>
+				  	
+			</div>
+		
+        </div>
+
+		<footer>
+	
+<div class="row" id="chkAppRef_container"  style="display: none;">
+			<span class="required" style="color: #991F3D; width:auto;">Have you been referred by a CGI Member for this position?*</span>
+			<input type="Radio" name="chkAppRef" id="chkAppRef_1" value="1" onclick="toggleYesNo('pane_ReferralName', this);" /><label class="ProfileLargeTextField" id="chkAppRef_label_1" for="chkAppRef_1">Yes</label>
+			<input type="Radio" name="chkAppRef" id="chkAppRef_0" value="0" onchange="chkAppRefvalidation.removeMessage();" onclick="toggleYesNo('pane_ReferralName', this);" /><label class="ProfileLargeTextField" id="chkAppRef_label_0" for="chkAppRef_0">No</label>
+			<script type="text/javascript">
+			    function validateradio() {
+			        control = document.getElementById('form1').chkAppRef;
+			        for (var x = 0; x < control.length; x++) {
+			            if (control[x].checked == true) {
+			                return true;
+			            }
+			        }
+			    }
+			    var chkAppRefvalidation = new LiveValidation('chkAppRef_1', { onlyOnSubmit: true, insertAfterWhatNode: "chkAppRef_label_0" }, 'chkAppRef_container');
+			    chkAppRefvalidation.add(Validate.Custom, {
+			        against: validateradio,
+			        failureMessage: "Please answer question"
+			    });
+		    </script>  
+        </div>
+
+<div class="row" id="pane_ReferralName" style="visibility: hidden; display: none; text-align:left;">
+	        <div class="row" style="margin-top: 40px;">
+	        	<div class="leftcolumn">
+	            <label for="Inp_Cand_Referral_Email" class="profileField required">CGI member’s email (@cgi.com)<span style="color: #991F3D;">*</span></label>
+	            </div>
+	            <div class="rightcolumn">
+	            <input class="ProfileLargeTextField" CustomFieldID="0" maxlength="50" type="text" id="Inp_Cand_Referral_Email" name="Inp_Cand_Referral_Email" value=""  />
+	            <script type="text/javascript">
+	                var Inp_Cand_Referral_Emailvalidation = new LiveValidation('Inp_Cand_Referral_Email', { validMessage: false, onlyOnBlur: true }, 'pane_ReferralName');
+	                Inp_Cand_Referral_Emailvalidation.add(Validate.Presence, { failureMessage: "This is a required field." });
+	                Inp_Cand_Referral_Emailvalidation.add(Validate.Email, { failureMessage: "Please enter a valid CGI email" });
+	                Inp_Cand_Referral_Emailvalidation.add(Validate.Custom, { against: checkreferralemailexist, failureMessage: "Please enter a valid CGI email" });
+
+	                function checkreferralemailexist() {
+	                    var f = document.getElementById('form1');
+	                    var sFormReferral_Email = f.Inp_Cand_Referral_Email.value.toLowerCase(); //convert to lower case for searching
+	                    var nPos = 0;
+	                    nPos = sFormReferral_Email.indexOf('@');
+	                    if (nPos > 0) {
+	                        if ((sFormReferral_Email.indexOf('cgi.com', nPos + 1) != -1) || (sFormReferral_Email.indexOf('stanleyassociates.com', nPos + 1) != -1) || (sFormReferral_Email.indexOf('cgifederal.com', nPos + 1) != -1)) {
+	                            if (CheckContactExist(f, f.Inp_Cand_Referral_Email.value, 1) == 1) {
+	                                //get first + last name of referral if it exists
+	                                var sRef = CheckContactExist(f, f.Inp_Cand_Referral_Email.value, 3);
+	                                var aRef = sRef.split("~!~")
+	                                //document.getElementById('Inp_Cand_Referral_FirstName').value = unescape(aRef[0]);
+	                                //document.getElementById('Inp_Cand_Referral_LastName').value = unescape(aRef[1]);
+	                                document.getElementById('Inp_Cand_Referral_FirstName').value = aRef[0];
+	                                document.getElementById('Inp_Cand_Referral_LastName').value = aRef[1];
+	                                return true;
+	                            }
+	                        }
+	                        else {
+	                            document.getElementById('Inp_Cand_Referral_FirstName').value = "";
+	                            document.getElementById('Inp_Cand_Referral_LastName').value = "";
+	                        }
+	                    }
+	                }
+		        </script>
+		        </div>
+	        </div>	 
+					
+			<div class="row" style="display:none;">
+				<div class="leftcolumn">
+	            <label for="Inp_Cand_Referral_FirstName" class="profileField">First Name</label>
+	            </div>
+	            <div class="rightcolumn">
+	            <input class="ProfileLargeTextField" CustomFieldID=0 maxlength="50" Type='Text' id="Inp_Cand_Referral_FirstName" Name=Inp_Cand_Referral_FirstName value="" readonly style="background-color:#CCCCCC;" />
+	            </div>
+            </div> 
+	        <div class="row" style="display:none;">	
+	        	<div class="leftcolumn">
+	            <label for="Inp_Cand_Referral_LastName" class="profileField">Last Name</label>
+	            </div>
+	            <div class="rightcolumn">
+	            <input class="ProfileLargeTextField" CustomFieldID=0 maxlength="50" Type='Text' id="Inp_Cand_Referral_LastName" Name=Inp_Cand_Referral_LastName value="" readonly readonly style="background-color:#CCCCCC;" />
+	            </div>
+            </div>
+	              	
+			<div class="row">
+			    <input type="checkbox" name="IsRefNoConflict" id="IsRefNoConflict" />&nbsp;<label style="display:inline;" id="IsRefNoConflict_label" for="IsRefNoConflict" class="required">	I agree to allow CGI to contact the CGI member who referred me to obtain additional information about my application and to confirm my referral. <font color="#991F3D">*</font></label> <!-- 31562: By checking this box you agree to allow CPC to contact the individual listed above ... -->
+				<script type="text/javascript">
+				    var IsRefNoConflictvalidation = new LiveValidation('IsRefNoConflict', { validMessage: false, insertAfterWhatNode: "IsRefNoConflict_label" }, 'pane_ReferralName');
+				    IsRefNoConflictvalidation.add(Validate.Acceptance, { failureMessage: "To proceed as a referred candidate, you must agree to provide this authorization. If you do not agree, please indicate above that you have not been referred and click \"Apply Now.\"" });
+                </script>  
+		  		<br/>
+		  		<br/>
+				<span style="color: #cc0000;"><strong>* This field is required.</strong></span>
+            </div>
+        </div>
+        		
+	    <div class="row" id="chkAgreement_container"  style="display: none;" >
+            <div class="btn-wrapper" style=">
+              	<input class="btn" type="submit" name="BT_Apply" value="Apply Now" />
+            </div>
+        </div>
+
+		<div  style="" >
+			<div class="btn-wrapper">
+              	<!--a href="javascript:document.getElementById('form1').submit();" class="btn" target="“_blank”">I'm Interested</a-->
+              	<input class="btn" type="submit" name="BT_Apply2" value="I'm Interested" />
+            </div>
+		</div>
+
+            
+			<div class="media">
+                <div class="align">
+                    <div class="sharing-widget-wrapper">
+                        <h2>Share this</h2>
+                        <div id="block-socialsharingblock" data-block-plugin-id="social_sharing_block">
+                            <div class="social-media-sharing">
+                            <ul class="">
+			                    <li>
+			                        <img alt="Facebook" src="clientfiles/cgi_v2a/resources/client/img/Social_Media_Facebook.svg" class="FBIcon" style="cursor:pointer;" />
+			                    </li>
+			                    
+			                    <li>
+			                        <img alt="Linkedin" src="clientfiles/cgi_v2a/resources/client/img/Social_Media_LinkedIn.svg" class="LIIcon" style="cursor:pointer;" />
+			                    </li>
+			                    
+			                    <li>
+			                        <img alt="Twitter" src="clientfiles/cgi_v2a/resources/client/img/Social_Media_Twitter.svg" class="TWIcon" style="cursor:pointer;" />
+			                    </li>
+			                    
+			                  
+			                    <li>
+			                        <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+			  							<a class="addthis_button_compact"></a>
+									</div>
+			                    </li>
+			                </ul>
+                            </div>
+                        </div>
+                        
+
+                    </div>      
+                </div>
+			</div>
+			
+			
+            <div class="text-career">
+                <p></p>
+            </div>
+	
+        </footer>
+    </section>
+</div>
+
+
+	  </form>
+<!-- end Njnsection -->
+</div>
+
+
+
+<!-- neuvoo -->
+<p><img src="https://neuvoo.ca/pixel.gif?action=conversion+apply&amp;source=cgi-tracker"></p>
+<!-- neuvoo -->
+
+
+</div>
+	</div>			 
+ 
+    </div>
+<!-- end njoynPageContainer -->
+                 
+        
+<!-- end: NJOYN content -->
+
+
+<!-- end Njoyn content -->
+
+</div>
+
+        
+          </div>
+        </section>
+  </div>
+  <!-- ______________________ FOOTER _______________________ -->
+
+    <footer id="footer">
+        <div class="mq-footer">
+            <div class="region region-footer">
+                <div id="block-cgicustomblockwewanttohearfromyou" data-block-plugin-id="cgi_custom_we_want_to_hear">
+                    <div id="block-footercontact">
+                        <div class="cog--mq">
+                            <h2>Do you have any questions?</h2>
+                            <div class="button-wrapper">
+                                <a class="btn btn-white" href="xweb.asp?NTKN=c&amp;page=support&amp;clid=21001">Questions</a>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            
+            <div id="block-footermain" data-block-plugin-id="block_group:975c95bc-737e-4f8e-8bdc-f2aaa9da334b" class="block block-blockgroup block-block-group975c95bc-737e-4f8e-8bdc-f2aaa9da334b">
+                <div class="cog--mq">
+                    <p><strong style="font-size:1.3em;">EXPLORE CAREERS IN YOUR GEOGRAPHY</strong></p><div style="border-bottom:1px solid #e61739; margin-bottom: 15px;">
+                    <p><a href="https://www.cgi.com/en/careers/working-at-cgi">GLOBAL CAREERS SITE</a></p>
+                </div>
+
+                <div class="block-container">
+                    <!-- first column -->
+                    <nav role="navigation" aria-labelledby="block-usefullinks-menu" id="block-usefullinks" data-block-plugin-id="system_menu_block:useful-links" class="block block-menu navigation block-system-menublock menu--useful-links">
+                        <ul class="menu">
+                            <li><a href="http://www.cgi.com.au/en-au/careers">Australia</a></li>
+                            <li><a href="http://www.cgi.com/belgium/en/belgium/careers">Belgium</a></li>
+                            <li><a href="http://www.cgi.com/brasil/pt-br/brazil/careers">Brasil</a></li>
+                            <li><a href="http://www.cgi.com/canada/en-ca/careers">Canada</a></li>
+                            <li><a href="http://www.cgi.com/ceska-republika/cs/kariera">Česká Republika</a></li>
+                            <li><a href="http://www.cgi.dk/da/karriere">Danmark</a></li>
+                            <li><a href="http://www.de.cgi.com/de/karriere">Deutschland</a></li>
+                        </ul>
+                    </nav>
+
+                    <!-- second column -->
+                    <nav role="navigation" aria-labelledby="block-usefullinks-menu" id="block-usefullinks" data-block-plugin-id="system_menu_block:useful-links" class="block block-menu navigation block-system-menublock menu--useful-links">
+                    <ul class="menu">
+                        <li><a href="http://www.cgi.ee/et/karjaars">Estonia</a></li>
+                        <li><a href="http://www.cgi.com/spain/es/unete-a-cgi-en-españa">España</a></li>
+                        <li><a href="http://www.cgi.fi/fi/ura">Finland</a></li>
+                        <li><a href="http://www.cgi.fr/fr-fr/recrute">France</a></li>
+                        <li><a href="http://www.cgi.com/magyarorszag/hu/karrier">Hungary</a></li>
+                        <li><a href="http://www.cgi.com/india/en/india/careers">India</a></li>
+                        <li><a href="http://www.cgi.com/italy/en/italy/careers">Italy</a></li>
+                        
+                    </ul>
+                    </nav>
+
+                    <!-- third column -->
+                    <nav role="navigation" aria-labelledby="block-usefullinks-menu" id="block-usefullinks" data-block-plugin-id="system_menu_block:useful-links" class="block block-menu navigation block-system-menublock menu--useful-links">
+                    <ul class="menu">
+                        <li><a href="http://www.cgi.com/luxembourg/fr/luxembourg/carrieres">Luxembourg</a></li>
+                        <li><a href="http://www.cgi.com/malaysia/en/malaysia/careers">Malaysia</a></li>
+                        <li><a href="http://www.cgi.com/maroc/fr/carrieres">Maroc</a></li>
+                        <li><a href="http://www.cginederland.nl/nl/werken-bij-cgi">Nederland</a></li>
+                        <li><a href="http://www.cgi.com/norway/nb/careers">Norge</a></li>
+                        <li><a href="http://www.cgi.com/philippines/en/philippines/careers">Philippines</a></li>
+                        <li><a href="http://www.cgi.com/polska/pl/kariera">Polska</a></li>
+                    </ul>
+                    </nav>
+
+                    <!-- fourth column -->
+                    <nav role="navigation" aria-labelledby="block-usefullinks-menu" id="block-usefullinks" data-block-plugin-id="system_menu_block:useful-links" class="block block-menu navigation block-system-menublock menu--useful-links">
+                    <ul class="menu">
+                        <li><a href="http://www.cgi.com/portugal/pt-pt/portugal/careers">Portugal</a></li>                        <li><a href="http://www.cgi.com/romania/en/careers">Romania</a></li>                        <li><a href="http://www.cgi.com/slovensko/sk/kariera-v-cgi">Slovensko</a></li>
+                        <li><a href="http://www.cgi.se/sv/karriar">Sverige</a></li>
+                        <li><a href="http://www.cgi-group.co.uk/en-gb/careers">United Kingdom</a></li>
+                        <li><a href="http://www.cgi.com/us/en-us/careers">United States</a></li>
+                    </ul>
+                    </nav>
+                </div>
+            
+            </div>
+        </div>
+
+        <div id="block-footerlegal" data-block-plugin-id="block_group:20d36d3d-059b-47f0-b09d-852422e81e41" class="block block-blockgroup block-block-group20d36d3d-059b-47f0-b09d-852422e81e41">
+            <div class="cog--full">
+                <div>© 2021 CGI Inc.</div>
+                <nav role="navigation" aria-labelledby="block-legal-menu" id="block-legal" data-block-plugin-id="system_menu_block:legal" class="block block-menu navigation block-system-menublock menu--legal">
+                    <h2 class="visually-hidden" id="block-legal-menu">Legal</h2>
+                    <ul data-region="footer_legal" class="menu list-unstyled">
+                        <li>
+                            <a href="https://www.cgi.com//en/legal-restrictions" data-drupal-link-system-path="node/5680">Legal</a>
+                        </li>
+                        <li>
+                            <a href="https://www.cgi.com//en/global-privacy" data-drupal-link-system-path="node/5681">Privacy</a>
+                        </li>
+                        <li>
+                            <a href="https://www.cgi.com//en/accessibility" data-drupal-link-system-path="node/41353">Accessibility</a>
+                        </li>
+                    </ul>
+                </nav>
+                <div>Consulting // Systems integration // Outsourcing // Business solutions</div>
+          </div>
+        </div>
+    </div>
+</div>
+
+    </footer>
+    <!-- /footer -->
+  
+</div>
+<!-- /page -->
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"careers-search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"category_id":"","country_id":"","job_type_id":""}},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"anchor_link\/drupal.anchor_link,better_exposed_filters\/general,cgi_country_widget\/cgi_country_widget.script,cgi_custom\/accessibility,cgi_custom\/njoynjobs,cgi_default\/fontawesome,cgi_default\/fonts,cgi_default\/global_styles,cgi_default\/lib,ckeditor_accordion\/accordion_style,ckeditor_bootstrap_tabs\/tabs,cog\/lib,cookieconsent\/cookieconsent-min,cookieconsent\/light-top,cookieconsent\/settings,core\/drupal.collapse,core\/drupal.dialog.ajax,core\/html5shiv,node\/form,poll\/drupal.poll-links,search_api_autocomplete\/search_api_autocomplete,system\/base,views\/views.module","theme":"cgi_default","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/en\/careers-search":true,"\/en\/search\/site":true},"cookieconsent":{"message":"Our website uses cookies. By continuing to browse this website, you accept that cookies are used to help us analyze how the website is used and to offer you a better experience, such as enhanced navigation, content such as videos and from social platforms, and social sharing buttons. If you do not agree to the use of cookies, you may disable them in your web browser as explained in our @link.","dismiss":"I consent to CGI\u0027s use of cookies.","learnMore":"Web Privacy Policy","link":"\/en\/global-privacy","path":"\/","expiry":"365","target":"_self","domain":".preprod.ent.cgi.com","markup":"\u003Cdiv class=\u0022cc_banner cc_container cc_container--open cookie-consent\u0022 id=\u0022cookie-consent-container\u0022\u003E\n  \u003Cdiv class=\u0022message-wrapper\u0022\u003E\n    \u003Cp class=\u0022cc_message\u0022\u003EOur website uses cookies. By continuing to browse this website, you accept that cookies are used to help us analyze how the website is used and to offer you a better experience, such as enhanced navigation, content such as videos and from social platforms, and social sharing buttons. If you do not agree to the use of cookies, you may disable them in your web browser as explained in our \u003Ca data-cc-if=\u0022options.link\u0022 target=\u0022_self\u0022 class=\u0022cc_more_info\u0022 href=\u0022\/en\/global-privacy\u0022\u003EWeb Privacy Policy\u003C\/a\u003E.\u003C\/p\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0022actions-wrapper\u0022\u003E\n    \u003Cinput type=\u0022checkbox\u0022 id=\u0022cookie-consent\u0022\u003E\n    \u003Clabel for=\u0022cookie-consent\u0022 data-cc-event=\u0022click:dismiss\u0022\u003E\n      I consent to CGI\u0026#039;s use of cookies.\n    \u003C\/label\u003E\n  \u003C\/div\u003E\n  \u003Ca class=\u0022cc_logo\u0022 target=\u0022_blank\u0022 href=\u0022http:\/\/silktide.com\/cookieconsent\u0022\u003ECookie Consent plugin for the EU cookie law\u003C\/a\u003E\n\u003C\/div\u003E\n","container":null,"theme":false},"smartIp":"{\u0022location\u0022:{\u0022source\u0022:\u0022smart_ip\u0022,\u0022ipAddress\u0022:\u0022172.27.113.140\u0022,\u0022ipVersion\u0022:4,\u0022timestamp\u0022:1530621105,\u0022originalData\u0022:null,\u0022country\u0022:\u0022\u0022,\u0022countryCode\u0022:\u0022\u0022,\u0022region\u0022:\u0022\u0022,\u0022regionCode\u0022:\u0022\u0022,\u0022city\u0022:\u0022\u0022,\u0022zip\u0022:\u0022\u0022,\u0022latitude\u0022:\u0022\u0022,\u0022longitude\u0022:\u0022\u0022,\u0022timeZone\u0022:\u0022\u0022}}","smartIpSrc":{"smartIp":"smart_ip","geocodedSmartIp":"geocoded_smart_ip","w3c":"w3c"},"cgi_custom":{"accessibility":{"isAnonymous":true}},"search_api_autocomplete":{"solr_search":{"delay":true,"min_length":3}},"ajax":[],"user":{"uid":0,"permissionsHash":"abdff082de7f56f178627569cb887de0d69d92d327ed81d19b2037d36a9afa6e"}}</script>
+
+<script src="clientfiles/cgi_v2a/resources/client/js/ready.min.js?v=1.0.8"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/jquery.min.js?v=2.2.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/jquery.once.min.js?v=2.1.1"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/drupalSettingsLoader.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/drupal.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/drupal.init.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/core-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/widget-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/autocomplete.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/tabs.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/cookieconsent.settings.js?v=1.x"></script>
+
+<script src="clientfiles/cgi_v2a/resources/client/js/slick.min.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/cgi_default.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/mobile-menu.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/responsive-tables.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/jquery.mmenu.all.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/ckeditor-accordion.js?v=1.x"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/better_exposed_filters.js?v=3.x"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/njoynjobs.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/debounce.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/jquery.cookie.min.js?v=1.4.1"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/form.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/details-aria.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/collapse.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/progress.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/ajax.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/displace.js?v=8.3.9"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/button-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/mouse-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/draggable-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/position-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/resizable-min.js?v=1.11.4"></script>
+
+<script src="clientfiles/cgi_v2a/resources/client/js/countries.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/check-accessibility.js?pb35j7"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/menu-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/autocomplete-min.js?v=1.11.4"></script>
+<script src="clientfiles/cgi_v2a/resources/client/js/search_api_autocomplete.js?pb35j7"></script>
+
+<script type="text/javascript">    window.NREUM || (NREUM = {}); NREUM.info = { "beacon": "bam.nr-data.net", "licenseKey": "87f092eede", "applicationID": "143892122", "transactionName": "YwBSMEADCEFZARBRXFpKcxFBFglfFxQNXUQaBlEWVwcUbUsHBUpQXEtABVUHOQM=", "queueTime": 0, "applicationTime": 7477, "atts": "T0dRRggZG08=", "errorBeacon": "bam.nr-data.net", "agent": "" }</script></body>
+
+
+<!-- Google Analytics Code-->
+
+
+<!-- CPC Google Analytics Code Updated January 27th, 2012 -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28538218-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+function switchLanguage ( value ){
+	window.location="XWeb.asp?NTKN=c&page=jobdetails&JobId=J0921-1397&lang=" + value;
+	
+}
+</script>
+<script type="text/javascript">
+function switchPage ( value ){
+	window.location="XWeb.asp?NTKN=c&page=" + value + "&JobId=J0921-1397";
+	
+}
+</script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-570bd9376afe3e5b"></script> 
+<script type="text/javascript">
+var addthis_share = {
+   url: 'https://cgi.njoyn.com/CGI/in/share/JobDetails.asp?clid=21001&jobid=J0921-1397&BRID=859484&LANG=1&SBDID=20561',
+   title: "CGI Zkušený Vue.js Vývojář | Software Development/ Engineering Careers | Prague, Ostrava, Praha, hlavní mešto, Czech Republic"
+   //media: "https://cgi.njoyn.com/CGI/xweb/clientfiles/cgi/logo3.png",
+   //url_transforms: {
+   //	shorten : {
+   //			default: 'bitly',
+   //		}
+   //},
+   //shorteners : {
+   //	bitly: {}
+   //}
+}
+</script>
+	 
+  </body>
+</html>

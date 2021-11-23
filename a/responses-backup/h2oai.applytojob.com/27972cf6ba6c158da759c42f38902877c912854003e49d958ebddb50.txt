@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Engineering Intern - h2o.ai - Career Page</title>
+    <!--[if lt IE 9]><script type="text/javascript">Date.now = Date.now || function() { return +new Date; };</script><![endif]-->
+    <link rel="icon" href="/img/v1.1/favicons/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/img/v1.1/favicons/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/img/v1.1/favicons/apple-touch-icon.png">
+    <link rel="icon" sizes="196x196" href="/img/v1.1/favicons/touch-icon.png">
+    <link rel="canonical" href="https://h2oai.applytojob.com/apply/cOMYDplJ3i/Engineering-Intern" />
+    <meta property="og:title" content="Engineering Intern - h2o.ai - Career Page" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://h2oai.applytojob.com/apply/cOMYDplJ3i/Engineering-Intern" />
+    <meta property="og:description" content="Apply to Engineering Intern at h2o.ai in Prague, Czech Republic." />
+    <meta property="og:image" content="https://app.jazz.co/img/apps/share_a_job-icon.jpg" />
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Engineering Intern - h2o.ai - Career Page" />
+    <meta name="twitter:description" content="Apply to Engineering Intern at h2o.ai in Prague, Czech Republic." />
+    <meta name="twitter:image" content="https://app.jazz.co/img/apps/share_a_job-icon.jpg" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"7232591015",applicationID:"29127175"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?p("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&p("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(f&&f<r.startTime)return;p("lcp",[r])}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||p("cls",[t])})}function a(t){if(t instanceof g&&!y){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),y=!0,p("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=l.now(),p("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d,p=t("handle"),l=t("loader"),v=t(9),m=t(3),g=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(h){}s=new PerformanceObserver(i);try{s.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}d=new PerformanceObserver(o);try{d.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var y=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(t){document.addEventListener(t,a,m(!1))})}v(c)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){y[t]=m(t).concat(e)}function v(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:h,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=P.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+P.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+P.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,h="addEventListener",y="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1212.min.js"},M=w&&b&&b[h]&&!/CriOS/.test(navigator.userAgent),P=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:M,userAgent:s,disabled:E};if(!E){t(1),t(7),g[h]?(g[h]("DOMContentLoaded",o,l(!1)),m[h]("load",r,l(!1))):(g[y]("onreadystatechange",i),m[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="description" content="Apply to Engineering Intern at h2o.ai in Prague, Czech Republic." />
+    <meta name="keywords" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <script type="application/ld+json">
+{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "JobPosting",
+    "url": "https:\/\/h2oai.applytojob.com\/apply\/cOMYDplJ3i\/Engineering-Intern",
+    "title": "Engineering Intern",
+    "description": "<p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">H2O.ai is the leading AI cloud company, on a mission to democratize AI for everyone. Customers use the H2O AI Hybrid Cloud platform to rapidly solve complex business problems and accelerate the discovery of new ideas. H2O.ai is the trusted AI provider to more than 20,000 global organizations, including AT&amp;T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter &amp; Gamble, PayPal, PwC, Reckitt, Unilever and Walgreens, over half of the Fortune 500 and one million data scientists. Goldman Sachs, NVIDIA and Wells Fargo are not only customers and partners, but strategic investors in the company. H2O.ai\u2019s customers have honored the company with a Net Promoter Score (NPS) of 78 \u2014 the highest in the industry based on breadth of technology and deep employee expertise. <\/span><\/span><\/p><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">The world\u2019s top 20 Kaggle Grandmasters (the community of best-in-the-world machine learning practitioners and data scientists) are employees of H2O.ai. A strong AI for Good ethos to make the world a better place and responsible AI drive the company\u2019s purpose. <\/span><\/span><\/p><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Please join our movement at <a href=\"http:\/\/www.H2O.ai\" style=\"color:#0563c1; text-decoration:underline\">www.H2O.ai<\/a><\/span><\/span><\/p><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Quality Engineering interns at H2O.ai work on short term projects to develop tools\/ frameworks that help improve the stability\/usability\/performance\/quality of H2O products. We are looking for students who are proficient in coding and have a passion for quality and learning new tools\/technologies\/concepts.<\/span><\/span><\/p><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><b><span style=\"color:black\">What You Will Do<\/span><\/b><\/span><\/span><\/p><ul><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Develop testing\/integration tools to enable developers to execute faster and own product quality.<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Mitigate the technical issues that customers face by building software tools and test automation to help reproduce and resolve these issues.<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Build tools and frameworks that measure the performance of various features of H2O products.<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Identify bottlenecks in the build\/test systems and mitigate them using strategies such as parallelizing pipelines, avoiding redundant tasks, precomputation, caching, memory optimization, etc.<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Develop diagnostic systems and reporting tools to debug and collect systems and product information.<\/span><\/span><\/li><\/ul><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><b>What We Are Looking For<\/b><\/span><\/span><\/p><ul><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Must be enrolled in or have completed a bachelor\u2019s degree in Computer Science, Maths, Statistics or a related discipline.<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Must be proficient in one of the following languages: Python, Java or C++<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Must have working knowledge of any scripting language.<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Must have experience working and developing in a Unix\/Linux environment.<\/span><\/span><\/li><\/ul><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><b><span style=\"color:black\">How to Stand Out From the Crowd<\/span><\/b><\/span><\/span><\/p><ul><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Knowledge of Python, Java, Spark, Hadoop, Docker, Machine learning techniques is a big plus.<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Experience with Docker, Jenkins, Git, machine learning algorithms, statistics, distributed\/parallel systems.<\/span><\/span><\/li><\/ul><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\"><b><span style=\"color:black\">Why H2O.ai?<\/span><\/b><\/span><\/span><\/p><ul><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Market Leader in Total Rewards<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Remote-Friendly Culture<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Flexible working environment<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Be part of a world-class team<\/span><\/span><\/li><li><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Career Growth<\/span><\/span><\/li><\/ul><p><span style=\"font-size:14px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">H2O.ai is committed to creating a diverse and inclusive culture. All qualified applicants will receive consideration for employment without regard to their race, ethnicity, religion, gender, sexual orientation, age, disability status or any other legally protected basis.<\/span><\/span><\/p>",
+    "datePosted": "2021-11-12",
+    "validThrough": "2022-02-10",
+    "employmentType": "TEMPORARY",
+    "hiringOrganization": {
+        "@type": "Organization",
+        "name": "h2o.ai",
+        "sameAs": "http:\/\/www.h2o.ai\/"
+    },
+    "jobLocation": {
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Prague",
+            "addressRegion": "",
+            "postalCode": ""
+        }
+    },
+    "experienceRequirements": "Entry Level"
+}
+</script>
+    
+
+    <!-- Style sheets -->
+    <!--[if IE 8]>
+        <style type="text/css">body { min-width: 1140px; }</style>
+        <style type="text/css">
+            #resumator-apply-with-linkedin2-wrapper,
+            #resumator-apply-with-indeed-wrapper {
+                display: none !important;
+            }
+        </style>
+    <![endif]-->
+    	<link rel="stylesheet" type="text/css" href="/css/v2/css/apply.css?6.3.7" title="default" />
+
+    <!-- User CSS settings -->
+    <style type="text/css">
+        /* Basic CMS Settings */
+                                
+        /* Advanced CMS Declarations */
+            </style>
+
+    <!-- JavaScript -->
+    	<script src="/js/_libraries/jquery/jquery-1.7.1.js" type="text/javascript"></script>
+	<script src="/js/_libraries/jquery/plugins/ui/jquery.ui.js?6.3.7" type="text/javascript"></script>
+	<script src="/js/_libraries/jquery/plugins/qtip/jquery.qtip.js?6.3.7" type="text/javascript"></script>
+	<script src="/js/_libraries/jquery/plugins/clickr/jquery.clickr.js?6.3.7" type="text/javascript"></script>
+    <script>var dv_language = 'en_us';</script>    <script type="text/javascript">
+    var DV_DEPUTY = "";
+    var DV_APP_ROOT = "";
+    var DV_ID = "cOMYDplJ3i";
+    var DV_SUBDOMAIN = "";
+    var DV_CUSTID = "";
+    var DV_USER_FIRSTNAME = "";
+    var DV_USER_LASTNAME = "";
+    var DV_USER_EMAIL = "";
+    var DV_USER_ID = "";
+        var DV_GA_ID = "";
+        var DV_LOCATION = 'app';
+    var DV_WEBSITE_URL_HTTP = "http://h2oai.applytojob.com";
+    var DV_WEBSITE_URL_HTTPS = "https://h2oai.applytojob.com";
+    var DV_S3_BUCKET_NAME = "resumator";
+    var DV_ADDRESS_MANDATORY = 0;
+    var SEO_CAMPAIGN_1 = "43236";
+    var SEO_CAMPAIGN_2 = "h2oai";
+</script>
+        <script type="text/javascript">
+        var DV_RESPONSIVE_LAYOUT = true;
+        var DV_JOB_BOARD_CODE = 'cOMYDplJ3i';
+        var doc = document.documentElement;
+        doc.setAttribute('data-useragent', navigator.userAgent);
+    </script>
+</head>
+
+
+<body class="resumator-jobboard-page jobboard job-cOMYDplJ3i dept-intern---engineering">
+
+    <a href="#job-description" class="skip-link" tabindex="0">Skip To Job Description</a>
+
+    <div class='jobs-navbar'>
+        <div class='container'>
+                            <a href="http://www.h2o.ai/" class='btn btn-link btn-icon-right pull-right'>
+                    <span class="desktop"><span id="resumator-view-our-website-text">View Our Website</span><i class='fa fa-chevron-right'></i></span>
+                    <i class="fa fa-external-link-square mobile"></i>
+                </a>
+                        <a href="http://h2oai.applytojob.com/apply/" id='resumator-back-button' class="btn btn-link">
+                <i class='fa fa-chevron-left'></i><span class="desktop" id="resumator-view-all-jobs-text">View All Jobs</span>
+            </a>
+        </div>
+    </div>
+        <div class='page-header'>
+        <div class='container'>
+                            <h1 class="brand-text">
+                                                                        <a href="http://h2oai.applytojob.com/apply">
+                                                                         h2o.ai                                                                        </a>
+                                                             </h1>
+                    </div>
+    </div>
+
+        
+<div class="welcome-message hidden">
+    <div class="container">
+        <h2>Thanks for visiting our Job Board. Please review our open positions and apply to the positions that match your qualifications.</h2>    </div>
+</div>
+<div class='job-header'>
+    <div class='container'>
+                    <h1>Engineering Intern</h1>
+            <ul class='list-inline job-attributes'>
+                                    <li title="Location">
+                        <i class='fa fa-map-marker'></i>Prague, Czech Republic                    </li>
+                                <li id='resumator-job-employment' title="Type">
+                    <i class='fa fa-clock-o'></i>Temporary                </li>
+                                    <li title="Department">
+                        <i class='fa fa-sitemap'></i>Intern - Engineering                    </li>
+                                <li id='resumator-job-experience' title="Experience">
+                    <i class='fa fa-graduation-cap'></i>Entry Level                </li>
+            </ul>
+            <div class="social-tools">
+                <a
+                    class="btn btn-lg btn-gray"
+                    data-test="job-board-responsive-share"
+                    href="https://h2oai.applytojob.com/app/share/cOMYDplJ3i"
+                    target="_blank"
+                    role="button"
+                    data-track-share-click="Responsive">
+                    <i class="fa fa-share-alt"></i>
+                    Share
+                </a>
+            </div>
+            </div>
+</div>
+    <div class='page-body job-details'>
+        <div class='container'>
+            <div class='row'>
+                <div class='col col-xs-7 job-description' id="job-description">
+                    <div class="description"><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">H2O.ai is the leading AI cloud company, on a mission to democratize AI for everyone. Customers use the H2O AI Hybrid Cloud platform to rapidly solve complex business problems and accelerate the discovery of new ideas. H2O.ai is the trusted AI provider to more than 20,000 global organizations, including AT&amp;T, Allergan, Bon Secours Mercy Health, Capital One, Commonwealth Bank of Australia, GlaxoSmithKline, Hitachi, Kaiser Permanente, Procter &amp; Gamble, PayPal, PwC, Reckitt, Unilever and Walgreens, over half of the Fortune 500 and one million data scientists. Goldman Sachs, NVIDIA and Wells Fargo are not only customers and partners, but strategic investors in the company. H2O.ai’s customers have honored the company with a Net Promoter Score (NPS) of 78 — the highest in the industry based on breadth of technology and deep employee expertise. </span></span></p><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">The world’s top 20 Kaggle Grandmasters (the community of best-in-the-world machine learning practitioners and data scientists) are employees of H2O.ai. A strong AI for Good ethos to make the world a better place and responsible AI drive the company’s purpose. </span></span></p><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Please join our movement at <a href="http://www.H2O.ai" style="color:#0563c1; text-decoration:underline">www.H2O.ai</a></span></span></p><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Quality Engineering interns at H2O.ai work on short term projects to develop tools/ frameworks that help improve the stability/usability/performance/quality of H2O products. We are looking for students who are proficient in coding and have a passion for quality and learning new tools/technologies/concepts.</span></span></p><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;"><b><span style="color:black">What You Will Do</span></b></span></span></p><ul><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Develop testing/integration tools to enable developers to execute faster and own product quality.</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Mitigate the technical issues that customers face by building software tools and test automation to help reproduce and resolve these issues.</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Build tools and frameworks that measure the performance of various features of H2O products.</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Identify bottlenecks in the build/test systems and mitigate them using strategies such as parallelizing pipelines, avoiding redundant tasks, precomputation, caching, memory optimization, etc.</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Develop diagnostic systems and reporting tools to debug and collect systems and product information.</span></span></li></ul><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;"><b>What We Are Looking For</b></span></span></p><ul><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Must be enrolled in or have completed a bachelor’s degree in Computer Science, Maths, Statistics or a related discipline.</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Must be proficient in one of the following languages: Python, Java or C++</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Must have working knowledge of any scripting language.</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Must have experience working and developing in a Unix/Linux environment.</span></span></li></ul><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;"><b><span style="color:black">How to Stand Out From the Crowd</span></b></span></span></p><ul><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Knowledge of Python, Java, Spark, Hadoop, Docker, Machine learning techniques is a big plus.</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Experience with Docker, Jenkins, Git, machine learning algorithms, statistics, distributed/parallel systems.</span></span></li></ul><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;"><b><span style="color:black">Why H2O.ai?</span></b></span></span></p><ul><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Market Leader in Total Rewards</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Remote-Friendly Culture</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Flexible working environment</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Be part of a world-class team</span></span></li><li><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">Career Growth</span></span></li></ul><p><span style="font-size:14px;"><span style="font-family:Arial,Helvetica,sans-serif;">H2O.ai is committed to creating a diverse and inclusive culture. All qualified applicants will receive consideration for employment without regard to their race, ethnicity, religion, gender, sexual orientation, age, disability status or any other legally protected basis.</span></span></p></div>
+                    <a href="#" id="read-more-description">Read More</a>
+                </div>
+                <div id="job-application-form-container" class='col col-xs-5 job-application-form'>
+                    <div class="mobile resumator-mobile-apply-wrapper">
+                        <button type="button" id="resumator-mobile-apply-button" class='btn btn-block'>Apply for Position</button>
+                    </div>
+                    <div id="resumator-application-form">
+                                                                        <div class="resumator-resume-text" id="resumator-resume-upload">
+
+    <h3 class="resumator-resume-text" id="resumator-resumes-title">
+        Apply for this position    </h3>
+
+    <div class="required-help-text">Required<i class="asterisk">*</i></div>
+
+    
+            
+                    <div id="resumator-apply-with-indeed-wrapper">
+                
+                <span id="resumator-indeed-apply-widget" class="indeed-apply-widget"
+                    data-indeed-apply-apiToken="e7ead154e87d9b9107701fb9b23d0166117d5716f539c95cde882041de21443d"
+                    data-indeed-apply-jobTitle="Engineering Intern"
+                    data-indeed-apply-postUrl="http://h2oai.applytojob.com/apply/parse/ia/cOMYDplJ3i?1637655390URWVSTQZYX"
+                    data-indeed-apply-questions="http://h2oai.applytojob.com/apply/get/questions/cOMYDplJ3i?1637655390URWVSTQZYX"
+                    data-indeed-apply-phone="required"
+                    data-indeed-apply-jobmeta="LILI"
+                    data-indeed-apply-allow-apply-on-indeed="0"
+                                        >
+                </span>
+
+                                    <div class="resumator-external-apply-button indeed">
+                        <div class="logo indeed-logo"></div>
+                        <div class="text" id="resumator-apply-with-indeed-text">Apply with Indeed</div>
+                    </div>
+                
+                <script>
+                    (function(d, s, id) {
+                        var js, iajs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)){return;}
+                        js = d.createElement(s); js.id = id;js.async = true;
+                        js.src = "https://apply.indeed.com/indeedapply/static/scripts/app/bootstrap.js";
+                        iajs.parentNode.insertBefore(js, iajs);
+                    }(document, 'script', 'indeed-apply-js'));
+                </script>
+            </div>
+            
+            <script>
+            // GTM Values For A/B Testing
+            var EXP1_TWO_STAGE_APPLY_ENABLED = false;
+            var EXP1_TWO_STAGE_APPLY_CHOSEN = false;
+        </script>
+    
+        <script>
+        window.resumeRequired = true;
+    </script>
+    
+    
+    <form action="https://h2oai.applytojob.com/apply/cOMYDplJ3i/Engineering-Intern?source=LILI" method="POST" data-test="form_submit_new_resume" id="form_submit_new_resume" enctype="multipart/form-data">
+<input type="hidden" id="dv_deputy" name="dv_deputy" value="" />
+<input type="hidden" id="id_form_id" name="form_id" value="submit_new_resume" />
+<input type="hidden" name="resumator-subdomain-value" data-test="resumator-subdomain-value" id="resumator-subdomain-value" maxlength="" class="" value="h2oai" /><input type="hidden" name="resumator-tags-value" data-test="resumator-tags-value" id="resumator-tags-value" maxlength="" class="" value="" /><input type="hidden" name="uploaded-file" data-test="uploaded-file" id="uploaded-file" maxlength="" class="" value="" />
+        
+        <input type="hidden" name="resumator-job-value" data-test="resumator-job-value" id="resumator-job-value" maxlength="" class="" value="cOMYDplJ3i" />
+	<input type="hidden" name="resumator-source-value" data-test="resumator-source-value" id="resumator-source-value" maxlength="" class="" value="LILI" />
+	<input type="hidden" name="resumator-recruiter-value" data-test="resumator-recruiter-value" id="resumator-recruiter-value" maxlength="" class="" value="" />
+	
+        <div class='job-form-fields'>
+            <div class='form-group'>
+                <label id='resumator-firstname-label' for='resumator-firstname-value' class='control-label'>First Name<i class="asterisk">*</i></label>
+                                <input type='text' id='resumator-firstname-value' name='resumator-firstname-value' value='' class='form-control'/>
+            </div>
+
+            <div class='form-group'>
+                <label id='resumator-lastname-label' for='resumator-lastname-value' class='control-label'>Last Name<i class="asterisk">*</i></label>
+                                <input type='text' id='resumator-lastname-value' name='resumator-lastname-value' value='' class='form-control'/>
+            </div>
+
+            <div class='form-group'>
+                <label id='resumator-email-label' for='resumator-email-value' class='control-label'>Email Address<i class="asterisk">*</i></label>
+                                <input type='email' id='resumator-email-value' name='resumator-email-value' value='' class='form-control'/>
+            </div>
+
+            <div class='form-group'>
+                <label id='resumator-phone-label' for='resumator-phone-value' class='control-label'>Phone<i class="asterisk">*</i></label>
+                                <input type="tel" id="resumator-phone-value" name="resumator-phone-value" maxlength="50" class="form-control" value="">
+            </div>
+
+                            <div class="form-group" id="resumator-address">
+                    <label id='resumator-address-label' for='resumator-address-value' class='control-label'>Address</label>
+                                        <div class="resumator-input" id="resumator-address-field">
+                        <input type="text" id="resumator-address-value" name="resumator-address-value" maxlength="255" class="form-control" value="" placeholder="Address">
+                        <div class="row">
+                            <div class="col col-xs-5">
+                                <input type="text" id='resumator-city-value' name="resumator-city-value" maxlength="255" class="form-control" value="" placeholder="City">
+                            </div>
+                            <div class="col col-xs-4">
+                                <input type="text" id='resumator-state-value' name="resumator-state-value" maxlength="50" class="form-control" value="" placeholder="State/Province">
+                            </div>
+                            <div class="col col-xs-3">
+                                <input type="text" id='resumator-postal-value' name="resumator-postal-value" maxlength="50" class="form-control" value="" placeholder="Postal">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+                        <div id="resumator-resume" class='form-group'>
+                                    <label id='resumator-resume-label' for='resumator-resume-value' class='control-label'>Resume<i class="asterisk">*</i></label>
+                                <div id="resumator-two-stage-resume-toggle" class="form-group none">
+                    <i>We've received your resume. Click <a href="#" id="resumator-two-stage-change-resume">here</a> to update it.</i>
+                </div>
+                                <div id="resumator-resume-options" class="resumator-resume-text">
+                    <a id="resumator-choose-upload" class="resumator-resume-action" href="#">Attach resume</a>
+                    or
+                    <a id="resumator-choose-paste" class="resumator-resume-action" href="#">Paste resume</a>
+                </div>
+                <div id="resumator-resume-upload-wrapper" class="none">
+                    <div class="resumator-resume-text">
+                        Attach resume as .pdf, .doc, .docx, .odt, .txt, or .rtf (limit 5MB) or
+                        <a id="resumator-resume-switch-paste" class="resumator-resume-action" href="#">Paste resume</a>
+                    </div>
+                    <div class="resumator-input" id="resumator-resume-field">
+                        <input type="hidden" name="MAX_FILE_SIZE" value="10585760" /><input type="file"  class="" id="resumator-resume-value" name="resumator-resume-value">                    </div>
+                </div>
+                <div id="resumator-resume-paste-wrapper"  class="resumator-resume-text none">
+                    <div class="resumator-resume-text">
+                        <p>
+                            Paste your resume here or
+                            <a id="resumator-resume-switch-upload" class="resumator-resume-action" href="#">Attach resume file</a>
+                        </p>
+                    </div>
+                    <div class="resumator-input" id="resumator-resume-field">
+                        <textarea name="resumator-resumetext-value" id="resumator-resumetext-value" class="form-control resumator-field" rows='5'></textarea>
+                    </div>
+                </div>
+            </div>
+            
+            <textarea  name="resumator-xml-value" id="resumator-xml-value" class="none"></textarea>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                            
+                <input type="hidden" id="resumator-detect-mobile" name="resumator-detect-mobile">
+
+                
+                <div id="resumator-submit" class="form-group">
+                    <a href="#" id="resumator-submit-resume" class="btn">Submit Application</a>
+                </div>
+                    </div>
+
+        <input type="hidden" name="linkedin-profile" id="input-linkedin-profile">
+    </form>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="page-footer">
+        <a href="https://www.jazzhr.com" class="logo" id="resumator-logo">
+            <span id="powered-by-resumator">Powered by</span>
+            <img src="/img/v1.1/logos/jazzhr-logo.png" />
+        </a>
+    </div>
+
+    <script type="text/javascript" src="/js/_libraries/jquery/plugins/bootstrap/bootstrap.min.js?6.3.7"></script>
+        	<script src="/js/_libraries/jquery/plugins/placeholder/jquery.placeholder.js?6.3.7" type="text/javascript"></script>
+	<script src="/js/_libraries/jquery/plugins/textareacounter/jquery.textareacounter.js?6.3.7" type="text/javascript"></script>
+	<script type="text/javascript" src="/js/apply/submit-resume.js?6.3.7"></script>
+    <!--[if lt IE 10]>
+        <script type="text/javascript">
+            // Set address placeholders
+            $("#resumator-address-value, #resumator-city-value, #resumator-state-value, #resumator-postal-value").placeholder();
+        </script>
+    <![endif]-->
+
+    <!-- Google Tag Manager -->
+    <!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-H9NR" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-H9NR');</script>
+
+<script>window.googleTagManager = window.dataLayer || [];</script>
+<!-- End Google Tag Manager -->
+    <script>
+        $('[data-track-share-click]').click(function () {
+            googleTagManager.push({
+                'event': 'gaEvent',
+                'eventCategory': 'Share Job',
+                'eventAction': 'Click',
+                'eventLabel': $(this).data('track-share-click') + ' Share'
+            });
+        });
+    </script>
+    <!-- End Google Tag Manager -->
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"7232591015","applicationID":"29127175","transactionName":"ZAcBYxEEXxICBkVRDV1NIEIQEV4MTARBSA5KTRNYEAxFCAwL","queueTime":0,"applicationTime":49,"atts":"SEAWFVkeTE1BBBMCGU4f","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>
