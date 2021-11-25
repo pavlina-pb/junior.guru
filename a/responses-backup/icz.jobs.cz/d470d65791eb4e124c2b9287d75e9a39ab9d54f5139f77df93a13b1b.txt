@@ -36,8 +36,7 @@
 <meta name="msapplication-TileImage" content="/assets/components/favicons/images/mstile-144x144.png?av=939efd3b3d1824d9">
 <meta name="msapplication-config" content="/assets/components/favicons/images/browserconfig.xml?av=939efd3b3d1824d9">
 <meta name="theme-color" content="#ffffff">
-	
-    <script>
+	    <script>
   var LMC_GTM_ID = [];
 </script>    <script>
         (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -51,7 +50,8 @@
 			var cse$ = $.noConflict(),
 			$ = cse$;
 		</script>
-	</head>
+	    
+</head>
 <body class="no-js et_divi_builder">
 
     <noscript>
@@ -463,5 +463,6 @@
 
 	<script src="/assets/vendors/js/main-1f00adb364.js?av=939efd3b3d1824d9"></script>
 	<script src="/assets/js/script.min.js?av=939efd3b3d1824d9"></script>
+
 </body>
 </html>
