@@ -1,0 +1,415 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta name="twitter:card" content="summary_large_image">
+
+<title>Platform maintenance | Njoyn</title>
+
+	<META PROPERTY="og:title" CONTENT="Platform maintenance | Njoyn"/>
+	<META PROPERTY="twitter:title" CONTENT="Platform maintenance | Njoyn"/>
+	<meta property="og:type" content="website" />
+
+<META HTTP-EQUIV="expires" VALUE="Sat, 1 Jan 2000 11:00:00 GMT">
+<META HTTP-EQUIV="pragma" CONTENT="no-cache">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://marketing.njoyn.com/cdnr/25/acton/attachment/18115/f-006f/1/-/-/-/-/njoyn-fevicon.png?v=2" />
+<link rel="icon" type="image/x-icon" href="https://marketing.njoyn.com/cdnr/25/acton/attachment/18115/f-006f/1/-/-/-/-/njoyn-fevicon.png?v=2" />
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+
+<script type="text/javascript">
+	var AOSlideshow=function(){function _startSlideshow(){intervalSliding=setInterval(function(){_slideShow()},properties.delay)}function _slideShow(){_setElements(),nextSlide&&_showSlide(nextSlide,nextIndicator)}function _showSlide(slide,indicator,oppositeDirection){var slideOut,slideIn;arrowNext&&(arrowNext.style.display="none",arrowNext.offsetHeight,arrowNext.style.display=""),arrowPrevious&&(arrowPrevious.style.display="none",arrowPrevious.offsetHeight,arrowPrevious.style.display=""),oppositeDirection?(slideOut="ao-slide-opposite-out",slideIn="ao-slide-opposite-in"):(slideOut="ao-slide-out",slideIn="ao-slide-in");for(var i=0;i<slides.length;i++)slides[i].classList.remove("ao-slide-opposite-out"),slides[i].classList.remove("ao-slide-opposite-in"),slides[i].classList.remove("ao-slide-out"),slides[i].classList.remove("ao-slide-in");activeSlide&&(activeSlide.classList.remove("ao-slide-active"),activeSlide.classList.add(slideOut)),slide.classList.add("ao-slide-active",slideIn),slide.getAttribute("data-src")&&slide.style.backgroundImage!=slide.getAttribute("data-src")&&(slide.style.backgroundImage="url( "+slide.getAttribute("data-src")+")"),indicators.length&&indicator&&(activeIndicator.classList.remove("ao-indicator-active"),indicator.classList.add("ao-indicator-active")),_setElements()}function _nextSlide(){clearInterval(intervalSliding),_showSlide(nextSlide,nextIndicator),_startSlideshow()}function _previousSlide(){clearInterval(intervalSliding),_showSlide(previousSlide,previousIndicator,!0),_startSlideshow()}function _jumpToSlide(){for(var currentIdx,idx=this.getAttribute("data-indicator-index"),i=0;i<slides.length;i++)slides[i]===activeSlide&&(currentIdx=i);if(currentIdx==idx)clearInterval(intervalSliding),_startSlideshow();else{var reverse=!(currentIdx<idx);clearInterval(intervalSliding),_showSlide(slides[idx],indicators[idx],reverse),_startSlideshow()}}function _nextElement(element){do element=element.nextSibling;while(element&&1!==element.nodeType);return element}function _previousElement(element){do element=element.previousSibling;while(element&&1!==element.nodeType);return element}function _setElements(){slides=properties.slideshow.querySelectorAll(".ao-slide[data-src]:not([data-src=''])"),indicators=properties.slideshow.getElementsByClassName("ao-indicator"),arrowNext=properties.slideshow.querySelector(".ao-arrow-right"),arrowPrevious=properties.slideshow.querySelector(".ao-arrow-left"),activeSlide=properties.slideshow.querySelector(".ao-slide-active"),activeIndicator=properties.slideshow.querySelector(".ao-indicator-active"),slides.length&&!activeSlide&&(slides[0].classList.add("ao-slide-active"),activeSlide=slides[0]),indicators.length&&!activeIndicator&&(indicators[0].classList.add("ao-indicator-active"),activeIndicator=indicators[0]),slides.length&&(properties.slideshow.style.height=properties.slideshow.offsetWidth*slides[0].getAttribute("data-ratio")+"px",nextSlide=_nextElement(activeSlide)?_nextElement(activeSlide):slides[0],previousSlide=_previousElement(activeSlide)?_previousElement(activeSlide):slides[slides.length-1]),indicators.length&&(nextIndicator=_nextElement(activeIndicator)?_nextElement(activeIndicator):!!indicators&&indicators[0],previousIndicator=_previousElement(activeIndicator)?_previousElement(activeIndicator):!!indicators&&indicators[indicators.length-1])}var slides,indicators,activeSlide,activeIndicator,arrowNext,arrowPrevious,nextSlide,nextIndicator,previousSlide,previousIndicator,intervalSliding,listenerAttachedNext=!1,listenerAttachedPrevious=!1,listenerAttachedIndicator=!1,properties={};this.init=function(arguments){properties.slideshow=arguments.slideshow?arguments.slideshow:properties.slideshow,properties.delay=arguments.delay?1e3*arguments.delay:5e3,_setElements(),clearInterval(intervalSliding);for(var i=0;i<slides.length;i++)slides[i].getAttribute("data-src")&&(slides[i].style.backgroundImage="url( "+slides[i].getAttribute("data-src")+")");if(arrowNext&&!listenerAttachedNext&&(arrowNext.addEventListener("click",_nextSlide),arrowNext.style.display="none",arrowNext.offsetHeight,arrowNext.style.display="",listenerAttachedNext=!0),arrowPrevious&&!listenerAttachedPrevious&&(arrowPrevious.addEventListener("click",_previousSlide),arrowPrevious.style.display="none",arrowPrevious.offsetHeight,arrowPrevious.style.display="",listenerAttachedPrevious=!0),indicators.length&&!listenerAttachedIndicator){for(var j=0;j<indicators.length;j++)indicators[j].addEventListener("click",_jumpToSlide);listenerAttachedIndicator=!0}_startSlideshow()}};
+</script>
+
+<style>
+
+	.ao-business-card{border:#CCCCCC solid 1px;background-color:#FFFFEE;padding:10px;max-width:300px;margin:auto;box-sizing:border-box}.ao-business-card p{font-size:12px;line-height:18px;margin:0}.ao-business-card-add{text-align:center;font-size:12px;line-height:18px}.ao-business-card-add i{color:#666666}.ao-business-card-add a{color:#000000}.buttonView.cf:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.buttonView a{transition:font 0.1s,background 0.1s}.button-block{padding:5px}.ao-hidden-text{text-align:center;font-size:14px}.description-left{float:right}.description-right{float:left}.cell-50{display:table-cell;width:50%}.table-view{display:table}.rich-text-wrap-text *{overflow-wrap:break-word;word-wrap:break-word;word-break:break-word}.RSSView ul.feed-list{padding-right:40px;list-style:none}.RSSView ul.feed-list li h5{margin-bottom:0;margin-top:10px;font-weight:600}.socialShareView .socialMediaDesign,.socialShareView .socialMediaDesignh{list-style-type:none;margin:0px;padding:0px}.socialShareView .socialMediaDesignh li{display:inline-block}.socialShareView .prompt{text-align:center;padding-bottom:5px}.socialShareView img{display:block}.social-share-flattened img{display:block}button.submit-block{margin-top:10px;min-width:135px;color:#fff;background-color:#428bca;border-color:#357ebd;display:inline-block;margin-bottom:0;font-weight:normal;text-align:center;vertical-align:middle;cursor:pointer;background-image:none;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.42857;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.ao-unknown-block{background-color:#ffe9ee;color:#ef4438;border:1px solid #e91a1a;text-align:center;line-height:70px;position:relative}.ao-unknown-block p{margin:0;padding:0;font-weight:bold;font-size:14px}.ao-unknown-block .remove-message{font-size:14px;margin:0;padding:0;position:absolute;top:15px;right:32px;z-index:13}img{border-style:solid;border-width:0}.ao-lp .ao-video{position:relative;padding-bottom:56.25%;padding-top:25px;height:0}.ao-lp .ao-video iframe{position:absolute;top:0;left:0;width:100%;height:100%}.ao-lp img:not([width]){max-width:100%}.ao-lp .ao-fit img{width:100%}.ao-lp .ao-left{text-align:left}.ao-lp .ao-right{text-align:right}.ao-lp .ao-center{text-align:center}.ao-lp .ao-row-wrapper{max-width:100%}.ao-lp .ao-row{box-sizing:border-box;padding:0;margin:0;position:relative;display:-webkit-box;display:-moz-box;display:box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex}.ao-lp .ao-column{display:-webkit-box;display:-moz-box;display:box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex;vertical-align:top;box-sizing:border-box;position:relative}.ao-lp .ao-column-inner{box-sizing:border-box;-webkit-box-flex:auto;-moz-box-flex:auto;box-flex:auto;-webkit-flex:auto;-moz-flex:auto;-ms-flex:auto;flex:auto;width:100%}.ao-lp .ao-column.ao-column-12{width:100%}.ao-lp .ao-column.ao-column-11{width:91.6667%}.ao-lp .ao-column.ao-column-10{width:83.3333%}.ao-lp .ao-column.ao-column-9{width:75%}.ao-lp .ao-column.ao-column-8{width:66.6667%}.ao-lp .ao-column.ao-column-7{width:58.3333%}.ao-lp .ao-column.ao-column-6{width:50%}.ao-lp .ao-column.ao-column-5{width:41.6667%}.ao-lp .ao-column.ao-column-4{width:33.3333%}.ao-lp .ao-column.ao-column-3{width:25%}.ao-lp .ao-column.ao-column-2{width:16.6667%}.ao-lp .ao-column.ao-column-1{width:8.33333%}.ao-lp .ao-slideshow-container{width:100%;height:100%;position:relative;text-align:center;overflow:hidden}.ao-lp .ao-slideshow-container .ao-arrow{position:absolute;display:inline;z-index:3;top:50%;height:20%;cursor:pointer}.ao-lp .ao-slideshow-container .ao-arrow img{height:100%;margin-top:-50%;background:rgba(0,0,0,0.2);border:1px solid transparent;box-sizing:border-box;padding:5px}.ao-lp .ao-slideshow-container .ao-arrow img:hover{background:rgba(0,0,0,0.8)}.ao-lp .ao-slideshow-container .ao-arrow-left{left:0px}.ao-lp .ao-slideshow-container .ao-arrow-left img{border-radius:0 6px 6px 0}.ao-lp .ao-slideshow-container .ao-arrow-right{right:0px}.ao-lp .ao-slideshow-container .ao-arrow-right img{border-radius:6px 0 0 6px}.ao-lp .ao-slideshow-container .ao-indicators{display:block;z-index:5;position:absolute;bottom:5px;left:0;width:100%}.ao-lp .ao-slideshow-container .ao-indicator{box-shadow:0 0 4px #333333;width:10px;height:10px;border-radius:50%;border:2px solid #ffffff;display:inline-block;margin-right:3px;cursor:pointer}.ao-lp .ao-slideshow-container .ao-indicator.ao-indicator-active{background-color:#ffffff}.ao-lp .ao-slideshow-container .ao-slideshow .ao-slide{width:100%;height:100%;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;position:absolute;top:0;left:0;z-index:1}.ao-lp .ao-slideshow-container .ao-slideshow .ao-slide a{display:block;height:100%}.ao-lp .ao-slideshow-container .ao-slideshow.ao-fade-animate .ao-slide{opacity:0;transition:opacity 0.5s ease-in-out}.ao-lp .ao-slideshow-container .ao-slideshow.ao-fade-animate .ao-slide-active{opacity:1;z-index:2}.ao-lp .ao-slideshow-container .ao-slideshow.ao-fade-animate .ao-slide-out{opacity:0}.ao-lp .ao-slideshow-container .ao-slideshow.ao-slide-animate .ao-slide{left:100%}.ao-lp .ao-slideshow-container .ao-slideshow.ao-slide-animate .ao-slide.ao-slide-active{left:0}.ao-lp .ao-slideshow-container .ao-slideshow.ao-slide-animate .ao-slide-in{animation:ao-slide-slideLeft 0.5s 1}.ao-lp .ao-slideshow-container .ao-slideshow.ao-slide-animate .ao-slide-out{animation:ao-slide-slideLeftOut 0.5s 1}.ao-lp .ao-slideshow-container .ao-slideshow.ao-slide-animate .ao-slide-opposite-in{animation:ao-slide-slideRight 0.5s 1}.ao-lp .ao-slideshow-container .ao-slideshow.ao-slide-animate .ao-slide-opposite-out{animation:ao-slide-slideRightOut 0.5s 1}@keyframes ao-slide-slideLeft{from{top:0;left:100%}to{top:0;left:0}}@keyframes ao-slide-slideLeftOut{from{top:0;left:0}to{top:0;left:-100%}}@keyframes ao-slide-slideRight{from{top:0;left:-100%}to{top:0;left:0}}@keyframes ao-slide-slideRightOut{from{top:0;left:0}to{top:0;left:100%}}@media (max-width: 767px){.ao-lp .responsive .ao-row{height:auto;display:block}.ao-lp .responsive .ao-row,.ao-lp .responsive .ao-row-wrapper{width:100%}.ao-lp .responsive .ao-column.ao-column-1,.ao-lp .responsive .ao-column.ao-column-2,.ao-lp .responsive .ao-column.ao-column-3,.ao-lp .responsive .ao-column.ao-column-4,.ao-lp .responsive .ao-column.ao-column-5,.ao-lp .responsive .ao-column.ao-column-5,.ao-lp .responsive .ao-column.ao-column-6,.ao-lp .responsive .ao-column.ao-column-7,.ao-lp .responsive .ao-column.ao-column-8,.ao-lp .responsive .ao-column.ao-column-9,.ao-lp .responsive .ao-column.ao-column-10,.ao-lp .responsive .ao-column.ao-column-11,.ao-lp .responsive .ao-column.ao-column-12{display:block;width:100%}.ao-lp .responsive .ao-column-inner{display:block}.ao-lp .responsive .ao-block{overflow:hidden}.ao-lp .responsive .hide-from-mobile{display:none;width:0;height:0}.ao-lp .responsive .hide-from-desktop{display:block}}@media (min-width: 768px){.ao-lp .hide-from-desktop{display:none}}.ao-lp .ao-block:after,.ao-lp .ao-row:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}.ao-lp * html .ao-block,.ao-lp * html .ao-row{zoom:1}.ao-lp *:first-child+html .ao-block,.ao-lp *:first-child+html .ao-row{zoom:1}.ao-lp.hide-link-underline a{text-decoration:none}
+
+/*# sourceMappingURL=flattener.css.map */
+
+	h1,h2,h3,h4,h5,h6,p {
+		color: #5f5f5f; 
+	}
+
+	a {
+		color: #ff6b09; 
+	}
+
+	.ao-row-wrapper {
+		width: 1200px;
+		max-width: 100%;
+	}
+
+	.ao-row {
+		width: 100%;
+	}
+
+	/*#block-b1499181179223{*/
+/*    text-shadow: 2px 2px 4px #000000;*/
+/*}*/
+
+blockquote {
+  line-height:1.5em;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 0;
+  padding: 1.4em 10px 1.4em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  position:relative;
+  top:5px;
+  left:10px;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+</style>
+
+<!--[if lt IE 10]>
+<style>
+	.ao-row-wrapper {
+			display: table;
+	}
+	.ao-lp .ao-row {
+	    display: table-row;
+	}
+
+	.ao-lp .ao-column {
+	    display: table-cell;
+	}
+</style>
+<![endif]-->
+
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P92FZB');</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+<script>
+var videoPlayButton,
+	videoWrapper = document.getElementsByClassName('video-wrapper')[0],
+    video = document.getElementsByTagName('video')[0],
+    videoMethods = {
+        renderVideoPlayButton: function() {
+            if (videoWrapper.contains(video)) {
+				this.formatVideoPlayButton()
+                video.classList.add('has-media-controls-hidden')
+                videoPlayButton = document.getElementsByClassName('video-overlay-play-button')[0]
+                videoPlayButton.addEventListener('click', this.hideVideoPlayButton)
+            }
+        },
+
+        formatVideoPlayButton: function() {
+            videoWrapper.insertAdjacentHTML('beforeend', '\
+                <svg class="video-overlay-play-button" viewBox="0 0 200 200" alt="Play video">\
+                    <circle cx="100" cy="100" r="90" fill="none" stroke-width="15" stroke="#fff"/>\
+                    <polygon points="70, 55 70, 145 145, 100" fill="#fff"/>\
+                </svg>\
+            ')
+        },
+
+        hideVideoPlayButton: function() {
+            video.play()
+            videoPlayButton.classList.add('is-hidden')
+            video.classList.remove('has-media-controls-hidden')
+            video.setAttribute('controls', 'controls')
+        }
+	}
+
+videoMethods.renderVideoPlayButton()
+</script>
+
+</head>
+
+<body class="ao-lp " style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif; color: rgb(95, 95, 95); margin: 0px; background-repeat: no-repeat; background-size: cover; background-position: center center; background-attachment: fixed; background-image: url(https://marketing.njoyn.com/cdnr/25/acton/attachment/18115/f-01dfb131-c8cb-4275-84b9-a96ad3bafe75/2/-/-/-/-/image.jpg)" null>
+
+	<div class="responsive">
+
+	<div style="" class="hide-from-mobile">
+		<div class="ao-row-wrapper" style="margin: auto; border-radius: 0px; border-width: 0px; border-style: solid; background-repeat: no-repeat; background-size: auto; background-position: center center;">
+		<div class="ao-row" style="border-radius: 0px;border-style: solid;border-width: 0px;padding: 0px;" id="row-r1584639407639">
+
+			<div class="ao-column ao-column-12 mobile-ao-column-12" style="padding: 0px;" id="column-c1584639415898">
+				<div style="background-color: transparent; padding: 120px 0px 0px; border-radius: 0px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+		</div>
+		</div>
+	</div>
+
+	<div style="" class="hide-from-desktop">
+		<div class="ao-row-wrapper" style="margin: auto; border-width: 0px; border-style: solid; background-repeat: no-repeat; background-size: auto; background-position: center center; border-radius: 0px;">
+		<div class="ao-row" style="border-radius: 0px;border-style: solid;border-width: 0px;padding: 0px;" id="row-r1584649838886">
+
+			<div class="ao-column ao-column-12 mobile-ao-column-12" style="padding: 0px;" id="column-c1584649845716">
+				<div style="background-color: transparent; padding: 25px 0px 0px; border-radius: 0px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+		</div>
+		</div>
+	</div>
+
+	<div style="" class="hide-from-mobile">
+		<div class="ao-row-wrapper" style="margin: auto; border-width: 0px; border-style: solid; background-repeat: no-repeat; background-size: auto; background-position: center center; border-radius: 0px;">
+		<div class="ao-row" style="border-radius: 0px;border-style: solid;border-width: 0px;padding: 0px;" id="row-r1584636380964">
+
+			<div class="ao-column ao-column-1 mobile-ao-column-1" style="padding: 0px;" id="column-c1584642613792">
+				<div style="padding: 0px; border-radius: 30px; border-color: transparent; border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+			<div class="ao-column ao-column-10 mobile-ao-column-10" style="padding: 0px;" id="column-c1584646273773">
+				<div style="background-color: rgb(255, 255, 255); padding: 0px 50px; border-radius: 30px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block  ao-spacer-block" id="block-b1499180780182">
+
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		
+		<td style="padding:30px;font-size: 0px; line-height:0px;" width="100%">
+			<table border="0" cellspacing="0" cellpadding="0" height="1" width="100%" style="font-size: 0px; line-height: 0px">
+				<tr>
+					<td height="1" width="100%" style="border-collapse:collapse;font-size:0px; line-height:0px;" bgcolor="transparent">
+						<img src="https://marketing.njoyn.com/acton/image/transpix.gif" alt="" height="1" width="1" />
+					</td>
+
+				</tr>
+			</table>
+		</td>
+		
+	</tr>
+</table>
+
+</div>
+					</div>
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block rich-text-wrap-text hide-from-mobile  ao-richtext-block" id="block-b1499181179223">
+
+<p><span style="font-size: 22pt;"><span style="line-height: 1.25; color: #5f5f5f; font-family: arial, helvetica, sans-serif;">The Recruitment Platform and Recruitment Careers site are currently unavailable due to maintenance. We apologize for any inconvenience and encourage you to check back. Thank you for your patience.</span></span></p>
+<!-- <p><span style="font-size: 22pt;"><span style="line-height: 1.25; color: #5f5f5f; font-family: arial, helvetica, sans-serif;">On Friday May 29th at approximately 10pm EST, the CGI Njoyn system will be shut down. This work is expected to take most of Saturday and into Sunday with the Njoyn Product returning to normal service at approximately 9pm EST Sunday evening.</span></span></p> -->
+<p> </p>
+<p><span style="font-size: 22pt;"><span style="line-height: 1.25; color: #5f5f5f; font-family: arial, helvetica, sans-serif;">La plateforme de recrutement et le site Carrières ne sont actuellement pas accessibles pour cause de maintenance. Nous nous excusons de cet inconvénient et vous invitons à visiter le site plus tard. Merci de votre patience.</span></span></p>
+<!-- <p><span style="font-size: 22pt;"><span style="line-height: 1.25; color: #5f5f5f; font-family: arial, helvetica, sans-serif;">Le vendredi 29 mai, vers 22 h HAE, le système de Njoyn sera mis hors service. Les travaux occuperont toute la journée du samedi et se termineront dimanche. Le retour au service normal est prévu vers 21 h HAE dimanche.</span></span></p> -->
+<p> </p>
+
+</div>
+					</div>
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block  ao-icon-block" id="block-b1584642783812">
+	
+	<div class="imageField " style="text-align: center; ;">
+		
+		<img src="https://marketing.njoyn.com/cdnr/25/acton/attachment/18115/f-39dfb6c2-aa95-494c-bee0-723569bca518/2/-/-/-/-/image.png" style="max-width: 100%; vertical-align: top; display: inline-block; border-radius: 0px; " alt=" "/>
+		
+	</div>
+	
+</div>
+					</div>
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block  ao-spacer-block" id="block-b1499180794338">
+
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		
+		<td style="padding:15px;font-size: 0px; line-height:0px;" width="100%">
+			<table border="0" cellspacing="0" cellpadding="0" height="1" width="100%" style="font-size: 0px; line-height: 0px">
+				<tr>
+					<td height="1" width="100%" style="border-collapse:collapse;font-size:0px; line-height:0px;" bgcolor="transparent">
+						<img src="https://marketing.njoyn.com/acton/image/transpix.gif" alt="" height="1" width="1" />
+					</td>
+
+				</tr>
+			</table>
+		</td>
+		
+	</tr>
+</table>
+
+</div>
+					</div>
+
+				</div>
+			</div>
+
+			<div class="ao-column ao-column-1 mobile-ao-column-1" style="padding: 0px;" id="column-null">
+				<div style="background-color: transparent; padding: 0px; border-radius: 0px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+		</div>
+		</div>
+	</div>
+
+	<div style="" class="hide-from-desktop">
+		<div class="ao-row-wrapper" style="margin: auto; border-width: 0px; border-style: solid; background-repeat: no-repeat; background-size: auto; background-position: center center; border-radius: 0px;">
+		<div class="ao-row" style="border-radius: 0px;border-style: solid;border-width: 0px;padding: 0px;" id="row-r1584650012673">
+
+			<div class="ao-column ao-column-1 mobile-ao-column-1" style="padding: 0px;" id="column-">
+				<div style="padding: 0px; border-radius: 30px; border-color: transparent; border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+			<div class="ao-column ao-column-10 mobile-ao-column-10" style="padding: 0px;" id="column-c1584650037219">
+				<div style="background-color: rgb(255, 255, 255); padding: 0px 20px; border-radius: 30px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block  ao-spacer-block" id="block-b15846500001650">
+
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		
+		<td style="padding:15px;font-size: 0px; line-height:0px;" width="100%">
+			<table border="0" cellspacing="0" cellpadding="0" height="1" width="100%" style="font-size: 0px; line-height: 0px">
+				<tr>
+					<td height="1" width="100%" style="border-collapse:collapse;font-size:0px; line-height:0px;" bgcolor="transparent">
+						<img src="https://marketing.njoyn.com/acton/image/transpix.gif" alt="" height="1" width="1" />
+					</td>
+
+				</tr>
+			</table>
+		</td>
+		
+	</tr>
+</table>
+
+</div>
+					</div>
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block rich-text-wrap-text hide-from-desktop  ao-richtext-block" id="block-b15846500001652">
+
+<p><span style="font-size: 14pt;"><span style="line-height: 1.25; color: #5f5f5f; font-family: arial, helvetica, sans-serif;">The Recruitment Platform and Recruitment Careers site are currently unavailable due to maintenance. We apologize for any inconvenience and encourage you to check back. Thank you for your patience.</span></span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><span style="line-height: 1.25; color: #5f5f5f; font-family: arial, helvetica, sans-serif;">La plateforme de recrutement et le site Carrières ne sont actuellement pas accessibles pour cause de maintenance. Nous nous excusons de cet inconvénient et vous invitons à visiter le site plus tard. Merci de votre patience.</span></span></p>
+<p> </p>
+
+</div>
+					</div>
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block  ao-icon-block" id="block-b15846500001653">
+	
+	<div class="imageField " style="text-align: center; ;">
+		
+		<img src="https://marketing.njoyn.com/cdnr/25/acton/attachment/18115/f-39dfb6c2-aa95-494c-bee0-723569bca518/2/-/-/-/-/image.png" style="max-width: 100%; vertical-align: top; display: inline-block; border-radius: 0px; " alt=" "/>
+		
+	</div>
+	
+</div>
+					</div>
+
+					<div style="padding-bottom: 0px">
+						
+<div class="ao-block  ao-spacer-block" id="block-b15846500001654">
+
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		
+		<td style="padding:15px;font-size: 0px; line-height:0px;" width="100%">
+			<table border="0" cellspacing="0" cellpadding="0" height="1" width="100%" style="font-size: 0px; line-height: 0px">
+				<tr>
+					<td height="1" width="100%" style="border-collapse:collapse;font-size:0px; line-height:0px;" bgcolor="transparent">
+						<img src="https://marketing.njoyn.com/acton/image/transpix.gif" alt="" height="1" width="1" />
+					</td>
+
+				</tr>
+			</table>
+		</td>
+		
+	</tr>
+</table>
+
+</div>
+					</div>
+
+				</div>
+			</div>
+
+			<div class="ao-column ao-column-1 mobile-ao-column-1" style="padding: 0px;" id="column-">
+				<div style="background-color: transparent; padding: 0px; border-radius: 0px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+		</div>
+		</div>
+	</div>
+
+	<div style="" class="hide-from-desktop">
+		<div class="ao-row-wrapper" style="margin: auto; border-width: 0px; border-style: solid; background-repeat: no-repeat; background-size: auto; background-position: center center; border-radius: 0px;">
+		<div class="ao-row" style="border-radius: 0px;border-style: solid;border-width: 0px;padding: 0px;" id="row-">
+
+			<div class="ao-column ao-column-12 mobile-ao-column-12" style="padding: 0px;" id="column-">
+				<div style="background-color: transparent; padding: 20px 0px 0px; border-radius: 0px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+		</div>
+		</div>
+	</div>
+
+	<div style="" class="hide-from-mobile">
+		<div class="ao-row-wrapper" style="margin: auto; border-radius: 0px; border-width: 0px; border-style: solid; background-repeat: no-repeat; background-size: auto; background-position: center center;">
+		<div class="ao-row" style="border-radius: 0px;border-style: solid;border-width: 0px;padding: 0px;" id="row-">
+
+			<div class="ao-column ao-column-12 mobile-ao-column-12" style="padding: 0px;" id="column-c1584643293650">
+				<div style="background-color: transparent; padding: 75px 0px 0px; border-radius: 0px; border-color: rgb(0, 0, 0); border-style: solid; border-width: 0px;" class="ao-column-inner">
+
+				</div>
+			</div>
+
+		</div>
+		</div>
+	</div>
+
+	</div>
+
+<script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//marketing.njoyn.com/cdnr/forpci25/acton/bn/tracker/18115';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+
+
+<script type="text/javascript">
+	!function(){for(var slideshowContainers=document.getElementsByClassName("ao-slideshow-container"),i=0;i<slideshowContainers.length;i++){var slideshowContainer=slideshowContainers[i],args={};slideshowContainer.getAttribute("data-delay")&&(args.delay=slideshowContainer.getAttribute("data-delay")),args.slideshow=slideshowContainer;var slideshow=new AOSlideshow;slideshow.init(args)}}();
+</script>
+</body>
+</html>
+
