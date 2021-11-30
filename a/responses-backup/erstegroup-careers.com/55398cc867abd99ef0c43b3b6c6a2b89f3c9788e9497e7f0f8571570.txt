@@ -21,7 +21,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="Tester v tribu Housing" />
                 <meta property="og:description" content="Tester v tribu Housing" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/d38ddb7c-ea43-4d26-8b28-9.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/03776280-378c-4af7-9cf3-c.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/6eddddf3-4cdc-4b0e-987f-d.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/d1204926/09692369-e6ce-403b-b002-9.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/header1.css?h=59bd7fe4" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=59bd7fe4" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=59bd7fe4" />
@@ -697,7 +697,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "f4429082-c554-4f56-9497-ca728705abc1"
+						"X-CSRF-Token" : "73e8daad-1a51-4996-a766-707fbab01c01"
 					}
 				});
 			//]]>
@@ -747,7 +747,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "f4429082-c554-4f56-9497-ca728705abc1"
+						"X-CSRF-Token" : "73e8daad-1a51-4996-a766-707fbab01c01"
 					}
 				});
 			//]]>
@@ -786,7 +786,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1361214756"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=389040256"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="de"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="de"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		
+				
+		
+
+
+<title>Anmelden | Commerzbank AG</title>	<meta name="description" content="">
+	<meta name="keywords" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="cust/coba/images/favicon.ico" rel="shortcut icon">
+	<link rel="stylesheet" media="all" type="text/css" href="cust/coba/css/styles.css">
+
+	<script>
+		var path_cust = 'cust/coba/';
+		var path_css = 'cust/coba/css/';
+		var path_js = 'cust/coba/js/';
+		var path_pic = 'cust/coba/images/';
+
+		var lang_id = '1';
+		var lang_str = 'de';
+
+		var url_base = "https://jobs.commerzbank.com/";
+
+		var Retina = window.devicePixelRatio > 1;
+
+		var translations={"application_upload_error_too_big_file":"Sie haben die erlaubte Dateigr\u00f6\u00dfe \u00fcberschritten.","application_upload_error_wrong_extension":"Sie haben eine Datei in einem nicht erlaubten Dateiformat ausgew\u00e4hlt.","application_upload_error_choose_file":"Keine Datei ausgew\u00e4hlt","application_upload_choose_category":"Keine Kategorie ausgew\u00e4hlt","general_anchor_navigation":"Zur Navigation","general_anchor_content":"Zum Inhalt","general_anchor_top":"Zum Anfang der Seite","general_anchor_bottom":"Zum Ende der Seite","general_accessibility_info":"\u00dcber die folgenden Accesskeys k\u00f6nnen Sie die entsprechenden Links direkt aufrufen:","general_change_language":"Sprache wechseln","general_navigation":"Navigation","general_job_offers":"Stellenangebote","general_speculative_application":"Initiativbewerbung","general_my_career":"Mein Jobportal","general_job_merker":"Job Merker","general_overview":"\u00dcbersicht","general_job_abo":"Job-Abo","general_applicationstate":"Bewerbungsstatus","general_correspondence":"Korrespondenz","general_applicant_profile":"Profil","general_logindata":"Zugangsdaten","general_login":"Anmelden","general_login_standard":"Standardanmeldung","general_login_social_media":"Social Media Anmeldung","general_login_social_media_info":"Klicken Sie auf eines der Icons.","general_logout":"Abmelden","general_help":"Hilfe","general_imprint":"Impressum","general_legal_notice":"Rechtliche Hinweise","general_contact":"Kontakt","general_privacy_policy":"Datenschutzerkl\u00e4rung","general_privacy_history":"Datenschutz","general_accessibility":"Barrierefreiheit","general_startpage":"Startseite","general_agency_interface":"Agency Interface","general_career":"Karriere","general_jobad":"Stellenanzeige","general_jobads":"Stellenanzeigen","general_jobsearch":"Stellensuche","general_search_jobs":"Stellenanzeigen suchen","general_onlinetest":"Online-Test","general_standard":"Standard","general_na":"Keine Angabe","general_yes":"Ja","general_no":"Nein","general_approve":"Einverstanden","general_decline":"Nicht einverstanden","general_back":"Zur\u00fcck","general_next":"Weiter","general_back_to_homepage":"Zur\u00fcck zur Startseite","general_backward":"R\u00fcckw\u00e4rts","general_forward":"Vorw\u00e4rts","general_to_forward":"Weiterleiten","general_close":"Schlie\u00dfen","general_abort":"Abbrechen","general_cancel":"Abbrechen","general_to_reverse":"Zur\u00fccksetzen","general_clock":"Uhr","general_status":"Status","general_jobtitle":"Stellentitel","general_description":"Beschreibung","general_application":"Bewerbung","general_applications":"Bewerbungen","general_page":"Seite","general_print_page":"Seite drucken","general_print":"Drucken","general_jobad_mark":"Stellenanzeige merken","general_jobad_forward":"Stellenanzeige teilen","general_go_up":"Zum Seitenanfang","general_hits":"Treffer","general_hits_per_page":"Treffer pro Seite","general_option":"Option","general_options":"Optionen","general_delete":"L\u00f6schen","general_deleted":"Gel\u00f6scht","general_edit":"Bearbeiten","general_edited":"Bearbeitet","general_update":"Aktualisieren","general_updated":"Aktualisiert","general_action":"Aktion","general_search":"Suchen","general_social_media":"Social Media","general_job_abo_generate":"Job-Abo generieren","general_date":"Datum","general_startdate":"Startdatum","general_enddate":"Enddatum","general_publicationdate":"Ver\u00f6ff. Datum","general_daily":"t\u00e4glich","general_Daily":"T\u00e4glich","general_weekly":"w\u00f6chentlich","general_Weekly":"W\u00f6chentlich","general_weekly_bi":"14-t\u00e4gig","general_monthly":"monatlich","general_Monthly":"Monatlich","general_lost_password":"Passwort vergessen","general_lost_username":"Benutzername vergessen","general_of":"von","general_from":"von","general_From":"Von","general_to":"bis","general_To":"Bis","general_enter":"eingeben","general_Enter":"Eingeben","general_active":"aktiv","general_Active":"Aktiv","general_activate":"aktivieren","general_Activate":"Aktivieren","general_show":"anzeigen","general_Show":"Anzeigen","general_all":"alle","general_All":"Alle","general_none":"keine","general_None":"Keine","label_only_title":"Nur im Stellentitel suchen","general_placeholder_keyword":"Stichwort, Job-ID","general_tab_standard_login":"Standard","general_mandatory":"Pflichtfelder sind mit einem (*) markiert.","general_submit":"Absenden","general_save":"Speichern","general_saved":"Erfasst","general_please_select":"Bitte ausw\u00e4hlen","general_error":"Fehler","general_username":"Benutzername","general_password":"Passwort","general_text1_socialmedia":"Haben Sie keinen Social Media Account oder wollen sich hier nicht mit einem solchen anmelden klicken Sie auf den Reiter \"Standard\".","general_register":"Registrieren","general_register_manual":"Manuelle registrieren","general_registration":"Registrierung","general_registration_manual":"Manuelle Registrierung","general_salutation":"Anrede","general_mr":"Herr","general_mrs":"Frau","general_male":"m\u00e4nnlich","general_female":"weiblich","general_email":"E-Mail","general_emails":"E-Mails","general_email_address":"E-Mail-Adresse","general_firstname":"Vorname","general_lastname":"Nachname","general_zip_short":"PLZ","general_zip":"Postleitzahl","general_phone":"Telefon","general_phonenumber":"Telefonnummer","general_comment":"Kommentar","general_captcha":"Sicherheitsabfrage","general_captcha_breakable":"Sicherheits<span class=\"visible-sm hyphen\">-<\/span>abfrage","general_placeholder_math_captcha_input":"Bitte die Summe eingeben","general_math_captcha":"Was ist die Summe aus","general_math_captcha_and":"und","general_old_password":"Aktuelles Passwort","general_new_password":"Neues Passwort","general_new_password_confirm":"Neues Passwort best\u00e4tigen","general_organisation":"Arbeitsort","general_organisation_all":"Alle Arbeitsorte","general_activity_level":"T\u00e4tigkeitsfeld","general_activity_level_all":"Alle T\u00e4tigkeitsfelder","general_function":"T\u00e4tigkeitsfeld","general_function_all":"Alle T\u00e4tigkeitsfelder","general_entry":"Einstieg","general_entry_all":"Jeden Einstieg","general_entry_level":"Einstiegslevel","general_entry_level_all":"Alle Einstiegslevel","general_physical_location":"Standort","general_physical_location_all":"Alle Standorte","general_division":"Gesellschaft","general_division_all":"Alle Gesellschaften","general_industry":"Branche","general_industry_all":"Alle Branchen","general_region":"Region","general_region_all":"Alle Regionen","general_country":"Land","general_country_all":"Alle L\u00e4nder","general_working_hour":"Arbeitszeit","general_working_hour_all":"Alle Arbeitszeiten","general_keyword":"Stichwort","general_placeholder_email":"Bitte E-Mail-Adresse eingeben","general_placeholder_lastname":"Bitte Nachnamen eingeben","general_placeholder_captcha":"Bitte Zeichenfolge eingeben","general_error_message":"Fehlermeldung","general_error_messages":"Fehlermeldungen","general_error_message_standard":"Entschuldigung, leider ist ein Fehler aufgetreten. Bitte versuchen Sie es sp\u00e4ter erneut.","general_invalid_email":"Bitte geben Sie eine g\u00fcltige E-Mail-Adresse an","general_invalid_username":"Bitte geben Sie einen g\u00fcltigen Benutzernamen an.","general_invalid_csrf":"Entschuldigung, Ihre Eingaben konnten nicht verarbeitet werden. Bitte pr\u00fcfen Sie, ob Sie die Aktion durchf\u00fchren wollten.","general_invalid_captcha_text":"Bitte geben Sie die Sicherheitsabfrage korrekt ein.","general_invalid_gender":"Bitte w\u00e4hlen Sie Ihre Anrede.","general_invalid_firstname":"Bitte geben Sie Ihren Vornamen ein.","general_invalid_lastname":"Bitte geben Sie Ihren Nachnamen ein.","general_invalid_phone":"Bitte geben Sie Ihre Telefonnummer ein.","general_invalid_password":"Bitte geben Sie Ihr Passwort ein.","general_invalid_mandatory":"Bitte f\u00fcllen Sie alle Pflichtfelder (*) aus.","general_invalid_link":"Dieser Link ist nicht g\u00fcltig.","general_invalid_link_anymore":"Dieser Link ist nicht mehr g\u00fcltig.","general_invalid_acount_not_found":"Account nicht gefunden.","general_lost_socialmedia_credentials_needed":"DE: You need Social Media credentials to login","general_send_email_fail":"E-Mail konnte nicht versendet werden.","general_account_not_found":"Kein Account zu Ihren Angaben gefunden.","general_email_sent":"Die E-Mail wurde erfolgreich versendet.","general_success":"Erfolg","general_successful":"Erfolgreich","general_successful_action":"Aktion erfolgreich","general_successful_action_done":"Aktion erfolgreich durchgef\u00fchrt.","general_slogan":"Die Bank an Ihrer Seite","general_welcome_text":"Herzlich willkommen im Jobportal der Commerzbank!"};
+	</script>
+</head>
+<body class="login mobile phone ">
+	<a id="seitenanfang"></a>
+	<div class="sr-only dont-print">
+		<ul>
+			<li><a href="#navigation" accesskey="0">Zur Navigation</a></li>
+			<li><a href="#content">Zum Inhalt</a></li>
+			<li><a href="#bottom">Zum Ende der Seite</a></li>
+		</ul>
+		<p>Über die folgenden Accesskeys können Sie die entsprechenden Links direkt aufrufen:</p>
+		<ul>
+			<li>0 Navigation</li>
+			<li>1 Stellenangebote</li>
+			<li>2 Initiativbewerbung</li>
+			<li>3 Mein Jobportal</li>
+			<li>4 Job-Abo</li>
+			<li>5 Sprache wechseln</li>
+			<li>6 Anmelden / Abmelden</li>
+		</ul>
+	</div>
+	<header id="header" class="dont-print container">
+		
+					<div id="language-change" class="row">
+				<p class="col-xs-12">
+											<a href="https://jobs.commerzbank.com/index.php?ac=application&amp;externalJobboard=1&amp;language=2" class="en">English</a>
+						<a href="https://www.commerzbank.de/portal/de/footer1/impressum/impressum_1.html" target="_blank">Impressum</a>
+										<a href="https://jobs.commerzbank.com/?ac=legal_notice" class="last">Rechtliche Hinweise</a>
+				</p>
+			</div>
+		
+		<div id="banner" class="row">
+			<div class="col-xs-12">
+				<div class="banner-inner">
+											<a href="index.php" class="logo"></a>
+									</div>
+			</div>
+		</div>
+					<nav class="navbar navbar-inverse row" role="navigation" id="navigation">
+	<div class="col-xs-12">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="icon-text"></span>
+			</button>
+		</div>
+
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav">
+									<li >
+						<a href="https://jobs.commerzbank.com/?ac=search_result" accesskey="1">Startseite</a>
+					</li>
+					<li class="dropdown">
+						<a href="https://jobs.commerzbank.com/?ac=statuspage" class="dropdown-toggle" data-toggle="dropdown" accesskey="2">Mein Jobportal <b class="caret-down"></b></a>
+						<ul class="dropdown-menu career">
+							<li>
+								<a href="https://jobs.commerzbank.com/?ac=statuspage">Übersicht</a>
+							</li>
+							<li>
+								<a href="https://jobs.commerzbank.com/?ac=applicationstate">Bewerbungsstatus</a>
+							</li>
+							<li>
+								<a href="https://jobs.commerzbank.com/?ac=job_merker">Job Merker</a>
+							</li>
+							<li>
+								<a href="https://jobs.commerzbank.com/?ac=messages">Korrespondenz</a>
+							</li>
+							<li class="">
+								<a href="https://jobs.commerzbank.com/?ac=profile_application" class="profile_application">Profil</a>
+							</li>
+															<li>
+									<a href="https://jobs.commerzbank.com/?ac=logindata">Zugangsdaten</a>
+								</li>
+							
+							
+						</ul>
+					</li>
+											<li >
+							<a href="https://jobs.commerzbank.com/?ac=search_result&search_criterion_entry_level=17" accesskey="3">Initiativbewerbung</a>
+						</li>
+										<li >
+						<a href="https://jobs.commerzbank.com/?ac=jobabo" accesskey="4">Job-Abo</a>
+					</li>
+								<li >
+					<a href="https://jobs.commerzbank.com/?ac=precontact" accesskey="5">Kontakt</a>
+				</li>
+                					<li class="dropdown ">
+						<a href="https://jobs.commerzbank.com/?ac=career" class="dropdown-toggle" data-toggle="dropdown" accesskey="2">Karriere <b class="caret-down"></b></a>
+						<ul class="dropdown-menu career">
+							<li>
+								<a href="https://jobs.commerzbank.com/?ac=career">Übersicht</a>
+							</li>
+															<li>
+									<a href="https://jobs.commerzbank.com/?ac=career&category=01%2B%2BSch%25C3%25BCler"> Schüler</a>
+								</li>
+															<li>
+									<a href="https://jobs.commerzbank.com/?ac=career&category=02%2BStudierende">Studierende</a>
+								</li>
+															<li>
+									<a href="https://jobs.commerzbank.com/?ac=career&category=03%2BProfessionals">Professionals</a>
+								</li>
+															<li>
+									<a href="https://jobs.commerzbank.com/?ac=career&category=04%2BDigitals">Digitals</a>
+								</li>
+															<li>
+									<a href="https://jobs.commerzbank.com/?ac=career&category=05%2BGood%2BTo%2BKnow">Good To Know</a>
+								</li>
+															<li>
+									<a href="https://jobs.commerzbank.com/?ac=career&category=06%2BKontakt">Kontakt</a>
+								</li>
+													</ul>
+					</li>
+                									<li class="last">
+													<a id="nav_login" accesskey="6">Anmelden</a>
+							<div class="hidden" id="quick_login">
+	<div id="quick_login_wrapper">
+		<h3>Anmelden</h3>
+				<div class="tab-content" id="quick_login_content">
+						<div class="tab-pane active" id="quick_login_manual">
+				<div class="clearer"></div>
+				<span class="grey_text">Pflichtfelder sind mit einem (*) markiert.</span>
+				
+				<form id="quick_login_form" action="index.php?ac=login" method="post">
+					<input type="hidden" name="_csrf_token" value="55b4817f858543dd27a94d1ba8db77243b2bbd88" />
+<input type="hidden" name="ac" value="login" >
+
+<div class="form-group form-username-group ">
+	<label for="quick-login-username" class=" control-label">Benutzername*</label>
+	<div class="">
+		<input type="text" class="form-control" name="username" id="quick-login-username" placeholder="Benutzername">
+	</div>
+</div>
+<div class="form-group form-password-group ">
+	<label for="quick-login-password" class=" control-label">Passwort*</label>
+	<div class="">
+		<input type="password" name="password" class="form-control" id="quick-login-password" placeholder="Passwort" autocomplete="off">
+	</div>
+</div>
+<div class="form-group form-button-group">
+	<div class=" ">
+		<button type="submit" class=" btn  btn-primary btn-block  reset-font">Anmelden</button>
+	</div>
+</div>					<div class="form-group form-button-group">
+						<div class="">
+							<a class="col-sm-12 btn btn-default reset-font register-button" title="Registrieren" href="index.php?ac=register">Registrieren</a>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>											</li>
+							</ul>
+		</div><!--/.nav-collapse -->
+	</div>
+</nav>			</header>
+
+	
+			<div class="container">
+	<div class="row hidden-xs breadcrumb-fix">
+					<div id="breadcrumb" class=" col-sm-12">
+															<a href="index.php">Startseite</a>
+																								/ <span class="breadcrumb-notactive">Anmelden</span>
+																</div>
+					</div>
+</div>	
+
+	<div id="content" class="container">
+
+<div class="row">
+	<div class="col-md-7 col-sm-10">
+		<h1>Anmelden</h1>
+		<!--h2>Herzlich willkommen im Jobportal der Commerzbank!</h2-->
+
+		<p>Wir freuen uns über Ihr Interesse an der Commerzbank. Nach der Registrierung in unserem Jobportal können Sie uns Ihre Bewerbung schicken.<br>
+<br>
+Auch wenn Sie bei der Stellensuche noch nichts Passendes entdeckt haben &ndash; Registrieren lohnt sich! Sie haben danach die Möglichkeit, Ihr persönliches Profil anzulegen, sich Jobs zu merken oder sich initiativ zu bewerben.<br>
+<br>
+<strong>Sie sind bereits registriert?</strong> Umso besser. Dann brauchen Sie jetzt nur noch Ihren Benutzernamen und Ihr Passwort und los geht&lsquo;s!<br>
+<br>
+<strong>Sie sind noch nicht registriert?</strong> Auf geht&lsquo;s! Es dauert nur eine Minute.</p>
+
+		
+		<p>Pflichtfelder sind mit einem (*) markiert.</p>
+				<form name="login" id="login" action="index.php?ac=login" method="post" class="form-horizontal">
+			<input type="hidden" name="_csrf_token" value="55b4817f858543dd27a94d1ba8db77243b2bbd88" />
+<input type="hidden" name="ac" value="login" >
+
+<div class="form-group form-username-group ">
+	<label for="login-username" class="col-sm-4 col-md-3 control-label">Benutzername*</label>
+	<div class="col-sm-8 col-md-9">
+		<input type="text" class="form-control" name="username" id="login-username" placeholder="Benutzername">
+	</div>
+</div>
+<div class="form-group form-password-group ">
+	<label for="login-password" class="col-sm-4 col-md-3 control-label">Passwort*</label>
+	<div class="col-sm-8 col-md-9">
+		<input type="password" name="password" class="form-control" id="login-password" placeholder="Passwort" autocomplete="off">
+	</div>
+</div>
+<div class="form-group form-button-group">
+	<div class="col-sm-8 col-md-9 col-md-offset-3 col-sm-offset-4">
+		<button type="submit" class="col-sm-8 col-md-9 btn  btn-primary  reset-font">Anmelden</button>
+	</div>
+</div>			<div class="login-links form-group">
+				<div class="col-sm-offset-4 col-md-offset-3 col-sm-8 col-md-9">
+					<p>
+						<a href="index.php?ac=lost_password" title="Passwort vergessen">
+							Passwort vergessen
+						</a>
+					</p>
+					<p>
+						<a href="index.php?ac=lost_username" title="Benutzername vergessen">
+							Benutzername vergessen
+						</a>
+					</p>
+					<a href="index.php?ac=register" title="Registrieren" class=" btn btn-default btn-block reset-font register-button">Registrieren</a>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+
+
+	</div>
+	<!-- /.container -->
+	<footer id="footer" class="container dont-print">
+
+					<div class="row">
+				<div class="col-xs-12">
+					<div class="to-top">
+						<p class="hidden-xs">
+							<span></span>
+							<a href="#seitenanfang">Zum Seitenanfang</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		
+		<div class="row disclaimer">
+			<h4 class="col-xs-12">Die Bank an Ihrer Seite</h4>
+
+			<div class="col-sm-12 hidden-xs">
+				<p>
+					&copy; 2004-2021
+					Commerzbank AG
+					D-60261 Frankfurt am Main
+											30.11.2021
+									</p>
+			</div>
+		</div>
+	</footer>
+	<!-- /.container -->
+	<div id="bottom" class="sr-only dont-print">
+		<a href="#navigation">Zur Navigation</a>
+		<a href="#top">Zum Anfang der Seite</a>
+	</div>
+	<div id="breakpoint_helper" class="visible-xs visible-sm"></div>
+	<div id="breakpoint_helper_xs" class="visible-xs"></div>
+	<div id="breakpoint_helper_sm" class="visible-sm"></div>
+	<div id="breakpoint_helper_md" class="visible-md"></div>
+	<div id="breakpoint_helper_lg" class="visible-lg"></div>
+	<script></script>
+
+				<script src="cust/coba/js/frontend.min.js"></script>
+	
+			
+    <script>
+        callListeners(getNamespace());		
+    </script>
+	
+</body>
+</html>

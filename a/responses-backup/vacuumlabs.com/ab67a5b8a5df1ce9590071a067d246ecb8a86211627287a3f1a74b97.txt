@@ -119,8 +119,8 @@ jQuery(document).on("scroll", function(event){
 <!-- End of the LeadBooster by Pipedrive Code. -->
 <style type='text/css'>img#wpstats{display:none}</style><script type="text/javascript">
            let ajaxurl = "https://vacuumlabs.com/wp-admin/admin-ajax.php";
-         </script>        <script type="module" src="https://vacuumlabs.com/wp-content/plugins/vacuumlabs-web-components-plugin/web-components/web-components.esm.js?version=1.0.0-20211127154242"></script>
-        <script nomodule src="https://vacuumlabs.com/wp-content/plugins/vacuumlabs-web-components-plugin/web-components/web-components.js?version=1.0.0-20211127154242"></script>
+         </script>        <script type="module" src="https://vacuumlabs.com/wp-content/plugins/vacuumlabs-web-components-plugin/web-components/web-components.esm.js?version=1.0.0-20211129195611"></script>
+        <script nomodule src="https://vacuumlabs.com/wp-content/plugins/vacuumlabs-web-components-plugin/web-components/web-components.js?version=1.0.0-20211129195611"></script>
         <!-- Google Tag Manager added by Site Kit -->
 <script>
 ( function( w, d, s, l, i ) {
@@ -166,9 +166,17 @@ html body.page-id-6132 #LeadboosterContainer {
 	z-index: 999;
 }
 
-.modal__body {
-	max-height: 95vh;
-	overflow: auto;
+.modal__body,
+.dialog-widget-content {
+	max-height: 95vh !important;
+	overflow: auto !important;
+}
+
+.dialog-message {
+	height: 100% !important;
+	max-height: initial !important;
+	max-width: 700px !important;
+	width: 100% !important;
 }
 
 @media (min-width: 1025px) and (max-height: 650px) {
@@ -178,11 +186,22 @@ html body.page-id-6132 #LeadboosterContainer {
 	}
 }
 
-button.modal__close {
+button.modal__close,
+.dialog-close-button {
 	max-width: 16px;
 	max-height: 16px;
+	width: 16px;
+	height: 16px;
 	padding: 0;
-	display: flex;
+	display: flex !important;
+}
+
+.dialog-close-button {
+	background-image: url("https://cdn2.hubspot.net/hubfs/5737588/VL%20Web/Icons/close.svg")
+}
+
+.dialog-close-button i {
+  display: none;
 }
 
 .modal__body {
@@ -218,28 +237,57 @@ button.modal__close {
 	margin-bottom: 25px !important;
 }
 
-.modal__input label {
+.modal__input label,
+.dialog-message label {
 	margin-bottom: 10px;
+	font-size: 16px !important;
+	line-height: 1 !important;
+	padding-bottom: 0 !important;
 }
 
 .modal__inputs input,
-.modal__inputs select {
+.modal__inputs select,
+.dialog-message input,
+.dialog-message select {
 	height: 40px;
 	border-radius: 4px;
 	border: 1px solid rgba(32, 50, 63, 0.5);
+	font-size: 16px !important;
 }
 
-.modal__inputs input::placeholder {
+.dialog-message textarea {
+	font-size: 16px !important;
+}
+
+.dialog-message .elementor-field-group {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.dialog-message section {
+	padding: 32px !important;
+}
+
+.modal__inputs input::placeholder,
+.dialog-message input::placeholder,
+.dialog-message textarea::placeholder {
 	color: rgba(0,0,0,.5) !important;
+	font-size: 16px !important;
 }
 
-.modal__submit input {
+.modal__submit input,
+.dialog-message .elementor-field-type-submit input {
 	padding-top: 9.5px !important;
 	padding-bottom: 9.5px !important;
 	border-radius: 4px;
 }
 
-.modal__consent label input {
+.dialog-message .elementor-field-type-submit input {
+	margin-top: 24px;
+}
+
+.modal__consent label input,
+.elementor-field-type-acceptance input {
 	width: 18px;
 	height: 18px;
 	position: relative;
@@ -248,7 +296,8 @@ button.modal__close {
 	margin-top: 4px;
 }
 
-.modal__consent label input:after {
+.modal__consent label input:after,
+.elementor-field-type-acceptance input:after {
   content: "";
 	position: absolute;
 	width: 20px;
@@ -262,7 +311,8 @@ button.modal__close {
 	background: #FFF;
 }
 
-.modal__consent label input:checked:before {
+.modal__consent label input:checked:before,
+.elementor-field-type-acceptance input:checked:before {
 	content: "";
 	position: absolute;
 	width: 6px;
@@ -275,7 +325,8 @@ button.modal__close {
 	left: 6.5px;
 }
 
-.modal__consent label input:checked:after {
+.modal__consent label input:checked:after,
+.elementor-field-type-acceptance input:checked:after {
 	background: #E72076;
 	border: 1px solid #E72076;
 }
@@ -284,17 +335,26 @@ button.modal__close {
 	padding: 0 8px;
 }
 
-.modal__consent p {
-	line-height: 25px;
+.elementor-field-type-acceptance span {
+	display: flex;
 }
 
-.modal__consent p a {
+.modal__consent p,
+.elementor-field-type-acceptance label {
+	line-height: 25px !important;
+	font-size: 16px !important;
+	width: 100%;
+}
+
+.modal__consent p a,
+.elementor-field-type-acceptance label a {
 	color: #20323F;
 	transition: 150ms linear;
 	font-weight: inherit;
 }
 
-.modal__consent p a:hover {
+.modal__consent p a:hover,
+.elementor-field-type-acceptance label a:hover {
 	color: #E72076;
 }
 
@@ -302,6 +362,10 @@ button.modal__close {
 	.modal__body {
 		border-top-left-radius: 5px;
 		border-top-right-radius: 5px;
+	}
+	
+	.dialog-widget-content {
+		width: calc(100% - 32px) !important; 
 	}
 	
 	.modal__title {
@@ -1036,7 +1100,7 @@ body:not(.rtl) .vl_new_carrer #career-team-lead {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3643"><a href="https://vacuumlabs.com/blog" class="elementor-item">Blog</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6877"><a href="https://vacuumlabs.com/inside-vl" class="elementor-item">Inside Vacuum</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://vacuumlabs.com/podcast" class="elementor-item">Podcasts</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5768"><a href="https://vacuumlabs.com/jobs" class="elementor-item">Jobs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19110"><a href="/jobs" class="elementor-item">Jobs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5566"><a href="https://vacuumlabs.com/contacts" class="elementor-item">Contact</a></li>
 </ul></nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
@@ -1049,7 +1113,7 @@ body:not(.rtl) .vl_new_carrer #career-team-lead {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3643"><a href="https://vacuumlabs.com/blog" class="elementor-item" tabindex="-1">Blog</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6877"><a href="https://vacuumlabs.com/inside-vl" class="elementor-item" tabindex="-1">Inside Vacuum</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://vacuumlabs.com/podcast" class="elementor-item" tabindex="-1">Podcasts</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5768"><a href="https://vacuumlabs.com/jobs" class="elementor-item" tabindex="-1">Jobs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19110"><a href="/jobs" class="elementor-item" tabindex="-1">Jobs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5566"><a href="https://vacuumlabs.com/contacts" class="elementor-item" tabindex="-1">Contact</a></li>
 </ul></nav>
 				</div>
@@ -2088,7 +2152,7 @@ var wpcf7_recaptcha = {"sitekey":"6LeuGi0dAAAAAJ5A-OVJegvlkpu5TqNqwh0u_boE","act
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.4' id='elementor-frontend-modules-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.0' id='elementor-sticky-js'></script>
 <script type='text/javascript' id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"2a6610fe53","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"4ffe624063","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.0' id='elementor-pro-frontend-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
