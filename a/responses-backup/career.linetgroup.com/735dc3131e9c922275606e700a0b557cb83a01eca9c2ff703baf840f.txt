@@ -626,7 +626,7 @@
                         </div>
                 </div>
 
-                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Slaný, CZ, 27401"></span></span><meta itemprop="datePosted" content="Tue Nov 02 02:00:00 UTC 2021"><meta itemprop="validThrough" content="Fri Dec 31 23:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="linetgroup">
+                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Slaný, CZ, 27401"></span></span><meta itemprop="datePosted" content="Wed Dec 01 02:00:00 UTC 2021"><meta itemprop="validThrough" content="Fri Dec 31 23:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="linetgroup">
                     <div class="jobDisplay">
                             <div class="content">
                                 <div class="jobTitle">
@@ -940,7 +940,8 @@
                     <div xml:lang="cs-CZ" lang="cs-CZ" id="similar-jobs-label">Najít podobná pracovní místa: </div>
                     <div id="similar-jobs-links">     
                         <a title="Linet CZ" href="/go/Linet-CZ/3511101/">Linet CZ,</a>     
-                        <a title="Job vacancies CZ" href="/go/Job-vacancies-CZ/3008201/">Job vacancies CZ</a>
+                        <a title="Job vacancies CZ" href="/go/Job-vacancies-CZ/3008201/">Job vacancies CZ,</a>     
+                        <a title="Czech_republic_linet" href="/go/Czech_republic_linet/2986501/">Czech_republic_linet</a>
                     </div>
                 </aside>
                     </div>
@@ -1016,7 +1017,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "61f40bf0-a8f8-4069-8ab7-3e179325d06e"
+						"X-CSRF-Token" : "3b3f0bfb-7121-433d-835c-9ba8d1dd6fa8"
 					}
 				});
 			//]]>
@@ -1066,7 +1067,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "61f40bf0-a8f8-4069-8ab7-3e179325d06e"
+						"X-CSRF-Token" : "3b3f0bfb-7121-433d-835c-9ba8d1dd6fa8"
 					}
 				});
 			//]]>
@@ -1087,7 +1088,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '7666ba2b-d6f9-48d5-859a-22e5372f6faa';
+				var ctid = 'dc2b1199-6e4c-4c4d-bc07-059fdf727b38';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2803408410';
 				var landing = document.location.href;
 				var brand = '';
@@ -1125,7 +1126,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=747707369"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1455689238"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

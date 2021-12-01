@@ -5,9 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
   <meta id="rendered-by" content="jben" />
-  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-0b83f797e71a267c31193781fff2814dfb78746f800ca278a81be45c6664afeb.css" />
-<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-9bc84e316c0e62c281f938d9a4217ce6017c348b675e254d1a3c8c82f2d88f9b.css" />
-  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! There was an error processing your application. Please try again.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;},&quot;job_post&quot;:{&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;Paste&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;errors&quot;:{&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-35c550072911634142c2e1d9f355979693558ca180c68334bdb0a333793e7abf.svg" type="text/configuration"></script>
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-eb75018198aebd6aa381295caca389e2e4a646e8f5c17fb164b447c3ba1bd600.css" />
+  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! There was an error processing your application. Please try again.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;},&quot;job_post&quot;:{&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;Paste&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;errors&quot;:{&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-69893c3b3f8f27477ac24dbcb3d8e569fcc265882e77cd464d2bad69dd7d3918.svg" type="text/configuration"></script>
     <meta property="og:title" content="Frontend Developer (Device Lock)"></meta>
     <meta property="og:description" content="Prague, Czech Republic"></meta>
     <meta property="og:url" content="https://boards.greenhouse.io/acronis/jobs/5625325002"></meta>
@@ -86,7 +86,7 @@
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/acronis/jobs/5625325002" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
         <input type="hidden" name="fingerprint" id="fingerprint" value="8f681d02dea37ac4ddaf31abdc65d8ca110d5483" />
-        <input type="hidden" name="render_date" id="render_date" value="2021-11-30 03:08:40 +0000" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-12-01 01:06:05 +0000" />
 
 
 
@@ -167,10 +167,10 @@
   </div>
 
   <div id="resume_chosen" class="chosen">
-    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <img src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
     <span id="resume_filename"></span>
     <a href="#" class="remove">
-      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
     </a>
 </div>
   <div class="link-container">
@@ -190,7 +190,7 @@
       <div class="progress"><div class="bar" style="width: 0%"></div></div>
     </div>
     <a href="#" class="cancel">
-      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
     </a>
 </div>
     <textarea name="job_application[resume_text]" id="resume_text" class="paste">
@@ -210,10 +210,10 @@
   </div>
 
   <div id="cover_letter_chosen" class="chosen">
-    <img src="https://boards.cdn.greenhouse.io/assets/file-72a3a725025753f50d86728a02b8b3aee9618285adc9237fc25674ef3e644548.png" />&nbsp;&nbsp;
+    <img src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
     <span id="cover_letter_filename"></span>
     <a href="#" class="remove">
-      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
     </a>
 </div>
   <div class="link-container">
@@ -233,7 +233,7 @@
       <div class="progress"><div class="bar" style="width: 0%"></div></div>
     </div>
     <a href="#" class="cancel">
-      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-12555e56df607c430a787d26174debcb4f69e290bcb46699a46da000912226d8.png" />
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
     </a>
 </div>
     <textarea name="job_application[cover_letter_text]" id="cover_letter_text" class="paste">
@@ -364,20 +364,20 @@
 
       <div id="footer">
     <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
-      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-e052cd57a78e17c73aac02274af8a878a99cc9fd4b83a41744e6495236645677.svg" width="100" height="30" />
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
 </a>    <div class="privacy-policy">
       Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
     </div>
   </div>
 
-      <script src="https://boards.cdn.greenhouse.io/assets/application-f65c5d81eae763babdb175248ae53fe028e64b2abddb5fcfe3959a500f7398c7.js"></script>
+      <script src="https://boards.cdn.greenhouse.io/assets/application-6b719fc6e10f959c2060614e85269dea702b3a83c24f15226880d687351cf0cf.js"></script>
 
   <div class="s3-upload-form" data-presigned-form="resume"></div>
 
   <div class="s3-upload-form" data-presigned-form="cover_letter"></div>
 <script class="js-metadata" data-key="JBEN.hideCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.alternateCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.geetestPath" data-type="string" data-value="/geetest" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.publicKey" data-type="string" data-value="6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL" type="text/configuration"></script>      <script src='https://www.google.com/recaptcha/enterprise.js?render=6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL' async></script>
 
-  <script src="https://boards.cdn.greenhouse.io/assets/show_init-a1597e28bd287ce9ccfa9f99f287f0c27a5a277e5cb23115af8880da506e57ee.js"></script>
+  <script src="https://boards.cdn.greenhouse.io/assets/show_init-2f5fdd5c5ac90ad3c0ac0d76992d75eafc694581fdc565f42aa90e0fdc3c5d2c.js"></script>
   
 
 

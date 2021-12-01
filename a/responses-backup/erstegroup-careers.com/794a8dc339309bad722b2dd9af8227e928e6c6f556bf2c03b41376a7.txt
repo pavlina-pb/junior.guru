@@ -700,7 +700,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "73e8daad-1a51-4996-a766-707fbab01c01"
+						"X-CSRF-Token" : "f9c18562-8667-4277-9209-888e31f15517"
 					}
 				});
 			//]]>
@@ -750,7 +750,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "73e8daad-1a51-4996-a766-707fbab01c01"
+						"X-CSRF-Token" : "f9c18562-8667-4277-9209-888e31f15517"
 					}
 				});
 			//]]>
@@ -789,7 +789,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=389040256"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=373092577"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
