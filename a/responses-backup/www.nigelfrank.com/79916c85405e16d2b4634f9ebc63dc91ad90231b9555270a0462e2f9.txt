@@ -76,12 +76,9 @@ Within this role you will be focusing on the development of the backend architec
 
 
 </head>
-    <script>
-        var touchDevice = true;
-    </script>
-    
 
-<body class='body-job-view touch-device '>
+
+<body class='body-job-view  '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -249,7 +246,7 @@ Within this role you will be focusing on the development of the backend architec
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -257,7 +254,7 @@ Within this role you will be focusing on the development of the backend architec
 	<li id="menu-item-4951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4951"><a title="Employees Reviews" href="https://www.nigelfrank.com/employee-reviews/"><i class="fa fa-angle-right"></i>Employees Reviews</a></li>
 </ul>
 </li>
-<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a title="Contact" href="https://www.nigelfrank.com/contact/">Contact</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-250 current_page_item menu-item-280 active"><a title="Contact" href="https://www.nigelfrank.com/contact/">Contact</a></li>
 </ul>                    </div>
                             </div>
         </div>
@@ -290,7 +287,7 @@ Within this role you will be focusing on the development of the backend architec
                     <select class="form-control" name="location[]">
                         <option value="">Select Location</option>
 
-                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1524'>Hungary</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
+                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1524'>Hungary</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2136'>Japan</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3572'>Singapore</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
                 </div>
 
                 <div class="form-group">
@@ -391,7 +388,7 @@ Within this role you will be focusing on the development of the backend architec
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="5hXGw0kdM4dsHd8Juuyyuv2a6bElhOpka8Otu7UF">        <input name="jobs[]" type="hidden" value="393142">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">        <input name="jobs[]" type="hidden" value="393142">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -501,7 +498,7 @@ Within this role you will be focusing on the development of the backend architec
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/393142?_token=5hXGw0kdM4dsHd8Juuyyuv2a6bElhOpka8Otu7UF">
+                                      data-job-id="/saved-jobs/add/393142?_token=awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -542,7 +539,7 @@ Within this role you will be focusing on the development of the backend architec
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/393142?_token=5hXGw0kdM4dsHd8Juuyyuv2a6bElhOpka8Otu7UF">
+                                              data-job-id="/saved-jobs/add/393142?_token=awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -561,7 +558,7 @@ Within this role you will be focusing on the development of the backend architec
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="5hXGw0kdM4dsHd8Juuyyuv2a6bElhOpka8Otu7UF">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">
 
 
 

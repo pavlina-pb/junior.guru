@@ -48,9 +48,12 @@
         {"@context":"http:\/\/schema.org","@type":"Organization","name":"FRG Technology Consulting","sameAs":["https:\/\/www.facebook.com\/FRGTechnologyConsulting\/","https:\/\/www.linkedin.com\/company\/18152901\/","https:\/\/twitter.com\/FRGTechnology"],"url":"https:\/\/www.frgconsulting.com","logo":"https:\/\/www.frgconsulting.com\/assets\/frg\/img\/logo-square.jpg"}
     </script>
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
 
 
-<body class='body-job-view  '>
+<body class='body-job-view touch-device '>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WV54BC9"
@@ -252,7 +255,7 @@
 
     
     <div>
-        <form method="POST" action="https://www.frgconsulting.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="SWkdiSvfC5k951rO2sj1nrVjdon0r1KRV162wGH2">        <input name="jobs[]" type="hidden" value="25978">
+        <form method="POST" action="https://www.frgconsulting.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="o4MnNuAY8u9K9hG6rz0kAaYmTEVaSGlcaeSLWuma">        <input name="jobs[]" type="hidden" value="25978">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -337,7 +340,7 @@
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/25978?_token=SWkdiSvfC5k951rO2sj1nrVjdon0r1KRV162wGH2">
+                                      data-job-id="/saved-jobs/add/25978?_token=o4MnNuAY8u9K9hG6rz0kAaYmTEVaSGlcaeSLWuma">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -352,6 +355,8 @@
         <h4>
                             Similar Jobs                    </h4>
 
+                    <p><a href="https://www.frgconsulting.com/28825/lead-java-developer">Lead Java Developer</a><br>
+                Czech Republic, Prague</p>
                     <p><a href="https://www.frgconsulting.com/28805/senior-front-end-java-developer">Senior Front End Java Developer</a><br>
                 Czech Republic, Prague</p>
                     <p><a href="https://www.frgconsulting.com/28804/senior-front-end-developer">Senior Front End Developer</a><br>
@@ -359,8 +364,6 @@
                     <p><a href="https://www.frgconsulting.com/28697/senior-java-programmer">Senior Java Programmer</a><br>
                 Czech Republic, Prague</p>
                     <p><a href="https://www.frgconsulting.com/28692/junior-developer">Junior Developer</a><br>
-                Czech Republic, Prague</p>
-                    <p><a href="https://www.frgconsulting.com/28683/senior-front-end-java-developer">Senior Front End Java Developer</a><br>
                 Czech Republic, Prague</p>
         
     </div>
@@ -380,7 +383,7 @@
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/25978?_token=SWkdiSvfC5k951rO2sj1nrVjdon0r1KRV162wGH2">
+                                              data-job-id="/saved-jobs/add/25978?_token=o4MnNuAY8u9K9hG6rz0kAaYmTEVaSGlcaeSLWuma">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -399,7 +402,7 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.frgconsulting.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="SWkdiSvfC5k951rO2sj1nrVjdon0r1KRV162wGH2">
+                <form method="POST" action="https://www.frgconsulting.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="o4MnNuAY8u9K9hG6rz0kAaYmTEVaSGlcaeSLWuma">
 
 
 

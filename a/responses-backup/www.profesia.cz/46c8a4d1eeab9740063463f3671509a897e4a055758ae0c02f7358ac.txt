@@ -160,7 +160,7 @@
                             <div class="col-xs-11 col-sm-10">
                                 <strong>Druh pracovního poměru</strong>
                                 <br>
-                                <span itemprop="employmentType">plný úvazek, internship, stáž</span>
+                                <span itemprop="employmentType">plný úvazek</span>
                             </div>
                         </div>
                     </div>
@@ -221,7 +221,7 @@ Tuto pozici nabízíme v těchto lokalitách: <br />
                 </div>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
-        var url = '\/cz\/offers\/4210672\/recommendations\/offer\u002Ddetail\u003Fcategories\u00255B0\u00255D\u003D5\u0026regions\u00255B0\u00255D\u003D46883\u0026positions\u00255B0\u00255D\u003D236\u0026position_level\u003D4\u0026job_type_id\u003D33';
+        var url = '\/cz\/offers\/4210672\/recommendations\/offer\u002Ddetail\u003Fcategories\u00255B0\u00255D\u003D5\u0026regions\u00255B0\u00255D\u003D46883\u0026positions\u00255B0\u00255D\u003D236\u0026position_level\u003D4\u0026job_type_id\u003D1';
         $.getJSON(url).done(function (response) {
             var componentIds = Object.keys(response.data.components);
             $.each(componentIds, function (index, componentId) {
@@ -457,7 +457,7 @@ Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jak�
 
 		    setTimeout(function(){ServeLoginAnchor()},800);
 
-dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4210672"],"content_type":"product"}});feedDataLayerDetail('O4210672','Default','d7','d7');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4210672"],"content_type":"product"}});feedDataLayerDetail('O4210672','Default','d8','d1');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
 $('#offer-send-to-friend').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"E-mail","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-facebook').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Facebook","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-viber').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Viber","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
