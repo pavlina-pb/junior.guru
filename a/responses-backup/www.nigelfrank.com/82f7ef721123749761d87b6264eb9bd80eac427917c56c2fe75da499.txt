@@ -76,9 +76,12 @@ This role is both; challenging and rewarding. You will be contributing towards t
 
 
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
+    
 
-
-<body class='body-job-view  '>
+<body class='body-job-view touch-device '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -246,7 +249,7 @@ This role is both; challenging and rewarding. You will be contributing towards t
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -254,7 +257,7 @@ This role is both; challenging and rewarding. You will be contributing towards t
 	<li id="menu-item-4951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4951"><a title="Employees Reviews" href="https://www.nigelfrank.com/employee-reviews/"><i class="fa fa-angle-right"></i>Employees Reviews</a></li>
 </ul>
 </li>
-<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-250 current_page_item menu-item-280 active"><a title="Contact" href="https://www.nigelfrank.com/contact/">Contact</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a title="Contact" href="https://www.nigelfrank.com/contact/">Contact</a></li>
 </ul>                    </div>
                             </div>
         </div>
@@ -388,7 +391,7 @@ This role is both; challenging and rewarding. You will be contributing towards t
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">        <input name="jobs[]" type="hidden" value="392667">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="9VwF23xLGzfXLpPmK9x36MRWP5GYzlajraZpRsVR">        <input name="jobs[]" type="hidden" value="392667">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -497,7 +500,7 @@ This role is both; challenging and rewarding. You will be contributing towards t
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/392667?_token=awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">
+                                      data-job-id="/saved-jobs/add/392667?_token=9VwF23xLGzfXLpPmK9x36MRWP5GYzlajraZpRsVR">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -540,7 +543,7 @@ This role is both; challenging and rewarding. You will be contributing towards t
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/392667?_token=awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">
+                                              data-job-id="/saved-jobs/add/392667?_token=9VwF23xLGzfXLpPmK9x36MRWP5GYzlajraZpRsVR">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -559,7 +562,7 @@ This role is both; challenging and rewarding. You will be contributing towards t
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="awLdQ4aTWhz9QhMg1VWfelvKoYy6DaJvhoWEgbgV">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="9VwF23xLGzfXLpPmK9x36MRWP5GYzlajraZpRsVR">
 
 
 
