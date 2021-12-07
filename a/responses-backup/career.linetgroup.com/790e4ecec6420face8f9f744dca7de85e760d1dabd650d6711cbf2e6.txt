@@ -1021,7 +1021,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "2a5c1cd1-8890-46f5-bd27-2cd18fc16931"
+						"X-CSRF-Token" : "dbe92e42-18d0-4de4-9a10-16ff31209bff"
 					}
 				});
 			//]]>
@@ -1071,7 +1071,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "2a5c1cd1-8890-46f5-bd27-2cd18fc16931"
+						"X-CSRF-Token" : "dbe92e42-18d0-4de4-9a10-16ff31209bff"
 					}
 				});
 			//]]>
@@ -1088,6 +1088,26 @@
                 });
                 //]]>
             </script>
+		<script type="text/javascript">
+		//<![CDATA[
+			$(function() 
+			{
+				var ctid = 'c50c306c-e04e-4e53-8d4c-ac52db9cf107';
+				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2818828155';
+				var landing = document.location.href;
+				var brand = '';
+				$.ajax({ url: '/services/t/l'
+						,data: 'referrer='+ encodeURIComponent(referrer)
+								+ '&ctid=' + ctid 
+								+ '&landing=' + encodeURIComponent(landing)
+								+ '&brand=' + brand
+						,dataType: 'json'
+						,cache: false
+						,success: function(){}
+				});
+			});
+		//]]>
+		</script>
         <script type="text/javascript">
             //<![CDATA[
             $(function() {
@@ -1110,7 +1130,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=747707369"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1213640683"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

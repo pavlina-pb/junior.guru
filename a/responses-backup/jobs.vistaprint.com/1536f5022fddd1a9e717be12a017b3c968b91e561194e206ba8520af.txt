@@ -21,7 +21,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="Junior Software Engineer, Content Tribe, Czechia Remote" />
                 <meta property="og:description" content="Junior Software Engineer, Content Tribe, Czechia Remote" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/15404388-7f98-447e-a896-9.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/502ac8e6-b223-454c-be58-0.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/c204456a-20ed-402d-9c01-f.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/36aa074b-ab05-4ac6-877f-9.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=59bd7fe4" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=59bd7fe4" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=59bd7fe4" />
@@ -375,7 +375,7 @@
                                 <div class="optionsFacet col-md-4">
                                     <div class="row">
                                         <label id="optionsFacetsDD_facility_label" class="optionsFacet optionsFacet-label" for="optionsFacetsDD_facility">
-                                            City
+                                            City/Remote Location
                                         </label>
                                     </div>
                                     <select id="optionsFacetsDD_facility" name="optionsFacetsDD_facility" class="optionsFacet-select optionsFacetsDD_facility form-control-100">
@@ -800,7 +800,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "f755b911-0eae-437a-bf98-9b800c517df0"
+						"X-CSRF-Token" : "5e3d016f-a6e9-49ab-9955-85d942e4a394"
 					}
 				});
 			//]]>
@@ -822,7 +822,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '15c8d4a4-b3da-4eba-a1f3-3eb75f916e27';
+				var ctid = '42d4e416-b809-42bd-9593-0f53374b5036';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2810856025';
 				var landing = document.location.href;
 				var brand = 'Cimpress-Technology';
@@ -860,7 +860,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=1205163609"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=2126064878"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

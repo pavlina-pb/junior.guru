@@ -96,7 +96,7 @@
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/canonicaljobs/jobs/3274527" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
         <input type="hidden" name="fingerprint" id="fingerprint" value="81ea02fb3af5a54bc0dfb600288851b44f8a3ab7" />
-        <input type="hidden" name="render_date" id="render_date" value="2021-12-04 22:17:28 +0000" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-12-07 00:46:57 +0000" />
 
 
 
@@ -371,10 +371,10 @@
 
           <hr/>
 <div id="eeoc_fields">
-  <h3 id="eeoc_title">U.S. Equal Opportunity Employment Information (Completion is voluntary)</h3>
+  <h3 id="eeoc_title">Voluntary Self-Identification</h3>
 
-  <p> Individuals seeking employment at Canonical - Jobs are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements. </p>
-<p> Completion of the form is entirely <strong>voluntary</strong>. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file. </p>
+  <p> For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely <strong>voluntary</strong>. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file. </p>
+<p> As set forth in Canonical - Jobs’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law. </p>
 
     
 <div class="field" id="gender_dropdown_container">
@@ -394,7 +394,7 @@
   <select name="job_application[race]" id="job_application_race"><option value="">Please select</option><option value="1">American Indian or Alaskan Native</option>
 <option value="2">Asian</option>
 <option value="3">Black or African American</option>
-<option value="4">Hispanic or Latino</option>
+<option hidden="hidden" value="4">Hispanic or Latino</option>
 <option value="5">White</option>
 <option value="6">Native Hawaiian or Other Pacific Islander</option>
 <option value="7">Two or More Races</option>
@@ -403,7 +403,7 @@
     <a target="_blank" href="https://boards.cdn.greenhouse.io/docs/RaceEthnicityDefinitions.pdf">
       Race &amp; Ethnicity Definitions
 </a>
-    <p> If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.  As a government contractor subject to Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows&#58; </p>
+    <p> If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows&#58; </p>
 <p> A "disabled veteran" is one of the following&#58; a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability. </p>
 <p> A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service. </p>
 <p> An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense. </p>
@@ -589,7 +589,7 @@
     </div>
   </div>
 
-      <script src="https://boards.cdn.greenhouse.io/assets/application-6b719fc6e10f959c2060614e85269dea702b3a83c24f15226880d687351cf0cf.js"></script>
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
 
   <div class="s3-upload-form" data-presigned-form="resume"></div>
 
