@@ -702,7 +702,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "7c6f8b61-b701-4868-8943-51ce87d2dc01"
+						"X-CSRF-Token" : "47e0e69f-e6a1-4800-98d1-f8d77e0813b9"
 					}
 				});
 			//]]>
@@ -752,7 +752,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "7c6f8b61-b701-4868-8943-51ce87d2dc01"
+						"X-CSRF-Token" : "47e0e69f-e6a1-4800-98d1-f8d77e0813b9"
 					}
 				});
 			//]]>

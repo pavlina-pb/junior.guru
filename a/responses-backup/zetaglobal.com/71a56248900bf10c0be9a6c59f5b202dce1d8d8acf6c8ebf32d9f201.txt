@@ -13,7 +13,7 @@
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107113281-1"></script>
 	<script>
 			</script>
-	<script>
+ 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
 
@@ -109,7 +109,7 @@ var handl_utm = [];
 <script type='text/javascript' src='https://zetaglobal.com/wp-content/plugins/handl-utm-grabber/js/handl-utm-grabber.js?ver=5.8.2' id='handl-utm-grabber-js'></script>
 <script type='text/javascript' id='cookie-notice-front-js-extra'>
 /* <![CDATA[ */
-var cnArgs = {"ajaxUrl":"https:\/\/zetaglobal.com\/wp-admin\/admin-ajax.php","nonce":"a0192398d4","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+var cnArgs = {"ajaxUrl":"https:\/\/zetaglobal.com\/wp-admin\/admin-ajax.php","nonce":"8e7994ea62","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
 /* ]]> */
 </script>
 <script async type='text/javascript' src='https://zetaglobal.com/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.1.3' id='cookie-notice-front-js'></script>
@@ -5297,7 +5297,7 @@ jQuery('#tradeshow_button').click(function () {
     var tradeshow_name = jQuery("#ts_name").val();
     var tradeshow_startdate = jQuery("#ts_startdate").val();
     
-    var submission_date= '2021-12-03T04:57:20.000000Z'; 	
+    var submission_date= '2021-12-09T04:50:13.000000Z'; 	
     
     if(userIdentifier!=''){
         
@@ -5426,7 +5426,7 @@ jQuery('#trackdemorequest_button').click(function () {
             var tradeshow_name = jQuery("#ts_name").val();
             var tradeshow_startdate = jQuery("#ts_startdate").val();
             
-            var submission_date= '2021-12-03T04:57:20.000000Z';  
+            var submission_date= '2021-12-09T04:50:13.000000Z';  
             
             if(userIdentifier!=''){
                 
@@ -5826,7 +5826,7 @@ jQuery(".dropbox4 .droplink4, .droplink4-panel").hover(function(){
 
 </head>
 
-<body class="post-template-default single single-post postid-54954 single-format-standard desktop group-blog cookies-not-set">
+<body class="post-template-default single single-post postid-54954 single-format-standard mobile ios group-blog cookies-not-set">
 		<!---modal popup for optout in privacy policy page --->
 			<div id="optout" class="modal optmodal">
  				 <p id="optText"></p>
@@ -5974,7 +5974,7 @@ jQuery(".dropbox4 .droplink4, .droplink4-panel").hover(function(){
 	</div><!-- .row -->
 </section><!-- .section-fullwidth section-main -->
 
-<section class="section-fullwidth section-color-light section-almost-fullwidth section-contact-us-cta">
+<!--<section class="section-fullwidth section-color-light section-almost-fullwidth section-contact-us-cta">
 	<div class="row">
 		<div class="columns small-12">
 			<header class="section-heading section-heading-smaller section-heading-no-mb">
@@ -5983,7 +5983,7 @@ jQuery(".dropbox4 .droplink4, .droplink4-panel").hover(function(){
 			</header>
 		</div>
 	</div>
-</section>
+</section>-->
 
 
 	</div><!-- #content -->
@@ -6042,11 +6042,15 @@ jQuery(".dropbox4 .droplink4, .droplink4-panel").hover(function(){
 						</div>
 						<div class="footer-additional-links">
 
-							<ul class="list-basic-links">
-								<li class="list-item"><a href="https://zetaglobal.com/terms-of-use-dsp">Terms of Use</a></li>
+							<ul class="list-basic-links"> 													<li class="list-item"><a href="https://zetaglobal.com/terms-of-use-dsp">Terms of Use</a></li>
+											 														<li class="list-item"><a href="https://zetaglobal.com/privacy-policy">Privacy Policy</a></li>
+											 														<li class="list-item"><a href="https://zetaglobal.com/do-not-sell-my-info">Do Not Sell or Share My Info</a></li>
+											 														<li class="list-item"><a href="https://zetaglobal.com/acceptable-use-policy">Acceptable Use Policy</a></li>
+											 	
+								<!--<li class="list-item"><a href="https://zetaglobal.com/terms-of-use-dsp">Terms of Use</a></li>
 								<li class="list-item"><a href="https://zetaglobal.com/privacy-policy">Privacy Policy</a></li>
 								<li class="list-item"><a href="https://zetaglobal.com/do-not-sell-my-info">Do Not Sell or Share My Info</a></li>
-								<li class="list-item"><a href="https://zetaglobal.com/acceptable-use-policy">Acceptable Use Policy</a></li>								
+								<li class="list-item"><a href="https://zetaglobal.com/acceptable-use-policy">Acceptable Use Policy</a></li>-->								
 							</ul>
 						</div>
 					</div>

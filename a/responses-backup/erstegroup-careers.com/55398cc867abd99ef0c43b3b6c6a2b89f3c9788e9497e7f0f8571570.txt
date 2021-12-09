@@ -697,7 +697,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "7c6f8b61-b701-4868-8943-51ce87d2dc01"
+						"X-CSRF-Token" : "47e0e69f-e6a1-4800-98d1-f8d77e0813b9"
 					}
 				});
 			//]]>
@@ -747,7 +747,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "7c6f8b61-b701-4868-8943-51ce87d2dc01"
+						"X-CSRF-Token" : "47e0e69f-e6a1-4800-98d1-f8d77e0813b9"
 					}
 				});
 			//]]>
@@ -768,7 +768,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = 'bac42604-0cc7-44ac-87be-de88a4c0a5f1';
+				var ctid = 'c9fe3bed-98dc-4548-9ba0-72192ba9069f';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2810246584';
 				var landing = document.location.href;
 				var brand = 'csas';
