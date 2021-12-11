@@ -566,7 +566,7 @@ footer .sitemap .sitemap-inner .links:nth-child(3) ul li:nth-child(2) {display:n
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'KNN69NAFXEoi6sn2eHdCC/NJZg+534fjrRpd3Pxifq+CXLcUsYE0rjLxdxLPPoefOJQPluBLyQTwZWLsKms2YVOkjXdBHrgQeU0Epg7rWI2+FJpjpkKnzCIP3lgR9FmLONW/+5a7XUCGp/6ehGOhRBIMwoWBkNiYh+aP4hxAKxcrDnf+JwKpYe4=--oGmlUb4rq8e7OYGP--crp4QxQUlpiXm73bYNpvDw==',
+        ed: 'b8qeNvzMOMa5o+W9eZvZcbxb9EqfRVdPEL82kvqUWei4YMP1mKkMiLhliAE8VMwKelkoE50G3Gsp3P2+Wry0RI3Q4pAah2Tk/4c7o85hOX8cF5vFDpWHwk3BSJRkiHXDoiyR+f57uyNguPLubJt6p3BgG0amrjxYBIkennssHoL8Cdo58yfbVl4=--kb1X4v/qIy1JwLBH--XXQReOtD4bpJK6g+IIyDaQ==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,
@@ -1227,7 +1227,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 
           <div class="c-employee-referral__form">
             <form method="post" action="https://careers.memsource.com/auto_join" class="filter row">
-              <input type="hidden" name="authenticity_token" id="authenticity_token" value="R2K8VxrZlg7JYKpPFEBErHQA8dh5T4G0RJMhtqAWp5WiotUeZ3jobPVI9Yiewv2AQWU8kcXTD7ABafYf9Pq6eA==">
+              <input type="hidden" name="authenticity_token" id="authenticity_token" value="xIQyaTVBcCVmlyMjpMt1hkkHoxhz3KA0cd1jRrkbhefHj2uTAGyveR74qMshJ7W1f10WOpjDnJxa5pF+dkqFNw==">
               
               <button class="btn c-employee-referral__button tt-button--filled u-primary-button-text-color u-primary-button-background-color"
                 data-event-tracking="click"
