@@ -5,7 +5,7 @@
 	
 	<script type="text/javascript">
 (function(ENV, TOKEN) {
-	var isSupportedBrowser = false;
+	var isSupportedBrowser = true;
 	var enabledEnvironments = ['prod', 'stage'];
 	var isEnabled = isSupportedBrowser && enabledEnvironments.indexOf(ENV) > -1;
 	var isMobile = false;
@@ -205,7 +205,7 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 		var DEFAULT_PERMISSIONS_ERROR_MESSAGE = "You do not have sufficient permissions for this";
 		var GLOBAL_DATEPICKER_MASK = "mm\/dd\/yy";
 		var GLOBAL_NUMBER_REGEX = "\u005E\u0028\u003F\u0021\u002D0\u0024\u0029\u002D\u003F\u0028\u003F\u003D\u005B0\u002D9\\.\u005D\u0029\u0028\u003F\u00210\u005B0\u002D9\u005D\u0029\u0028\u003F\u003A\\d\u002B\u007C\\d\u007B1,3\u007D\u0028\u003F\u003A,\\d\u007B3\u007D\u0029\u002B\u0029\u003F\u0028\u003F\u003A\\.\\d\u002B\u0029\u003F\u0024";
-		var CSRF_TOKEN = "d3713752ddc35d74926cb67ef3d08c7a0c564f28fc3151ed5d956050b104c760b83177ff585d15a7725eed7c724051954576257dda6af3f177c958b663f2fe9f";
+		var CSRF_TOKEN = "1796c37db5a5b9d40960e25a32eb9a1191e54f861b81c65f39f0c1a31afe5d85d04e41251c0aadde415e4748f8e733fc4ed586837523e56716f8379de68c06a2";
 		var CAN_EMAIL_FILES_AND_REPORTS = null;
 		var EVENT_TRACKING_DEFINITIONS = null;
 	</script>
@@ -565,7 +565,7 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 						<div class="jobsApp submitOverlay js-jobs-overlay">
 							<h3 class="applyFormHeader jobsAppHeader">Apply for this Position</h3>
 							<form id="applicationForm" class="candidateApplyForm jobsAppForm candidateInfoForm" method="POST" action="/jobs/view.php?id=187&amp;source=linkedin">
-								<input type="hidden" name="applicantHash" value="6525666c5c7ee78277b96a9d3830b03419f90673"/>
+								<input type="hidden" name="applicantHash" value="0f33449839ac51d6b1d25006f85480a0e77a41c6"/>
 								<input type="hidden" name="eeoOnly" value="off" id="eeoOnly"/>
 								<input type="hidden" name="scoreV3" value="" id="scoreV3"/>
 								<input type="hidden" name="positionHash" value="5733378" id="positionHash"/>
