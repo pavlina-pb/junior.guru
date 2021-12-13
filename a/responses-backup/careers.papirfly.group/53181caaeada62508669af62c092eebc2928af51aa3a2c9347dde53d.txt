@@ -7,7 +7,7 @@
     <title>Front-end Developer - Papirfly Group</title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="gjcFc8r6acKYMU9z982F2kYQiqEQMYBlyqz7FmeM4KF+LNs9AqHsckNuYSbULI0qV6p48jY6S6ezMM6adxqCDQ==" />
+<meta name="csrf-token" content="FAMFbBrzW7hcwKdjzgh1Oo8USrhr7cjeScmFDFx5GvyeL/6ZS4APg0k1pzfe1b+6F6DasxTE6xpyXn6s6MlGZA==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/c5008796-8e8e-4e08-8857-09b460045e37/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/c5008796-8e8e-4e08-8857-09b460045e37/original.png' sizes='180x180'>
@@ -674,7 +674,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     <h2 class="text-center font-company-header text-4xl text-shadow">Already working at Papirfly Group?</h2>
     <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
       <div class="relative mx-auto max-w-[500px] w-full py-5 pl-8 mt-6 rounded cursor-pointer bg-company-secondary-text text-company-secondary bg-opacity-15 pr-14 focus-within:bg-white focus-within:text-gray-800" data-action="click->blocks--auto-join--form#focusEmailField">
-  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1etgPA+C38aRnf2wF4uti38oWdw7lg5IyiHUg8E+/dN/x8Og3JFWCwXaot1Fl4YFGnWo041ol8iHb3C6x6R7Zw==" />
+  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="B4Y2R++0usE9hWUWqMQh2Grh5TmcP9qRm7CWowYifiuDOH8XZy2lX9HyIUKhLRpw2aD0oNI/tM/nhX5HqCQDhA==" />
     <input value="papirfly.com" data-blocks--auto-join--form-target="domainField" type="hidden" name="domain" id="domain" />
     <input data-blocks--auto-join--form-target="emailField" type="hidden" name="email" id="email" />
     <input tabIndex="-1" required="required" type="email" autocomplete="off" title="Email address without domain" class="absolute inset-0 opacity-0" data-blocks--auto-join--form-target="fullEmailField" name="full_email" id="full_email" />
@@ -699,21 +699,21 @@ Because we respect your right to privacy, you can choose not to allow some types
   </div>
   <ul class="absolute bottom-[-27px] md:bottom-[-35px] flex items-center justify-center left-0 right-0" data-controller="blocks--auto-join--people">
     <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Martin Landsberger Pospíšil" alt="Martin Landsberger Pospíšil" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/97ecb29a-6fb9-4897-a479-0076c86bf976/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Eva-Lill Amundsen" alt="Eva-Lill Amundsen" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/22406320-19de-474d-9ed8-e0d89ece45e9/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Justin Diver" alt="Justin Diver" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8cfcb51e-002e-4916-b046-2938335d8606/original.png" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Michael Pfeiffer" alt="Michael Pfeiffer" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/625cfc52-f832-4023-8828-ce64c0eec304/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Morten Reigstad" alt="Morten Reigstad" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/0dbdd6ba-8770-494c-ad3f-a4ab357ecd0f/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Hanna Hugozon" alt="Hanna Hugozon" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/1b920a7f-bbc0-42f9-a43b-65a54f741f07/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Ivana Došlová" alt="Ivana Došlová" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8279bda4-ed94-477c-ae47-1b4aa44b33d7/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Karl Wilhelm Klevan" alt="Karl Wilhelm Klevan" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/bf1a6702-c321-4350-81cc-8278620a3f56/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Sam Wiltshire" alt="Sam Wiltshire" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/dffb92ff-23ab-4c5e-9567-6dc530029318/original.png" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Luke Alexandre" alt="Luke Alexandre" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/f722fe0a-1521-47d9-b1e2-7300572f4170/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Siril Jacobsen" alt="Siril Jacobsen" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/55fcd3b6-15af-4a2c-85ad-07e7249f37d4/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Luke Davis" alt="Luke Davis" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/83b8d4fb-d8ce-459d-9797-3a0ce15a1794/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block hidden md:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Michael Pfeiffer" alt="Michael Pfeiffer" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/625cfc52-f832-4023-8828-ce64c0eec304/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Martin Landsberger Pospíšil" alt="Martin Landsberger Pospíšil" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/97ecb29a-6fb9-4897-a479-0076c86bf976/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li></ul>
 
 </div>
@@ -753,7 +753,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'DULfNJyZ6Qn5xlKBRYpAFcsOE8LbXtrhk+kcKnKpb9NG1idDPCYONk+pkRCBjopOOYqdu5u5kHAIrQneXbg8K4KBxlEVVh8da/dajrInycXojPbQytSMMwPtbEXYv/cfvcUQ+NpXPsBBZxq5XySWqIRGg0mtNQ3u2YkYVbdylkCDhVZfPjR71C0=--0XyqkF7jlqsfJ/EZ--wHrLHfLKiNPBomw2vwN5iA==',
+        ed: 'JMm6X4JiECIbbUgDwBFA2QFggc1l6duXjtOfypYoi1Bl5TMSwfHLrU7DudW/at6rG09khdZrNsiilg+DH8z+6Eq7NWQClVj4Fb0F9OGgRABqxaWV7mM9/g5fQurPMFFkIl6uVYyO861n89EEipC7CO7YAZ9zYiHt4ysuh0Yjn0CYkra7n3blAow=--3Z8Oz4sHFppREQX2--xtxzLO+/EwlYokUvGotReg==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

@@ -23,9 +23,9 @@
             (window, document, 'script', 'dataLayer', 'GTM-KVV2CGR');
         </script>
                         <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=59bd7fe4" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=bfa626b" />
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/navbar-fixed-top.css" /><!--[if lt IE 9]>
-                            <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css?h=59bd7fe4" /><![endif]-->
+                            <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css?h=bfa626b" /><![endif]-->
 
         <script type="text/javascript" src="/platform/js/jquery/jquery-3.5.1.min.js"></script>
                 <script type="text/javascript" src="/platform/js/jquery/jquery-migrate-1.4.1.js"></script>
@@ -39,10 +39,10 @@
                 <meta property="og:title" content="SW inženýr junior" />
                 <meta property="og:description" content="SW inženýr junior" />
                 <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/60a7f4f8/8196077f-2335-4370-bafa-d.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/60a7f4f8/86a0ee26-341e-45e9-8507-f.css" /><![endif]-->
-                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=59bd7fe4" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=59bd7fe4" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=59bd7fe4" />
-                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=59bd7fe4" />
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=bfa626b" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=bfa626b" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=bfa626b" />
+                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=bfa626b" />
 
 
         <link rel="shortcut icon" href="//rmkcdn.successfactors.com/60a7f4f8/7a5da2ac-3fc7-4d15-bb74-5.ico" type="image/x-icon" />
@@ -987,8 +987,8 @@
     </div>
         </div>
         <script src="/platform/bootstrap/3.4.1/js/bootstrap.min.js" type="text/javascript"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=59bd7fe4"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=bfa626b"></script>
 
 		<script type="text/javascript">
 			//<![CDATA[
@@ -1021,12 +1021,12 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "2bfc5091-3409-4cc7-8e5d-4c314b423a7d"
+						"X-CSRF-Token" : "809a4e8c-6d2e-4e47-aa2b-7a524f53bc1b"
 					}
 				});
 			//]]>
 		</script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.apply.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.apply.min.js?h=bfa626b"></script>
             <script type="text/javascript">
                 //<![CDATA[
                 j2w.Apply.init({
@@ -1071,13 +1071,13 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "2bfc5091-3409-4cc7-8e5d-4c314b423a7d"
+						"X-CSRF-Token" : "809a4e8c-6d2e-4e47-aa2b-7a524f53bc1b"
 					}
 				});
 			//]]>
 		</script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.socialApplyCore.min.js?h=59bd7fe4"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/socialApplyRD.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.socialApplyCore.min.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/socialApplyRD.min.js?h=bfa626b"></script>
             <script type="text/javascript">
                 //<![CDATA[
                 j2w.SAB.init({
@@ -1092,7 +1092,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '6d65d490-ba5d-46dd-9880-9a5b0d27c3fb';
+				var ctid = '45f16c45-5c17-47b5-8951-5beec5f7f33e';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2818828155';
 				var landing = document.location.href;
 				var brand = '';
@@ -1120,17 +1120,17 @@
             });
             //]]>
         </script>
-					<script type="text/javascript" src="/platform/js/localized/strings_cs_CZ.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/localized/strings_cs_CZ.js?h=bfa626b"></script>
 
         <script type="text/javascript" src="/platform/js/knockout-2.3.0.js"></script>
-					<script type="text/javascript" src="/platform/js/search/search.js?h=59bd7fe4"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=59bd7fe4"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/search/search.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=bfa626b"></script>
         
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1901365691"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=2027053834"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
@@ -1376,7 +1376,7 @@
                     };
                 //]]>
             </script>
-					<script type="text/javascript" src="/platform/js/tc/subscribeWidget.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/tc/subscribeWidget.js?h=bfa626b"></script>
                         <script type="text/javascript">
                             //<![CDATA[
                             $(function() {
@@ -1411,7 +1411,7 @@
                         <script type="text/javascript" src="https://www.linkedin.com/mjobs/awli/awliWidget"></script>
                     <script type="IN/AwliWidget" data-company-job-code="2921-cs_CZ" data-integration-context="urn:li:organization:796005" data-api-key="78419eygulobre" data-mode="BUTTON_DATA" data-callback-method="finishAwLI2Callback" data-allow-sign-in="true" data-size="small"></script>
                 </div>
-					<script type="text/javascript" src="/platform/js/j2w/min/options-search.min.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/options-search.min.js?h=bfa626b"></script>
             <script type="application/javascript">
                 //<![CDATA[
                 var j2w = j2w || {};
@@ -1423,7 +1423,7 @@
                 };
                 //]]>
             </script>
-					<script type="text/javascript" src="/platform/js/sfshorturl.js?h=59bd7fe4"></script>
+					<script type="text/javascript" src="/platform/js/sfshorturl.js?h=bfa626b"></script>
             <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=addthisj2w"></script><!-- Jobs2Web, Inc. Site Scope Monitoring Comment - PLO -->
 		</body>
     </html>

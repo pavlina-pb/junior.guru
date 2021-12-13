@@ -1,0 +1,2548 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam-cell.nr-data.net","errorBeacon":"bam-cell.nr-data.net","licenseKey":"35ab9c0a6e","applicationID":"59766662","transactionName":"M1QBMUAFVkJXUxdcWAoeLjNxS3JeVHETRVsNUgIRWwtWclleF0dYCF0GFx0uV1M=","queueTime":0,"applicationTime":37,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam-cell.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"35ab9c0a6e",applicationID:"59766662"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?p("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&p("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(f&&f<r.startTime)return;p("lcp",[r])}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||p("cls",[t])})}function a(t){if(t instanceof g&&!y){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),y=!0,p("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=l.now(),p("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d,p=t("handle"),l=t("loader"),v=t(9),m=t(3),g=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(h){}s=new PerformanceObserver(i);try{s.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}d=new PerformanceObserver(o);try{d.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var y=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(t){document.addEventListener(t,a,m(!1))})}v(c)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){y[t]=m(t).concat(e)}function v(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function g(t){return p[t]=p[t]||i(n)}function h(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var y={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:h,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=P.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+P.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+P.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,h="addEventListener",y="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1212.min.js"},M=w&&b&&b[h]&&!/CriOS/.test(navigator.userAgent),P=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:M,userAgent:s,disabled:E};if(!E){t(1),t(7),g[h]?(g[h]("DOMContentLoaded",o,l(!1)),m[h]("load",r,l(!1))):(g[y]("onreadystatechange",i),m[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    
+    <script type="text/javascript">
+        window.isNeedToJumpToTJN = true;
+    </script>
+    <script type="text/javascript" src="/Content/Scripts/LocalStorageHandler.js"></script>
+
+    
+<script type="text/javascript">
+    // catch all onload errors
+    // We have global error handler which send client side errors to SPADE
+    // It is implemented in GTM - 'Global_Error_Handler' tag
+    window.onerror = function tempHandler(errorMsg, src, lineNumber, colNumber, errObj) {
+        if (!window.IsGlobalErrorHandlerRunning) {
+            if (!window.OnLoadErrors)
+                window.OnLoadErrors = [];
+            window.OnLoadErrors.push({
+                errorMsg: errorMsg,
+                url: src,
+                lineNumber: lineNumber,
+                colNumber: colNumber,
+                errObj: errObj
+            });
+        }
+    }
+</script>
+    
+    <link rel="Shortcut icon" type="text/css" href="http://jobs.thejobnetwork.com/candidatenet/Images/mainIcons/rm_favicon.ico" />
+    
+    <link href="/CandidateNet/Bundle/dist/Core.css" rel="stylesheet"/>
+
+
+    <link href="/CandidateNet/Bundle/dist/MasterMVC.css" rel="stylesheet"/>
+
+
+    
+        <link rel="stylesheet" type="text/css" href="http://jobs.thejobnetwork.com/candidatenet/App_Themes/Default/NewspaperStyleSheet.css" />
+        
+
+        
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        
+
+    <script type="text/javascript" src="/Content/Scripts/RmTrackingManager.js"></script>
+
+    
+    <script type="text/javascript">
+        window.localStorageIframeUrl = 'https://jobs.thejobnetwork.com';
+    </script>
+    <script id="lsCrossDomain" type="text/javascript" src="/Content/Scripts/LocalStorageCrossDomain.js" data-enableCorsFile="https://jobs.thejobnetwork.com"></script>
+    
+
+    
+        
+        <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+    
+        
+
+        <script src="/CandidateNet/JS/Bootstrap/bootstrap.min.js"></script>
+
+        <script src="/CandidateNet/Bundle/dist/MasterMVC.js"></script>
+
+    
+        <link href='//fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+        
+
+    <script type="text/javascript">
+        window.AmazonAffiliateId = "4397";
+        window.CoolaDataAffiliateId = "4397";
+        window.CoolaDataAffiliateName = "Rose International";
+        window.UserIpValue = "35.172.109.225";
+        window.rmTrackingComponentName = 'CandidateNet';
+    </script>
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="canonical" href="https://jobs.thejobnetwork.com/Job/506526771/software-engineer-job-in-myrtle-point-or-us">
+
+    
+
+    <title>Geospatial Software Engineer job in Myrtle Point, OR - PandoLogic</title>
+
+    <meta name="Description" content="A Work From Home job in Myrtle Point, OR by Rose International in the Technology field: Geospatial Software Engineer" /><meta name="Title" content="Geospatial Software Engineer job in Myrtle Point, OR - PandoLogic" />
+
+    <meta name="expires" content="Mon, 03 Jan 2022">
+    <meta name="googlebot" content="unavailable_after: Mon, 03 Jan 2022 00:46:09 GMT">
+
+    
+    <meta property="fb:app_id" content="128450523835406" />
+
+    <meta property="og:image" content="http://jobs.thejobnetwork.com//Images/FBLogo.jpg" />
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="500">
+
+    <meta property="og:url" content="http://roseinternational.thejobnetwork.com/CandidateNet/Job/506526771?etd=LAFFER2UEHPRADEG3NYXESMGUE5EBONEPVSY3K27CW6W7ASIA6ODJCWV4ISJT5F4MSOFY7VUV3HTY5EJEEHMD4JSLDEVBXVIYOLYXOBPWDPOCIPMZMQOPLG5KDCGYCE2JQMVZ4R34CGCCV4D4IVMA7V5UHF4EGBYX7DEZD7S476HINZP27XA%3D%3D%3D%3D" />
+    <meta property="og:title" content="Geospatial Software Engineer" />
+    <meta property="og:type" content="article" />
+
+    <script src="/JS/General.js"></script>
+
+    <link href="/CandidateNet/Bundle/dist/Fonts.css" rel="stylesheet"/>
+
+
+    <link href="/CandidateNet/Bundle/dist/JobApplication.css" rel="stylesheet"/>
+
+
+    <script src="/CandidateNet/Bundle/dist/JobApplicationCORE.js"></script>
+
+    <link href="/CandidateNet/Bundle/dist/StrippedJobApplication.css" rel="stylesheet"/>
+
+
+    
+
+    <link href='//fonts.googleapis.com/css?family=Open+Sans|Archivo+Black' rel='stylesheet' type='text/css'>
+</head>
+<body id="RealMatchBody">
+    
+    <script type="text/javascript" src="/Content/Scripts/GTMManager.js"></script>
+    <script>
+        window.rmGTMManager.init("Production");
+    </script>
+    
+    
+    
+
+<link href="/CandidateNet/App_Themes/Default/Ie8UpgradeMessage.css" rel="stylesheet" type="text/css" property="stylesheet" />
+
+
+<!--[if lt IE 9]>
+<div class="suggestions messenger nocontent robots-nocontent" id="suggestions" style="">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i>
+                    <span class="message-title">
+                        This page no longer supports Internet Explorer 8 or earlier. Please upgrade your browser.
+                    </span> 
+                    <a class="action-link" href="http://www.whatbrowser.org/" target="_blank">LEARN MORE »</a> 
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<![endif]-->
+
+
+    
+    <div id="master-header">
+        <div style="width:100%;">   <div style="width:100%;margin-left:auto;margin-right:auto;background-color: #ffffff;">       <iframe src = "https://fileserver.thejobnetwork.com/content/public/Affiliates/3/images/blog_header/header.html" scrolling=no frameborder=0   leftmargin=0 topmargin=0 marginheight=0 marginwidth=0 style="border: 0px none;width:100%; height:151px; margin-left:auto; margin-right:auto;"></iframe>       </div>  </div>
+    
+
+<link href="/CandidateNet/App_Themes/Default/Ie8UpgradeMessage.css" rel="stylesheet" type="text/css" property="stylesheet" />
+
+
+<!--[if lt IE 9]>
+<div class="suggestions messenger nocontent robots-nocontent" id="suggestions" style="">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i>
+                    <span class="message-title">
+                        This page no longer supports Internet Explorer 8 or earlier. Please upgrade your browser.
+                    </span> 
+                    <a class="action-link" href="http://www.whatbrowser.org/" target="_blank">LEARN MORE »</a> 
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<![endif]-->
+
+
+
+    </div>
+    
+
+    <div id="mainContainer" class="mainContainer">
+
+        
+        
+
+        
+
+    <script src="https://tracking.pandoiq.com/17962?etd=QSDWSMLQJ6ERJ66KIW6JKPP3R74ZZI4TGDWHUEIW45CB7DHXSZFPWTC75AT27ZBRQQK3KJEIXVXBGZKKIIBSWH3FR2EH7ESZX4M5GQ2Y77SORRX6AGNQRTJ3HIVCYMX46ONV5KQPUHUP4IQDFEZRUOY7UBAMJX5HJ7QOIN423SFUT6RJ345CW5V7WLWMQPA26QPUFZV44WXXHH7UDELAI7RHVOCFQ2W4S2MOQD7KRR7RA6YDYXFRG5FUN44KIQXBS76KCS7GQ3MCY===&piq_internal&piq_event=view&piq_uuid=71cb3763-f98e-4649-ab6a-0f38077cda6b&piq_clkid=42fbf9ac-f75e-45a7-89c4-bed9aba25533&piq_PageType=5"></script>
+	<noscript><img src="Model.TrackingModel.TrackingUrl%>&noscript" height="0" width="0"></noscript>
+
+    <div itemscope itemtype='http://schema.org/JobPosting'>
+        
+        
+
+<script>
+
+    window.rmJobApplication = window.rmJobApplication || {};
+
+    window.rmJobApplication.JobApplicationMainJsData = (function () {
+
+        var data = {"applyTrackingClickSource":null,"Position":{"Id":"506526771","CompanyName":"Rose International","CompanyId":6089989,"DisplayLocation":"Myrtle Point, OR","Title":"Geospatial Software Engineer","PostingDate":"\/Date(1638510369790)\/","ExternalApplyUrl":null,"HasFallBackUrl":false,"ExternalApplyParmeter":"","VideoUrl":null,"DisplayAd":null,"EngagementTypesDescription":["Work From Home"],"JobTitleId":21,"SubFieldId":125,"ActiveServices":"ExtendedNetworkExposure","JobAgeInDays":9,"IsSaved":false,"IsAutoRedirect":false,"AffiliateId":4397,"IsNoTrack":false},"PositionLocation":{"DisplayLocation":"Myrtle Point, OR (US)","Zipcode":null,"State":"OR","City":"Myrtle Point","StateFullName":"Oregon","CityWithState":"Myrtle Point, OR","CountryId":3},"PositionTaxonomyValues":{"JobTitleText":"Software Engineer","SubCategory":"Application Development","Category":"Technology"},"Candidate":{"MatchLevel":1,"MatchLevelText":"Basic","FirstName":null,"LastName":null,"Address":null,"PhoneNumber":null,"Email":"","Id":0},"Affiliate":{"AffiliateId":4397,"AffiliateName":"PandoLogic","SenderName":null,"IsOptOutFromBulkApply":true,"IsUsePushnami":false,"IsSslAffiliate":false},"MatchAlert":{"EmailId":"","ResendNum":0,"NotificationRescheduleType":0},"isDebug":false,"enumResumeMethod":{"Selected":1,"FileSystem":2,"CloudService":3,"Typed":5},"FileUpload":{"UploadingMessage":"Uploading...","FileTypeIsNotSupportedMessage":"Please upload a file in one of the following formats: doc, docx, pdf, rtf, txt.","FileSizeExceedsTheLimitMessage":"Please upload a smaller file. The file size limit is 5 MB","UploadProcessFailedMessage":"Upload failed. Please try again.","SelectAResumeFromMyProfile":"Select a resume from my profile","MaxResumeSizeBytes":"5242880","ResumeAddedMessage":"Your resume \u003cresumeName\u003e has been added.","ExtensionsTypes":"txt,doc,docx,rtf,pdf"},"IsPiqApplicationFlow":true,"JobApplicationFlows":{"IsMobile":false,"IsLoggedUser":false,"PositionType":0,"IsOneClickApply":true,"IsActive":true,"SourceId":18377,"IsAlreadyApplied":false,"IsHasResume":false,"IsAppliable":false,"IsStrippedJobApplication":true,"IsStrippedWithContinue":false,"ShouldBeStrippedWithContinue":false,"JobPageSource":"Free Vendor","CpcLevel":null,"StructuredData":{"IsSchemaDisplay":true,"AffiliateDisplayName":"PandoLogic","PostingDate":"2021-12-03"},"CompanyIsAnonymous":false},"AffiliateId":4397};
+
+        var endPoints = {
+            sendToLinneUrl: '/candidate/sendtolinne',
+            parseAndEnrich: '/candidate/parseandenrich',
+            uploadResumeFromCloud: '/candidate/uploadresumefromcloud',
+            existAndOptIn: '/candidate/existandoptin',
+            getQuestionsUrl: '/jobapplication/questions',
+            saveJobUrl: '/jobapplication/savejob',
+            unSaveJobUrl: '/jobapplication/unsavejob',
+            getSimilarJobsUrl: '/jobapplication/getsimilarjobs',
+            setBulkApplyPositions: '/jobapplication/setbulkapplypositions',
+            createNewCandidate: '/candidate/createnewcandidate',
+            uploadResumeFromDevice: '/candidate/uploadresume',
+            autoCompleteUrl: 'https://jobs.thejobnetwork.com/RMAPI/' + "AutoComplete.svc/LocationsWithSpelling",
+            autoCompleteUrlGetRegions: 'https://jobs.thejobnetwork.com/RMAPI/' + "AutoComplete.svc/GetRegions",
+            dynamicScriptUrl: '/CandidateNet/Common/SiteAnalyticDynamicScript',
+            validateCityOrZipUrl: '/Handlers/DataSources.ashx?Type=ValidateCityOrZip',
+            dataSources: '/Handlers/DataSources.ashx',
+            loginUrl: 'http://roseinternational.thejobnetwork.com/Login',
+            bulkApplyURL: 'http://roseinternational.thejobnetwork.com/BulkApply',
+            baseURL: 'http://roseinternational.thejobnetwork.com/'
+        };
+
+        var resources = {
+            unsavedMessage:  'You are about to leave the application process.',
+            sessionLostMessage : 'Due to inactivity, you have been logged-out. Please login again to submit your application',
+            strippedJobApplicationLoginMessage : 'Please login to your job seeker account on {affiliateName} to complete your application',
+            invalidPasswordMessage: '{0}-{1} characters allowed. No spaces.'
+        };
+
+        // exports
+        return {
+            getData: getData,
+            getEndPoints: getEndPoints,
+            getResources: getResources
+        }
+
+        function getData() {
+            return data;
+        }
+
+        function getEndPoints(){
+            return endPoints;
+        }
+
+        function getResources(){
+            return resources;
+        }
+
+    })();
+
+    // unmark for debugging
+    /*console.log('printing MainJsData: ');
+    console.log(window.rmJobApplication.JobApplicationMainJsData.getData());
+
+    console.log('printing MainJs Endpoints: ');
+    console.log(window.rmJobApplication.JobApplicationMainJsData.getEndPoints());
+
+    console.log('printing MainJs resources: ');
+    console.log(window.rmJobApplication.JobApplicationMainJsData.getResources());*/
+</script>
+
+
+
+<div id="AffiliateApplyClickTracking"></div>
+<script type="text/javascript">
+
+    window.rmJobApplication = window.rmJobApplication || {};
+    window.rmJobApplication.affiliateApplyClickTracking = (function () {
+
+        var mainData = window.rmJobApplication.JobApplicationMainJsData ? window.rmJobApplication.JobApplicationMainJsData.getData() : getMainDataFromDOM();
+        var mainEndPoints = window.rmJobApplication.JobApplicationMainJsData ? window.rmJobApplication.JobApplicationMainJsData.getEndPoints() : getEndpointFromDOM();
+        var setApplyClickDynammicScript = false;
+
+        //-- set the html to be the relevant iframe
+        // TODO: set location
+        var frameParams = '?companyId=' + mainData.Position.CompanyId + '&positionId=' + mainData.Position.Id + '&page=ApplyButtonClick' + '&jobTitle=' + mainData.PositionTaxonomyValues.JobTitleText + '&subField=' + mainData.PositionTaxonomyValues.SubCategory + '&location=' + mainData.PositionLocation.DisplayLocation;
+        var html = '<iframe src="' + mainEndPoints.dynamicScriptUrl + frameParams + '" name="frame1"  width="0" height="0"></iframe>';
+
+        //--plant the iframe into the relevant div
+        var affiliateApplyClickTracking = document.getElementById('AffiliateApplyClickTracking');
+        affiliateApplyClickTracking.style.display = 'none';
+
+        return {
+            trigger: trigger
+        };
+
+        function trigger(){
+            if(setApplyClickDynammicScript){
+                affiliateApplyClickTracking.innerHTML = html;
+            }
+        }
+
+        function getEndpointFromDOM() {
+            var dynamicScriptUrl = document.getElementById('dynamicScript');
+            if (dynamicScriptUrl) {
+                return { dynamicScriptUrl: dynamicScriptUrl.value };
+            }
+        }
+
+        function getMainDataFromDOM() {
+            var mainJSDataModelBase64 = document.getElementById('trackingModelExpiredView');
+            if (mainJSDataModelBase64) {
+                var decodedData = atob(mainJSDataModelBase64.value);
+                return JSON.parse(decodedData);
+            }
+        }
+
+    })();
+</script>
+
+<link rel="stylesheet" href="/CandidateNet/Areas/CandidateRegistration/Themes/LoginPopup.css" />
+<script src='/Areas/CandidateRegistration/JS/LoginPopUp.js' type="text/javascript"></script>
+<script src='/Areas/CandidateRegistration/JS/LoginValidations.js' type="text/javascript"></script>
+
+<!-- Generic popups background -->
+<div id="loginPopupBackGround" class="modal-backdrop fade in loginHidden"></div>
+<!-- Modal -->
+<div id="loginPopupContainer" aria-hidden="true" class="modal fade loginHidden loginPopup" role="dialog">
+    <form id="loginPopupForm" 
+         data-vivalid-group="loginPopupForm" data-vivalid-on-validation='["onValidationSuccess_popup", "onValidationFailure_login"]'
+        class="modal-dialog loginPopupMargin">
+        <!-- Modal content-->
+        <div class="popup-container">
+            <div class="popup-Header popup-header-sizing">
+                <i id="closeLoginPopupIcon" class="fa fa-times popup-close-icon"></i>
+                <div class="popup-header-title"><span data-customtext="LoginPopup_Header">Log In</span></div>
+            </div>
+            <div class="popup-body popUpPadding">
+                <div id="login-popup-subtitle" class="login-popup-subtitle f-text4">
+                    
+                </div>
+                <div id="inputs-wrapper">
+                    
+                    <div class="error-container">
+                        <div class="rm-tip-wrapper loginHidden">
+                            <div class="rm-tip rm-tip-validation">
+                                <div class="rm-tip-message rm-tip-message-pos rm-tip-message-validation"></div>
+                                <div class="rm-tip-arrow rm-tip-arrow-validation"></div>
+                            </div>
+                        </div>
+                        <input type="text" class="rmInputText loginPopupInputText f-text19 s-normal" 
+                            id="loginPopupInputEmail" name="Email" placeholder="Email"
+                            data-vivalid-tuples='[["required",{"msg": "Please fill in your email."}],["emailRegex",{"msg": "Hmm? Please enter a valid email address."}]]'
+                            data-vivalid-result='onPopUpValidationResult_email'>
+                    </div>
+                    
+                    <div class="error-container">
+                        <div class="rm-tip-wrapper loginHidden">
+                            <div class="rm-tip rm-tip-validation">
+                                <div class="rm-tip-message rm-tip-message-pos rm-tip-message-validation"></div>
+                                <div class="rm-tip-arrow rm-tip-arrow-validation"></div>
+                            </div>
+                        </div>
+                        <input type="password" class="rmInputText loginPopupInputText f-text19 s-normal" id="loginPopupInputPassword" 
+                            name="Password" placeholder="Password" aria-describedby="eye-addon" 
+                            data-vivalid-tuples='[["required",{"msg": "Please fill in your password."}]]'
+                            data-vivalid-result='onLoginValidationResult_password'>
+                        <div id="password-error" class="vivalid-error">error</div>
+                    </div>
+                </div>
+                
+                <div class="error-container">
+                    <div id="loginInvalidAuthentication" class="rm-tip-wrapper loginHidden loginInvalidAuthentication">
+                        <div class="rm-tip rm-tip-validation">
+                            <div id="loginInvalidAuthenticationMsg" class="rm-tip-message rm-tip-message-pos rm-tip-message-validation"></div>
+                            <div class="rm-tip-arrow rm-tip-arrow-validation"></div>
+                        </div>
+                    </div>
+                    <div id="btnLoginContainer" class="btn-login-container">
+                        <button data-vivalid-submit="" type="button" id="loginBtn" class="rm-btn rm-btn-block rm-btn-popup rm-btn-green f-text11">
+                            <img id="loginLoader" class="rm-loader loginHidden" src="http://jobs.thejobnetwork.com/Content/Styles/RealMatchStyleGuide/Images/loader46_oposit_trans.gif" alt="loading"/>
+                            <span data-customtext="LoginPopup_Button">Log In</span>
+                        </button>
+                    </div>
+                </div>
+                
+                <div id="ForgotPassword" class="forgotPassword f-text5 s-normal">
+                    <a class="rm-link" href='/login/forgotpassword'><span data-customtext="LoginPopup_ForgotPassword">Forgot Your Password?</span></a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+
+    var existAndOptInUrl = '/candidate/existandoptin';
+
+    window.loginPopupVariables = (function () {
+
+        var endPoints = {
+            loginPopupUrl: '/login/loginpopup'
+        };
+
+        var errorMessages = {
+           wrongUserName: "We don't recognize that email. Please try again."
+        };
+
+        // exports
+        return {
+            getEndPoints: getEndPoints,
+            getErrorMessages: getErrorMessages
+        }
+
+        function getEndPoints() {
+            return endPoints;
+        }
+
+        function getErrorMessages() {
+            return errorMessages;
+        }
+
+    })();
+</script>
+
+
+<div id="jobHeader" class="f-lh jobHeaderColor">
+    <div class="stripped-header-top st-header-no-logo">
+        <div class="container">
+            <div>
+                
+                <span itemprop='hiringOrganization' itemscope itemtype='http://schema.org/Organization'>
+                    <span class="leftPos st-company-name " itemprop='name'>
+                        Rose International
+                    </span>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="container" id="strippedJobHeaderSecondary">
+        
+
+        
+
+        <div class="visible-sm visible-md visible-lg">
+            <div class="jobHeaderPos">
+                
+                <div class="jobTitleInfoWithoutApply inline-block leftPos">
+
+                    <h1 id="jobTitleText" class="line1 clamp-line1 s-text1 block-with-text s-bold" itemprop='title'>Geospatial Software Engineer</h1>
+                    <div id="companyNameAndLocation" class="line2 line2Pos s-text4 s-bold ">
+                        <i class="fa fa-location-arrow f-text7 s-normal fontLine2 alignIcon leftPos"></i>
+                        <span>
+                            <span id="jobLocation-sm-md-lg">
+                                
+<span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place">
+    <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        
+        <span itemprop="addressLocality">Myrtle Point</span>, <span itemprop="addressRegion">OR</span>
+        
+    </span>
+</span>
+
+
+                            </span>
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="activeIcons">
+                    <a id="EmailThisJobURL" class="emailJobLink" href="mailto:?subject=Geospatial%20Software%20Engineer job | Myrtle%20Point%2C%20OR%20(US)&body=Hi,%0AI thought you might be interested in this Geospatial%20Software%20Engineer job opening at: %0Ahttp%3A%2F%2Froseinternational.thejobnetwork.com%2FJob%2F506526771%0A%0AFind other jobs at http%3A%2F%2Froseinternational.thejobnetwork.com%2F">
+                        <i class="fa fa-envelope-o f-text2 s-normal emailJobImg emailJobImgPosition"></i>
+                    </a>
+
+                    <div id="emailThisJobToolTipWrapper" class="emailThisJobToolTipWrapper rm-tip-wrapper inline-block">
+                        <div id="emailThisJobToolTip" class="emailThisJobToolTip rm-tip rm-tip-info hidden">
+                            <div class="rm-tip-message rm-tip-message-pos rm-tip-message-info f-text9 s-normal">Email this job</div>
+                            <div class="rm-tip-arrow rm-tip-arrow-info"></div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+              
+            </div>
+        </div>
+        
+        <div class="visible-xs">
+            <div class="jobHeaderPos">
+                <h1 id="jobTitle-xs" class="line1 line1Pos  s-text1 s-bold threeDotsTitle">Geospatial Software Engineer</h1>
+                
+                <div class="line2 s-text4 s-bold companyNameAndLocation inline-block">
+
+                        <div class="line3Pos">
+                            <i class="fa fa-location-arrow f-text7 s-normal fontLine1 alignIcon leftPos"></i>
+                            <span id="jobLocation-xs">
+                                
+    <span>Myrtle Point</span>, <span>OR</span>
+    
+                            </span>
+                        </div>
+                </div>
+             
+                <div>
+                    <div class="line2 s-text4 s-bold">
+                       
+                         
+                        <div class="activeIcons">
+                            <a id="EmailThisJobURL" class="emailJobLink emailJobLinkPosition" href="mailto:?subject=Geospatial%20Software%20Engineer job | Myrtle%20Point%2C%20OR%20(US)&body=Hi,%0AI thought you might be interested in this Geospatial%20Software%20Engineer job opening at: %0Ahttp%3A%2F%2Froseinternational.thejobnetwork.com%2FJob%2F506526771%0A%0AFind other jobs at http%3A%2F%2Froseinternational.thejobnetwork.com%2F">
+                                <i class="fa fa-envelope-o f-text2 s-normal emailJobImg emailJobImgPosition"></i>
+                                <span class="s-text5 s-bold">Email this job</span>
+                            </a>
+                        </div>
+                        
+                        <div class="clearFloat"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<form action="/jobapplication/applyjob?isOneClickApply=True&amp;sourceId=18377&amp;isLoggedinUser=False&amp;isStrippedJobApplication=True" autocomplete="off" id="MainForm" method="post">
+
+
+        <div class="container">
+            <div class="row" style="clear:both;">
+                <div id="JobMainContentContainer" class="col-md-8 ja-md-8 col-lg-8 ja-lg-8 marginMainContent mainContentContainer Js-HomeCols">
+                    
+                    <div id="JobMainContent" class="marginDescription">
+                        
+                        
+<div id="positionInfo" class="positionInfo positionInfoPos s-text5 s-normal ">
+    
+
+    <div id="engagementAndPosting" class="engagementAndPostingPos leftPos">
+        
+        <div class="engagementTypePos  marker ">
+            <i class="fa fa-calendar-check-o s-text10 s-normal iconSpaceDesc leftPos postingDateIcon"></i>
+            <span id="postingDate">9 DAYS AGO</span>
+        </div>
+
+        
+    </div>
+
+    <div class="clearFloat"></div>
+</div>
+
+
+<div class="clearFloat"></div>
+
+<div id="JobDesc" class="s-text4 s-light jobDescText expandable fadeDesc">
+    
+    
+    <div id="JobDescSanitizer" class="ja-sanitize" itemprop='description'>
+        <br>**Only U.S. Citizens and those authorized to work in the U.S. can be considered as W2 candidates.**<br> Position: Geospatial Software Engineer<br>Location: Remote<br>Duration: 12 months<br>Overview:<br>The Geospatial Software Engineer will be involved in the design of big data solutions that leverage open source and cloud-based solutions within the Location360 enterprise initiative and will work with multiple teams across the organization (i.e. cloud analytics, data architects, business groups). The software engineer will participate in the building of large-scale data processing systems and API’s and should be able to work with the latest open-source technologies.<br>A software engineer should embrace the challenge of dealing with petabytes or even exabytes of data daily in a high-throughput API/microservice ecosystem. A software engineer understands how to apply technologies to solve big data problems and to develop innovative big data solutions. The software engineer generally works on implementing complex projects with a focus on collecting, parsing, managing, analyzing and making available large sets of data to turn information into insights using multiple platforms. The software engineer should be able to develop prototypes and proof of concepts for the selected solutions. This role will drive the engineering and building of geospatial data assets to support clients Field Platform and R&amp;D product pipeline.<br>Key responsibilities include:<br>Design, build and support of cloud and open source systems to process geospatial data assets via an API-based platform<br>Partners with other internal development communities to bring needed data sets into the asset and making data available to the clients Enterprise and internal development communities<br>Building highly scalable API’s and associative architecture to support thousands of requests per second<br>Provides leadership in advancing clients understanding of environmental/external influences on field performance and risk factors<br>Working at all stages of the software life cycle: Proof of Concept, MVP, Production, and Deprecation<br>Defines and promotes the data warehousing design principles and best practices with regards to architecture and techniques within a fast-paced and complex business environment.<br>Minimum Requirements:<br>BSc degree in Computer Science or relevant job experience.<br>Minimum of 2-year experience with Python, Java, Go, or similar development languages.<br>Extensive knowledge in different programming or scripting languages like Go, Scala, Java, Javascript, SQL, Bash, Python, R.<br>Experience developing HTTP APIs that serve up data in a cloud environment.<br>Ability to build and maintain workflows and applications in modern cloud architecture, e.g. AWS, Google Cloud, etc.<br>Proven experience working with ETL concepts of data integration, consolidation, enrichment, and aggregation. Design, build and support stable, scalable data pipelines or ETL processes that cleanse, structure and integrate big data sets from multiple data sources and provision to integrated systems and Business Intelligence reporting.<br>Experience working with PostgreSQL/PostGIS.<br>Proven success utilizing Docker to build and deploy within a CI/CD Environment, e.g. Argo.<br>Experience with code versioning and dependency management systems such as GitHub, SVT, and Maven.<br>Proficient working in a Command Line Interface system e.g. Docker, K8s, AWS CLI, GCloud, Argo, psql, SSH<br>Desirable qualifications:<br>MSc in Computer Science or related field.<br>Demonstrated knowledge of open-source geospatial solutions like GeoServer, GeoTrellis, GeoMesa.<br>Proven experience (2 years) with distributed systems, e.g. Kubernetes, Spark, distributed databases, grid computing.<br>Experience with stream processing, e.g. Kafka.<br>Proven experience (2 years) with GoLang<br>Experience developing schema data models in a data warehouse environment.<br>Experience working with customers/other developers to deliver full-stack development solutions e.g. collect software, data, and timeline requirements in an Agile environment.<br>Demonstrated knowledge of agriculture and/or agriculture-oriented businesses.<br>Experience implementing complex data projects with a focus on collecting, parsing, managing, and delivery of large sets of data to turn information into insights using multiple platforms.<br>Demonstrated experience adapting to new technologies.<br>Capable to decide on the needed hardware and software design needs and act according to the decisions. Ability to develop prototypes and proof of concepts for the selected solutions.<br>Experience with object-oriented design, coding and testing patterns as well as experience in engineering (commercial or open source) software platforms and large-scale data infrastructures should be present.<br>Experience creating cloud computing solutions and web applications leveraging public and private API’s. #CBRose# Benefits: For information and details on employment benefits offered, visit here. If you have any questions/concerns, please contact our HR Department via our secured website. <br><BR><BR> Internal ID: 389389
+        
+        <div class="displayLocationContainer">
+            Location/Region: Myrtle Point, OR
+        </div>
+        
+    </div>
+    
+</div>
+
+<div id="ReadMore" class="readMorePos">
+    <i class="fa fa-chevron-circle-down readMoreIcon s-text5 s-bold"></i>
+    <input class="readMore s-text5 s-extra-bold leftPos" type="button" value="See more" />
+</div>
+
+
+    <span class="postedOnContainer">
+        Posted on
+        
+            <span>PandoLogic</span>
+        
+            <span itemprop="datePosted">2021-12-03</span>
+        
+    </span>
+
+                    </div>
+                    
+                </div>
+
+                <div class="col-md-4 ja-md-4 col-lg-4 ja-lg-4 jobApplyCol Js-HomeCols">
+
+                    
+
+<div id="JobApply" class="jobApplyContainer">
+
+          
+    <div class="box-apply">
+        
+
+        <div id="applyBoxAbTestButton" class='load-Hidden'>
+            <button class="TextDotDotDot input-button-apply-pos rm-btn rm-btn-block rm-btn-pos s-text11 rm-btn-blue">
+                Apply now
+            </button>
+        </div>
+        <div id="applyBoxAbTestUserDetails">
+
+            <div class="apply-title apply-title-pos text-center">
+                <span class="s-text3 s-extra-bold ">
+                    Apply now
+                </span>
+            </div>
+
+            
+            
+
+<div id="JobApplyInternalGuest"
+    data-vivalid-group data-vivalid-on-validation='["onValidationSuccess_home", "onValidationFailure_home"]'
+    data-vivalid-pending-ui='["pendingUiStart_home", "pendingUiStop_home"]'
+    data-vivalid-before-validation="disablePHpolyfill" data-vivalid-after-validation="enablePHpolyfill">
+
+    <div class="names-wrapper JS-FileUpload-Disable">
+        <div class="error-container name-tb-left">
+            <input type="text" class="input-text-apply input-text-apply-pos s-text7" id="InputFirstName" name="FirstName" placeholder="First Name"
+                data-vivalid-tuples='[["required",{"msg": "Please fill in your first name"}],["maxlength",{"max": 20}]]'
+                data-vivalid-result='onInputValidationResult_general'>
+            <div class="error">
+                <div class="rm-tip rm-tip-validation apply-validation-pos">
+                    <div id="rm-validationFirstName" class="rm-tip-message rm-tip-message-pos rm-tip-message-validation">
+                    </div>
+                    <div class="rm-tip-arrow rm-tip-arrow-validation">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="error-container name-tb-right">
+            <input type="text" class="input-text-apply input-text-apply-pos s-text7" id="InputLastName" name="LastName" placeholder="Last Name"
+                data-vivalid-tuples='[["required",{"msg": "And your last name is?"}],["maxlength",{"max": 50}]]'
+                data-vivalid-result='onInputValidationResult_general'>
+            <div class="error">
+                <div class="rm-tip rm-tip-validation apply-validation-pos">
+                    <div id="rm-validationLastName" class="rm-tip-message rm-tip-message-pos rm-tip-message-validation">
+                    </div>
+                    <div class="rm-tip-arrow rm-tip-arrow-validation">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearFloat"></div>
+    </div>
+
+    <div class="error-container JS-FileUpload-Disable">
+        <input type="email" class="input-text-apply input-text-apply-pos s-text7" id="InputEmail" name="Email" placeholder="Email"
+            data-vivalid-tuples='[["required",{"msg": "Please enter your email address"}],["emailRegex",{"msg": "Hmm? Please enter a valid email address."}],["exisitingUserAsync",{"msg": ""}]]' data-vivalid-result='onInputValidationResult_email'>
+        <div class="JsGenericEmailError error">
+            <div class="rm-tip rm-tip-validation apply-validation-pos">
+                <div id="rm-validationEmail" class="JsGenericEmailMesssage rm-tip-message rm-tip-message-pos rm-tip-message-validation">
+                </div>
+                <div class="rm-tip-arrow rm-tip-arrow-validation">
+                </div>
+            </div>
+        </div>
+
+        <div id="existingUserLogin" class="rm-tip-wrapper email-capture-user-wrapper load-Hidden" style="font-size: 13px">
+            <div class="email-capture-user-text hidden-xs">
+                <span data-customtext="JobPage_ApplyValidation_UserAlreadyExists">Hmm, this email is already in use.</span>
+            </div>
+            <div class="email-capture-user-text visible-xs">
+                <span data-customtext="JobPage_ApplyValidation_UserAlreadyExists-XS">This email is already in use.</span>
+            </div>
+            <div class="rm-tip-message-link-validation">
+                <a class="rm-link" id="existingUserLoginLink">
+                    <span data-customtext="JobPage_ApplyValidation_LoginToYourAccount">Please log in.</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="input-and-button">
+        <div class="error-container JS-FileUpload-Disable">
+            <input type="password" class="input-text-apply input-text-apply-pos input-pass-apply s-text7" id="InputPassword" name="Password" placeholder="Create a Password" aria-describedby="eye-addon"
+                data-vivalid-tuples='[["required",{"msg": "Please create a password"}],["betweenlength",{"min": 6, "max": 15}]]'
+                data-vivalid-blur-only="" data-vivalid-result='onInputValidationResult_general'>
+            <button type="button" class="btn input-eye-apply input-eye-apply-pos" id="EyeAddon">
+                <i id="passwordIcon" class="fa fa-eye"></i>
+            </button>
+            <div class="error">
+                <div class="rm-tip rm-tip-validation apply-validation-pos">
+                    <div id="rm-validationPassword" class="rm-tip-message rm-tip-message-pos rm-tip-message-validation">
+                    </div>
+                    <div class="rm-tip-arrow rm-tip-arrow-validation">
+                    </div>
+                </div>
+            </div>
+
+            <div id="passwordFeedback" style="font-size: 13px">
+                <span id="passwordFeedbackMessage"></span>
+                <i id="valid-password-icon" class="fa fa-check"></i>
+            </div>
+        </div>
+    </div>
+    
+    <div id="form-invalid-error">
+        <i class="fa fa-exclamation-circle form-invalid-message"></i>
+        <span class="form-invalid-message">
+            <span data-customtext="JobPage_ApplyValidation_FormInvalid">Please fix the errors above.</span>
+        </span>
+    </div>
+
+    <div>
+    <div id="UploadErrorMessages" class="rm-upload-not-visible">
+        <i class="fa fa-exclamation-circle form-invalid-message"></i>
+        <span id="UploadErrorMessageText" class="upload-error-messages-text form-invalid-message"></span>
+    </div>
+        <input id="nativeResumeUpload" type="file" name="file" accept="" style="display:none;">
+    <div id="UploadingProgress" class="JS-FileUpload-Show rm-upload-progress rm-upload-hidden"><span id="UploadingMessageText"></span></div>
+    <div id="CancelUpload" class="fa fa-times JS-FileUpload-Show rm-cancel-upload rm-upload-hidden" aria-hidden="true"></div><div id="ProgressBar" class="JS-FileUpload-Show rm-progress rm-upload-hidden"><span id="rmProgressSpan" style="width: 0%"></span></div>
+</div>
+
+<div>
+    <div id="errorMessages"></div>
+</div>
+
+
+<button
+    type="button"
+    data-resumemethod="2"
+    id="FileSystem"
+    class="Js-resume-method Js-closeAddResumePopup JS-FileUpload-Hide TextDotDotDot input-button-apply-pos rm-btn rm-btn-block rm-btn-pos s-text11 rm-btn-blue"
+    data-vivalid-submit>
+    <img class="rm-loader hidden" src="http://jobs.thejobnetwork.com/Content/Styles/RealMatchStyleGuide/Images/loader46_oposit_trans.gif" alt="loading" />
+    <span data-customtext="JobPage_ResumeFileSystemText">Upload Resume</span>
+</button>
+
+
+<div
+    data-resumemethod="3"
+    id="CloudService"
+    class="Js-resume-method Js-closeAddResumePopup 
+        JS-FileUpload-Disable input-link-button-apply-pos rm-link-wrapper rm-lnk-btn-blue s-text11"
+    data-vivalid-submit>
+
+        <img 
+            class="rm-loader hidden" 
+            src="http://jobs.thejobnetwork.com/Content/Styles/RealMatchStyleGuide/Images/loader46_oposit_trans.gif" alt="loading"/>
+        <a class="rm-link ">
+            <span class="cloud-service-text" data-customtext="JobPage_ResumeCloudServiceText">Upload from Cloud</span><i class="cloud-service icon-google-drive f-text12"></i><i class="cloud-service icon-dropbox f-text12"></i><i class="cloud-service icon-onedrive f-text12"></i>
+        </a>
+    </div>
+    
+
+<div id="UpdateUserNameMessage" class="update-user-name load-Hidden">
+
+    <span data-customtext="JobPage_UpdateName_*"></span>
+</div>
+
+    
+    <div class="login-line lean-show"></div>
+    <div id="loginWrapper" class="JS-FileUpload-Disable login-wrapper">
+        <span>
+            <span data-customtext="JobPage_LoginTitle">Have an account?</span>
+        </span>
+        <a id="loginLink" class="rm-link pointer">
+            <span data-customtext="JobPage_LoginLink">Log in</span>
+        </a>
+    </div>
+
+    <div id="terms-of-service" class="JS-FileUpload-Disable terms-of-service lean-show">
+        <span data-customtext="JA_TermsOfService">By continuing, you agree to the <a id="termsofuse" class="rm-link" href="/Terms.aspx?fromlean=1" target="_blank">Terms&nbsp;of&nbsp;Service</a> and&nbsp;<a id="privacypolicy" class="rm-link" href="/Privacy.aspx?fromlean=1" target="_blank">Privacy&nbsp;Policy</a> of this site.</span>
+    </div>
+</div>
+
+            <div class="hidden">
+
+                <input type="checkbox" name="IsMarketingOptIn" />
+                Marketing Opt In
+
+            </div>
+
+            <input id="PositionId" name="PositionId" type="hidden" value="506526771" />
+            <input id="HiddenResumeIdField" name="ResumeId" type="hidden"  value="0" />
+            <input id="HiddenResumeMethodEnum" name="ResumeMethodEnum" type="hidden" value="">
+
+            
+            <input id="TokenUserId" value="0" name="TokenUserId" type="hidden" />
+        </div>
+    </div>
+    
+</div>
+
+
+
+
+ 
+<script type="text/javascript" src="//api.filepicker.io/v2/filepicker.js"></script>
+<script src="/CandidateNet/Bundle/dist/FilePicker.js"></script>
+
+    
+
+<script type="text/javascript">
+
+    window.filePickerProps = {};
+    window.filePickerProps.ApiKey = 'Ao6Jd0tISSW0hqhBE0dhVz';
+    window.filePickerProps.Policy = 'eyJleHBpcnkiOjE5NTkzOTExMDcsImNhbGwiOiJwaWNrIn0=';
+    window.filePickerProps.Signature = 'dafc31e8de677c11682115faf2d6706575c6bea35be6a7fab58f4cc39695d34c';
+
+</script>
+ 
+
+<!-- Modal -->
+<div id="FilePickerPopup" aria-hidden="true" class="modal fade load-Hidden" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="popup-container">
+            <div class="popup-Header popup-header-sizing">
+                <i id="closeCloudServicesIcon" class="fa fa-times popup-close-icon"></i>
+                <div class="popup-header-title">Which cloud are you on?</div>
+            </div>
+            <div class="popup-body">
+
+                <div class="cloudServicesButtonsContainer">
+                    <div id="GoogleDriveRmFp" class="Js-filePickerButtonContainer"  title="Google Drive" data-drivetype="GOOGLE_DRIVE">
+                        <div class="filePicker-Button">
+                            <i class="icon-google-drive"></i>
+                        </div>
+                        <div id="GoogleDriveCloudName" class="cloudServiceName f-text1 s-normal">Google Drive</div>
+                    </div>
+                    
+                    <div id="DropBoxRmFp" class="Js-filePickerButtonContainer filePicker-middle-Button" title="Dropbox" data-drivetype="DROPBOX">
+                        <div class="filePicker-Button">
+                            <i class="icon-dropbox"></i>
+                        </div>
+                        <div id="DropBoxCloudName" class="cloudServiceName f-text1 s-normal">Dropbox</div>
+                    </div>
+
+                    <div  id="OneDriveRmFp" class="Js-filePickerButtonContainer"  title="OneDrive" data-drivetype="SKYDRIVE">
+                        <div class="filePicker-Button">
+                            <i class="icon-onedrive"></i>
+                        </div>
+                        <div id="OneDriveCloudName" class="cloudServiceName f-text1 s-normal">OneDrive</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+                </div>
+            </div>
+        </div>
+
+ 
+
+    <div id="coverLetterAndFreeTextResume" class="CoverLetterAndFreeTextResume load-Hidden">
+        
+
+<div class="coverLetterAndFreeResumeHeaderBar coverLetterAndFreeResumeHeaderBarPos f-lh">
+    <div class="container">
+        <div class="coverLetterAndFreeResumeHeaderBarContent">
+            <a id="coverLetterAndFreeResumeBackIcon"><i class="Js-backButtons coverLetterAndFreeResumeBackIcon fa fa-chevron-left f-text6 s-normal leftPos"></i></a>
+            <div class="coverLetterAndFreeResumeHeaderBarTitle s-text3 s-normal">
+                <div id="coverLetterTitle">
+                    <span data-customtext="JobPage_CoverLetter_PageTitle">Add Cover Letter!</span>
+                </div>
+                <div id="freeTextResumeTitle" class="Js-FreeTextResumeMember">
+                    <span data-customtext="JobPage_FreeTextResume_PageTitle">Tell the employer about yourself</span>
+                </div>
+            </div>
+        </div>
+        <div class="clearFloat"></div>
+    </div>
+</div>
+<div id="coverLetterAndFreeTextResumeGroup" class="container coverLetterAndFreeResumeBackground coverLetterAndFreeResumePosition"
+    data-vivalid-group="CoverResume"
+    data-vivalid-on-validation='["onValidationSuccess_coverAndResume", "onValidationFailure_coverAndResume"]'
+    data-vivalid-pending-ui='["pendingUiStart_coverAndResume", "pendingUiStop_coverAndResume"]'
+    data-vivalid-before-validation="disablePHpolyfill" data-vivalid-after-validation="enablePHpolyfill">
+
+    <div id="candidateDetails" class="candidateDetails s-text4 s-normal">
+        <div id="candidateFullName" class="candidateFullName s-text2 s-extra-bold">
+            
+            
+        </div>
+        <div id="candidateAddress"></div>
+        <div id="candidateEmail"></div>
+        <div id="candidatePhone"></div>
+    </div>
+
+    <div id="StructuredResume" class="Js-StructuredResumeMember s-text7">
+
+        
+        <div class="cover-resume-section s-normal cover-resume-phone">
+            <div class="structured-data-title">
+                <span id="phoneNumberButton" class="section-title f-text8"><i class="fa fa-phone cover-resume-icon"></i><span data-customtext="JobPage_PhoneNumber_Title">Phone Number</span>
+                </span>
+                <span class="date-label date-label-pos f-text8"><span data-customtext="JobPage_PhoneNumber_optional_subtitle">(optional)</span></span>
+            </div>
+
+            <div id="phoneNumberErrorMessage" class="create-resume-error-message hidden">
+                <span data-customtext="JobPage_PhoneNumber_Error">Please enter a valid phone number</span>
+            </div>
+
+            <div class="row last-pos-texts">
+                <div class="col-lg-4 col-md-12 structured-input-pos">
+                    <input type="tel" class="rmInputText s-text7 structured-input gray-placeholder"
+                        placeholder="+1 (123) 456-7890"
+                        id="PhoneNumber.Number"
+                        name="PhoneNumber.Number">
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="cover-resume-section s-normal ">
+            <div class="structured-data-title">
+                <span id="lastPositionButton" class="section-title f-text8"><i class="fa fa-briefcase cover-resume-icon"></i><span data-customtext="JobPage_LastPosition_Title">Last Position</span>
+                </span>
+            </div>
+            <div id="lastPositionErrorMessage" class="create-resume-error-message">
+                <span data-customtext="JobPage_LastPosition_Error">Please enter all position fields</span>
+            </div>
+
+            <input type="hidden" id="lastPosition.IsSkipped" name="lastPosition.IsSkipped" value=""
+                data-vivalid-tuples='[["lastPositionConsistent",{"msg": "Please enter all position fields"}]]'
+                data-vivalid-result='onInputValidationResult_structured'>
+
+            <div id="lastPositionSectionBody" class="">
+
+                <div class="row last-pos-texts">
+                    <div class="col-lg-4 col-md-12 structured-input-pos" data-customtext="JobPage_LastPosition_Watermark1">
+                        <input type="text" class="rmInputText s-text7 structured-input gray-placeholder" placeholder="Job Title" id="lastPosition.JobTitle" name="lastPosition.JobTitle">
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 structured-input-pos" data-customtext="JobPage_LastPosition_Watermark2">
+                        <input type="text" class="rmInputText s-text7 structured-input gray-placeholder" placeholder="Company" id="lastPosition.Company" name="lastPosition.Company">
+                    </div>
+                </div>
+                <div class="last-position-date-box">
+                    <div class="date-container">
+                        <div class="date-label date-label-pos leftPos">
+                            Start Date
+                        </div>
+
+                        <div id="ddl-1" data-hidden="lastPosition.StartMonth" class="rm-ddl-container leftPos last-position-dropdown-outer ddl-container-resume">
+                            <div class="rm-ddl-input-container structured-dropdown last-position-dropdown-inner s-text7">
+                                <div class="rm-ddl-text">Month</div>
+                                <span class="rm-ddl-arrow">
+                                    <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                </span>
+                            </div>
+                            <div class="rm-ddl-options-container options-container load-Hidden">
+                                
+                                <div data-value="1" class="rm-ddl-option">1</div>
+                                
+                                <div data-value="2" class="rm-ddl-option">2</div>
+                                
+                                <div data-value="3" class="rm-ddl-option">3</div>
+                                
+                                <div data-value="4" class="rm-ddl-option">4</div>
+                                
+                                <div data-value="5" class="rm-ddl-option">5</div>
+                                
+                                <div data-value="6" class="rm-ddl-option">6</div>
+                                
+                                <div data-value="7" class="rm-ddl-option">7</div>
+                                
+                                <div data-value="8" class="rm-ddl-option">8</div>
+                                
+                                <div data-value="9" class="rm-ddl-option">9</div>
+                                
+                                <div data-value="10" class="rm-ddl-option">10</div>
+                                
+                                <div data-value="11" class="rm-ddl-option">11</div>
+                                
+                                <div data-value="12" class="rm-ddl-option">12</div>
+                                
+                            </div>
+                        </div>
+                        <input type="hidden" id="lastPosition.StartMonth" name="lastPosition.StartMonth" value="">
+
+                        <div id="ddl-2" data-hidden="lastPosition.StartYear" class="rm-ddl-container last-position-dropdown-outer2 leftPos ddl-container-resume">
+                            <div class="rm-ddl-input-container structured-dropdown last-position-dropdown-inner2 s-text7">
+                                <div class="rm-ddl-text">Year</div>
+                                <span class="rm-ddl-arrow">
+                                    <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                </span>
+                            </div>
+                            <div class="rm-ddl-options-container options-container">
+                                
+                                <div data-value="2021" class="rm-ddl-option">2021</div>
+                                
+                                <div data-value="2020" class="rm-ddl-option">2020</div>
+                                
+                                <div data-value="2019" class="rm-ddl-option">2019</div>
+                                
+                                <div data-value="2018" class="rm-ddl-option">2018</div>
+                                
+                                <div data-value="2017" class="rm-ddl-option">2017</div>
+                                
+                                <div data-value="2016" class="rm-ddl-option">2016</div>
+                                
+                                <div data-value="2015" class="rm-ddl-option">2015</div>
+                                
+                                <div data-value="2014" class="rm-ddl-option">2014</div>
+                                
+                                <div data-value="2013" class="rm-ddl-option">2013</div>
+                                
+                                <div data-value="2012" class="rm-ddl-option">2012</div>
+                                
+                                <div data-value="2011" class="rm-ddl-option">2011</div>
+                                
+                                <div data-value="2010" class="rm-ddl-option">2010</div>
+                                
+                                <div data-value="2009" class="rm-ddl-option">2009</div>
+                                
+                                <div data-value="2008" class="rm-ddl-option">2008</div>
+                                
+                                <div data-value="2007" class="rm-ddl-option">2007</div>
+                                
+                                <div data-value="2006" class="rm-ddl-option">2006</div>
+                                
+                                <div data-value="2005" class="rm-ddl-option">2005</div>
+                                
+                                <div data-value="2004" class="rm-ddl-option">2004</div>
+                                
+                                <div data-value="2003" class="rm-ddl-option">2003</div>
+                                
+                                <div data-value="2002" class="rm-ddl-option">2002</div>
+                                
+                                <div data-value="2001" class="rm-ddl-option">2001</div>
+                                
+                                <div data-value="2000" class="rm-ddl-option">2000</div>
+                                
+                                <div data-value="1999" class="rm-ddl-option">1999</div>
+                                
+                                <div data-value="1998" class="rm-ddl-option">1998</div>
+                                
+                                <div data-value="1997" class="rm-ddl-option">1997</div>
+                                
+                                <div data-value="1996" class="rm-ddl-option">1996</div>
+                                
+                                <div data-value="1995" class="rm-ddl-option">1995</div>
+                                
+                                <div data-value="1994" class="rm-ddl-option">1994</div>
+                                
+                                <div data-value="1993" class="rm-ddl-option">1993</div>
+                                
+                                <div data-value="1992" class="rm-ddl-option">1992</div>
+                                
+                                <div data-value="1991" class="rm-ddl-option">1991</div>
+                                
+                                <div data-value="1990" class="rm-ddl-option">1990</div>
+                                
+                                <div data-value="1989" class="rm-ddl-option">1989</div>
+                                
+                                <div data-value="1988" class="rm-ddl-option">1988</div>
+                                
+                                <div data-value="1987" class="rm-ddl-option">1987</div>
+                                
+                                <div data-value="1986" class="rm-ddl-option">1986</div>
+                                
+                                <div data-value="1985" class="rm-ddl-option">1985</div>
+                                
+                                <div data-value="1984" class="rm-ddl-option">1984</div>
+                                
+                                <div data-value="1983" class="rm-ddl-option">1983</div>
+                                
+                                <div data-value="1982" class="rm-ddl-option">1982</div>
+                                
+                                <div data-value="1981" class="rm-ddl-option">1981</div>
+                                
+                                <div data-value="1980" class="rm-ddl-option">1980</div>
+                                
+                                <div data-value="1979" class="rm-ddl-option">1979</div>
+                                
+                                <div data-value="1978" class="rm-ddl-option">1978</div>
+                                
+                                <div data-value="1977" class="rm-ddl-option">1977</div>
+                                
+                                <div data-value="1976" class="rm-ddl-option">1976</div>
+                                
+                                <div data-value="1975" class="rm-ddl-option">1975</div>
+                                
+                                <div data-value="1974" class="rm-ddl-option">1974</div>
+                                
+                                <div data-value="1973" class="rm-ddl-option">1973</div>
+                                
+                                <div data-value="1972" class="rm-ddl-option">1972</div>
+                                
+                                <div data-value="1971" class="rm-ddl-option">1971</div>
+                                
+                                <div data-value="1970" class="rm-ddl-option">1970</div>
+                                
+                                <div data-value="1969" class="rm-ddl-option">1969</div>
+                                
+                                <div data-value="1968" class="rm-ddl-option">1968</div>
+                                
+                                <div data-value="1967" class="rm-ddl-option">1967</div>
+                                
+                                <div data-value="1966" class="rm-ddl-option">1966</div>
+                                
+                                <div data-value="1965" class="rm-ddl-option">1965</div>
+                                
+                                <div data-value="1964" class="rm-ddl-option">1964</div>
+                                
+                                <div data-value="1963" class="rm-ddl-option">1963</div>
+                                
+                                <div data-value="1962" class="rm-ddl-option">1962</div>
+                                
+                                <div data-value="1961" class="rm-ddl-option">1961</div>
+                                
+                            </div>
+                        </div>
+                        <input type="hidden" id="lastPosition.StartYear" name="lastPosition.StartYear" value="">
+
+                        <div class="clearFloat"></div>
+                    </div>
+
+                    <div class="date-container" id="lastPosition.EndDateSection">
+                        <div class="date-label date-label-pos leftPos">
+                            End Date
+                        </div>
+
+                        <div id="ddl-3" data-hidden="lastPosition.EndMonth" class="rm-ddl-container leftPos last-position-dropdown-outer ddl-container-resume">
+                            <div class="rm-ddl-input-container structured-dropdown last-position-dropdown-inner s-text7">
+                                <div class="rm-ddl-text">Month</div>
+                                <span class="rm-ddl-arrow">
+                                    <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                </span>
+                            </div>
+                            <div class="rm-ddl-options-container options-container load-Hidden">
+                                
+                                <div data-value="1" class="rm-ddl-option">1</div>
+                                
+                                <div data-value="2" class="rm-ddl-option">2</div>
+                                
+                                <div data-value="3" class="rm-ddl-option">3</div>
+                                
+                                <div data-value="4" class="rm-ddl-option">4</div>
+                                
+                                <div data-value="5" class="rm-ddl-option">5</div>
+                                
+                                <div data-value="6" class="rm-ddl-option">6</div>
+                                
+                                <div data-value="7" class="rm-ddl-option">7</div>
+                                
+                                <div data-value="8" class="rm-ddl-option">8</div>
+                                
+                                <div data-value="9" class="rm-ddl-option">9</div>
+                                
+                                <div data-value="10" class="rm-ddl-option">10</div>
+                                
+                                <div data-value="11" class="rm-ddl-option">11</div>
+                                
+                                <div data-value="12" class="rm-ddl-option">12</div>
+                                
+                            </div>
+                        </div>
+                        <input type="hidden" id="lastPosition.EndMonth" name="lastPosition.EndMonth" value="">
+
+                        <div id="ddl-4" data-hidden="lastPosition.EndYear" class="rm-ddl-container last-position-dropdown-outer2 leftPos ddl-container-resume">
+                            <div class="rm-ddl-input-container structured-dropdown last-position-dropdown-inner2 s-text7">
+                                <div class="rm-ddl-text">Year</div>
+                                <span class="rm-ddl-arrow">
+                                    <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                </span>
+                            </div>
+                            <div class="rm-ddl-options-container options-container">
+                                
+                                <div data-value="2021" class="rm-ddl-option">2021</div>
+                                
+                                <div data-value="2020" class="rm-ddl-option">2020</div>
+                                
+                                <div data-value="2019" class="rm-ddl-option">2019</div>
+                                
+                                <div data-value="2018" class="rm-ddl-option">2018</div>
+                                
+                                <div data-value="2017" class="rm-ddl-option">2017</div>
+                                
+                                <div data-value="2016" class="rm-ddl-option">2016</div>
+                                
+                                <div data-value="2015" class="rm-ddl-option">2015</div>
+                                
+                                <div data-value="2014" class="rm-ddl-option">2014</div>
+                                
+                                <div data-value="2013" class="rm-ddl-option">2013</div>
+                                
+                                <div data-value="2012" class="rm-ddl-option">2012</div>
+                                
+                                <div data-value="2011" class="rm-ddl-option">2011</div>
+                                
+                                <div data-value="2010" class="rm-ddl-option">2010</div>
+                                
+                                <div data-value="2009" class="rm-ddl-option">2009</div>
+                                
+                                <div data-value="2008" class="rm-ddl-option">2008</div>
+                                
+                                <div data-value="2007" class="rm-ddl-option">2007</div>
+                                
+                                <div data-value="2006" class="rm-ddl-option">2006</div>
+                                
+                                <div data-value="2005" class="rm-ddl-option">2005</div>
+                                
+                                <div data-value="2004" class="rm-ddl-option">2004</div>
+                                
+                                <div data-value="2003" class="rm-ddl-option">2003</div>
+                                
+                                <div data-value="2002" class="rm-ddl-option">2002</div>
+                                
+                                <div data-value="2001" class="rm-ddl-option">2001</div>
+                                
+                                <div data-value="2000" class="rm-ddl-option">2000</div>
+                                
+                                <div data-value="1999" class="rm-ddl-option">1999</div>
+                                
+                                <div data-value="1998" class="rm-ddl-option">1998</div>
+                                
+                                <div data-value="1997" class="rm-ddl-option">1997</div>
+                                
+                                <div data-value="1996" class="rm-ddl-option">1996</div>
+                                
+                                <div data-value="1995" class="rm-ddl-option">1995</div>
+                                
+                                <div data-value="1994" class="rm-ddl-option">1994</div>
+                                
+                                <div data-value="1993" class="rm-ddl-option">1993</div>
+                                
+                                <div data-value="1992" class="rm-ddl-option">1992</div>
+                                
+                                <div data-value="1991" class="rm-ddl-option">1991</div>
+                                
+                                <div data-value="1990" class="rm-ddl-option">1990</div>
+                                
+                                <div data-value="1989" class="rm-ddl-option">1989</div>
+                                
+                                <div data-value="1988" class="rm-ddl-option">1988</div>
+                                
+                                <div data-value="1987" class="rm-ddl-option">1987</div>
+                                
+                                <div data-value="1986" class="rm-ddl-option">1986</div>
+                                
+                                <div data-value="1985" class="rm-ddl-option">1985</div>
+                                
+                                <div data-value="1984" class="rm-ddl-option">1984</div>
+                                
+                                <div data-value="1983" class="rm-ddl-option">1983</div>
+                                
+                                <div data-value="1982" class="rm-ddl-option">1982</div>
+                                
+                                <div data-value="1981" class="rm-ddl-option">1981</div>
+                                
+                                <div data-value="1980" class="rm-ddl-option">1980</div>
+                                
+                                <div data-value="1979" class="rm-ddl-option">1979</div>
+                                
+                                <div data-value="1978" class="rm-ddl-option">1978</div>
+                                
+                                <div data-value="1977" class="rm-ddl-option">1977</div>
+                                
+                                <div data-value="1976" class="rm-ddl-option">1976</div>
+                                
+                                <div data-value="1975" class="rm-ddl-option">1975</div>
+                                
+                                <div data-value="1974" class="rm-ddl-option">1974</div>
+                                
+                                <div data-value="1973" class="rm-ddl-option">1973</div>
+                                
+                                <div data-value="1972" class="rm-ddl-option">1972</div>
+                                
+                                <div data-value="1971" class="rm-ddl-option">1971</div>
+                                
+                                <div data-value="1970" class="rm-ddl-option">1970</div>
+                                
+                                <div data-value="1969" class="rm-ddl-option">1969</div>
+                                
+                                <div data-value="1968" class="rm-ddl-option">1968</div>
+                                
+                                <div data-value="1967" class="rm-ddl-option">1967</div>
+                                
+                                <div data-value="1966" class="rm-ddl-option">1966</div>
+                                
+                                <div data-value="1965" class="rm-ddl-option">1965</div>
+                                
+                                <div data-value="1964" class="rm-ddl-option">1964</div>
+                                
+                                <div data-value="1963" class="rm-ddl-option">1963</div>
+                                
+                                <div data-value="1962" class="rm-ddl-option">1962</div>
+                                
+                                <div data-value="1961" class="rm-ddl-option">1961</div>
+                                
+                            </div>
+                        </div>
+                        <input type="hidden" id="lastPosition.EndYear" name="lastPosition.EndYear" value="">
+
+                        <div class="clearFloat"></div>
+
+                    </div>
+                    <div class="currentJob-pos">
+
+                        <div class="currentJob-checkbox">
+                            <input type="checkbox" id="lastPosition.IsCurrentJob" name="lastPosition.IsCurrentJob">
+                            <label for="lastPosition.IsCurrentJob" class="checkbox-click-size"></label>
+                        </div>
+
+                        <div class="currentJob-label leftPos s-text11">
+                            <span data-customtext="JobPage_LastPosition_Checkbox1">I currently work here</span>
+                        </div>
+
+                        <div class="clearFloat"></div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="currentJob-pos">
+                <div class="currentJob-checkbox">
+                    <input type="checkbox" id="lastPosition.cancel" name="lastPosition.cancel">
+                    <label for="lastPosition.cancel" id="lable.lastPosition.cancel" class="checkbox-click-size"></label>
+                </div>
+
+                <div class="currentJob-label leftPos s-text11">
+                    <span data-customtext="JobPage_LastPosition_Checkbox2">I have no work experience</span>
+                </div>
+
+                <div class="clearFloat"></div>
+            </div>
+
+            <!-- Previous Position -->
+
+            <div>
+                <div class="prev-resume-add">
+                    <span id="prevPositionShowButton" class="pointer section-title s-text7">
+                        <span data-customtext="JobPage_PrevPosition_Title">Add previous position</span>
+                    </span>
+                </div>
+                <div id="prevPositionSectionBody" class="load-Hidden cover-resume-section prev-position-div">
+                    <div class="structured-data-title">
+                        <span id="prevPositionButton" class="section-title f-text8"><i class="fa fa-briefcase cover-resume-icon"></i><span data-customtext="JobPage_PrevPosition_SectionTitle">Previous Position</span>
+                        </span>
+                    </div>
+                    <div class="create-resume-error-message">
+                        <span data-customtext="JobPage_PrevPosition_Error">Please enter all position fields</span>
+                    </div>
+
+                    <input type="hidden" id="prevPosition.IsSkipped" name="prevPosition.IsSkipped" value=""
+                        data-vivalid-tuples='[["prevPositionConsistent",{"msg": "Please enter all position fields"}]]'
+                        data-vivalid-result='onInputValidationResult_structured'>
+
+                    <div class="row last-pos-texts">
+                        <div class="col-lg-4 col-md-12 structured-input-pos" data-customtext="JobPage_PrevPosition_Watermark1">
+                            <input type="text" class="rmInputText s-text7 structured-input gray-placeholder" placeholder="Job Title" id="prevPosition.JobTitle" name="prevPosition.JobTitle">
+                        </div>
+
+                        <div class="col-lg-4 col-md-12 structured-input-pos" data-customtext="JobPage_PrevPosition_Watermark2">
+                            <input type="text" class="rmInputText s-text7 structured-input gray-placeholder" placeholder="Company" id="prevPosition.Company" name="prevPosition.Company">
+                        </div>
+                    </div>
+                    <div class="prev-position-date-box">
+                        <div class="date-container">
+                            <div class="date-label date-label-pos leftPos">
+                                Start Date
+                            </div>
+
+                            <div id="ddl-7" data-hidden="prevPosition.StartMonth" class="rm-ddl-container leftPos prev-position-dropdown-outer ddl-container-resume">
+                                <div class="rm-ddl-input-container structured-dropdown prev-position-dropdown-inner s-text7">
+                                    <div class="rm-ddl-text">Month</div>
+                                    <span class="rm-ddl-arrow">
+                                        <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                    </span>
+                                </div>
+                                <div class="rm-ddl-options-container options-container load-Hidden">
+                                    
+                                    <div data-value="1" class="rm-ddl-option">1</div>
+                                    
+                                    <div data-value="2" class="rm-ddl-option">2</div>
+                                    
+                                    <div data-value="3" class="rm-ddl-option">3</div>
+                                    
+                                    <div data-value="4" class="rm-ddl-option">4</div>
+                                    
+                                    <div data-value="5" class="rm-ddl-option">5</div>
+                                    
+                                    <div data-value="6" class="rm-ddl-option">6</div>
+                                    
+                                    <div data-value="7" class="rm-ddl-option">7</div>
+                                    
+                                    <div data-value="8" class="rm-ddl-option">8</div>
+                                    
+                                    <div data-value="9" class="rm-ddl-option">9</div>
+                                    
+                                    <div data-value="10" class="rm-ddl-option">10</div>
+                                    
+                                    <div data-value="11" class="rm-ddl-option">11</div>
+                                    
+                                    <div data-value="12" class="rm-ddl-option">12</div>
+                                    
+                                </div>
+                            </div>
+                            <input type="hidden" id="prevPosition.StartMonth" name="prevPosition.StartMonth" value="">
+
+                            <div id="ddl-8" data-hidden="prevPosition.StartYear" class="rm-ddl-container prev-position-dropdown-outer2 leftPos ddl-container-resume">
+                                <div class="rm-ddl-input-container structured-dropdown prev-position-dropdown-inner2 s-text7">
+                                    <div class="rm-ddl-text">Year</div>
+                                    <span class="rm-ddl-arrow">
+                                        <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                    </span>
+                                </div>
+                                <div class="rm-ddl-options-container options-container">
+                                    
+                                    <div data-value="2021" class="rm-ddl-option">2021</div>
+                                    
+                                    <div data-value="2020" class="rm-ddl-option">2020</div>
+                                    
+                                    <div data-value="2019" class="rm-ddl-option">2019</div>
+                                    
+                                    <div data-value="2018" class="rm-ddl-option">2018</div>
+                                    
+                                    <div data-value="2017" class="rm-ddl-option">2017</div>
+                                    
+                                    <div data-value="2016" class="rm-ddl-option">2016</div>
+                                    
+                                    <div data-value="2015" class="rm-ddl-option">2015</div>
+                                    
+                                    <div data-value="2014" class="rm-ddl-option">2014</div>
+                                    
+                                    <div data-value="2013" class="rm-ddl-option">2013</div>
+                                    
+                                    <div data-value="2012" class="rm-ddl-option">2012</div>
+                                    
+                                    <div data-value="2011" class="rm-ddl-option">2011</div>
+                                    
+                                    <div data-value="2010" class="rm-ddl-option">2010</div>
+                                    
+                                    <div data-value="2009" class="rm-ddl-option">2009</div>
+                                    
+                                    <div data-value="2008" class="rm-ddl-option">2008</div>
+                                    
+                                    <div data-value="2007" class="rm-ddl-option">2007</div>
+                                    
+                                    <div data-value="2006" class="rm-ddl-option">2006</div>
+                                    
+                                    <div data-value="2005" class="rm-ddl-option">2005</div>
+                                    
+                                    <div data-value="2004" class="rm-ddl-option">2004</div>
+                                    
+                                    <div data-value="2003" class="rm-ddl-option">2003</div>
+                                    
+                                    <div data-value="2002" class="rm-ddl-option">2002</div>
+                                    
+                                    <div data-value="2001" class="rm-ddl-option">2001</div>
+                                    
+                                    <div data-value="2000" class="rm-ddl-option">2000</div>
+                                    
+                                    <div data-value="1999" class="rm-ddl-option">1999</div>
+                                    
+                                    <div data-value="1998" class="rm-ddl-option">1998</div>
+                                    
+                                    <div data-value="1997" class="rm-ddl-option">1997</div>
+                                    
+                                    <div data-value="1996" class="rm-ddl-option">1996</div>
+                                    
+                                    <div data-value="1995" class="rm-ddl-option">1995</div>
+                                    
+                                    <div data-value="1994" class="rm-ddl-option">1994</div>
+                                    
+                                    <div data-value="1993" class="rm-ddl-option">1993</div>
+                                    
+                                    <div data-value="1992" class="rm-ddl-option">1992</div>
+                                    
+                                    <div data-value="1991" class="rm-ddl-option">1991</div>
+                                    
+                                    <div data-value="1990" class="rm-ddl-option">1990</div>
+                                    
+                                    <div data-value="1989" class="rm-ddl-option">1989</div>
+                                    
+                                    <div data-value="1988" class="rm-ddl-option">1988</div>
+                                    
+                                    <div data-value="1987" class="rm-ddl-option">1987</div>
+                                    
+                                    <div data-value="1986" class="rm-ddl-option">1986</div>
+                                    
+                                    <div data-value="1985" class="rm-ddl-option">1985</div>
+                                    
+                                    <div data-value="1984" class="rm-ddl-option">1984</div>
+                                    
+                                    <div data-value="1983" class="rm-ddl-option">1983</div>
+                                    
+                                    <div data-value="1982" class="rm-ddl-option">1982</div>
+                                    
+                                    <div data-value="1981" class="rm-ddl-option">1981</div>
+                                    
+                                    <div data-value="1980" class="rm-ddl-option">1980</div>
+                                    
+                                    <div data-value="1979" class="rm-ddl-option">1979</div>
+                                    
+                                    <div data-value="1978" class="rm-ddl-option">1978</div>
+                                    
+                                    <div data-value="1977" class="rm-ddl-option">1977</div>
+                                    
+                                    <div data-value="1976" class="rm-ddl-option">1976</div>
+                                    
+                                    <div data-value="1975" class="rm-ddl-option">1975</div>
+                                    
+                                    <div data-value="1974" class="rm-ddl-option">1974</div>
+                                    
+                                    <div data-value="1973" class="rm-ddl-option">1973</div>
+                                    
+                                    <div data-value="1972" class="rm-ddl-option">1972</div>
+                                    
+                                    <div data-value="1971" class="rm-ddl-option">1971</div>
+                                    
+                                    <div data-value="1970" class="rm-ddl-option">1970</div>
+                                    
+                                    <div data-value="1969" class="rm-ddl-option">1969</div>
+                                    
+                                    <div data-value="1968" class="rm-ddl-option">1968</div>
+                                    
+                                    <div data-value="1967" class="rm-ddl-option">1967</div>
+                                    
+                                    <div data-value="1966" class="rm-ddl-option">1966</div>
+                                    
+                                    <div data-value="1965" class="rm-ddl-option">1965</div>
+                                    
+                                    <div data-value="1964" class="rm-ddl-option">1964</div>
+                                    
+                                    <div data-value="1963" class="rm-ddl-option">1963</div>
+                                    
+                                    <div data-value="1962" class="rm-ddl-option">1962</div>
+                                    
+                                    <div data-value="1961" class="rm-ddl-option">1961</div>
+                                    
+                                </div>
+                            </div>
+                            <input type="hidden" id="prevPosition.StartYear" name="prevPosition.StartYear" value="">
+
+                            <div class="clearFloat"></div>
+                        </div>
+
+                        <div class="date-container" id="prevPosition.EndDateSection">
+                            <div class="date-label date-label-pos leftPos">
+                                End Date
+                            </div>
+
+                            <div id="ddl-9" data-hidden="prevPosition.EndMonth" class="rm-ddl-container leftPos prev-position-dropdown-outer ddl-container-resume">
+                                <div class="rm-ddl-input-container structured-dropdown prev-position-dropdown-inner s-text7">
+                                    <div class="rm-ddl-text">Month</div>
+                                    <span class="rm-ddl-arrow">
+                                        <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                    </span>
+                                </div>
+                                <div class="rm-ddl-options-container options-container load-Hidden">
+                                    
+                                    <div data-value="1" class="rm-ddl-option">1</div>
+                                    
+                                    <div data-value="2" class="rm-ddl-option">2</div>
+                                    
+                                    <div data-value="3" class="rm-ddl-option">3</div>
+                                    
+                                    <div data-value="4" class="rm-ddl-option">4</div>
+                                    
+                                    <div data-value="5" class="rm-ddl-option">5</div>
+                                    
+                                    <div data-value="6" class="rm-ddl-option">6</div>
+                                    
+                                    <div data-value="7" class="rm-ddl-option">7</div>
+                                    
+                                    <div data-value="8" class="rm-ddl-option">8</div>
+                                    
+                                    <div data-value="9" class="rm-ddl-option">9</div>
+                                    
+                                    <div data-value="10" class="rm-ddl-option">10</div>
+                                    
+                                    <div data-value="11" class="rm-ddl-option">11</div>
+                                    
+                                    <div data-value="12" class="rm-ddl-option">12</div>
+                                    
+                                </div>
+                            </div>
+                            <input type="hidden" id="prevPosition.EndMonth" name="prevPosition.EndMonth" value="">
+
+                            <div id="ddl-10" data-hidden="prevPosition.EndYear" class="rm-ddl-container prev-position-dropdown-outer2 leftPos ddl-container-resume">
+                                <div class="rm-ddl-input-container structured-dropdown prev-position-dropdown-inner2 s-text7">
+                                    <div class="rm-ddl-text">Year</div>
+                                    <span class="rm-ddl-arrow">
+                                        <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                    </span>
+                                </div>
+                                <div class="rm-ddl-options-container options-container">
+                                    
+                                    <div data-value="2021" class="rm-ddl-option">2021</div>
+                                    
+                                    <div data-value="2020" class="rm-ddl-option">2020</div>
+                                    
+                                    <div data-value="2019" class="rm-ddl-option">2019</div>
+                                    
+                                    <div data-value="2018" class="rm-ddl-option">2018</div>
+                                    
+                                    <div data-value="2017" class="rm-ddl-option">2017</div>
+                                    
+                                    <div data-value="2016" class="rm-ddl-option">2016</div>
+                                    
+                                    <div data-value="2015" class="rm-ddl-option">2015</div>
+                                    
+                                    <div data-value="2014" class="rm-ddl-option">2014</div>
+                                    
+                                    <div data-value="2013" class="rm-ddl-option">2013</div>
+                                    
+                                    <div data-value="2012" class="rm-ddl-option">2012</div>
+                                    
+                                    <div data-value="2011" class="rm-ddl-option">2011</div>
+                                    
+                                    <div data-value="2010" class="rm-ddl-option">2010</div>
+                                    
+                                    <div data-value="2009" class="rm-ddl-option">2009</div>
+                                    
+                                    <div data-value="2008" class="rm-ddl-option">2008</div>
+                                    
+                                    <div data-value="2007" class="rm-ddl-option">2007</div>
+                                    
+                                    <div data-value="2006" class="rm-ddl-option">2006</div>
+                                    
+                                    <div data-value="2005" class="rm-ddl-option">2005</div>
+                                    
+                                    <div data-value="2004" class="rm-ddl-option">2004</div>
+                                    
+                                    <div data-value="2003" class="rm-ddl-option">2003</div>
+                                    
+                                    <div data-value="2002" class="rm-ddl-option">2002</div>
+                                    
+                                    <div data-value="2001" class="rm-ddl-option">2001</div>
+                                    
+                                    <div data-value="2000" class="rm-ddl-option">2000</div>
+                                    
+                                    <div data-value="1999" class="rm-ddl-option">1999</div>
+                                    
+                                    <div data-value="1998" class="rm-ddl-option">1998</div>
+                                    
+                                    <div data-value="1997" class="rm-ddl-option">1997</div>
+                                    
+                                    <div data-value="1996" class="rm-ddl-option">1996</div>
+                                    
+                                    <div data-value="1995" class="rm-ddl-option">1995</div>
+                                    
+                                    <div data-value="1994" class="rm-ddl-option">1994</div>
+                                    
+                                    <div data-value="1993" class="rm-ddl-option">1993</div>
+                                    
+                                    <div data-value="1992" class="rm-ddl-option">1992</div>
+                                    
+                                    <div data-value="1991" class="rm-ddl-option">1991</div>
+                                    
+                                    <div data-value="1990" class="rm-ddl-option">1990</div>
+                                    
+                                    <div data-value="1989" class="rm-ddl-option">1989</div>
+                                    
+                                    <div data-value="1988" class="rm-ddl-option">1988</div>
+                                    
+                                    <div data-value="1987" class="rm-ddl-option">1987</div>
+                                    
+                                    <div data-value="1986" class="rm-ddl-option">1986</div>
+                                    
+                                    <div data-value="1985" class="rm-ddl-option">1985</div>
+                                    
+                                    <div data-value="1984" class="rm-ddl-option">1984</div>
+                                    
+                                    <div data-value="1983" class="rm-ddl-option">1983</div>
+                                    
+                                    <div data-value="1982" class="rm-ddl-option">1982</div>
+                                    
+                                    <div data-value="1981" class="rm-ddl-option">1981</div>
+                                    
+                                    <div data-value="1980" class="rm-ddl-option">1980</div>
+                                    
+                                    <div data-value="1979" class="rm-ddl-option">1979</div>
+                                    
+                                    <div data-value="1978" class="rm-ddl-option">1978</div>
+                                    
+                                    <div data-value="1977" class="rm-ddl-option">1977</div>
+                                    
+                                    <div data-value="1976" class="rm-ddl-option">1976</div>
+                                    
+                                    <div data-value="1975" class="rm-ddl-option">1975</div>
+                                    
+                                    <div data-value="1974" class="rm-ddl-option">1974</div>
+                                    
+                                    <div data-value="1973" class="rm-ddl-option">1973</div>
+                                    
+                                    <div data-value="1972" class="rm-ddl-option">1972</div>
+                                    
+                                    <div data-value="1971" class="rm-ddl-option">1971</div>
+                                    
+                                    <div data-value="1970" class="rm-ddl-option">1970</div>
+                                    
+                                    <div data-value="1969" class="rm-ddl-option">1969</div>
+                                    
+                                    <div data-value="1968" class="rm-ddl-option">1968</div>
+                                    
+                                    <div data-value="1967" class="rm-ddl-option">1967</div>
+                                    
+                                    <div data-value="1966" class="rm-ddl-option">1966</div>
+                                    
+                                    <div data-value="1965" class="rm-ddl-option">1965</div>
+                                    
+                                    <div data-value="1964" class="rm-ddl-option">1964</div>
+                                    
+                                    <div data-value="1963" class="rm-ddl-option">1963</div>
+                                    
+                                    <div data-value="1962" class="rm-ddl-option">1962</div>
+                                    
+                                    <div data-value="1961" class="rm-ddl-option">1961</div>
+                                    
+                                </div>
+                            </div>
+                            <input type="hidden" id="prevPosition.EndYear" name="prevPosition.EndYear" value="">
+
+                            <div class="clearFloat"></div>
+
+                        </div>
+
+                        <!-- Cancel previous position -->
+                        <div class="s-text7 section-title pointer">
+                            <span class="cover-resume-button" id="prevPosition.cancel">
+                                <span data-customtext="JobPage_PrevPosition_Cancel">Remove previous position</span>
+                            </span>
+                        </div>
+                        <!-- End of Cancel previous position -->
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- End of Previous Position -->
+
+        </div>
+
+        <div class="cover-resume-section s-normal ">
+            <div class="structured-data-title">
+                <span id="lastEducationButton" class="section-title f-text8 structured-data-title"><i class="fa fa-graduation-cap cover-resume-icon"></i><span data-customtext="JobPage_LastEducation_Title">Highest Level Of Education</span>
+                </span>
+            </div>
+            <div id="lastEducationSectionBody">
+                <div id="lastEducationErrorMessage" class="create-resume-error-message">
+                    <span data-customtext="JobPage_LastEducation_Error">Please enter valid information in all education fields</span>
+                </div>
+
+                <input type="hidden" id="lastEducation.IsSkipped" name="lastEducation.IsSkipped" value=""
+                    data-vivalid-tuples='[["lastEducationConsistent",{"msg": "Please enter valid information in all education fields"}]]' data-vivalid-result='onInputValidationResult_structured'>
+
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-12 structured-input-pos">
+                        <div id="ddl-5" data-hidden="lastEducation.DegreeId" class="rm-ddl-container leftPos structured-input ddl-container-resume">
+                            <div class="rm-ddl-input-container structured-dropdown structured-input s-text7">
+                                <div id="lastEducation_DegreeField" class="rm-ddl-text gray-placeholder" data-customtext="JobPage_LastEducation_Watermark1">
+                                    <div class="select-degree">
+                                        <span data-customtext="JobPage_LastEducation_Watermark1">Select Degree</span>
+                                    </div>
+                                </div>
+                                <span class="rm-ddl-arrow">
+                                    <i class="fa fa-caret-down rm-ddl-arrow-icon"></i>
+                                </span>
+                            </div>
+                            <div class="rm-ddl-options-container options-container load-Hidden">
+                                
+                                <div data-value="10" class="rm-ddl-option">Less than 9th  Grade </div>
+                                
+                                <div data-value="20" class="rm-ddl-option">9th Grade and above </div>
+                                
+                                <div data-value="30" class="rm-ddl-option">High School Graduate </div>
+                                
+                                <div data-value="40" class="rm-ddl-option">Associate's Degree </div>
+                                
+                                <div data-value="50" class="rm-ddl-option">Technician </div>
+                                
+                                <div data-value="60" class="rm-ddl-option">Practical Engineer </div>
+                                
+                                <div data-value="70" class="rm-ddl-option">Tech/Trade School </div>
+                                
+                                <div data-value="80" class="rm-ddl-option">Some College/University </div>
+                                
+                                <div data-value="85" class="rm-ddl-option">Nursing School Graduate </div>
+                                
+                                <div data-value="86" class="rm-ddl-option">Physical Therapy School Graduate </div>
+                                
+                                <div data-value="90" class="rm-ddl-option">Bachelor's Degree </div>
+                                
+                                <div data-value="100" class="rm-ddl-option">MBA </div>
+                                
+                                <div data-value="110" class="rm-ddl-option">Master's Degree </div>
+                                
+                                <div data-value="111" class="rm-ddl-option">Pharm D </div>
+                                
+                                <div data-value="112" class="rm-ddl-option">JD </div>
+                                
+                                <div data-value="113" class="rm-ddl-option">MD / DO </div>
+                                
+                                <div data-value="120" class="rm-ddl-option">PhD/doctorate </div>
+                                
+                            </div>
+                        </div>
+                        <input type="hidden" id="lastEducation.DegreeId" name="lastEducation.DegreeId" value="">
+
+                        <div class="clearFloat"></div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 structured-input-pos">
+                        <input id="lastEducation.School" type="text" class="rmInputText s-text7 structured-input gray-placeholder" data-customtext="JobPage_LastEducation_Watermark2" placeholder="School" name="lastEducation.School">
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 structured-input-pos">
+                        <div class="major-container structured-input ddl-container-resume">
+                            <input id="majorInput" type="text" class="major-input-container structured-dropdown structured-input s-text7 gray-placeholder major-text rmInputText" placeholder="Select a major" />
+                            
+                            <div id="majorOptionsContainer" class="major-options-container options-container load-Hidden">
+                                <div class="major-option load-hidden" id="selectMajorCaption">Select a major from the list</div>
+                                
+                                <div data-value="1" class="major-option js-major-option">Accounting</div>
+                                
+                                <div data-value="2" class="major-option js-major-option">Acting</div>
+                                
+                                <div data-value="189" class="major-option js-major-option">Actuarial Science</div>
+                                
+                                <div data-value="4" class="major-option js-major-option">Advertising</div>
+                                
+                                <div data-value="193" class="major-option js-major-option">Aeronautical and Astronautical Engineering</div>
+                                
+                                <div data-value="5" class="major-option js-major-option">Aerospace Engineering</div>
+                                
+                                <div data-value="6" class="major-option js-major-option">African-American Studies</div>
+                                
+                                <div data-value="194" class="major-option js-major-option">Agricultural Business</div>
+                                
+                                <div data-value="7" class="major-option js-major-option">Agricultural Sciences</div>
+                                
+                                <div data-value="196" class="major-option js-major-option">Agriculture and Food Security</div>
+                                
+                                <div data-value="197" class="major-option js-major-option">Agriculture Production</div>
+                                
+                                <div data-value="198" class="major-option js-major-option">Air Transportation and Distribution</div>
+                                
+                                <div data-value="199" class="major-option js-major-option">Alternative Medicine</div>
+                                
+                                <div data-value="8" class="major-option js-major-option">American Literature</div>
+                                
+                                <div data-value="200" class="major-option js-major-option">American Sign Language - ASL</div>
+                                
+                                <div data-value="9" class="major-option js-major-option">American Studies</div>
+                                
+                                <div data-value="190" class="major-option js-major-option">Animal Science</div>
+                                
+                                <div data-value="201" class="major-option js-major-option">Animal Services</div>
+                                
+                                <div data-value="10" class="major-option js-major-option">Anthropology / Archeology</div>
+                                
+                                <div data-value="12" class="major-option js-major-option">Applied / Commercial Art</div>
+                                
+                                <div data-value="11" class="major-option js-major-option">Applied Mathematics</div>
+                                
+                                <div data-value="3" class="major-option js-major-option">Applied Sciences</div>
+                                
+                                <div data-value="202" class="major-option js-major-option">Architectural History</div>
+                                
+                                <div data-value="203" class="major-option js-major-option">Architectural Technology</div>
+                                
+                                <div data-value="13" class="major-option js-major-option">Architecture</div>
+                                
+                                <div data-value="15" class="major-option js-major-option">Art History</div>
+                                
+                                <div data-value="14" class="major-option js-major-option">Arts</div>
+                                
+                                <div data-value="16" class="major-option js-major-option">Asian Studies</div>
+                                
+                                <div data-value="17" class="major-option js-major-option">Astronomy / Astrophysics</div>
+                                
+                                <div data-value="18" class="major-option js-major-option">Atmospheric Science</div>
+                                
+                                <div data-value="19" class="major-option js-major-option">Banking</div>
+                                
+                                <div data-value="21" class="major-option js-major-option">Biblical Studies</div>
+                                
+                                <div data-value="22" class="major-option js-major-option">Biochemistry</div>
+                                
+                                <div data-value="23" class="major-option js-major-option">BioEngineering</div>
+                                
+                                <div data-value="204" class="major-option js-major-option">Bioinformatics</div>
+                                
+                                <div data-value="205" class="major-option js-major-option">Biological and Agricultural Engineering</div>
+                                
+                                <div data-value="24" class="major-option js-major-option">Biology / Biological Sciences</div>
+                                
+                                <div data-value="25" class="major-option js-major-option">Biomedical and Medical Engineering</div>
+                                
+                                <div data-value="299" class="major-option js-major-option">Biomedical Sciences</div>
+                                
+                                <div data-value="206" class="major-option js-major-option">Biophysics</div>
+                                
+                                <div data-value="26" class="major-option js-major-option">Biotechnology</div>
+                                
+                                <div data-value="182" class="major-option js-major-option">Bookkeeping</div>
+                                
+                                <div data-value="27" class="major-option js-major-option">Botany</div>
+                                
+                                <div data-value="28" class="major-option js-major-option">Business Administration</div>
+                                
+                                <div data-value="29" class="major-option js-major-option">Business Economics</div>
+                                
+                                <div data-value="207" class="major-option js-major-option">Business Finance</div>
+                                
+                                <div data-value="208" class="major-option js-major-option">Business Management</div>
+                                
+                                <div data-value="209" class="major-option js-major-option">Business Marketing</div>
+                                
+                                <div data-value="210" class="major-option js-major-option">Cellular Biology and Anatomical Sciences</div>
+                                
+                                <div data-value="30" class="major-option js-major-option">Ceramic Engineering</div>
+                                
+                                <div data-value="31" class="major-option js-major-option">Chemical Engineering</div>
+                                
+                                <div data-value="32" class="major-option js-major-option">Chemistry Sciences</div>
+                                
+                                <div data-value="33" class="major-option js-major-option">Child Care / Child Psychology</div>
+                                
+                                <div data-value="34" class="major-option js-major-option">Chinese</div>
+                                
+                                <div data-value="35" class="major-option js-major-option">Chinese Studies</div>
+                                
+                                <div data-value="36" class="major-option js-major-option">Chiropractics</div>
+                                
+                                <div data-value="38" class="major-option js-major-option">Civil Engineering</div>
+                                
+                                <div data-value="39" class="major-option js-major-option">Classical Studies</div>
+                                
+                                <div data-value="211" class="major-option js-major-option">Clinical Laboratory Science Professions</div>
+                                
+                                <div data-value="212" class="major-option js-major-option">Clinical Psychology</div>
+                                
+                                <div data-value="213" class="major-option js-major-option">Communication Disorders Sciences</div>
+                                
+                                <div data-value="40" class="major-option js-major-option">Communication Studies</div>
+                                
+                                <div data-value="214" class="major-option js-major-option">Communication Technology</div>
+                                
+                                <div data-value="41" class="major-option js-major-option">Comparative Language Studies and Services</div>
+                                
+                                <div data-value="42" class="major-option js-major-option">Computational Finance</div>
+                                
+                                <div data-value="43" class="major-option js-major-option">Computer and Information Sciences</div>
+                                
+                                <div data-value="215" class="major-option js-major-option">Computer Engineering</div>
+                                
+                                <div data-value="216" class="major-option js-major-option">Computer Programming</div>
+                                
+                                <div data-value="217" class="major-option js-major-option">Computer Systems Analysis</div>
+                                
+                                <div data-value="44" class="major-option js-major-option">Construction</div>
+                                
+                                <div data-value="45" class="major-option js-major-option">Corporate Strategy</div>
+                                
+                                <div data-value="218" class="major-option js-major-option">Cosmetology and Related Services</div>
+                                
+                                <div data-value="219" class="major-option js-major-option">Counseling and Guidance</div>
+                                
+                                <div data-value="46" class="major-option js-major-option">Creative Writing</div>
+                                
+                                <div data-value="220" class="major-option js-major-option">Criminal Justice, Law Enforcement, and Corrections</div>
+                                
+                                <div data-value="47" class="major-option js-major-option">Criminology</div>
+                                
+                                <div data-value="221" class="major-option js-major-option">Culinary Arts and Culinary Services</div>
+                                
+                                <div data-value="222" class="major-option js-major-option">Cultural Studies</div>
+                                
+                                <div data-value="223" class="major-option js-major-option">Curriculum and Instruction</div>
+                                
+                                <div data-value="224" class="major-option js-major-option">Dance</div>
+                                
+                                <div data-value="225" class="major-option js-major-option">Data Entry Processing</div>
+                                
+                                <div data-value="48" class="major-option js-major-option">Decision Sciences</div>
+                                
+                                <div data-value="49" class="major-option js-major-option">Dentistry</div>
+                                
+                                <div data-value="226" class="major-option js-major-option">Design and Applied Arts</div>
+                                
+                                <div data-value="227" class="major-option js-major-option">Developmental Psychology</div>
+                                
+                                <div data-value="228" class="major-option js-major-option">Digital, Radio, and Television Communication</div>
+                                
+                                <div data-value="229" class="major-option js-major-option">Drafting and Design Engineering</div>
+                                
+                                <div data-value="50" class="major-option js-major-option">Drama</div>
+                                
+                                <div data-value="52" class="major-option js-major-option">Earth Science</div>
+                                
+                                <div data-value="230" class="major-option js-major-option">Ecology and Evolutionary Biology</div>
+                                
+                                <div data-value="53" class="major-option js-major-option">Economics</div>
+                                
+                                <div data-value="54" class="major-option js-major-option">Education</div>
+                                
+                                <div data-value="231" class="major-option js-major-option">Educational Administration and Supervision</div>
+                                
+                                <div data-value="232" class="major-option js-major-option">Educational Evaluation and Research</div>
+                                
+                                <div data-value="55" class="major-option js-major-option">Electrical Engineering</div>
+                                
+                                <div data-value="233" class="major-option js-major-option">Electrical Repair and Maintenance</div>
+                                
+                                <div data-value="177" class="major-option js-major-option">Electronic Communication System Technology</div>
+                                
+                                <div data-value="178" class="major-option js-major-option">Electronics</div>
+                                
+                                <div data-value="234" class="major-option js-major-option">Engineering - Architectural</div>
+                                
+                                <div data-value="56" class="major-option js-major-option">Engineering - General</div>
+                                
+                                <div data-value="235" class="major-option js-major-option">Engineering Mechanics</div>
+                                
+                                <div data-value="236" class="major-option js-major-option">Engineering Physics</div>
+                                
+                                <div data-value="237" class="major-option js-major-option">English Composition</div>
+                                
+                                <div data-value="57" class="major-option js-major-option">English Language and Literature</div>
+                                
+                                <div data-value="58" class="major-option js-major-option">Enterpreneurship and Small Businesses Development</div>
+                                
+                                <div data-value="296" class="major-option js-major-option">Entertainment Management</div>
+                                
+                                <div data-value="238" class="major-option js-major-option">Environmental Design</div>
+                                
+                                <div data-value="59" class="major-option js-major-option">Environmental Engineering</div>
+                                
+                                <div data-value="60" class="major-option js-major-option">Environmental Management</div>
+                                
+                                <div data-value="61" class="major-option js-major-option">Environmental Science</div>
+                                
+                                <div data-value="239" class="major-option js-major-option">ESL Teaching</div>
+                                
+                                <div data-value="240" class="major-option js-major-option">Ethnic and Gender Studies</div>
+                                
+                                <div data-value="62" class="major-option js-major-option">European Studies</div>
+                                
+                                <div data-value="64" class="major-option js-major-option">Finance</div>
+                                
+                                <div data-value="65" class="major-option js-major-option">Fine Arts and Studio Art</div>
+                                
+                                <div data-value="241" class="major-option js-major-option">Fire Safety and Protection</div>
+                                
+                                <div data-value="66" class="major-option js-major-option">Food Sciences</div>
+                                
+                                <div data-value="101" class="major-option js-major-option">Foreign Language and Literature</div>
+                                
+                                <div data-value="242" class="major-option js-major-option">Forest Engineering</div>
+                                
+                                <div data-value="67" class="major-option js-major-option">Forestry and Wildlands Management</div>
+                                
+                                <div data-value="68" class="major-option js-major-option">French</div>
+                                
+                                <div data-value="243" class="major-option js-major-option">Funeral Related Services</div>
+                                
+                                <div data-value="195" class="major-option js-major-option">General Agriculture</div>
+                                
+                                <div data-value="69" class="major-option js-major-option">Genetics</div>
+                                
+                                <div data-value="70" class="major-option js-major-option">Geography and Cartography</div>
+                                
+                                <div data-value="244" class="major-option js-major-option">Geological Engineering</div>
+                                
+                                <div data-value="71" class="major-option js-major-option">Geology / Geophysics</div>
+                                
+                                <div data-value="72" class="major-option js-major-option">German</div>
+                                
+                                <div data-value="73" class="major-option js-major-option">Government</div>
+                                
+                                <div data-value="74" class="major-option js-major-option">Graphic Arts</div>
+                                
+                                <div data-value="245" class="major-option js-major-option">Ground Transportation</div>
+                                
+                                <div data-value="246" class="major-option js-major-option">Health and Fitness</div>
+                                
+                                <div data-value="302" class="major-option js-major-option">Health Physics</div>
+                                
+                                <div data-value="75" class="major-option js-major-option">Healthcare Management</div>
+                                
+                                <div data-value="247" class="major-option js-major-option">Heating, Air Conditioning, Ventilation, and Refrigeration Maintenance</div>
+                                
+                                <div data-value="248" class="major-option js-major-option">Heavy Equipment Maintenance</div>
+                                
+                                <div data-value="76" class="major-option js-major-option">Hebrew</div>
+                                
+                                <div data-value="77" class="major-option js-major-option">History</div>
+                                
+                                <div data-value="78" class="major-option js-major-option">Home Economics</div>
+                                
+                                <div data-value="79" class="major-option js-major-option">Horticulture</div>
+                                
+                                <div data-value="80" class="major-option js-major-option">Hospital Administration</div>
+                                
+                                <div data-value="81" class="major-option js-major-option">Hospitality</div>
+                                
+                                <div data-value="82" class="major-option js-major-option">Hotel Management</div>
+                                
+                                <div data-value="249" class="major-option js-major-option">Human and Social Services</div>
+                                
+                                <div data-value="83" class="major-option js-major-option">Human Resources</div>
+                                
+                                <div data-value="84" class="major-option js-major-option">Humanities</div>
+                                
+                                <div data-value="85" class="major-option js-major-option">Industrial Engineering</div>
+                                
+                                <div data-value="86" class="major-option js-major-option">Industrial Technology</div>
+                                
+                                <div data-value="87" class="major-option js-major-option">Information Science</div>
+                                
+                                <div data-value="88" class="major-option js-major-option">Information Systems</div>
+                                
+                                <div data-value="250" class="major-option js-major-option">Information Technology Management</div>
+                                
+                                <div data-value="251" class="major-option js-major-option">Insurance</div>
+                                
+                                <div data-value="89" class="major-option js-major-option">Interdisciplinary Studies</div>
+                                
+                                <div data-value="252" class="major-option js-major-option">Interior Architecture</div>
+                                
+                                <div data-value="90" class="major-option js-major-option">Interior Design</div>
+                                
+                                <div data-value="253" class="major-option js-major-option">International and Comparative Education</div>
+                                
+                                <div data-value="91" class="major-option js-major-option">International Business</div>
+                                
+                                <div data-value="92" class="major-option js-major-option">International Management</div>
+                                
+                                <div data-value="93" class="major-option js-major-option">International Relations</div>
+                                
+                                <div data-value="94" class="major-option js-major-option">International Studies</div>
+                                
+                                <div data-value="95" class="major-option js-major-option">Investments</div>
+                                
+                                <div data-value="96" class="major-option js-major-option">Italian</div>
+                                
+                                <div data-value="97" class="major-option js-major-option">Japanese</div>
+                                
+                                <div data-value="98" class="major-option js-major-option">Journalism</div>
+                                
+                                <div data-value="99" class="major-option js-major-option">Labor Relations</div>
+                                
+                                <div data-value="100" class="major-option js-major-option">Landscape Architecture</div>
+                                
+                                <div data-value="102" class="major-option js-major-option">Latin</div>
+                                
+                                <div data-value="103" class="major-option js-major-option">Latin American Studies</div>
+                                
+                                <div data-value="104" class="major-option js-major-option">Law</div>
+                                
+                                <div data-value="105" class="major-option js-major-option">Leadership</div>
+                                
+                                <div data-value="254" class="major-option js-major-option">Leatherworking and Upholstery</div>
+                                
+                                <div data-value="255" class="major-option js-major-option">Legal Research and Professional Studies</div>
+                                
+                                <div data-value="256" class="major-option js-major-option">Legal Support Services</div>
+                                
+                                <div data-value="106" class="major-option js-major-option">Liberal Arts</div>
+                                
+                                <div data-value="257" class="major-option js-major-option">Liberal Science</div>
+                                
+                                <div data-value="107" class="major-option js-major-option">Library Science and Related Professions</div>
+                                
+                                <div data-value="108" class="major-option js-major-option">Life Sciences</div>
+                                
+                                <div data-value="109" class="major-option js-major-option">Linguistics</div>
+                                
+                                <div data-value="110" class="major-option js-major-option">Literature</div>
+                                
+                                <div data-value="111" class="major-option js-major-option">Logistics</div>
+                                
+                                <div data-value="112" class="major-option js-major-option">Management</div>
+                                
+                                <div data-value="113" class="major-option js-major-option">Management Information Systems (MIS)</div>
+                                
+                                <div data-value="114" class="major-option js-major-option">Manufacturing</div>
+                                
+                                <div data-value="258" class="major-option js-major-option">Manufacturing Engineering</div>
+                                
+                                <div data-value="259" class="major-option js-major-option">Marine Transportation</div>
+                                
+                                <div data-value="115" class="major-option js-major-option">Marketing</div>
+                                
+                                <div data-value="260" class="major-option js-major-option">Massage and Related Therapeutic Professions</div>
+                                
+                                <div data-value="116" class="major-option js-major-option">Material Science</div>
+                                
+                                <div data-value="261" class="major-option js-major-option">Materials Engineering</div>
+                                
+                                <div data-value="117" class="major-option js-major-option">Mathematics</div>
+                                
+                                <div data-value="118" class="major-option js-major-option">Mechanical Engineering</div>
+                                
+                                <div data-value="119" class="major-option js-major-option">Mechanics</div>
+                                
+                                <div data-value="120" class="major-option js-major-option">Medical Administrative Services</div>
+                                
+                                <div data-value="262" class="major-option js-major-option">Medical and Health Preparatory Sciences</div>
+                                
+                                <div data-value="263" class="major-option js-major-option">Medical Assisting</div>
+                                
+                                <div data-value="264" class="major-option js-major-option">Medical Diagnostic and Treatment Professions</div>
+                                
+                                <div data-value="265" class="major-option js-major-option">Medical Ethics and Bioethics</div>
+                                
+                                <div data-value="266" class="major-option js-major-option">Medical Informatics and Illustration</div>
+                                
+                                <div data-value="191" class="major-option js-major-option">Mental Health</div>
+                                
+                                <div data-value="267" class="major-option js-major-option">Metallurgical Engineering</div>
+                                
+                                <div data-value="121" class="major-option js-major-option">Metallurgy</div>
+                                
+                                <div data-value="122" class="major-option js-major-option">Meteorology</div>
+                                
+                                <div data-value="268" class="major-option js-major-option">Microbiology and Immunology</div>
+                                
+                                <div data-value="269" class="major-option js-major-option">Military Studies</div>
+                                
+                                <div data-value="270" class="major-option js-major-option">Mining Engineering</div>
+                                
+                                <div data-value="123" class="major-option js-major-option">Molecular Biology</div>
+                                
+                                <div data-value="124" class="major-option js-major-option">Musical Arts</div>
+                                
+                                <div data-value="271" class="major-option js-major-option">Natural Resources Management</div>
+                                
+                                <div data-value="125" class="major-option js-major-option">Natural Sciences</div>
+                                
+                                <div data-value="272" class="major-option js-major-option">Naval Architecture and Marine Engineering</div>
+                                
+                                <div data-value="273" class="major-option js-major-option">Networking and Telecommunications</div>
+                                
+                                <div data-value="176" class="major-option js-major-option">Not Listed</div>
+                                
+                                <div data-value="126" class="major-option js-major-option">Nuclear Engineering</div>
+                                
+                                <div data-value="127" class="major-option js-major-option">Nursing</div>
+                                
+                                <div data-value="274" class="major-option js-major-option">Nutrition Services</div>
+                                
+                                <div data-value="275" class="major-option js-major-option">Ocean Engineering</div>
+                                
+                                <div data-value="128" class="major-option js-major-option">Oceanography</div>
+                                
+                                <div data-value="129" class="major-option js-major-option">Operations</div>
+                                
+                                <div data-value="130" class="major-option js-major-option">Operations Research</div>
+                                
+                                <div data-value="131" class="major-option js-major-option">Optics</div>
+                                
+                                <div data-value="276" class="major-option js-major-option">Optometric and Ophthalmic Services</div>
+                                
+                                <div data-value="132" class="major-option js-major-option">Organizational Behavior</div>
+                                
+                                <div data-value="277" class="major-option js-major-option">Osteopathic Medicine - DO</div>
+                                
+                                <div data-value="278" class="major-option js-major-option">Parks, Recreation and Leisure Studies</div>
+                                
+                                <div data-value="133" class="major-option js-major-option">Petroleum Engineering</div>
+                                
+                                <div data-value="134" class="major-option js-major-option">Pharmaceutical Sciences and Administration</div>
+                                
+                                <div data-value="279" class="major-option js-major-option">Pharmacology and Toxicology</div>
+                                
+                                <div data-value="135" class="major-option js-major-option">Philosophy</div>
+                                
+                                <div data-value="63" class="major-option js-major-option">Photography, Film, and Video</div>
+                                
+                                <div data-value="280" class="major-option js-major-option">Phylosophical Foundations of Education</div>
+                                
+                                <div data-value="136" class="major-option js-major-option">Physical Education</div>
+                                
+                                <div data-value="137" class="major-option js-major-option">Physics</div>
+                                
+                                <div data-value="138" class="major-option js-major-option">Physiology</div>
+                                
+                                <div data-value="281" class="major-option js-major-option">Plastics Engineering</div>
+                                
+                                <div data-value="139" class="major-option js-major-option">Podiatry</div>
+                                
+                                <div data-value="140" class="major-option js-major-option">Political Economy</div>
+                                
+                                <div data-value="141" class="major-option js-major-option">Political Science and Government</div>
+                                
+                                <div data-value="282" class="major-option js-major-option">Precision Metal Working</div>
+                                
+                                <div data-value="283" class="major-option js-major-option">Precision Systems Maintenance</div>
+                                
+                                <div data-value="142" class="major-option js-major-option">Pre-Law</div>
+                                
+                                <div data-value="143" class="major-option js-major-option">Pre-Medicine</div>
+                                
+                                <div data-value="144" class="major-option js-major-option">Production</div>
+                                
+                                <div data-value="145" class="major-option js-major-option">Psychology</div>
+                                
+                                <div data-value="20" class="major-option js-major-option">Psychology and Human Behavior</div>
+                                
+                                <div data-value="284" class="major-option js-major-option">Public Administration</div>
+                                
+                                <div data-value="146" class="major-option js-major-option">Public Affairs / Public Policy</div>
+                                
+                                <div data-value="147" class="major-option js-major-option">Public Health and Safety</div>
+                                
+                                <div data-value="148" class="major-option js-major-option">Public Relations</div>
+                                
+                                <div data-value="285" class="major-option js-major-option">Publishing</div>
+                                
+                                <div data-value="149" class="major-option js-major-option">Quantitative Analysis</div>
+                                
+                                <div data-value="150" class="major-option js-major-option">Real Estate</div>
+                                
+                                <div data-value="151" class="major-option js-major-option">Religious Studies</div>
+                                
+                                <div data-value="152" class="major-option js-major-option">Restaurant Management</div>
+                                
+                                <div data-value="153" class="major-option js-major-option">Rethoric / Debate</div>
+                                
+                                <div data-value="154" class="major-option js-major-option">Robotics</div>
+                                
+                                <div data-value="155" class="major-option js-major-option">Russian</div>
+                                
+                                <div data-value="156" class="major-option js-major-option">Sales and Merchandising</div>
+                                
+                                <div data-value="300" class="major-option js-major-option">School Counseling</div>
+                                
+                                <div data-value="286" class="major-option js-major-option">School Psychology</div>
+                                
+                                <div data-value="157" class="major-option js-major-option">Science</div>
+                                
+                                <div data-value="158" class="major-option js-major-option">Social Work</div>
+                                
+                                <div data-value="159" class="major-option js-major-option">Sociology</div>
+                                
+                                <div data-value="287" class="major-option js-major-option">Software and Computer Media Applications</div>
+                                
+                                <div data-value="160" class="major-option js-major-option">Software Engineering</div>
+                                
+                                <div data-value="288" class="major-option js-major-option">Soil Science</div>
+                                
+                                <div data-value="161" class="major-option js-major-option">Spanish</div>
+                                
+                                <div data-value="192" class="major-option js-major-option">Special Education</div>
+                                
+                                <div data-value="162" class="major-option js-major-option">Speech</div>
+                                
+                                <div data-value="163" class="major-option js-major-option">Sports Management</div>
+                                
+                                <div data-value="164" class="major-option js-major-option">Sports Medicine</div>
+                                
+                                <div data-value="165" class="major-option js-major-option">Statistics</div>
+                                
+                                <div data-value="166" class="major-option js-major-option">Strategic Planning</div>
+                                
+                                <div data-value="289" class="major-option js-major-option">Surveying</div>
+                                
+                                <div data-value="168" class="major-option js-major-option">System Management</div>
+                                
+                                <div data-value="167" class="major-option js-major-option">Systems Engineering</div>
+                                
+                                <div data-value="169" class="major-option js-major-option">Taxation</div>
+                                
+                                <div data-value="290" class="major-option js-major-option">Teacher Education for Specific Levels and Methods</div>
+                                
+                                <div data-value="291" class="major-option js-major-option">Teacher Education for Specific Subject Areas</div>
+                                
+                                <div data-value="292" class="major-option js-major-option">Teaching Assistance</div>
+                                
+                                <div data-value="293" class="major-option js-major-option">Textile Technologies</div>
+                                
+                                <div data-value="51" class="major-option js-major-option">Theatre Arts</div>
+                                
+                                <div data-value="170" class="major-option js-major-option">Theology</div>
+                                
+                                <div data-value="294" class="major-option js-major-option">Therapeutic and Rehabilitation Professions</div>
+                                
+                                <div data-value="171" class="major-option js-major-option">Transportation Engineering</div>
+                                
+                                <div data-value="37" class="major-option js-major-option">Urban and Regional Planning</div>
+                                
+                                <div data-value="172" class="major-option js-major-option">Urban Studies</div>
+                                
+                                <div data-value="295" class="major-option js-major-option">Vehicle Repair and Maintenance</div>
+                                
+                                <div data-value="173" class="major-option js-major-option">Veterinary Sciences</div>
+                                
+                                <div data-value="174" class="major-option js-major-option">Women's Studies</div>
+                                
+                                <div data-value="175" class="major-option js-major-option">Zoology</div>
+                                
+                            </div>
+                        </div>
+                        <input type="hidden" id="lastEducation.MajorId" name="lastEducation.MajorId" value="">
+
+                        <div class="clearFloat"></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="coverLetterSection" class="load-Hidden">
+        <div id="ResumeAdded">
+            <i class="fa fa-check resume-added-check f-text8" aria-hidden="true"></i>
+            <span id="ResumeAddedText" class="resume-added-text f-text8"></span>
+        </div>
+        <div id="coverLetterSubTitle" class="coverLetterSubTitle f-text4 Js-CoverLetterModeOnly">
+            <i class="fa fa-pencil cover-resume-icon"></i>
+            <span data-customtext="JobPage_CoverLetter_Title">Stand out from the crowd (optional)</span>
+        </div>
+
+        <div class="create-resume-error-message">
+            Message.
+        </div>
+
+        <textarea class="freeTextResumeAndCoverLetterInput s-text7 gray-placeholder" rows="3" name="CoverLetter" id="CoverLetter" data-customtext="JobPage_CoverLetter_Watermark" placeholder="Show them that you’re the best person for this job. Go ahead and brag about your skills, experience and magic touch."
+            data-vivalid-tuples='[["maxlength",{"max": 1000, "msg": "The best cover letter is short and to the point. Please make it 1000 characters max."}]]' data-vivalid-result='onInputValidationResult_coverAndResume'></textarea>
+    </div>
+
+    <div id="freeTextSectionOnly" class="Js-FreeTextResumeMember cover-resume-section free-text-section">
+        <div class="free-text-section-title-width">
+            <div class="structured-data-title">
+                <span class="section-title f-text8 structured-data-title s-normal"><i class="fa fa-file-text cover-resume-icon"></i><span data-customtext="JobPage_FreeTextResume_Title">Summary</span>
+                </span>
+
+            </div>
+            <div id="freeTextResumeErrorMessage" class="create-resume-error-message">
+                Summary field is a must
+            </div>
+        </div>
+
+        <div>
+
+            <div id="freeTextCounter" class="freeTextResumeCounter s-text5 hidden">
+                <span id="freeTextResumeInputCount">0</span>
+                <span data-customtext="JobPage_FreeTextResume_CounterText">characters (min. 0)</span>
+            </div>
+            <textarea id="freeTextResumeInput"
+                class="freeTextResumeAndCoverLetterInput s-text7 gray-placeholder"
+                rows="3"
+                name="CopyResumeBox"
+                data-customtext="JobPage_FreeTextResume_Watermark"
+                data-min-length="0"
+                placeholder="Add additional info to summarize your work experience, skills, education and certifications."
+                data-vivalid-tuples='[["summaryConsistent"]]'
+                data-vivalid-result='onInputValidationResult_Summary'></textarea>
+        </div>
+    </div>
+
+    <div id="general-invalid-error" class="form-invalid-error error-align hide-error cover-letter-general-error-pos">
+        <i class="fa fa-exclamation-circle form-invalid-message"></i><span id="formInvalidErrorMessage" class="create-resume-error-message form-invalid-message">
+            <span data-customtext="JobPage_ApplyValidation_FormInvalid">Please fix the errors above.</span>
+        </span>
+    </div>
+
+    
+    <div class="doneNextButtonContainer">
+        <button id="doneNextButtonCoverLetter" data-vivalid-submit class="rm-btn rm-btn-pos rm-btn-blue s-text11 doneNextButtonCoverLetter">
+            <img class="rm-loader load-Hidden Js-toApplyInternalLoader" src="http://jobs.thejobnetwork.com/Content/Styles/RealMatchStyleGuide/Images/loader46_oposit_trans.gif" alt="loading" />
+
+            <span data-customtext="JobPage_DoneBtn_Complete">Send to employer</span>
+        </button>
+    </div>
+
+    <input type="hidden" name="HasCoverLetter" id="hasCoverLetter" />
+
+</div>
+
+    </div>
+
+    <div id="JobQuestions"></div>
+
+    <div id="strippedJobApplicationThankYou" class="load-Hidden">
+        
+<div class="container st-thank-you-container">
+   <div class="st-message-text s-text2">
+       <span data-customtext="JobPage_RelatedSearchesTitle">Success! <br />Your application has been sent.</span>
+       
+   </div>
+</div>
+
+    </div>
+
+    <!-- Generic popups background -->
+    <div id="popupBackGround" class="modal-backdrop fade in load-Hidden"></div>
+    <!-- FilePicker popups background -->
+    <div id="filePickerBackGround" class="modal-backdrop fade in load-Hidden"></div>
+
+    <input id="RMLanguage" name="RMLanguage" type="hidden" value="b/BVB53047XAsa0JBDl9aefmW0/7WBXxGipfXU6jNxjNxvBGsD9AQGiIg9RAJ0MbTlr0+JAeW5C2AYqRctu5tcG0M7FKfnhGKzn87pbFhDI=" />
+
+    </div>
+
+    
+    <div id="jaFullPageLoader" class="ja-full-page-cover hidden">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+    </form><script src="/CandidateNet/Bundle/dist/JobApplication.js"></script>
+
+    
+
+    <script type="text/javascript">
+
+        // -- Local Storage Cross Domain
+        var localStorageIframeUrl = 'https://jobs.thejobnetwork.com';
+
+        Object.keys(window.rmJobApplication).forEach(function (key) {
+            if (typeof window.rmJobApplication[key].run === 'function') {
+                // console.log('running ' + key);
+                window.rmJobApplication[key].run();
+            }
+        });
+
+        Object.keys(window.rmJobApplication).forEach(function (key) {
+            if (typeof window.rmJobApplication[key].runLate === 'function') {
+                // console.log('running Late:' + key);
+                window.rmJobApplication[key].runLate();
+            }
+        });
+
+        window.localStorageCrossDomain.Init(localStorageIframeUrl);
+    </script>
+
+        
+
+        
+        <div id="divMonitorScript" class="hidden Hidden">
+            
+        </div>
+    </div>
+    
+    <div id="master-footer">
+        
+    
+            
+
+    </div>
+    
+    
+
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=641735787"></script>
+</body>
+</html>
+
