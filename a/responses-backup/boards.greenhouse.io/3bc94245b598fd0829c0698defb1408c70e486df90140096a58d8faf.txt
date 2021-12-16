@@ -89,7 +89,7 @@
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/remotecom/jobs/4650959003" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
         <input type="hidden" name="fingerprint" id="fingerprint" value="91cef0288a25a605eac2921c6b3fb69176250880" />
-        <input type="hidden" name="render_date" id="render_date" value="2021-12-14 23:00:58 +0000" />
+        <input type="hidden" name="render_date" id="render_date" value="2021-12-16 02:45:26 +0000" />
 
 
 
@@ -308,13 +308,13 @@
 
 </label></div>
 <div class="field">
-  <label>Do you have a non-compete in place with your previous or current employer that prevents you from working for us?
+  <label>Do you have a non-compete in place with your previous or current employer that prevents you from working for us?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
     <br/>
     
     <input type="hidden" name="job_application[answers_attributes][6][question_id]" id="job_application_answers_attributes_6_question_id" value="7343965003" />
 <input type="hidden" name="job_application[answers_attributes][6][priority]" id="job_application_answers_attributes_6_priority" value="6" />
 
-<select name="job_application[answers_attributes][6][boolean_value]" id="job_application_answers_attributes_6_boolean_value"><option value="">--</option>
+<select name="job_application[answers_attributes][6][boolean_value]" id="job_application_answers_attributes_6_boolean_value" aria-required="true"><option value="">--</option>
 <option value="1">Yes</option>
 <option value="0">No</option></select>
 

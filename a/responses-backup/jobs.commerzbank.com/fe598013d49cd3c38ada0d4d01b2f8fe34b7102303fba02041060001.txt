@@ -154,7 +154,7 @@
 				<span class="grey_text">Pflichtfelder sind mit einem (*) markiert.</span>
 				
 				<form id="quick_login_form" action="index.php?ac=login" method="post">
-					<input type="hidden" name="_csrf_token" value="946217282c1da32cac29f3b6404b6830a1f89cb5" />
+					<input type="hidden" name="_csrf_token" value="bc12d5b23cf37385f7901029b1dbd194f8bf7eea" />
 <input type="hidden" name="ac" value="login" >
 
 <div class="form-group form-username-group ">
@@ -217,7 +217,7 @@ Auch wenn Sie bei der Stellensuche noch nichts Passendes entdeckt haben &ndash; 
 		
 		<p>Pflichtfelder sind mit einem (*) markiert.</p>
 				<form name="login" id="login" action="index.php?ac=login" method="post" class="form-horizontal">
-			<input type="hidden" name="_csrf_token" value="946217282c1da32cac29f3b6404b6830a1f89cb5" />
+			<input type="hidden" name="_csrf_token" value="bc12d5b23cf37385f7901029b1dbd194f8bf7eea" />
 <input type="hidden" name="ac" value="login" >
 
 <div class="form-group form-username-group ">
@@ -279,7 +279,7 @@ Auch wenn Sie bei der Stellensuche noch nichts Passendes entdeckt haben &ndash; 
 					&copy; 2004-2021
 					Commerzbank AG
 					D-60261 Frankfurt am Main
-											15.12.2021
+											16.12.2021
 									</p>
 			</div>
 		</div>
