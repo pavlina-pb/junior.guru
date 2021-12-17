@@ -287,7 +287,7 @@ My client is searching for an individual that is self-motivated, well-organised,
                     <select class="form-control" name="location[]">
                         <option value="">Select Location</option>
 
-                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1524'>Hungary</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
+                        <option value='98'>Australia</option><option value='113'>Austria</option><option value='127'>Belgium</option><option value='485'>Canada</option><option value='1043'>Czech Republic</option><option value='1152'>Denmark</option><option value='1313'>Finland</option><option value='1325'>France</option><option value='1054'>Germany</option><option value='1506'>Hong Kong</option><option value='1524'>Hungary</option><option value='1963'>Ireland</option><option value='2067'>Italy</option><option value='2539'>Latvia</option><option value='2537'>Luxembourg</option><option value='2815'>Malaysia</option><option value='2918'>Netherlands</option><option value='2962'>New Zealand</option><option value='2947'>Norway</option><option value='3207'>Poland</option><option value='3276'>Portugal</option><option value='3302'>Romania</option><option value='3572'>Singapore</option><option value='4259'>South Africa</option><option value='1242'>Spain</option><option value='3611'>Sweden</option><option value='538'>Switzerland</option><option value='3650'>Thailand</option><option value='1373'>United Kingdom</option><option value='3871'>United States</option><option value='4212'>Virgin Islands, U.S.</option>                    </select>
                 </div>
 
                 <div class="form-group">
@@ -388,7 +388,7 @@ My client is searching for an individual that is self-motivated, well-organised,
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="dazOhf0ZoCyri9887tpbR1HdUa8Ec6bhHkNK61yN">        <input name="jobs[]" type="hidden" value="393405">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="RiGfIXYNV63MLEdFjLATRpK21RGdtyVkkDn5ltHN">        <input name="jobs[]" type="hidden" value="393405">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -497,7 +497,7 @@ My client is searching for an individual that is self-motivated, well-organised,
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/393405?_token=dazOhf0ZoCyri9887tpbR1HdUa8Ec6bhHkNK61yN">
+                                      data-job-id="/saved-jobs/add/393405?_token=RiGfIXYNV63MLEdFjLATRpK21RGdtyVkkDn5ltHN">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -540,7 +540,7 @@ My client is searching for an individual that is self-motivated, well-organised,
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/393405?_token=dazOhf0ZoCyri9887tpbR1HdUa8Ec6bhHkNK61yN">
+                                              data-job-id="/saved-jobs/add/393405?_token=RiGfIXYNV63MLEdFjLATRpK21RGdtyVkkDn5ltHN">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -559,7 +559,7 @@ My client is searching for an individual that is self-motivated, well-organised,
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="dazOhf0ZoCyri9887tpbR1HdUa8Ec6bhHkNK61yN">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="RiGfIXYNV63MLEdFjLATRpK21RGdtyVkkDn5ltHN">
 
 
 
