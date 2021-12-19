@@ -7,7 +7,7 @@
     <title>Graduate Software Engineer - Enea </title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="ae9+LMrIO6d2MOGRRkqs2KfKrj7msaoZHFqsSaNnjpoa1xkLFwcWCrD5VjbafHhA2ueoC6Y1zkP4+tYOBdvqew==" />
+<meta name="csrf-token" content="cHH6D+WVdw9IS7fvqlQ08Qmc+CPtp1/7Kd+vPWmdbhW/yJdHG3BwlFUeXCV/Q3f3bixDTIe9e/3llOuz+iWLPg==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/0c64ee04-84b8-48bd-ade5-1058c596303b/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/0c64ee04-84b8-48bd-ade5-1058c596303b/original.png' sizes='180x180'>
@@ -74,7 +74,7 @@
 <meta name="theme-color" content="#344767">
 
 
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-e951d651cbfdbb2e422a.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-0933575e99e8f6887452.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/application-3fef5fbb645dcae56587.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload" defer="defer"></script>
@@ -85,7 +85,7 @@
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/943-c99af93bddcb046b511a.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/font-awesome-2fd33a8dca3f007a6485.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/cookies-94aafae36928afd85a70.js" data-turbolinks-track="reload" defer="defer"></script>
-    <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/packs/css/careersite-a77f38d4.css" data-turbolinks-track="reload" defer="defer" />
+    <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/packs/css/careersite-c2cc1344.css" data-turbolinks-track="reload" defer="defer" />
   </head>
 
   <body class="font-company-body min-h-screen flex flex-col text-company-primary bg-company-primary jobs show" data-controller="careersite--referrer-cookie">
@@ -696,7 +696,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'liwm09ZfYirYwJCPGdOkSjXTI25KI7V2XFNgK0O2cdEeOKXuzeaqaOa3ryZxvau1UeoOMwgrNVhuoxc+IisTIG3fVGqwGR0gSmGmURSorX9lP+xsaAcWfb/3LnRlmeCPJrZDYwJsTm/LR2dDpnAoN+uKO00u21kAvDNCfbx9DlQ7tUQDqK2a--dbbrXt5afMetMYUq--OqKA7uuVxld2z4FSSp6ABg==',
+        ed: '+b3Vjl+OCq7+vH2lo4wVxmnqzrbx67coqrUiAqYiC10qnrn8GG0sKYWR0JVuCVsl/HFNIi/7zBDETTBC8Gbez401PwH9btYQhtpdnq+C2EG1SJU9Af11seGWjdT2hGhnlWBB35x/bq4iFNRhYtgzG7+vipEuvbrNyf01Iab65AI5I1GMW+4S--xZuZrKQJuZENBQ59--ALrs0YFK9byk0P62pYWfOA==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

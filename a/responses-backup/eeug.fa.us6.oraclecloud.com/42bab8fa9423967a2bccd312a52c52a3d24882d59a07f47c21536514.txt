@@ -23,7 +23,8 @@
         <link rel="apple-touch-icon" sizes="152x152" type="image/png" title="favicon" href="/hcmUI/CandExpStatic/siteFavicon/favicon-152x152.png?siteNumber=CX&size=152x152"></link>
 
         
-                  <link rel="stylesheet" href="/hcmUI/CandExpStatic/21.7.62/css/main-mohegan.css">
+        <link rel="stylesheet" href="https://static.oracle.com/cdn/jet/10.0.0/default/css/alta/oj-alta-notag-min.css">
+        <link rel="stylesheet" href="/hcmUI/CandExpStatic/21.10.54/css/main-mohegan.css">
         <link rel="stylesheet" title="cx-custom" data-custom-css href="/hcmUI/CandExpStatic/css/ce-custom.css?themeNumber=default_mohegan_theme&lang=en&themeVersion=1&brandVersion=4&brandTlVersion=4&siteNumber=CX"></link>
 
         <script data-cx-config>
@@ -220,8 +221,8 @@
                         window.location.replace(window.location.href.replace(HASHBANG_REGEX, '/$1/'));
                 }
                     </script>
-        <script src="https://static.oracle.com/cdn/jet/9.1.0/3rdparty/require/require.js" data-main="/hcmUI/CandExpStatic/js/21.7.62/main-mohegan.js" data-base-url="/hcmUI/CandExpStatic/js/21.7.62" defer></script>
-        <script src="/hcmUI/CandExpStatic/js/21.7.62/require-config.js" defer></script>
+        <script src="https://static.oracle.com/cdn/jet/10.0.0/3rdparty/require/require.js" data-main="/hcmUI/CandExpStatic/js/21.10.54/main-mohegan.js" data-base-url="/hcmUI/CandExpStatic/js/21.10.54" defer></script>
+        <script src="/hcmUI/CandExpStatic/js/21.10.54/require-config.js" defer></script>
                 </head>
     <body class="app-loading font-family-primary" data-bind="loadingIndicator, a11y.toggleFocusIndicator, bodyScrolledDown">
         <div class="app-loading-spinner"></div>
