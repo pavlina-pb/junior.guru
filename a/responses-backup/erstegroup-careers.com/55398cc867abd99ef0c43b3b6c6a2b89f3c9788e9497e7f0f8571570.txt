@@ -697,7 +697,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "3836e8be-1b6c-4c14-925f-920d4277202b"
+						"X-CSRF-Token" : "f774bbf1-38e0-42e9-9594-f5669874f347"
 					}
 				});
 			//]]>
@@ -747,7 +747,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "3836e8be-1b6c-4c14-925f-920d4277202b"
+						"X-CSRF-Token" : "f774bbf1-38e0-42e9-9594-f5669874f347"
 					}
 				});
 			//]]>
@@ -764,26 +764,6 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
                 });
                 //]]>
             </script>
-		<script type="text/javascript">
-		//<![CDATA[
-			$(function() 
-			{
-				var ctid = '142a1a6e-7090-4d9b-8a42-8fac7d24f95f';
-				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2810246584';
-				var landing = document.location.href;
-				var brand = 'csas';
-				$.ajax({ url: '/services/t/l'
-						,data: 'referrer='+ encodeURIComponent(referrer)
-								+ '&ctid=' + ctid 
-								+ '&landing=' + encodeURIComponent(landing)
-								+ '&brand=' + brand
-						,dataType: 'json'
-						,cache: false
-						,success: function(){}
-				});
-			});
-		//]]>
-		</script>
         <script type="text/javascript">
             //<![CDATA[
             $(function() {
@@ -806,7 +786,7 @@ V našem týmu se zabýváme tím, co klient zažívá po sjednání hypotéky -
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1081643969"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=616615030"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
