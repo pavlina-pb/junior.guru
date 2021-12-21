@@ -663,6 +663,42 @@ searchBox.addEventListener("afterComponentsInitialization", function () {
                             <div class="wrap">
                                 <h2>Recommended Jobs</h2>
 
+
+
+
+
+
+
+
+<script src="/Scripts/sf_widget_base.js"></script>
+<script src="/Scripts/sf_widget_recommendation.js"></script>
+<script>
+    if (window["sf_widget_recommendation"] != null && window["sf_widget_recommendation"].hasOwnProperty("Model")) {
+        
+        window["sf_widget_recommendation"].Model = {"Header":null,"Results":9,"LocationTimeoutHours":24,"TemplateId":"custom-prsn-template","TemplateSelector":"#custom-prsn-template","FieldsList":"'OriginalJobTitle', 'City', 'State'","Fields":["OriginalJobTitle","City","State"],"HasConsent":false,"PromptLocation":false,"DisableKendo":false};
+        
+    }
+</script>
+
+
+
+<div class="sf_widget_recommendation" style="display: none;">
+    <h4 class="recommendation__job-header"></h4>
+    <ul id="listView" class="recommendation__job-list"></ul>
+
+    <script type="text/x-kendo-tmpl" id="personalization-template">
+        <li class="recommendation__job-record">
+            <h4 class="recommendation__job-title"><a href="/ShowJob/Id/#:JobId#/#:JobTitle#">#:OriginalJobTitle#</a></h4>
+            <p class="recommendation__job-location">#:Location#</p>
+        </li>
+    </script>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        sf_widget_recommendation.GetRecommendations();
+    });
+</script>
                                     <script type="text/x-kendo-tmpl" id="custom-prsn-template">
                                       <li class="no-bullet">
                                         <h4 class="job-title"><a href="/ShowJob/Id/#: JobId #/#: JobTitle #">#: OriginalJobTitle #</a></h4>
@@ -676,6 +712,44 @@ searchBox.addEventListener("afterComponentsInitialization", function () {
                     <div class="col-xs-12 col-sm-8 col-sm-pull-4">
                         
                             
+
+
+
+<div class="applyBtnTopDiv">
+        <a href="https://www.applytracking.com/tp/rj6-BbIaP_e_K" class="sf_applybtn" target="_blank"><span>Apply Now</span></a>
+    &nbsp;&nbsp;&nbsp;
+</div>
+
+<div class="jobdescriptiontbl">
+<div class="detail-header row">
+	<div class="col-xs-12 col-sm-6">
+		<div><span class="field-name">Job ID: </span>JR0172374</div>
+		<div><span class="field-name">Job Category: </span>Engineering</div>							
+		<div><span class="field-name">Primary Location: </span>Brno,  CZ</div>							</div><!--first col-->
+			<div class="col-xs-12 col-sm-6">
+			<div><span class="field-name">Other Locations: </span>Russia, Moscow;Virtual Europe,  Middle East and Africa</div>
+			<div><span class="field-name">Job Type: </span>Experienced Hire</div>
+			</div><!--second col-->
+	</div><!--detail header-->
+<h3>Compiler Engineer</h3>
+<STRONG>Job Description</STRONG><br><div><b>As part of the Barefoot Switching Division, BXD, compiler engineering team</b>, you will contribute to the development of a compiler for the world-class 7nm, 12.8 Tbps Tofino Ethernet switch chip, used in some of the biggest data centers of the world.</div><p></p><p>The compiler is a modern-structure toolset written in C++, that compiles the P4 language input program and fits it onto highly optimized computation resources of Tofino.</p><p></p><p>Compiler frontend is available as open source at <a href="https://github.com/p4lang/p4c" target="_blank"><span><span>https://github.com/p4lang/p4c</span></span></a>.</p><p>You will work mainly with engineers located in CZ, USA and UK. <b>This is a fully remote position. </b></p><p><p><br><STRONG>Qualifications</STRONG><br><br><p><b>Important for us:</b></p><ul><li>C&#43;&#43; advanced programming: Design patterns tree structures and traversal methods;</li><li>Working knowledge of related tools: CMAKE, ctest, gdb, git;</li><li>Experience with unit testing, ideally Google Test;</li><li>Ability to prioritize own work with the goal of delivering value to customer;</li><li>Willingness to experiment and continuously learn;</li><li>Willingness to attend evening calls 3 times per week;</li><li>Ability to cooperate within a team.</li></ul><p><br /><b>Nice to have:</b></p><ul><li>Linux experience with Bash, Python, Docker;</li><li>Knowledge of modern compiler design;</li><li>Knowledge of formal proving Z3 and constraint solving techniques;</li><li>Knowledge of basic networking concepts and protocols;</li><li>Understanding of packet tunneling queueing scheduling and routing algorithms;</li><li>Experience with RTL design.</li><li></li></ul><p><b><b>At Intel, employees share in successes, enjoy comprehensive rewards and are inspired by an innovative &amp; inclusive workplace.</b></b></p><p></p><p><b>What can you expect when there is a match between us?</b></p><p>High level of visibility, credibility and empowerment you can take for granted.</p><p>You will own and drive several projects and initiatives, run on various organizational levels.<br /><br /><b>Our offer:</b></p><ul><li>You will be working with the newest technology worldwide;</li><li>You will be working across a group of professionals;</li><li>We guarantee you will be working in a safe environment in an Organization which profoundly understands the current health situation worldwide Either at your own home or in our premises if needed the security and wellbeing of you and your family stands as our utmost responsibility;</li><li>You will have constant opportunities to develop your professional career through technical and soft skills trainings taking part in innovation projects;</li><li>Also flexible working hours are important for us.</li></ul></p><STRONG>Inside this Business Group</STRONG><br><p>The Data Center Group (DCG) is at the heart of Intel’s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies—spanning software, processors, storage, I/O, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.</p><p><br><br><STRONG>Other Locations</STRONG><br><br>Russia, Moscow;Virtual Europe,  Middle East and Africa<p></p></p>
+<div style="display: none">
+<span id="job-country">CZ</span><span id="job-type">Experienced Hire</span><span id="job-id">JR0172374</span><span id="city">Brno</span><span id="businessGroup">Data Center Group</span>
+</div></div>
+<div class="applyBtnBottomDiv">
+        <a href="https://www.applytracking.com/tp/rj6-BbIaP_e_K" class="sf_applybtn" target="_blank"><span>Apply Now</span></a>
+    &nbsp;&nbsp;&nbsp;
+</div>
+    <img src="https://www.applytracking.com/tp/rj6-ZHZmM_e_K" border="0" alt="" />
+
+<script>
+
+    $(document).ready(function () {
+
+    });
+</script>
+    <a href="https://jobs.intel.com:443/ShowJob/Id/2933484/Compiler%20Engineer?IsBot=1" style="display:none">Link for schema</a>
+
 
 
 

@@ -20,14 +20,14 @@
             <meta name="viewport" content="width=device-width, maximum-scale=5, minimum-scale=1, initial-scale=1, user-scalable=1"/>
             <meta http-equiv="cleartype" content="on">
 
-        <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=211216022529" type="image/x-icon">
-        <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=211216022529">
+        <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=211219224328" type="image/x-icon">
+        <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=211219224328">
 
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=211216022529">
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-mobile.css?v=211216022529">
-        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=211216022529">
-        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=211216022529"></script>
-        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=211216022529"></script>
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=211219224328">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-mobile.css?v=211219224328">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=211219224328">
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=211219224328"></script>
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=211219224328"></script>
 
     <!-- JV Google Analytics -->
     <script type="text/javascript">
@@ -79,7 +79,7 @@
     }
 </script>
 <script type="text/javascript">
-    function getUserId() { return 'b5d8e2e1-3f03-47b5-9d27-4b08b3c91974'; }
+    function getUserId() { return '40aef95b-4c7f-4ed9-84dd-4be8b175a508'; }
 </script>
 <script type="text/javascript">
     function getCompanyId() { return 'qjXaVfw5'; }
@@ -343,7 +343,7 @@ Apply Later    </a>
         </div>
     </div>
     
-    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.mobile.app.js?v=211216022529"></script>
+    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.mobile.app.js?v=211219224328"></script>
     <script>
         angular.module('preloadedData', []).constant('preloadedData', {
                 applyLinkUrl: '${job.applyLinkUrl}',
@@ -363,7 +363,7 @@ Apply Later    </a>
             dropBoxApiKey: 'w5fg28zznqcyg4w',
             baseUrl: '/gooddata',
             cdnURL: '//d3igejkwe1ucjd.cloudfront.net',
-            releaseVersion: '211216022529',
+            releaseVersion: '211219224328',
             careersiteName: 'gooddata',
             careersiteDomainName: '${careersiteDomainName}',
             careersiteSourceTypeId: 'P8DoXfwQ'
