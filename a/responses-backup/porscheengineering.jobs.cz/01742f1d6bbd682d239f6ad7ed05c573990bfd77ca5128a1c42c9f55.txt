@@ -51,7 +51,74 @@
 		<script src="/assets/vendors/js/lib-head-v63570910778.js?av=86301924f500854a"></script>
 		<script src="/assets/vendors/js/respond.min.js?av=86301924f500854a"></script>
 		<script src="/assets/vendors/js/main.js?av=86301924f500854a"></script>
-	    
+	    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@lmc-eu/cookie-consent-manager@1/LmcCookieConsentManager.min.css">
+<script type="text/javascript" defer src="https://cdn.jsdelivr.net/npm/@lmc-eu/cookie-consent-manager@1/init.js"></script>
+<style>
+    .cc_div {
+        font-size: 14px;
+    }
+</style>
+<script>
+    function detectLang() {
+        const MISSING_LANG_ATTRIBUTE_FALLBACK = 'cs';
+        const MISSING_TRANSLATION_FALLBACK = 'en';
+
+        const documentLang = document.documentElement.lang.split('-')[0].toLowerCase();
+        let lang = documentLang === '' ? MISSING_LANG_ATTRIBUTE_FALLBACK : documentLang;
+        const languages = [
+            'cs',
+            'en',
+            'sk',
+            'pl',
+            'ru',
+            'hu',
+            'de'
+        ];
+
+        if (languages.indexOf(lang) === -1) {
+            lang = MISSING_TRANSLATION_FALLBACK;
+        }
+
+        return lang;
+    }
+
+    function updateJobsConsent(cookie) {
+        fetch("https://www.jobs.cz/api/cookie-consent/v1/update/", {
+            method: "POST",
+            credentials: 'include',
+            body: JSON.stringify({level: cookie.level})
+        });
+    }
+
+    window.addEventListener('load', function () {
+        const cookieBannerConfig = {};
+
+        if (cookieBannerConfig.dark_mode === true) {
+            document.body.classList.add("c_darkmode");
+        }
+
+        window.ccm = initLmcCookieConsentManager(
+            'CP_' + location.host,
+            {
+                autodetectLang: false,
+                defaultLang: detectLang(),
+                config: cookieBannerConfig,
+                companyNames: ["LMC","Porsche Engineering Czech Republic"],
+                onFirstAcceptAll: (cookie) => {
+                    updateJobsConsent(cookie);
+                },
+                onAcceptOnlyNecessary: () => {
+                    localStorage.clear();
+                },
+            }
+        );
+    });
+</script>
+
 </head>
 <body class="no-js">
 

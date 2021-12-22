@@ -14,7 +14,7 @@
   
 
   
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-1a420445dd413c74e3c3.js" data-turbolinks-track="reload"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-3a58fbacdb143405c2a0.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/cookies-94aafae36928afd85a70.js" data-turbolinks-track="reload"></script>
   
   <link rel="alternate" type="application/rss+xml" title="Blog Posts" href="/blog/posts.rss" /><link rel="alternate" type="application/rss+xml" title="Jobs" href="/jobs.rss" />
@@ -39,7 +39,7 @@
   
 
   <link href='//fonts.googleapis.com/css?family=Roboto:100%7CRoboto:700,600,500,400,300,400italic,300italic&display=swap' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/jobsite/jobsite-fc03f8dc734dd2e0eee528709bb6706680daba496f338021872e3cc826dfc235.css" />
+  <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/jobsite/jobsite-ccbaf66f07c824c1a90c3ad0860bbc7cfadff62d97e303974ea1c91543d6cd50.css" />
 <style>/* Background colors */
 
 * :focus {
@@ -720,11 +720,11 @@ body {
 .jobs #section-office{display:none}
 
 .jobs #section-footer{display:none}</style>
-  <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-1a420445dd413c74e3c3.js" data-turbolinks-track="reload"></script>
+  <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-3a58fbacdb143405c2a0.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/403-f61b0d36d1ce26d0a005.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-8c5abc7915c9462e65c1.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-716fd8a3257f4d064c8d.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-2573f7e26c1be4cf201f.js" data-turbolinks-track="reload"></script>
 
   
@@ -741,7 +741,7 @@ body {
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'W3JcPkuM5ZUCuQz+A05SUz5YzVyUwRCB8LuWY7IKIAr61tt0fgFrJxS34YJUdPo5blCL8VaYNkWVV0nvVfwZ4A636DapxEV5/YS3XnzBL1t4oZ1SN460RZLwI/PTNEDWfzswwfdd25JbjFxpq2/V6N8Lp3suslWwcrKZw9lxXVffwmc1hJklhPA=--hlg4TtdoETIoa1+d--YXlHK9dBtj9fcT7Mt+0v9Q==',
+        ed: 'oa9D2Bjbl0v4jmBIeSpVx3TxxposZQZAy3NbQbpTstHCh44LB70sYwd5fE/GaPrhjSA60fCW8BRSbVt0FBGMl0FY1UguciuB8ST5/RNZCle4hql2M+XHwbiS7fNU9Wq8oAz8NXcV0FM9XwYGXw4NCPGbG8seJkGnkaJQGDakON1kT/BnK8i3dJU=--WPG54gJ3eRtu/fCa--Hdg+kKwkvzbfi6Ox7LL15A==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,
@@ -771,7 +771,6 @@ body {
       ga('set', 'dimension3', 'en');
 
       var page = document.location.pathname;
-      page = page.replace('connect/', 'connect/');
       ga('send', 'pageview', page);
       ga('set', 'anonymizeIp', true);
       
@@ -1536,7 +1535,7 @@ Manage the relationship with our account management team to speed up the convers
 
           <div class="c-employee-referral__form">
             <form method="post" action="https://careers.ebury.com/auto_join" class="filter row">
-              <input type="hidden" name="authenticity_token" id="authenticity_token" value="x7ij2jW/e0B0yvauZtClFf1TEWEm1Nn1YDFG2NZc9Pc+q6oepZtSc4V8PpQT98Ceo6G+cuQq+dozRkPFkNIVAA==">
+              <input type="hidden" name="authenticity_token" id="authenticity_token" value="rskJtbssmNZaP0/W6rMv6GsQVY3yMZQNHjdt8yuI3bw4JY/Y/j3Or7y9TzmFfHROqSaMdM811rXniItQW7NMrg==">
               
               <button class="btn c-employee-referral__button tt-button--filled u-primary-button-text-color u-primary-button-background-color"
                 data-event-tracking="click"
@@ -1558,12 +1557,12 @@ Manage the relationship with our account management team to speed up the convers
   
     <div class="teamtailor" style="display: block !important; visibility: visible !important;">
   <div class="teamtailor-wrapper" style="display: inline-block !important; visibility: visible !important;">
-    <a class="top" href="http://www.teamtailor.com/?utm_source=careers.ebury.com&utm_medium=web&utm_content=logolink&utm_campaign=poweredby">
+    <a class="top" href="http://www.teamtailor.com/?utm_source=career-site&utm_medium=referral&utm_content=careers.ebury.com&utm_campaign=poweredby">
       <img class="lazy" data-src="https://assets-aws.teamtailor-cdn.com/assets/tt-logo-footer@2x-33b054916f0acc676104e22eb34f18485d1073c8e54f37aa9246fc75bb7ac34d.png" alt="Teamtailor">
     </a>
     <p>
       
-        <a href="https://www.teamtailor.com/?utm_source=careers.ebury.com&utm_medium=web&utm_content=textlink&utm_campaign=poweredby&utm_term=ats" title="Read more at Teamtailor.com" rel="noopener" target="_blank">Applicant tracking system</a> by Teamtailor
+        <a href="https://www.teamtailor.com/?utm_source=career-site&utm_medium=referral&utm_content=careers.ebury.com&utm_campaign=poweredby" title="Read more at Teamtailor.com" rel="noopener" target="_blank">Applicant tracking system</a> by Teamtailor
       
     </p>
   </div>
@@ -1587,14 +1586,14 @@ Manage the relationship with our account management team to speed up the convers
   </script>
 
   
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-1a420445dd413c74e3c3.js" data-turbolinks-track="reload"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-3a58fbacdb143405c2a0.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/403-f61b0d36d1ce26d0a005.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-8c5abc7915c9462e65c1.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-716fd8a3257f4d064c8d.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-2573f7e26c1be4cf201f.js" data-turbolinks-track="reload"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default%2CObject.values%2CIntersectionObserver%2CIntersectionObserverEntry" data-turbolinks-suppress-warning="true"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/jobsite/jobsite-ebc470d371dbe98aae3db5174d1d224939cddd3add4bd134a6b8c9c69731c0a2.js" data-turbolinks-suppress-warning="true"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/jobsite/jobsite-64bffd6e9e674369d2213a241d177faa9843632cdbb44b690122f315cc1a8b31.js" data-turbolinks-suppress-warning="true"></script>
     <script>
         let p = document.querySelector('.teamtailor');
         p.style.display = 'none';

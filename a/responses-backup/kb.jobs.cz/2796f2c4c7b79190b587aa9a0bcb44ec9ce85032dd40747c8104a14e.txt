@@ -61,7 +61,7 @@
 <body class="no-js odpovedni-formular">
 
 	<script>var LMC_GTM_ID = [];
-</script><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TVVHFM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&l="+l :"";j.async=true;j.src="//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})(window,document,"script","dataLayer","GTM-TVVHFM");window.dataLayer=window.dataLayer||[];</script><div id="cse-gtm"></div><script>
+</script><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TVVHFM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&l="+l :"";j.async=true;j.src="//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})(window,document,"script","dataLayer","GTM-TVVHFM");window.dataLayer=window.dataLayer||[];</script><div id="cse-gtm"></div> <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"> <link rel="preconnect" href="https://cdn.jsdelivr.net"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@lmc-eu/cookie-consent-manager@1/LmcCookieConsentManager.min.css"> <script type="text/javascript" defer src="https://cdn.jsdelivr.net/npm/@lmc-eu/cookie-consent-manager@1/init.js"></script> <style> .cc_div { font-size: 14px; } </style> <script> const DISABLED_DOMAINS = [ 'doosanskoda-intranet.jobs.cz', 'pracenaletisti-intranet.jobs.cz', 'csas-intranet.jobs.cz', 'magna-intranet.jobs.cz', 'unicreditbank-intranet.jobs.cz', 'vodafone-intranet.jobs.cz', 'ceskapojistovna-intranet.jobs.cz', 'cezintranet.jobs.cz', 'cpost-intranet.jobs.cz', 'csobpoj-intranet.jobs.cz', 'digiteq-intranet.jobs.cz', 'e4t-intranet.jobs.cz', 'eurowag-intranet.jobs.cz', 'generaliceska-intranet.jobs.cz', 'innogy-intranet.jobs.cz', 'kb-intranet.jobs.cz', 'lmcg2test-intranet.jobs.cz', 'zentiva-intranet.jobs.cz', 'jti.jobs.cz' ]; function detectLang() { const MISSING_LANG_ATTRIBUTE_FALLBACK = 'cs'; const MISSING_TRANSLATION_FALLBACK = 'en'; let lang = document.documentElement.lang.split('-')[0] == '' ? MISSING_LANG_ATTRIBUTE_FALLBACK : document.documentElement.lang.split('-')[0]; const languages = [ 'cs', 'en', 'sk', 'pl', 'ru', 'hu', 'de' ]; if (languages.indexOf(lang) == -1) { lang = MISSING_TRANSLATION_FALLBACK; } return lang; } function updateJobsConsent(cookie) { fetch('https://www.jobs.cz/api/cookie-consent/v1/update/', { method: 'POST', credentials: 'include', body: JSON.stringify({level: cookie.level}) }); } function deleteNonNecessaryCookies(cookieConsent) { cookieConsent.eraseCookies(['CSESSID'], '/', [location.hostname]); if (location.hostname.indexOf('topjobs.sk') !== -1) { var cookies = document.cookie.split(';'); for (var i = 0; i < cookies.length; i++) { var cookie = cookies[i]; var eqPos = cookie.indexOf('='); var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie; cookieConsent.eraseCookies([name], '/', ['topjobs.sk']); } } } if (DISABLED_DOMAINS.indexOf(location.hostname) === -1) { window.addEventListener('load', function () { if (0 == 1) { document.body.classList.add('c_darkmode'); } window.ccm = initLmcCookieConsentManager( 'CP_' + location.hostname, { autodetectLang: false, defaultLang: location.hostname.indexOf('.sk') !== -1 ? 'sk' : 'cs', companyNames: ["LMC","Komer\u010dn\u00ed banka a.s."], onAcceptOnlyNecessary: (cookie, cookieConsent) => { deleteNonNecessaryCookies(cookieConsent); localStorage.clear(); }, onFirstAcceptAll: (cookie) => { updateJobsConsent(cookie); }, config: {} } ); }); } </script> <script>
 	document.body.className=document.body.className.replace(/no-js/,'js');
 </script>
 <header>
@@ -80,7 +80,7 @@
 					</div>
 					<div class="header-fixed-button">
 						<a href="https://kb.jobs.cz/volna-mista/" class="button button-header">Volná
-							místa<span>182</span></a>
+							místa<span>180</span></a>
 					</div>
 					<input class="menu__btn" type="checkbox" id="menu__btn"/>
 					<label class="menu__icon" for="menu__btn"><span class="menu__navicon"></span></label>
@@ -91,7 +91,7 @@
 		<a href="https://kb.jobs.cz/"><img src="https://kb.jobs.cz/wp-content/themes/default/images/header/home.svg?v=20211129064908" alt="Komerční banka" class="menu-home"></a>
 	</li>
 	<li class="d-sm-none">
-		<a href="https://kb.jobs.cz/volna-mista/">Volná místa<span class="pos-count">182</span></a>
+		<a href="https://kb.jobs.cz/volna-mista/">Volná místa<span class="pos-count">180</span></a>
 	</li>
 	<li>
 		<a href="https://kb.jobs.cz/poznejte-kb/">Poznejte KB</a>
@@ -112,7 +112,7 @@
 
 		
 <div class="row">
-        <div class="col-12 text-center color-white hero-zone hero__photo hero__photo--3">
+        <div class="col-12 text-center color-white hero-zone hero__photo hero__photo--4">
         <h2 class="h1">Junior BI Developer (BI4SG)</h2>
 	    
             </div>
