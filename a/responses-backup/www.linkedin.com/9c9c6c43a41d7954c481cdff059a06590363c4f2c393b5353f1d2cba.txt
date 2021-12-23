@@ -45,7 +45,7 @@
         </div>
         <div class="topcard__flavor-row">
           
-      <span class="posted-time-ago__text posted-time-ago__text--new topcard__flavor--metadata">
+      <span class="posted-time-ago__text topcard__flavor--metadata">
         
 
     
@@ -80,7 +80,7 @@
     
     
 
-    15 hours ago
+    2 days ago
   
       </span>
   
@@ -106,7 +106,7 @@
     
     
 
-      <button class="unify-apply-button__modal-outlet unify-apply-button top-card-layout__cta top-card-layout__cta--primary" data-modal="unify-apply-modal" data-reference-id="6WINH86qRuKrjerf57l8rA==" data-tracking-control-name="public_unify_click_onsite_apply">
+      <button class="unify-apply-button__modal-outlet unify-apply-button top-card-layout__cta top-card-layout__cta--primary" data-modal="unify-apply-modal" data-reference-id="Pk17A1gYS+S1JKPe8On/0g==" data-tracking-control-name="public_unify_click_onsite_apply">
         Apply Now
       </button>
   
@@ -246,7 +246,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"The password you provided must have at most 400 characters"--></code>
 
     <form class="sign-in-form save-job-form-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="7a651d3f-ad78-4775-87d2-f99329530b04" type="hidden">
+      <input name="loginCsrfParam" value="647d15d5-8f72-4066-8849-e6030b01e134" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -458,7 +458,7 @@
     
 
     <code id="jobId" style="display: none"><!--2849979897--></code>
-    <code id="referenceId" style="display: none"><!--"6WINH86qRuKrjerf57l8rA=="--></code>
+    <code id="referenceId" style="display: none"><!--"Pk17A1gYS+S1JKPe8On/0g=="--></code>
 
     
 
@@ -589,7 +589,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"The password you provided must have at most 400 characters"--></code>
 
     <form class="sign-in-form unify-apply-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="7a651d3f-ad78-4775-87d2-f99329530b04" type="hidden">
+      <input name="loginCsrfParam" value="647d15d5-8f72-4066-8849-e6030b01e134" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -921,7 +921,7 @@
 
 <!---->
           
-    <div class="dropdown" data-dropdown-response-value="95" data-dropdown-response-value-urn="urn:li:country:MM" data-dropdown-required="true">
+    <div class="dropdown" data-dropdown-response-value="1" data-dropdown-response-value-urn="urn:li:country:US" data-dropdown-required="true">
       <select id="urn:li:jobs_applyformcommon_easyApplyFormElement:(2849979897,6074823796646584979,phoneNumber~country)" class="dropdown__select">
           <option value>Select an option</option>
           <option data-option-value="93" data-option-value-urn="urn:li:country:af" value="urn:li:country:af">
@@ -1380,9 +1380,6 @@
           <option data-option-value="95" data-option-value-urn="urn:li:country:mm" value="urn:li:country:mm">
             Myanmar (+95)
           </option>
-          <option data-option-value="95" data-option-value-urn="urn:li:country:mm" value="urn:li:country:mm">
-            Myanmar (+95)
-          </option>
           <option data-option-value="264" data-option-value-urn="urn:li:country:na" value="urn:li:country:na">
             Namibia (+264)
           </option>
@@ -1625,6 +1622,9 @@
           </option>
           <option data-option-value="44" data-option-value-urn="urn:li:country:gb" value="urn:li:country:gb">
             United Kingdom (+44)
+          </option>
+          <option data-option-value="1" data-option-value-urn="urn:li:country:us" value="urn:li:country:us">
+            United States (+1)
           </option>
           <option data-option-value="1" data-option-value-urn="urn:li:country:us" value="urn:li:country:us">
             United States (+1)

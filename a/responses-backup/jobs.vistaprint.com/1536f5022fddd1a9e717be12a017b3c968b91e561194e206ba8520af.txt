@@ -551,7 +551,7 @@
                         </div>
                 </div>
 
-                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Prague"><meta itemprop="addressRegion" content="Prag"><meta itemprop="postalCode" content="150 000"><meta itemprop="addressCountry" content="CZ"></span></span><meta itemprop="datePosted" content="Tue Nov 23 00:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="Cimpress/Vistaprint">
+                <div class="jobDisplayShell" itemscope="itemscope" itemtype="http://schema.org/JobPosting"><span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="addressLocality" content="Prague"><meta itemprop="addressRegion" content="Prag"><meta itemprop="postalCode" content="150 000"><meta itemprop="addressCountry" content="CZ"></span></span><meta itemprop="datePosted" content="Wed Dec 22 08:00:00 UTC 2021"><meta itemprop="hiringOrganization" content="Cimpress/Vistaprint">
                     <div class="jobDisplay">
                             <div class="content">
                                 <div class="jobTitle">
@@ -580,7 +580,7 @@
         <span class="joblayouttoken-label">Date: 
         </span>
 
-    <span xml:lang="en-US" lang="en-US" data-careersite-propertyid="date">Nov 23, 2021
+    <span xml:lang="en-US" lang="en-US" data-careersite-propertyid="date">Dec 22, 2021
     </span>
                 </div>
             </div>
@@ -711,7 +711,7 @@
                 </span>
                     <span class="jobsegments">
                     <br /><strong>Job Segment: </strong>
-                    <span itemprop="industry">Developer, Engineer, Manufacturing Engineer, Software Engineer, Technology, Engineering, Research
+                    <span itemprop="industry">Developer, Manufacturing Engineer, Engineer, Software Engineer, Technology, Engineering, Research
                     </span>
                     </span>
             </p>
@@ -800,7 +800,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "ecb0b7b9-510b-4f49-9dc0-51d6553976e8"
+						"X-CSRF-Token" : "7849f7fa-d7b7-4d5b-bf8b-051fb578a935"
 					}
 				});
 			//]]>
@@ -822,7 +822,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '19525c89-f68c-437d-8700-9fdce73a4fcd';
+				var ctid = '5b798350-f595-44ae-84b4-a2592b6b595a';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2810856025';
 				var landing = document.location.href;
 				var brand = 'Cimpress-Technology';
