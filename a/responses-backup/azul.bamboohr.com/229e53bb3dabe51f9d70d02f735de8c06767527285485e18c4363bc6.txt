@@ -8,7 +8,7 @@
 	var isSupportedBrowser = true;
 	var enabledEnvironments = ['prod', 'stage'];
 	var isEnabled = isSupportedBrowser && enabledEnvironments.indexOf(ENV) > -1;
-	var isMobile = true;
+	var isMobile = false;
 
 	function checkIgnoreCases(isUncaught, args, payload) {
 		var isRemoteUncaught = isIgnoringRemoteUncaught(isUncaught, payload);
@@ -205,7 +205,7 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 		var DEFAULT_PERMISSIONS_ERROR_MESSAGE = "You do not have sufficient permissions for this";
 		var GLOBAL_DATEPICKER_MASK = "mm\/dd\/yy";
 		var GLOBAL_NUMBER_REGEX = "\u005E\u0028\u003F\u0021\u002D0\u0024\u0029\u002D\u003F\u0028\u003F\u003D\u005B0\u002D9\\.\u005D\u0029\u0028\u003F\u00210\u005B0\u002D9\u005D\u0029\u0028\u003F\u003A\\d\u002B\u007C\\d\u007B1,3\u007D\u0028\u003F\u003A,\\d\u007B3\u007D\u0029\u002B\u0029\u003F\u0028\u003F\u003A\\.\\d\u002B\u0029\u003F\u0024";
-		var CSRF_TOKEN = "45b0079624a5a54d1f773bc126be290d2b3710a1d727f7a6bdb5a613f3a2a7a2f3454053baa7cd7ef05602252dfad8831e462628deb0d3a82bcce3044d90677b";
+		var CSRF_TOKEN = "3176123f36992c0ce0002a3e41f84e1d2176feeb4658ee4b696afc2b689c40a8d69f66f6699457c8d3c255b9ae726e5b6f540ee8061cc1ed500251eab2946336";
 		var CAN_EMAIL_FILES_AND_REPORTS = null;
 		var EVENT_TRACKING_DEFINITIONS = null;
 	</script>
@@ -565,7 +565,7 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 						<div class="jobsApp submitOverlay js-jobs-overlay">
 							<h3 class="applyFormHeader jobsAppHeader">Apply for this Position</h3>
 							<form id="applicationForm" class="candidateApplyForm jobsAppForm candidateInfoForm" method="POST" action="/jobs/view.php?id=187&amp;source=linkedin">
-								<input type="hidden" name="applicantHash" value="8a89a1f1552a64337eb4b595c6639105b74ec466"/>
+								<input type="hidden" name="applicantHash" value="c86c1e5364d15e22203541a3034a0d478674c38f"/>
 								<input type="hidden" name="eeoOnly" value="off" id="eeoOnly"/>
 								<input type="hidden" name="scoreV3" value="" id="scoreV3"/>
 								<input type="hidden" name="positionHash" value="5733378" id="positionHash"/>

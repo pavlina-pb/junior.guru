@@ -23,9 +23,9 @@
             (window, document, 'script', 'dataLayer', 'GTM-KV8QBC');
         </script>
                         <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=bfa626b" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/bootstrapV3.global.responsive.min.css?h=3a4eeb7c" />
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/navbar-fixed-top.css" /><!--[if lt IE 9]>
-                            <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css?h=bfa626b" /><![endif]-->
+                            <link type="text/css" rel="stylesheet" href="/platform/bootstrap/3.4.1/css/bootstrap.min.css?h=3a4eeb7c" /><![endif]-->
 
         <script type="text/javascript" src="/platform/js/jquery/jquery-3.5.1.min.js"></script>
                 <script type="text/javascript" src="/platform/js/jquery/jquery-migrate-1.4.1.js"></script>
@@ -39,11 +39,11 @@
                 <meta property="og:title" content="Full Stack Developer (Professional Services Specialist)" />
                 <meta property="og:description" content="Full Stack Developer (Professional Services Specialist)" />
                 <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/248a9a1c-e1e8-476d-8c64-6.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/a405ff44/632d0b43-5867-4d6d-a811-d.css" /><![endif]-->
-                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=bfa626b" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=bfa626b" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=bfa626b" />
-                            <link type="text/css" rel="stylesheet" href="/platform/css/search/BS3ColumnizedSearchHideLabels.css?h=bfa626b" />
-                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=bfa626b" /><!-- OneTrust Cookies Consent Notice start for jobs.amdocs.com -->
+                            <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=3a4eeb7c" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=3a4eeb7c" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=3a4eeb7c" />
+                            <link type="text/css" rel="stylesheet" href="/platform/css/search/BS3ColumnizedSearchHideLabels.css?h=3a4eeb7c" />
+                            <link type="text/css" rel="stylesheet" href="/platform/fontawesome4.7/css/font-awesome-4.7.0.min.css?h=3a4eeb7c" /><!-- OneTrust Cookies Consent Notice start for jobs.amdocs.com -->
 
 <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="0b5c182c-5b77-4d0a-b9c1-32ac11eeb1ee" ></script>
 <script type="text/javascript">
@@ -2593,8 +2593,8 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
     }, 500);
 });
 </script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=bfa626b"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.core.min.js?h=3a4eeb7c"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.tc.min.js?h=3a4eeb7c"></script>
 
 		<script type="text/javascript">
 			//<![CDATA[
@@ -2608,7 +2608,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 					"ssoCompanyId"   : 'amdocs',
 					"ssoUrl"         : 'https://career4.successfactors.com',
 					"passwordRegEx"  : '^(?=.{6,20}$)(?!.*(.)\\1{3})(?=.*([\\d]|[^\\w\\d\\s]))(?=.*[A-Za-z])(?!.*[\\u007F-\\uFFFF\\s])',
-					"emailRegEx"     : '^(?=([a-zA-Z0-9.+!_-])+[@]([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9.-]*[a-zA-Z0-9])[.]([a-zA-Z0-9]){1,63}$)(?!.*[\\u007F-\\uFFFF\\s,])(?!.*[.]{2})',
+					"emailRegEx"     : '^(?![+])(?=([a-zA-Z0-9\\\'.+!_-])+[@]([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9.-]*[a-zA-Z0-9])[.]([a-zA-Z]){1,63}$)(?!.*[\\u007F-\\uFFFF\\s,])(?!.*[.]{2})',
 					"hasATSUserID"	 : false,
 					"useCASWorkflow" : true,
 					"brand"          : "",
@@ -2627,12 +2627,12 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "1cf13b8f-9e18-45e2-80c6-aaad62d495a2"
+						"X-CSRF-Token" : "2b5170e1-fdae-4b81-9734-20dcca7348d7"
 					}
 				});
 			//]]>
 		</script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.apply.min.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.apply.min.js?h=3a4eeb7c"></script>
             <script type="text/javascript">
                 //<![CDATA[
                 j2w.Apply.init({
@@ -2658,7 +2658,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '6b300398-2130-4a8d-aaf8-07fdc88d9a4c';
+				var ctid = 'f985b60e-c8b6-4dd7-8d3d-b7edd2fbcf1c';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2801741713';
 				var landing = document.location.href;
 				var brand = '';
@@ -2686,17 +2686,17 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
             });
             //]]>
         </script>
-					<script type="text/javascript" src="/platform/js/localized/strings_en_US.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/localized/strings_en_US.js?h=3a4eeb7c"></script>
 
         <script type="text/javascript" src="/platform/js/knockout-2.3.0.js"></script>
-					<script type="text/javascript" src="/platform/js/search/search.js?h=bfa626b"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=bfa626b"></script>
-					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/search/search.js?h=3a4eeb7c"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.user.min.js?h=3a4eeb7c"></script>
+					<script type="text/javascript" src="/platform/js/j2w/min/j2w.agent.min.js?h=3a4eeb7c"></script>
         
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=135273330"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=1884228654"></script>
             <script type="text/javascript">
                 //<![CDATA[
                     var subscribeWidgetSetup = {
@@ -2705,7 +2705,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
                     };
                 //]]>
             </script>
-					<script type="text/javascript" src="/platform/js/tc/subscribeWidget.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/tc/subscribeWidget.js?h=3a4eeb7c"></script>
                         <script type="text/javascript">
                             //<![CDATA[
                             $(function() {
@@ -2734,7 +2734,7 @@ $('#custScrollToTop').click(function() {      // When arrow is clicked
                             });
                             //]]>
                         </script>
-					<script type="text/javascript" src="/platform/js/sfshorturl.js?h=bfa626b"></script>
+					<script type="text/javascript" src="/platform/js/sfshorturl.js?h=3a4eeb7c"></script>
             <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=addthisj2w"></script><!-- Jobs2Web, Inc. Site Scope Monitoring Comment - PLO -->
 		</body>
     </html>
