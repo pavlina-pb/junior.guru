@@ -5,7 +5,7 @@
 	
 	<script type="text/javascript">
 (function(ENV, TOKEN) {
-	var isSupportedBrowser = false;
+	var isSupportedBrowser = true;
 	var enabledEnvironments = ['prod', 'stage'];
 	var isEnabled = isSupportedBrowser && enabledEnvironments.indexOf(ENV) > -1;
 	var isMobile = false;
@@ -75,13 +75,13 @@
 			scrubTelemetryInputs: true,
 			itemsPerMinute: 5,
 			maxItems: 15,
-			rollbarJsUrl: "//resources.bamboohr.com/21.1227.155202-3fae78b/js/rollbar.js/rollbar.min.js",
+			rollbarJsUrl: "//resources.bamboohr.com/21.1228.154659-384860f/js/rollbar.js/rollbar.min.js",
 			payload: {
 				environment: ENV + '-' + (isMobile ? 'mobile' : 'desktop'),
 				client: {
 					javascript: {
 						source_map_enabled: true,
-						code_version: '21.1227.155202-3fae78b',
+						code_version: '21.1228.154659-384860f',
 						guess_uncaught_frames: true
 					}
 				}
@@ -150,7 +150,7 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 	<meta property="twitter:image" content="https://azul.bamboohr.com/jobs/share_image/32"/>
 	<meta property="twitter:image:alt" content="Company logo"/>
 
-	<link type="image/x-icon" href="//resources.bamboohr.com/21.1227.155202-3fae78b/images/favicon.ico?cb=e417804e" rel="shortcut icon" />
+	<link type="image/x-icon" href="//resources.bamboohr.com/21.1228.154659-384860f/images/favicon.ico?cb=e417804e" rel="shortcut icon" />
 	<link rel="resource" type="application/l10n" href="/js/pdfjs/web/locale/locale.properties" />
 
 	
@@ -184,7 +184,7 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 			id="print-css"
 			type="text/css"
 			rel="stylesheet"
-			href="//resources.bamboohr.com/21.1227.155202-3fae78b/css/print.css?cb=7ddb8220"
+			href="//resources.bamboohr.com/21.1228.154659-384860f/css/print.css?cb=7ddb8220"
 							media="print"
 					/>
 	
@@ -205,13 +205,13 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 		var DEFAULT_PERMISSIONS_ERROR_MESSAGE = "You do not have sufficient permissions for this";
 		var GLOBAL_DATEPICKER_MASK = "mm\/dd\/yy";
 		var GLOBAL_NUMBER_REGEX = "\u005E\u0028\u003F\u0021\u002D0\u0024\u0029\u002D\u003F\u0028\u003F\u003D\u005B0\u002D9\\.\u005D\u0029\u0028\u003F\u00210\u005B0\u002D9\u005D\u0029\u0028\u003F\u003A\\d\u002B\u007C\\d\u007B1,3\u007D\u0028\u003F\u003A,\\d\u007B3\u007D\u0029\u002B\u0029\u003F\u0028\u003F\u003A\\.\\d\u002B\u0029\u003F\u0024";
-		var CSRF_TOKEN = "91d8d7000ae6b7a29d11877f41c4efd76b6506efa80bee6efc30e7554b8ef2533d24144833406f96b6ada6680af0e7c1fc4635f1a9c96bc3075e04455cb41aa8";
+		var CSRF_TOKEN = "48542131e8c4213f22a0efb48dc951906f42621e88f36823c6d5c741d667116626f6d12313bcbf5cf5cf25714068f37332641323f2f03569fe21a54cd4d74c81";
 		var CAN_EMAIL_FILES_AND_REPORTS = null;
 		var EVENT_TRACKING_DEFINITIONS = null;
 	</script>
 
 	<!-- Modernizr -->
-	<script type="text/javascript" src="//resources.bamboohr.com/21.1227.155202-3fae78b/js/libs/modernizr.min.js?cb=88b192cf"></script>
+	<script type="text/javascript" src="//resources.bamboohr.com/21.1228.154659-384860f/js/libs/modernizr.min.js?cb=88b192cf"></script>
 	<script type="text/javascript" src="//resources.bamboohr.com/js/vendor.9c63d29c.dist.js"></script>
 	<script type="text/javascript" src="//resources.bamboohr.com/js/common.194ae4e2.dist.js"></script>
 		<script type="text/javascript">
@@ -221,7 +221,7 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 				value: 'prod'
 			},
 			BUILD_VERSION: {
-				value: '21.1227.155202-3fae78b'
+				value: '21.1228.154659-384860f'
 			},
 			BASE_DOMAIN: {
 				value: 'bamboohr.com'
@@ -565,10 +565,10 @@ Azul == Java. As the only company focused 100% on Java, Azul is building the Jav
 						<div class="jobsApp submitOverlay js-jobs-overlay">
 							<h3 class="applyFormHeader jobsAppHeader">Apply for this Position</h3>
 							<form id="applicationForm" class="candidateApplyForm jobsAppForm candidateInfoForm" method="POST" action="/jobs/view.php?id=187&amp;source=linkedin">
-								<input type="hidden" name="applicantHash" value="66718764f8da98ae0fb5993e95cb966dd8d1bdb0"/>
+								<input type="hidden" name="applicantHash" value="d133147fc6b31f0ddce90646c8f4a26b74901104"/>
 								<input type="hidden" name="eeoOnly" value="off" id="eeoOnly"/>
 								<input type="hidden" name="scoreV3" value="" id="scoreV3"/>
-								<input type="hidden" name="positionHash" value="6006396" id="positionHash"/>
+								<input type="hidden" name="positionHash" value="5733378" id="positionHash"/>
 								<div id="js-candidateApplyForm-app"></div>
 							</form>
 						</div>
@@ -762,7 +762,7 @@ SiteFooter SiteFooter--dark-theme SiteFooter--biggie-theme" >
 <script type="text/javascript" src="//resources.bamboohr.com/js/global.f9dd9cd6.dist.js"></script>
 
 
-	<script type="text/javascript" src="//resources.bamboohr.com/21.1227.155202-3fae78b/js/placeholder.js?cb=c60bce76"></script>
+	<script type="text/javascript" src="//resources.bamboohr.com/21.1228.154659-384860f/js/placeholder.js?cb=c60bce76"></script>
 
 
 

@@ -190,6 +190,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <li><a href="#" data-city="Dallas" class="careers_city-button button button-cta__secondary">Dallas</a></li>
                                             <li><a href="#" data-city="Guatemala" class="careers_city-button button button-cta__secondary">Guatemala</a></li>
                                             <li><a href="#" data-city="Iași" class="careers_city-button button button-cta__secondary">Iași</a></li>
+                                            <li><a href="#" data-city="India" class="careers_city-button button button-cta__secondary">India</a></li>
                                             <li><a href="#" data-city="Mexico" class="careers_city-button button button-cta__secondary">Mexico</a></li>
                                             <li><a href="#" data-city="New-York" class="careers_city-button button button-cta__secondary">New York</a></li>
                                             <li><a href="#" data-city="Noida" class="careers_city-button button button-cta__secondary">Noida</a></li>
@@ -1856,6 +1857,19 @@ We build breakthrough software products that power digital businesses. We are an
     
                         </li>
                                             <li class="careers__jobs-item" data-city="Guatemala">
+                            <h3 class="careers__jobs-title">Senior Ruby on Rails Developer</h3>
+                            <div class="careers__jobs-item-meta">
+                                Guatemala, Full-time                            </div>
+
+                            <div class="careers__jobs-item-descr">
+                                <p>We are 3PILLAR GLOBAL  </p>
+<p>We build breakthrough software products that power digital businesses. We are an innovative product development partner whose solutions drive rapid revenue, market share, and customer growth for industry leaders in Software&hellip;</p>
+                            </div>
+
+                                <a class="button button-cta careers__jobs-button" href="https://jobs.lever.co/3pillarglobal/dc4ca32c-8b97-4f25-8d64-7f098fa7b421" target="_blank">See More</a>
+    
+                        </li>
+                                            <li class="careers__jobs-item" data-city="Guatemala">
                             <h3 class="careers__jobs-title">Senior UX Designer</h3>
                             <div class="careers__jobs-item-meta">
                                 Guatemala, Full-time                            </div>
@@ -2291,6 +2305,21 @@ We build breakthrough software products that power digital businesses. We are an
                             </div>
 
                                 <a class="button button-cta careers__jobs-button" href="https://jobs.lever.co/3pillarglobal/5a979476-2aca-4555-978c-2bb940d22be0" target="_blank">See More</a>
+    
+                        </li>
+                                            <li class="careers__jobs-item" data-city="India">
+                            <h3 class="careers__jobs-title">Sr. Software Engineer- Java + Bigdata</h3>
+                            <div class="careers__jobs-item-meta">
+                                India, Full-time                            </div>
+
+                            <div class="careers__jobs-item-descr">
+                                <p>Job Responsibilities</p>
+<p>● Coding, design, implementation, testing, problem analysis and resolution, and technical documentation.<br />
+● Should Be able to develop the solution end to end and be able to lead the conversation technically.<br />
+● Should be a&hellip;</p>
+                            </div>
+
+                                <a class="button button-cta careers__jobs-button" href="https://jobs.lever.co/3pillarglobal/a81a6e5d-3225-41c0-9ac4-dd8824e47fe5" target="_blank">See More</a>
     
                         </li>
                                             <li class="careers__jobs-item" data-city="Mexico">
@@ -2992,19 +3021,6 @@ This individual should maintain a high awareness of industry issues and trends, 
     
                         </li>
                                             <li class="careers__jobs-item" data-city="Mexico">
-                            <h3 class="careers__jobs-title">Senior SQL Developer</h3>
-                            <div class="careers__jobs-item-meta">
-                                Mexico, Full-time                            </div>
-
-                            <div class="careers__jobs-item-descr">
-                                <p>3Pillar Global is searching for an experienced Senior Database Administrator. The most competitive candidates will display a strong understanding of 3Pillar Global’s objectives, strategy and values. </p>
-<p>This individual should maintain a high awarenes&hellip;</p>
-                            </div>
-
-                                <a class="button button-cta careers__jobs-button" href="https://jobs.lever.co/3pillarglobal/fc240209-63dc-4dd8-ad28-a6e5512a509b" target="_blank">See More</a>
-    
-                        </li>
-                                            <li class="careers__jobs-item" data-city="Mexico">
                             <h3 class="careers__jobs-title">Senior UX Designer</h3>
                             <div class="careers__jobs-item-meta">
                                 Mexico, Full-time                            </div>
@@ -3314,19 +3330,6 @@ We build breakthroug&hellip;</p>
                             </div>
 
                                 <a class="button button-cta careers__jobs-button" href="https://jobs.lever.co/3pillarglobal/b3c12cee-e0bd-415e-ac81-e340c7a060e0" target="_blank">See More</a>
-    
-                        </li>
-                                            <li class="careers__jobs-item" data-city="Noida">
-                            <h3 class="careers__jobs-title">Senior Software Engineer/ Module Lead- Angular</h3>
-                            <div class="careers__jobs-item-meta">
-                                Noida, Full-time                            </div>
-
-                            <div class="careers__jobs-item-descr">
-                                <p>Job Description<br />
-If you are a UI programming genius and enjoy working on interesting technical problems with other talented people in a friendly, creative environment, we want to hear from you. 3Pillar Global is looking for a Senior Software Engineer&hellip;</p>
-                            </div>
-
-                                <a class="button button-cta careers__jobs-button" href="https://jobs.lever.co/3pillarglobal/62a66d15-284e-4b75-a7a7-88f95ce8cd15" target="_blank">See More</a>
     
                         </li>
                                             <li class="careers__jobs-item" data-city="Noida">
@@ -5249,11 +5252,11 @@ var IvorySearchVars = {"is_analytics_enabled":"1"};
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 120/124 objects using disk
+Object Caching 117/132 objects using disk
 Page Caching using disk: enhanced (Requested URI contains query) 
 Lazy Loading
 Minified using disk
-Database Caching 13/25 queries in 0.043 seconds using disk
+Database Caching 16/34 queries in 0.476 seconds using disk (Request-wide modification query)
 
-Served from: www.3pillarglobal.com @ 2021-12-28 00:51:51 by W3 Total Cache
+Served from: www.3pillarglobal.com @ 2021-12-28 23:45:30 by W3 Total Cache
 -->
