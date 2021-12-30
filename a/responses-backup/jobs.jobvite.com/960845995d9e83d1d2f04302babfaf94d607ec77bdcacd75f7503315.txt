@@ -1,0 +1,369 @@
+
+
+        
+    <!doctype html>
+    <html class="no-js" lang="en-US">
+            <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Blackboard Careers - Site Reliability Engineer</title>
+            <meta property="og:title" content="Blackboard is looking for Site Reliability Engineer." />
+            <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://app.jobvite.com/logo/BlackboardLogo1200x628_1622563098487.png" />
+            <meta property="og:description" content="Blackboard is looking for Site Reliability Engineer. Learn more or Jobvite a friend." />
+            <meta name="twitter:card" content="summary_large_image" />
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="shortcut icon" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/favicon.ico?v=211221202756" type="image/x-icon">
+        <link rel="apple-touch-icon-precomposed" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/images/apple-touch-icon-precomposed.png?v=211221202756">
+
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/fonts/jobvite-icons/style.css?v=211221202756">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/styles/careersite/public-desktop.css?v=211221202756">
+        <link rel="stylesheet" href="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/flatpickr/v4/flatpickr.min.css?v=211221202756">
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/modernizr-3.3.1-custom.min.js?v=211221202756"></script>
+        <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/lib/moment/moment.min.js?v=211221202756"></script>
+
+                    <!--[if lte IE 8]>
+                <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/scripts/careersite/public/es5-shim.min.js?v=211221202756"></script>
+            <![endif]-->
+
+    <!-- JV Google Analytics -->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try {
+            var enableAnonymizeIP = false;
+            var enableTracking = true;
+            var trackerId = "UA-15090121-1";
+            var pageTracker = _gat._getTracker("UA-15090121-1");
+        } catch(err) {}
+    </script>
+    <!-- End of JV Google Analytics -->
+<script type="text/javascript">
+    function trackPage() {
+        try {
+            if (enableTracking && enableTracking == true) {//enableTracking var is set during analytics script reg.
+                var pageTracker = _gat._getTracker(trackerId);
+                var varIndex = 1;
+                try {
+                pageTracker._setCustomVar(varIndex++, "UserId", getUserId(), 1);
+                pageTracker._setCustomVar(varIndex++, "CompanyId", getCompanyId(), 1);
+                }//to track pages which does not have a User
+                catch (userIdError) {
+                }
+                try {
+                    pageTracker._setCustomVar(varIndex++, "SubsidiaryId", getSubsidiaryId(), 1);
+                } //to track pages which does not have a subsidiaryId
+                catch (subsidiaryIdError) {
+                }
+                try {
+                    pageTracker._setCustomVar(varIndex++, "JobId", getJobId(), 3);
+                    pageTracker._setCustomVar(varIndex++, "CategoryId", getCategoryId(), 3);
+                }//to track pages which does not have a jobref
+                catch (jodIdError) {
+                }
+                if (enableAnonymizeIP && enableAnonymizeIP == true) {
+                    _gat._anonymizeIp();
+                }
+
+                pageTracker._trackPageview();
+            }
+        }
+        catch (error) {
+
+        }
+    }
+</script>
+<script type="text/javascript">
+    function getUserId() { return '3fd6c611-ac07-409f-a12f-a91ef3f79e1e'; }
+</script>
+<script type="text/javascript">
+    function getCompanyId() { return 'q1RaVfwH'; }
+</script>
+    <script type="text/javascript">
+        function getJobId() { return 'oiFTffwP'; }
+    </script>
+    <script type="text/javascript">
+        function getCategoryId() { return '64'; }
+    </script>
+<script type="text/javascript">
+    try {
+        trackPage();
+    } catch(trackingError) {}
+</script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        try {
+            var enableAnonymizeIP = false;
+            enableTracking = true;
+            trackerId = "UA-186731957-1";
+            pageTracker = _gat._getTracker("UA-186731957-1");
+        } catch(err) {}
+    </script>
+    <!-- End of Google Analytics -->
+<script type="text/javascript">
+    try {
+        trackPage();
+    } catch(trackingError) {}
+</script>        <script>
+            if (window.self !== window.parent) {
+                document.documentElement.className += ' jv-iframe';
+            }
+        </script>
+        
+    </head>
+    <body class="jv-desktop jv-page-job " ng-app="jv.careersite.desktop.app" ng-controller="JVMain">
+            <div class="jv-page-container">
+        <div class="jv-page">
+                <div class="jv-page-content">
+            <header class="jv-page-header" role="banner">
+        <div class="jv-wrapper">
+            <h1 class="jv-logo">
+                    <a href="/blackboard/jobs">
+Blackboard Careers                    </a>
+            </h1>
+        </div>
+    </header>
+    
+    <article class="jv-page-body" role="main"  ng-controller="JVJobDetail" >
+            <div class="jv-wrapper">
+                <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "JobPosting",
+            "datePosted": "2021-06-15",
+            "description": "<p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;font-weight: bold;\">Site Reliability Engineer</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;font-weight: bold;\">Brno, Czech Republic</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;font-weight: bold;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;font-weight: bold;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;font-weight: bold;\">The Opportunity:</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">We\u2019re</span><span style=\"font-size: 12.0pt;\"> looking for a Site Reliability Engineer</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">to help us push the boundaries of what education can offer through the power of technology. Education is our</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">passion</span><span style=\"font-size: 12.0pt;\">,</span><span style=\"font-size: 12.0pt;\"> and our team members bring that to work each day as they aim to advance learning in every region of the world. Blackboard is the world's leading education technology company, providing dynamic products and services to the global education community. </span><span style=\"font-size: 12.0pt;\">We\u2019re</span><span style=\"font-size: 12.0pt;\"> focused on driving innovation in EdTech and working with our clients to create a smarter learning environment.</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><br /><br /></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">At Blackboard, we believe in the power of a truly diverse and inclusive workforce. As we expand globally, we are committed to making diversity, inclusion, and belonging a foundational part of not only our hiring practices, but who we are as a company.<br /><br /><br /></span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">For more information about Blackboard and our career opportunities, please </span><span style=\"font-size: 12.0pt;\">visit</span><span style=\"font-size: 12.0pt;\">\u00A0</span><a href=\"http://www.blackboard.com/\"><span style=\"color: rgb(0,0,255);font-size: 12.0pt;text-decoration: underline;\">www.blackboard.com</span></a><span style=\"font-size: 12.0pt;\">.</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">As a member </span><span style=\"font-size: 12.0pt;\">of the Site Reliability</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">Engineering </span><span style=\"font-size: 12.0pt;\">team,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">you will combine software and systems engineering to help build and run large-scale, distributed and fault-tolerant systems</span><span style=\"font-size: 12.0pt;\">.</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">This is a driven, creative, and energetic team that works in a flexible and agile fashion to deliver world-class products to the education market. By joining this team, you will become a core contributing member to Blackboard\u2019s EdTech Platform initiative. This future state platform will seamlessly and uniquely deliver a revolutionized learning experience through innovation, continuous delivery, and architectural integration.</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">Specific responsibilities include:</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><ul style=\"margin: 0.0pt;padding-left: 0.0pt;\"><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Engaging with development teams on</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">the</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">design, deployment, capacity</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">needs</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">and operations</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">of microservices, and supporting them as they transition to </span><span style=\"font-size: 12.0pt;\">production</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Monitoring the availability, </span><span style=\"font-size: 12.0pt;\">performance</span><span style=\"font-size: 12.0pt;\"> and health of production systems in support of meeting service level objectives</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Using</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">automation</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">and tooling</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">to</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">continuously</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">improve the reliability, scalability</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">and velocity of</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">services deployed on </span><span style=\"font-size: 12.0pt;\">AWS</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Participa</span><span style=\"font-size: 12.0pt;\">ting</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">in emergency incident response on-call rosters</span><span style=\"font-size: 12.0pt;\">; p</span><span style=\"font-size: 12.0pt;\">racticing</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">blameless postmortems that lead to improvements in resiliency and reductions in pager </span><span style=\"font-size: 12.0pt;\">fatigue</span></li></ul><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;font-weight: bold;\">The Candidate:</span><span style=\"font-size: 12.0pt;font-weight: bold;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">Required skills</span><span style=\"font-size: 12.0pt;\">/qualifications</span><span style=\"font-size: 12.0pt;\">:</span></p><ul style=\"margin: 0.0pt;padding-left: 0.0pt;\"><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Experience in the fields of Computer Science,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">Software </span><span style=\"font-size: 12.0pt;\">Engineering</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">or related fields</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Expertise</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">with</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">analyzing and troubleshooting</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">large-scale,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">multi-region deployments</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">in a public cloud (</span><span style=\"font-size: 12.0pt;\">e.g.</span><span style=\"font-size: 12.0pt;\"> AWS)</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Experience with Elasticsearch</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Experience with</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">cloud</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">deployment</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">and management</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">tools</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">(</span><span style=\"font-size: 12.0pt;\">e.g.</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">Terraform,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">GitOps</span><span style=\"font-size: 12.0pt;\">)</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Experience with</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">monitoring</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">and alerting</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">tools</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">(</span><span style=\"font-size: 12.0pt;\">e.g.</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">Cloudwatch</span><span style=\"font-size: 12.0pt;\">,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">New Relic, PagerDuty)</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">A</span><span style=\"font-size: 12.0pt;\">bility to</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">solve complex problems, optimize code, and automate routine </span><span style=\"font-size: 12.0pt;\">tasks</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li></ul><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">P</span><span style=\"font-size: 12.0pt;\">referred </span><span style=\"font-size: 12.0pt;\">skills/</span><span style=\"font-size: 12.0pt;\">qualifications:</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><ul style=\"margin: 0.0pt;padding-left: 0.0pt;\"><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">BS in Computer Science or related field,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">or equivalent work experience</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Experience with container technology (</span><span style=\"font-size: 12.0pt;\">e.g.</span><span style=\"font-size: 12.0pt;\"> Kubernetes, Docker)</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Demonstrable scripting experience,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">preferably</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">in Python</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">or Java</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Experience with cost reporting tools (</span><span style=\"font-size: 12.0pt;\">e.g.</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">AWS Cost</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">Explorer,</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">Kubecost</span><span style=\"font-size: 12.0pt;\">)</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Experience with</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">network and/or</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">application security</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Prior experience within the education industry and/or with e-learning technologies</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li></ul><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;font-weight: bold;\">The Office:</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">Blackboard has an office in the beautiful and vibrant city of Brno.</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">\u00A0</span></p><ul style=\"margin: 0.0pt;padding-left: 0.0pt;\"><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Great office location in city center near</span><span style=\"font-size: 12.0pt;\">\u00A0</span><span style=\"font-size: 12.0pt;\">Luzanky</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Accessible by public transportation as well as bike, with bike stands and showers in the </span><span style=\"font-size: 12.0pt;\">office</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Cozy personal office spaces where you can shut your door to really focus or leave it open to interact with </span><span style=\"font-size: 12.0pt;\">Great benefits including health & life insurance and English </span><span style=\"font-size: 12.0pt;\">lessons</span><span style=\"font-size: 12.0pt;\">\u00A0</span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Countless walkable places to </span><span style=\"font-size: 12.0pt;\">eat</span><span style=\"font-size: 12.0pt;\"> </span></li><li style=\"font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;\"><span style=\"font-size: 12.0pt;\">Option for remote work during the COVID-19 pandemic</span></li></ul><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">This job description is not designed to contain a comprehensive listing of activities, duties, or responsibilities that are required. Nothing in this job description restricts management's right to assign or reassign duties and responsibilities at any time.\u00A0\u00A0 </span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">\u00A0</span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\">Blackboard is an equal employment opportunity/affirmative action employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, national origin, marital status, disability, sexual orientation, gender identity/expression</span><span style=\"font-size: 12.0pt;font-weight: bold;\">, </span><span style=\"font-size: 12.0pt;\">protected military/veteran status, or any other legally protected factor. </span><span style=\"font-size: 9.0pt;\"> </span></p><p style=\"margin: 0.0pt;\"><span style=\"font-size: 12.0pt;\"><br /><br /><span style=\"font-size: 10.0pt;\">Req ID: 241</span></span></p>",
+            "hiringOrganization": "Blackboard",
+                "employmentType": "Full-Time",
+            "industry": "Technology",
+            "identifier": "oiFTffwP",
+            "jobLocation": [
+                {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                            "addressCountry": "Czechia"
+                    }
+                }
+            ],
+            "title": "Site Reliability Engineer"
+        }
+        </script>
+    <h2 class="jv-header">
+                Site Reliability Engineer
+
+    </h2>
+                <p class="jv-job-detail-meta">
+                Technology<span class='jv-inline-separator'></span>
+        
+            Brno,
+            Czechia
+        
+
+        </p>
+        <hr />
+
+        <div class="jv-job-detail-top-actions">
+    
+    <a class="jv-button jv-button-primary jv-button-apply" href="/blackboard/job/oiFTffwP/apply">
+        Apply
+    </a>
+        </div>
+        <div class="jv-job-detail-description" ng-non-bindable>
+            <h3>Description</h3>
+            <p ng-non-bindable>
+                <p style="margin: 0.0pt;"><span style="font-size: 12.0pt;font-weight: bold;">Site Reliability Engineer</span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;font-weight: bold;">Brno, Czech Republic</span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;font-weight: bold;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;font-weight: bold;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;font-weight: bold;">The Opportunity:</span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">We’re</span><span style="font-size: 12.0pt;"> looking for a Site Reliability Engineer</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">to help us push the boundaries of what education can offer through the power of technology. Education is our</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">passion</span><span style="font-size: 12.0pt;">,</span><span style="font-size: 12.0pt;"> and our team members bring that to work each day as they aim to advance learning in every region of the world. Blackboard is the world's leading education technology company, providing dynamic products and services to the global education community. </span><span style="font-size: 12.0pt;">We’re</span><span style="font-size: 12.0pt;"> focused on driving innovation in EdTech and working with our clients to create a smarter learning environment.</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><br /><br /></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">At Blackboard, we believe in the power of a truly diverse and inclusive workforce. As we expand globally, we are committed to making diversity, inclusion, and belonging a foundational part of not only our hiring practices, but who we are as a company.<br /><br /><br /></span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">For more information about Blackboard and our career opportunities, please </span><span style="font-size: 12.0pt;">visit</span><span style="font-size: 12.0pt;"> </span><a href="http://www.blackboard.com/"><span style="color: rgb(0,0,255);font-size: 12.0pt;text-decoration: underline;">www.blackboard.com</span></a><span style="font-size: 12.0pt;">.</span><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">As a member </span><span style="font-size: 12.0pt;">of the Site Reliability</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">Engineering </span><span style="font-size: 12.0pt;">team,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">you will combine software and systems engineering to help build and run large-scale, distributed and fault-tolerant systems</span><span style="font-size: 12.0pt;">.</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">This is a driven, creative, and energetic team that works in a flexible and agile fashion to deliver world-class products to the education market. By joining this team, you will become a core contributing member to Blackboard’s EdTech Platform initiative. This future state platform will seamlessly and uniquely deliver a revolutionized learning experience through innovation, continuous delivery, and architectural integration.</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">Specific responsibilities include:</span><span style="font-size: 12.0pt;"> </span></p><ul style="margin: 0.0pt;padding-left: 0.0pt;"><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Engaging with development teams on</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">the</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">design, deployment, capacity</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">needs</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">and operations</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">of microservices, and supporting them as they transition to </span><span style="font-size: 12.0pt;">production</span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Monitoring the availability, </span><span style="font-size: 12.0pt;">performance</span><span style="font-size: 12.0pt;"> and health of production systems in support of meeting service level objectives</span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Using</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">automation</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">and tooling</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">to</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">continuously</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">improve the reliability, scalability</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">and velocity of</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">services deployed on </span><span style="font-size: 12.0pt;">AWS</span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Participa</span><span style="font-size: 12.0pt;">ting</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">in emergency incident response on-call rosters</span><span style="font-size: 12.0pt;">; p</span><span style="font-size: 12.0pt;">racticing</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">blameless postmortems that lead to improvements in resiliency and reductions in pager </span><span style="font-size: 12.0pt;">fatigue</span></li></ul><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;font-weight: bold;">The Candidate:</span><span style="font-size: 12.0pt;font-weight: bold;"> </span><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">Required skills</span><span style="font-size: 12.0pt;">/qualifications</span><span style="font-size: 12.0pt;">:</span></p><ul style="margin: 0.0pt;padding-left: 0.0pt;"><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Experience in the fields of Computer Science,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">Software </span><span style="font-size: 12.0pt;">Engineering</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">or related fields</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Expertise</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">with</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">analyzing and troubleshooting</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">large-scale,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">multi-region deployments</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">in a public cloud (</span><span style="font-size: 12.0pt;">e.g.</span><span style="font-size: 12.0pt;"> AWS)</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Experience with Elasticsearch</span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Experience with</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">cloud</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">deployment</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">and management</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">tools</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">(</span><span style="font-size: 12.0pt;">e.g.</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">Terraform,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">GitOps</span><span style="font-size: 12.0pt;">)</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Experience with</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">monitoring</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">and alerting</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">tools</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">(</span><span style="font-size: 12.0pt;">e.g.</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">Cloudwatch</span><span style="font-size: 12.0pt;">,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">New Relic, PagerDuty)</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">A</span><span style="font-size: 12.0pt;">bility to</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">solve complex problems, optimize code, and automate routine </span><span style="font-size: 12.0pt;">tasks</span><span style="font-size: 12.0pt;"> </span></li></ul><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">P</span><span style="font-size: 12.0pt;">referred </span><span style="font-size: 12.0pt;">skills/</span><span style="font-size: 12.0pt;">qualifications:</span><span style="font-size: 12.0pt;"> </span></p><ul style="margin: 0.0pt;padding-left: 0.0pt;"><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">BS in Computer Science or related field,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">or equivalent work experience</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Experience with container technology (</span><span style="font-size: 12.0pt;">e.g.</span><span style="font-size: 12.0pt;"> Kubernetes, Docker)</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Demonstrable scripting experience,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">preferably</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">in Python</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">or Java</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Experience with cost reporting tools (</span><span style="font-size: 12.0pt;">e.g.</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">AWS Cost</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">Explorer,</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">Kubecost</span><span style="font-size: 12.0pt;">)</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Experience with</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">network and/or</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">application security</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Prior experience within the education industry and/or with e-learning technologies</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span></li></ul><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;font-weight: bold;">The Office:</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">Blackboard has an office in the beautiful and vibrant city of Brno.</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;"> </span></p><ul style="margin: 0.0pt;padding-left: 0.0pt;"><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Great office location in city center near</span><span style="font-size: 12.0pt;"> </span><span style="font-size: 12.0pt;">Luzanky</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Accessible by public transportation as well as bike, with bike stands and showers in the </span><span style="font-size: 12.0pt;">office</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Cozy personal office spaces where you can shut your door to really focus or leave it open to interact with </span><span style="font-size: 12.0pt;">Great benefits including health & life insurance and English </span><span style="font-size: 12.0pt;">lessons</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Countless walkable places to </span><span style="font-size: 12.0pt;">eat</span><span style="font-size: 12.0pt;"> </span></li><li style="font-size: 10.0pt;margin: 0.0pt 0.0pt 0.0pt 26.5pt;padding-left: 9.5pt;"><span style="font-size: 12.0pt;">Option for remote work during the COVID-19 pandemic</span></li></ul><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">This job description is not designed to contain a comprehensive listing of activities, duties, or responsibilities that are required. Nothing in this job description restricts management's right to assign or reassign duties and responsibilities at any time.   </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;">Blackboard is an equal employment opportunity/affirmative action employer and considers qualified applicants for employment without regard to race, gender, age, color, religion, national origin, marital status, disability, sexual orientation, gender identity/expression</span><span style="font-size: 12.0pt;font-weight: bold;">, </span><span style="font-size: 12.0pt;">protected military/veteran status, or any other legally protected factor. </span><span style="font-size: 9.0pt;"> </span></p><p style="margin: 0.0pt;"><span style="font-size: 12.0pt;"><br /><br /><span style="font-size: 10.0pt;">Req ID: 241</span></span></p>
+            </p>
+        </div>
+    <div class="jv-job-detail-bottom-actions">
+    
+    <a class="jv-button jv-button-primary jv-button-apply" href="/blackboard/job/oiFTffwP/apply">
+        Apply
+    </a>
+    <a class="jv-button jv-button-apply-later" ng-href="mailto:?subject=Apply for Site Reliability Engineer at Blackboard&amp;body=To apply for Site Reliability Engineer at Blackboard, click the link below:%0A%0A{{ mailUrl }}">
+Apply Later    </a>
+    <div class="jv-current-openings">
+        <a href="/blackboard/jobs">
+            &larr; Back to Current Openings
+        </a>
+    </div>
+    </div>
+                <hr />
+
+    <div class="jv-share-widget"
+        jv-share-title="Blackboard is looking for Site Reliability Engineer."
+        jv-share-message="Blackboard is looking for Site Reliability Engineer. Learn more or Jobvite a friend.">
+        <h3 class="jv-share-widget-title">Share</h3>
+        <div class="jv-job-detail-share jv-button-list">
+            <script src="//platform.linkedin.com/in.js" type="text/javascript">
+                lang: en_US
+            </script>
+            <script type="IN/Share" data-url="https://jobs.jobvite.com/blackboard/job/oiFTffwP?__jvst=JobBoard&__jvsd=juniorguruFree&__jvsc=LinkedIn"></script>
+            <a class="jv-button-list-item jv-button-list-item-1-of-4 jv-button-list-item-first needsclick" href="" ng-click="linkedinShare()">
+                <span class="jv-button-icon needsclick jv-brand-linkedin">
+                    <i class="icon icon-linkedin-onecolor needsclick"><span>LinkedIn</span></i>
+                </span>
+            </a>
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" href="" ng-click="facebookShare('https:\/\/jobs.jobvite.com\/blackboard\/job\/oiFTffwP?__jvst=JobBoard&__jvsd=juniorguruFree&__jvsc=Facebook')">
+                <span class="jv-button-icon jv-brand-facebook">
+                    <i class="icon icon-facebook-onecolor"><span>Facebook</span></i>
+                </span>
+            </a>
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fjobs.jobvite.com%2Fblackboard%2Fjob%2FoiFTffwP%3F__jvst%3DJobBoard%26__jvsd%3DjuniorguruFree%26__jvsc%3DTwitter&amp;text={{ jvShareMessage }}">
+                <span class="jv-button-icon jv-brand-twitter">
+                    <i class="icon icon-twitter-onecolor"><span>Twitter</span></i>
+                </span>
+            </a>
+            <a class="jv-button-list-item jv-button-list-item-1-of-4" ng-click="emailShare()" ng-href="mailto:?subject={{ jvShareTitleEmail }}&amp;body={{ jvShareMessageEmail }}%0A%0Ahttps%3A%2F%2Fjobs.jobvite.com%2Fblackboard%2Fjob%2FoiFTffwP%3F__jvst%3DJobBoard%26__jvsd%3DjuniorguruFree%26__jvsc%3DEmail">
+                <span class="jv-button-icon jv-icon-container">
+                    <i class="icon icon-message"><span>Email</span></i>
+                </span>
+            </a>
+        </div>
+    </div>
+        <div class="jv-recommended-jobs" ng-show="recommendedJobs.length" ng-cloak>
+                        <hr />
+
+            <h3>Similar Jobs</h3>
+                        <table class="jv-job-list">
+                    <tbody>
+                        <tr ng-repeat="job in recommendedJobs">
+                            <td class="jv-job-list-name">
+                                <a href="/blackboard/job/{{ job.jobEId }}">
+                                    {{ job.title }}
+                                </a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+        </div>
+    <i notification-bar show="redirected" message="'You have been redirected to a Blackboard job page'"></i>
+
+            </div>
+    </article>
+    <footer class="jv-footer">
+        <div class="jv-wrapper">
+            <p class="jv-text-center">
+                                <hr />
+
+                    <a class="jv-powered-by" target="_parent" href="https://www.jobvite.com/"><i class="icon icon-powered-by"><span>Powered by Jobvite</span></i></a>
+            </p>
+        </div>
+    </footer>
+
+    </div>
+
+        </div>
+    </div>
+    
+    <script src="//d3igejkwe1ucjd.cloudfront.net/__assets__/concat/careersite/public/jv.careersite.desktop.app.js?v=211221202756"></script>
+    <script>
+        angular.module('preloadedData', []).constant('preloadedData', {
+                applyLinkUrl: '${job.applyLinkUrl}',
+                jobCategoryId: 'auV9Vfwd',
+                jobCategoryName: 'Technology',
+                jobId: 'oiFTffwP',
+                jobReqId: '241',
+                jobTitle: 'Site Reliability Engineer',
+                jobLocationId: 'CRviXfwl',
+                jobviteAnalytics: 'UA-15090121-1',
+                companyAnalytics: 'UA-186731957-1',
+                jobAlertsLocationRequired: true,
+                enableRecommendedJobs: true,
+                enableResumeParsing: true,
+                numberFormat: "##,###,###,###,###.####",
+            companyEId: 'q1RaVfwH',
+            linkedInApiKey: '7557fkcarvxieo',
+            facebookApiId: '48354194572',
+            dropBoxApiKey: 'w5fg28zznqcyg4w',
+            baseUrl: '/blackboard',
+            cdnURL: '//d3igejkwe1ucjd.cloudfront.net',
+            releaseVersion: '211221202756',
+            careersiteName: 'blackboard',
+            careersiteDomainName: '${careersiteDomainName}',
+            careersiteSourceTypeId: 'Plm0Xfwo'
+        }).constant('i18n', {
+I18N_RESUME_PREVIEW: 'Resume Preview',
+I18N_NO_RESUME_FOUND: 'No resume found',
+I18N_LINKEDIN_PROFILE: 'LinkedIn Profile',
+I18N_FILE_UPLOAD_ERROR: 'Could not upload file.',
+I18N_RECOMMENDATION_TYPE: 'Recommendation Type:',
+I18N_RECOMMENDER: 'Recommender:',
+I18N_CURRENT: 'Current',
+I18N_PAST: 'Past',
+I18N_EDUCATION: 'Education',
+I18N_RECOMMENDATIONS_RECEIVED: 'Recommendations Received',
+I18N_PATENTS: 'Patents',
+I18N_SUMMARY: 'Summary',
+I18N_SPECIALTIES: 'Specialties',
+I18N_EXPERIENCE: 'Experience',
+I18N_RECOMMENDATIONS: 'Recommendations',
+I18N_PRESENT: 'Present',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SU: 'Su',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_MO: 'Mo',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_TU: 'Tu',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_WE: 'We',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_TH: 'Th',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_FR: 'Fr',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SA: 'Sa',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SUN: 'Sun',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_MON: 'Mon',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_TUE: 'Tue',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_WED: 'Wed',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_THU: 'Thu',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_FRI: 'Fri',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SAT: 'Sat',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SUNDAY: 'Sunday',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_MONDAY: 'Monday',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_TUESDAY: 'Tuesday',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_WEDNESDAY: 'Wednesday',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_THURSDAY: 'Thursday',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_FRIDAY: 'Friday',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SATURDAY: 'Saturday',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_JANUARY: 'January',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_FEBRUARY: 'February',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_MARCH: 'March',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_APRIL: 'April',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_MAY: 'May',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_JUNE: 'June',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_JULY: 'July',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_AUGUST: 'August',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SEPTEMBER: 'September',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_OCTOBER: 'October',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_NOVEMBER: 'November',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_DECEMBER: 'December',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_JAN: 'Jan',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_FEB: 'Feb',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_MAR: 'Mar',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_APR: 'Apr',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_JUN: 'Jun',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_JUL: 'Jul',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_AUG: 'Aug',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_SEP: 'Sep',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_OCT: 'Oct',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_NOV: 'Nov',
+JV_COMMON_DIRECTIVES_WEEKCALENDAR_DEC: 'Dec',
+COMMON_PAST_WEEK: 'Past 7 days',
+COMMON_PAST_MONTH: 'Past 30 days',
+COMMON_PAST_3_MONTHS: 'Past 90 days',
+COMMON_CUSTOM_RANGE: 'Custom Range',
+I18N_FROM: 'From',
+I18N_TO: 'To',
+I18N_ANY: 'Any',
+I18N_FILE_UPLOAD_SIZE_CHECK_ERROR: 'File size shall not exceed 10MB',
+I18N_MALICIOUS_CONTENT: 'This file is not permitted to upload for security reasons.Please check your file for any malicious content or link.',
+I18N_NO_REMOTE: 'No Remote',
+I18N_REMOTE: 'Remote'
+        });
+        Jobvite = {
+            baseUrl: 'https://app.jobvite.com'
+        }
+    </script>
+
+    </body>
+
+    </html>

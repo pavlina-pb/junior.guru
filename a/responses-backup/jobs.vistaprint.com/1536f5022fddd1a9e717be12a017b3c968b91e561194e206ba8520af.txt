@@ -21,7 +21,7 @@
             <meta name="robots" content="index" />
                 <meta property="og:title" content="Junior Software Engineer, Content Tribe, Czechia Remote" />
                 <meta property="og:description" content="Junior Software Engineer, Content Tribe, Czechia Remote" />
-                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/c204456a-20ed-402d-9c01-f.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/36aa074b-ab05-4ac6-877f-9.css" /><![endif]-->
+                <link type="text/css" rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/260a1d1e-1a5e-45b8-ba3a-c.css" /><!--[if lte IE 9]><link rel="stylesheet" href="//rmkcdn.successfactors.com/53eb544f/8615f78f-5647-45b4-8767-b.css" /><![endif]-->
                             <link type="text/css" rel="stylesheet" href="/platform/csb/css/customHeader.css?h=3a4eeb7c" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/sitebuilderframework.min.css?h=3a4eeb7c" />
                             <link type="text/css" rel="stylesheet" href="/platform/css/j2w/min/BS3ColumnizedSearch.min.css?h=3a4eeb7c" />
@@ -800,7 +800,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "0aec34a6-3141-4e49-919a-8e730c5da345"
+						"X-CSRF-Token" : "be4a28e2-1901-442e-b447-81448aac6fc0"
 					}
 				});
 			//]]>
@@ -822,7 +822,7 @@
 		//<![CDATA[
 			$(function() 
 			{
-				var ctid = '8f834ab1-d5c0-4579-ba1a-6d86bdae442c';
+				var ctid = 'e7709643-e96e-4094-9035-cd0a93a30e9b';
 				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2810856025';
 				var landing = document.location.href;
 				var brand = 'Cimpress-Technology';
@@ -860,7 +860,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=1001990887"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=2083296317"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {

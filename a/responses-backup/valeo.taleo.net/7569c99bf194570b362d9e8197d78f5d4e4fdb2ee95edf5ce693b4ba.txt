@@ -1,0 +1,162 @@
+
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+
+
+
+<html lang="en"><head title="Career Section Unavailable" profile="http://www.w3.org/2005/10/profile"><link rel="icon" type="image/vnd.microsoft.icon" href="/careersection/favicon.jss" /><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/careersection/favicon.jss" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>Career Section Unavailable</title>
+
+<script type="text/javascript">
+<!--
+var contextPath_ = "\/careersection";
+var buildVersion_ = "2021PRD.3.0.26.3.0";
+var useVerStatFiles_ = true;
+var tocPage_ = "\/careersection\/index.jsf";
+var sessionTimeoutUrl_ = "\/careersection\/link\/jobsearch.ftl?lang=en";
+var messagesResGroupId_ = "992";
+var  richTextComponentResURL = "\/careersection\/UIResourceScript.jss?progId=richTextComponentRes&i=3998682&l=en";
+
+// -->
+</script>
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/akira/pub/js/akira-corec.js"></script>
+<link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/css/careersection_all.css" />
+<link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/UIStyleSheet.dcss?styleSheet=FTLValeo+1.0&amp;timestamp=1640825133842" /><link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/UIStyleSheet.dcss?styleSheet=FTLValeo+1.0&amp;timestamp=1640825133842" /><script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=AccessibilityRes&amp;i=564090&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=monthsRes&amp;i=265979&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=monthsAbbrRes&amp;i=266197&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=weekDaysRes&amp;i=265273&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=weekDaysAbbrRes&amp;i=265419&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=calendarRes&amp;i=261641&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=calloutRes&amp;i=2899409&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/UIResourceScript.jss?progId=securityRes&amp;i=992&amp;l=en"></script>
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/akira/pub/js/calendar-resources.js"></script>
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/secform.js"></script>
+<link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/css/cs-bootstrap.css" />
+
+    
+    
+    
+    
+ 
+    <!--[if IE 9]>
+    <script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/common/jquery.ie9gradius.js"></script>
+    
+    <![endif]-->
+    <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/css/ie7.css" />
+    
+    <![endif]-->
+    <!--[if IE]>
+    <link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/css/jquery.ui.1.8.16.ie.css" />
+
+    <![endif]-->
+ 	<!--[if IE]>
+    <style type="text/css">
+    label.radio span { margin-top: 5px; display: inline-block }
+    </style>
+    <![endif]-->
+	<!--[if IE 8]>			        
+    <style type='text/css'> #pdf-viewer .pdf-page { -ms-behavior: url(2021PRD.3.0.26.3.0/js/common/backgroundsize.htc); } </style>	
+   	<![endif]-->
+
+
+	
+	<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/common/json2.js"></script>
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/common/jquery-bootstrap-pagination.js"></script>
+<link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/css/jquery-ui-1.8.16.bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/careersection/2021PRD.3.0.26.3.0/css/pdf-viewer.css" />
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/common/modernizr-custom.min.js"></script>
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/common/bootstrap.min.js"></script>
+<script type="text/javascript" src="/careersection/2021PRD.3.0.26.3.0/js/common/debug/jquery-ui.js"></script>
+
+<script type="text/javascript">
+<!--
+installSessionBeacon(3600000,2400000,300000,2);var csrftoken="ST50M9wlkz4pSaKLBEf8ezYPCKR90BBwmgMNs9EfwWA=";
+// -->
+</script>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta><meta http-equiv="x-ua-compatible" content="ie=edge"></meta><meta name="viewport" content="width=device-width, initial-scale=1.0"></meta><title>Working at Valeo - Automotive jobs & recruitment - Valeo</title><meta name="description" content="Valeos working culture is forged around operational excellence and based on the values of ethics, transparency, empowerment, professionalism and teamwork."></meta><meta name="robots" content="noodp"></meta><meta name="keywords" content="Emploi dans l'automobile"></meta><link rel="apple-touch-icon" href="apple-touch-icon.png"></link><link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700,900" rel="stylesheet"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/styles.css" rel="stylesheet" type="text/css"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/vendor.min.css" rel="stylesheet" type="text/css"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/main.css" rel="stylesheet" type="text/css"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/main2.css" rel="stylesheet" type="text/css"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/desktop.css" rel="stylesheet" type="text/css"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/print.css" rel="stylesheet" type="text/css" media="print"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/valeo.css" rel="stylesheet" type="text/css" media="all" id="valeo_theme_css-css"></link><link href="/careersection/theme/561481/1526507949000/en/theme/css/valeo2.css" rel="stylesheet" type="text/css" media="all"></link></head>
+<body dir="ltr"><div class="mainContent">
+      
+
+      <div class="valeo_header">
+
+        <div class="valeo_nav">
+          <div class="contentMedium">
+            <div class="left-nav">
+              <a class="logo" href="http://www.valeo.com/en" shape="rect"><img alt="Valeo" src="/careersection/theme/561481/1526507949000/en/theme/images/logo.png"></img></a>
+            </div>
+            <div class="mainMenu">
+              <div class="option">
+              </div>
+              <ul class="menu"><li>
+                  <a href="http://www.valeo.com/en/who-we-are/" class="plus " shape="rect">About us</a>
+                </li><li>
+                  <a href="http://www.valeo.com/en/working-at-valeo/" class="plus " shape="rect">Careers</a>
+                </li><li>
+                  <a href="http://www.valeo.com/en/investors-shareholders-at-a-glance/" class="plus littlePadd" shape="rect">Investors & shareholders</a>
+                </li><li>
+                  <a href="http://www.valeo.com/en/press-releases/" class="plus " shape="rect">Newsroom</a>
+                </li><li>
+                  <a href="http://www.valeo.com/en/spotlight-at-a-glance/" class="plus " shape="rect">Spotlight</a>
+                </li></ul>
+              <div class="social">Follow us
+                <ul><li><a href="https://twitter.com/Valeo_Group" shape="rect"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.linkedin.com/company/valeo" shape="rect"><i class="fa fa-linkedin-square"></i></a></li><li><a href="https://www.facebook.com/Valeo.Group/" shape="rect"><i class="fa fa-facebook"></i></a></li><li><a href="https://www.youtube.com/user/ValeoGroup" shape="rect"><i class="fa fa-youtube"></i></a></li></ul>
+              </div>
+            </div>
+            <div class="search"></div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="contentFull">
+        <div class="contentMedium">
+          <form id="et-ef" method="post" action="/careersection/careersection/common/maintenancePage.jsf" enctype="application/x-www-form-urlencoded" onsubmit="return secform_confirmSubmit();"><input type="hidden" id="et-efvmVSIds" name="et-efvmVSIds" value="H4sIAAAAAAAAAFvzloG1hEFCPzmxKDW1qDg1uSQzP08/My8ltUIvqzitEgDUAUy9IAAAAA==" />
+<span id="et-ef-masterbody" class="masterbody"><span class="mainsection"><span class="separatorpanel"></span><span id="et-ef-content-maintenancePageContent-maintenanceMessage" class="mastercontentpanel2"><span class="blockpanel"><span class="titlepanel"><span id="et-ef-content-maintenancePageContent-maintenanceTitle" class="title">Career Section Unavailable</span><span class="hidden-audible">&nbsp;</span></span><span class="descriptionpanel"><span id="et-ef-content-maintenancePageContent-maintenanceDescription" class="text">The Career section you are trying to access is not available for the moment. The system may be under maintenance. We apologize for any inconvenience this may cause. If you used a link or bookmark to reach this page, please try again later.</span><span class="hidden-audible">&nbsp;</span><span class="separatorpanel"></span><span id="et-ef-content-maintenancePageContent-thankText" class="text">Thank you for your understanding.</span><span class="hidden-audible">&nbsp;</span><span class="separatorpanel"></span><span id="et-ef-content-maintenancePageContent-maintenanceSignature" class="text">System Administrator</span><span class="hidden-audible">&nbsp;</span><span class="separatorpanel"></span><span id="et-ef-content-maintenancePageContent-orgText" class="text">Taleo</span><span class="hidden-audible">&nbsp;</span></span></span></span><span id="et-ef-content-maintenancePageContent-footeraction" class="footeraction"><span class="footeractionpanel"><span class="buttongrouppanel2"><span class="buttonpanel2"></span><span class="buttonpanel"></span></span></span><span class="box"><span class="boxbottom"><span class="boxb4"></span><span class="boxb3"></span><span class="boxb2"></span><span class="boxb1"></span></span></span></span></span></span><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="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" autocomplete="off" /><input type="hidden" id="stateSavers" name="stateSavers" value="H4sIAAAAAAAAAFvzloG1uIhBLiuxLFGvtCQzR885PycnNbkkMz+vWMU1t6CkMji1RPRrkewW5tMaTAwMFQWVADrPGpc0AAAA" />
+<input type="hidden" id="bookmarkNameHF" name="bookmarkNameHF" value="Career Section Unavailable" />
+<input type="hidden" id="tno" name="tno" value="0" />
+<input type="hidden" id="bookmarkURLHF" name="bookmarkURLHF" value="https://valeo.taleo.net/careersection/careersection/common/maintenancePage.jsf" />
+<input type="hidden" id="tz" name="tz" />
+<input type="hidden" id="langDirection" name="langDirection" value="ltr" />
+<input type="hidden" id="et-ef" name="et-ef" value="et-ef" />
+<input type="hidden" id="lang" name="lang" value="en" />
+<input type="hidden" id="csrftoken" name="csrftoken" value="ST50M9wlkz4pSaKLBEf8ezYPCKR90BBwmgMNs9EfwWA=" />
+</form>
+<script type="text/javascript">
+<!--
+addEvent(window, "load", installCoreRequiredEvents);
+
+// -->
+</script>
+
+	<script type="text/javascript">
+	secform_initForms(findElementsEndingWithId(null, "editForm"));
+	</script>
+        </div>
+      </div>
+  
+      <div class="valeo_footer">
+        <div class="boilerplate">
+          <img alt="Valeo" class="logo-footer" src="/careersection/theme/561481/1526507949000/en/theme/images/logo-footer.png"></img>
+          <p>Valeo is an automotive supplier and partner to automakers worldwide. As a technology company, we design innovative solutions for smart mobility, with a particular focus on intuitive driving and reducing CO<sub>2</sub> emissions.</p>
+        </div>
+        <div class="social-footer">
+          Valeo on social media
+          <ul><li><a href="https://twitter.com/Valeo_Group" shape="rect"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.linkedin.com/company/valeo" shape="rect"><i class="fa fa-linkedin-square"></i></a></li><li><a href="https://www.facebook.com/Valeo.Group/" shape="rect"><i class="fa fa-facebook"></i></a></li><li><a href="https://www.youtube.com/user/ValeoGroup" shape="rect"><i class="fa fa-youtube"></i></a></li></ul>
+        </div>
+        <ul class="footer-link vertical"><li><a href="http://www.valeo.com/en/contact/" shape="rect">Contact us</a></li><li><a href="http://www.valeo.com/en/copyright_/" shape="rect">Copyright</a></li><li><a href="http://www.valeo.com/en/site-map/" shape="rect">Sitemap</a></li><li><a href="http://www.valeo.com/en/legal-information/" shape="rect">Legal information</a></li></ul>
+        <p class="legal">Valeo 2017</p>
+        <a href="#" class="btn-top" shape="rect">
+          <span><img alt="Top" src="/careersection/theme/561481/1526507949000/en/theme/images/top-arrow.png"></img></span>
+          Top
+        </a>
+        <div class="isMobile"></div>
+      </div> 
+    </div><script src="/careersection/theme/561481/1526507949000/en/theme/js/valeo-jquery-1.11.3.min.js" space="preserve"></script><script src="/careersection/theme/561481/1526507949000/en/theme/js/valeoJavascript.js" space="preserve"></script></body></html>

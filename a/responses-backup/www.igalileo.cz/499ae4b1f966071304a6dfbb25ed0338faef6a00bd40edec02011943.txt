@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+	<meta charset="UTF-8">
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+	<meta name="author" content="Galileo Corporation s.r.o.">
+	<meta name="keywords" content="weby pro obce, weby pro města, výroba webu, tvorba webů, webové stránky, weby pro příspěvkové organizace, galileo, igalileo,Kariéra - vývojář,O nás">
+	<meta name="description" content="Galileo Corporation s.r.o. je největší poskytovatel kvalitních webových stránek a aplikací pro města, obce a školy. Dalšími zákazníky jsou příspěvkové organizace, mikroregiony, sociální služby a další.">
+	<meta name="robots" content="all" lang="cs">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="HandheldFriendly" content="true">
+	<meta property="og:title" content="Galileo Corporation s. r. o.">
+<meta property="og:description" content="Tvorba webů a aplikací pro města, obce, školy a příspěvkové organizace.">
+<meta property="og:image" content="https://www.igalileo.cz/data/editor/252cs_1.png?gcm_date=1615726777">
+
+	
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="skins/igalileo_lego2//favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="skins/igalileo_lego2//favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="skins/igalileo_lego2//favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="skins/igalileo_lego2//favicons/site.webmanifest">
+<link rel="mask-icon" href="skins/igalileo_lego2//favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="skins/igalileo_lego2//favicons/favicon.ico">
+<meta name="msapplication-config" content="skins/igalileo_lego2//favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<base href="https://www.igalileo.cz/"><!--[if lte IE 6]></base><![endif]-->
+	<title>Kariéra - vývojář - Oficiální stránky Galileo Corporation s.r.o.</title>
+	<link href="skins/igalileo_lego2/style.css?v=3.24.1e" rel="stylesheet" media="all" type="text/css">
+<link href="https://www.igalileo.cz/js/highslide/highslide.css?v=3.24.1e" rel="stylesheet" media="all" type="text/css">
+<link href="https://www.igalileo.cz/modules/headerfooter/js/swiper/swiper.4.5.0.min.css?v=3.24.1e" rel="stylesheet" media="all" type="text/css">
+<link href="skins/igalileo_lego2/mmenu.css" rel="stylesheet" media="all" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet" media="all" type="text/css">
+
+	
+	<script src="https://www.igalileo.cz/js/jquery/jquery.min.js?v=3.24.1e"></script>
+<script>
+                jQuery.noConflict();
+                jQuery(document).ready(function(){ jQuery.fn.bootstrapBtn = jQuery.fn.button.noConflict();});
+            </script>
+<script src="https://www.igalileo.cz/js/jquery.migrate/jquery.migrate.min.js?v=3.24.1e"></script>
+<script src="core/required_info/js/locales.cs.js?lang=cs&amp;v=3.24.1e"></script>
+<script src="core/required_info/js/cookies_eu.js?lang=cs&amp;v=3.24.1e"></script>
+<script src="https://www.igalileo.cz/js/funkce.js?v=3.24.1e"></script>
+<script src="https://www.igalileo.cz/js/highslide/highslide-full.packed.js?v=3.24.1e"></script>
+<script src="js/highslide/highslide.cfg.js.php?lang=cs&amp;v=3.24.1e"></script>
+<script src="https://www.igalileo.cz/modules/headerfooter/js/swiper/swiper.4.5.0.min.js?v=3.24.1e"></script>
+<script src="js/dom.js?lang=cs&amp;v=3.24.1e"></script>
+<script src="js/check_form.js.php?lang=cs&amp;v=3.24.1e"></script>
+<script src="skins/igalileo_lego2/js/scripts.min.js?v=3.24.1e"></script>
+<script src="skins/igalileo_lego2/js/swiperInit.js?v=3.24.1e"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js?v=3.24.1e"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js?v=3.24.1e"></script>
+<script src="skins/igalileo_lego2/js/mmenu.polyfills.js?v=3.24.1e"></script>
+<script src="skins/igalileo_lego2/js/mmenu.js?v=3.24.1e"></script>
+<script src="skins/igalileo_lego2/js/mhead.js?v=3.24.1e"></script>
+
+	
+	
+</head>
+<body class="body_multipage menu272 menu272cs">
+    
+	<div id="fb-root"></div>
+            <script>
+                (function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = '//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.3';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+            </script>
+	<div class="gcm-mmenu d-print-none d-sm-none">
+    <a href="#menu" onclick="dataLayer.push({'event': 'hamburger-menu'});" class="gcm-mburger mburger mburger--tornado">
+        <span class="sr-only">Menu</span>
+        <b></b>
+        <b></b>
+        <b></b>
+    </a>
+
+    <div class="gcm-mmenu-infobar">
+        <div class="tpl_mini_module tpl_mini_editor_mobile_tel"><div class="editor_mini">
+    <p><a href="tel:+420226257057"><i class="fal fa-phone"><span class="sr-only">+420 226&nbsp;257&nbsp;057</span></i></a></p>
+</div>
+</div>
+        <div class="tpl_mini_module tpl_mini_editor_mobile_email"><div class="editor_mini">
+    <p><a href="mailto:info@igalileo.cz"><i class="fal fa-envelope"><span class="sr-only">info@igalileo.cz</span></i></a></p>
+</div>
+</div>
+        <a href="/?hledej"><i class="fa fa-search"></i></a>
+    </div>
+</div>
+
+<div class="gcm-mobile-header gcm-container">
+    <a class="gcm-mobile-crest" href="./">
+        <img class="gcm-mobile-crest__img" src="skins/igalileo_lego2/images/crest_cs.svg" alt="Galileo Corporation s.r.o.">
+    </a>
+</div>
+
+<div id="js-menu-wrapper" class="gcm-header">
+    <div class="gcm-header__container gcm-container gcm-container--wide">
+        <div class="gcm-header__row gcm-row">
+            <div class="gcm-header__left">
+                <a class="gcm-crest" href="./">
+                    <img class="gcm-crest__img" src="skins/igalileo_lego2/images/crest_cs.svg" alt="Galileo Corporation s.r.o.">
+                </a>
+            </div>
+            <div class="gcm-header__mid">
+                <div class="gcm-menu-wrapper">
+                    <nav id="menu"><ul class="nav"><li class="nav-item item subitems dropdown selected item-1" id="item164"><a class="nav-link" href="o-nas/" target="_self" title="O nás">O nás</a><ul class="nav"><li class="nav-item item item-1" id="item214"><a class="nav-link" href="o-nas/aktuality/" target="_self" title="Aktuality">Aktuality</a></li><li class="nav-item item item-2" id="item215"><a class="nav-link" href="o-nas/kariera/" target="_self" title="Kariéra">Kariéra</a></li></ul></li><li class="nav-item item subitems dropdown item-2" id="item165"><a class="nav-link" href="co-nabizime/" target="_self" title="Co nabízíme">Co nabízíme</a><ul class="nav"><li class="nav-item item item-1" id="item166"><a class="nav-link" href="co-nabizime/webove-stranky/" target="_self" title="Webové stránky">Webové stránky</a></li><li class="nav-item item item-2" id="item167"><a class="nav-link" href="co-nabizime/mobilni-aplikace/" target="_self" title="Mobilní aplikace">Mobilní aplikace</a></li><li class="nav-item item item-3" id="item168"><a class="nav-link" href="co-nabizime/smart-info/" target="_self" title="Smart Info">Smart Info</a></li><li class="nav-item item item-4" id="item169"><a class="nav-link" href="co-nabizime/elektronicke-uredni-desky/" target="_self" title="Elektronické úřední desky">Elektronické úřední desky</a></li><li class="nav-item item item-5" id="item170"><a class="nav-link" href="co-nabizime/sluzby/" target="_self" title="Služby">Služby</a></li><li class="nav-item item item-6" id="item171"><a class="nav-link" href="co-nabizime/komplexni-reseni/" target="_self" title="Komplexní řešení">Komplexní řešení</a></li></ul></li><li class="nav-item item subitems dropdown item-3" id="item172"><a class="nav-link" href="nase-weby/" target="_self" title="Naše weby">Naše weby</a><ul class="nav"><li class="nav-item item item-1" id="item173"><a class="nav-link" href="nase-weby/obce-a-mesta/" target="_self" title="Obce a města">Obce a města</a></li><li class="nav-item item item-2" id="item175"><a class="nav-link" href="nase-weby/skoly-a-skolky/" target="_self" title="Školy a školky">Školy a školky</a></li><li class="nav-item item item-3" id="item178"><a class="nav-link" href="nase-weby/prispevkove-organizace/" target="_self" title="Příspěvkové organizace">Příspěvkové organizace</a></li><li class="nav-item item item-4" id="item176"><a class="nav-link" href="nase-weby/socialni-sluzby/" target="_self" title="Sociální služby">Sociální služby</a></li><li class="nav-item item item-5" id="item174"><a class="nav-link" href="nase-weby/mikroregiony-a-svazky/" target="_self" title="Mikroregiony a svazky">Mikroregiony a svazky</a></li><li class="nav-item item item-6" id="item177"><a class="nav-link" href="nase-weby/ostatni/" target="_self" title="Ostatní">Ostatní</a></li><li class="nav-item item subitems dropdown item-7" id="item189"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/" target="_self" title="Příběhy našich zákazníků">Příběhy našich zákazníků</a><ul class="nav"><li class="nav-item item subitems dropdown item-1" id="item179"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/pribeh-mimone/" target="_self" title="Příběh Mimoně">Příběh Mimoně</a><ul class="nav"><li class="nav-item item item-1" id="item200"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/pribeh-mimone/nazor-zakaznika-z-mesta-mimon/" target="_self" title="Názor zákazníka z města Mimoň">Názor zákazníka z města Mimoň</a></li></ul></li><li class="nav-item item item-2" id="item180"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/pribeh-obce-otice/" target="_self" title="Příběh obce Otice">Příběh obce Otice</a></li><li class="nav-item item subitems dropdown item-3" id="item181"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/pribeh-komplexniho-reseni-horomeric/" target="_self" title="Příběh komplexního řešení Horoměřic">Příběh komplexního řešení Horoměřic</a><ul class="nav"><li class="nav-item item item-1" id="item201"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/pribeh-komplexniho-reseni-horomeric/slovo-mistostarosty-horomeric/" target="_self" title="Slovo místostarosty Horoměřic">Slovo místostarosty Horoměřic</a></li></ul></li><li class="nav-item item subitems dropdown item-4" id="item182"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/pribeh-zs-mseno/" target="_self" title="Příběh ZŠ Mšeno">Příběh ZŠ Mšeno</a><ul class="nav"><li class="nav-item item item-1" id="item202"><a class="nav-link" href="nase-weby/pribehy-nasich-zakazniku/pribeh-zs-mseno/nazor-zakaznika-skola-mseno/" target="_self" title="Názor zákazníka škola Mšeno">Názor zákazníka škola Mšeno</a></li></ul></li></ul></li></ul></li><li class="nav-item item subitems dropdown item-4" id="item191"><a class="nav-link" href="reference/" target="_self" title="Reference">Reference</a><ul class="nav"><li class="nav-item item item-1" id="item192"><a class="nav-link" href="reference/obce-a-mesta/male-obce/" target="_self" title="Obce a města">Obce a města</a></li><li class="nav-item item item-2" id="item193"><a class="nav-link" href="reference/skoly-a-skolky/materske-skoly/" target="_self" title="Školy a školky">Školy a školky</a></li><li class="nav-item item item-3" id="item194"><a class="nav-link" href="reference/prispevkove-organizace/" target="_self" title="Příspěvkové organizace">Příspěvkové organizace</a></li><li class="nav-item item item-4" id="item195"><a class="nav-link" href="reference/socialni-sluzby/" target="_self" title="Sociální služby">Sociální služby</a></li><li class="nav-item item item-5" id="item196"><a class="nav-link" href="reference/mikroregiony-a-svazky/" target="_self" title="Mikroregiony a svazky">Mikroregiony a svazky</a></li><li class="nav-item item item-6" id="item197"><a class="nav-link" href="reference/ostatni/" target="_self" title="Ostatní">Ostatní</a></li></ul></li><li class="nav-item item item-5" id="item220"><a class="nav-link" href="o-nas/aktuality/" target="_self" title="Aktuality">Aktuality</a></li><li class="nav-item item item-6" id="item185"><a class="nav-link" href="kontakty/technicka-podpora/" target="_self" title="Kontakty">Kontakty</a></li></ul></nav>
+                </div>
+
+            </div>
+            <div class="gcm-header__right">
+                <div class="tpl_mini_module tpl_mini_editor_support"><div class="editor_mini">
+    <p><a class="btn--support" href="kontakty/technicka-podpora#TeamViewer" onclick="dataLayer.push({'event': 'podpora'});">Podpora</a></p>
+</div>
+</div>
+                <a class="gcm-fulltext" href="/?hledej" title="Vyhledávání" ><i class="fa fa-search"></i></a>
+                <div class="gcm-mmenu-wrapper">
+                    <a title="Menu" onclick="dataLayer.push({'event': 'hamburger-menu'});" href="#menu" class="gcm-mburger mburger mburger--tornado">
+                        <span class="sr-only">Menu</span>
+                        <b></b>
+                        <b></b>
+                        <b></b>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="gcm-container gcm-container--wide mp-container-header hp-only">
+    <div class="gcm-row mp-container-header__row">
+    <div class="mp-container-header__mid swiper-container1 js-swiper-container1">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/uvodnifoto.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Pomáháme s&nbsp;<strong>digitalizací</strong></h2> <h3>obcí, měst a&nbsp;příspěvkových organizací...</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/tvorbawebovychstranek.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Tvorba <strong>webových stránek</strong></h2> <h3>jednička v&nbsp;České republice, více než 4000&nbsp;zákazníků</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/aplikacevobraze.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Mobilní aplikace <strong>V OBRAZE</strong></h2> <h3>novinky z&nbsp;webu přímo do&nbsp;mobilu občana</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/smartinfo.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>SMS zprávy&nbsp;- <strong>Smart Info</strong></h2> <h3>rozesílání SMS přímo z&nbsp;redakčního systému webu</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/elektronickeurednidesky.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Elektronické <strong>úřední desky</strong></h2> <h3>moderní a&nbsp;efektivní způsob zveřejňování dokumentů</h3></div>
+                    </div>
+    </div>
+<script>
+    const swiperOptions1 = {
+            }
+</script>
+
+        <div class="tpl_mini_module tpl_mini_editor_hp-2"><div class="editor_mini">
+    <h3 class="mp-container-header__h3">Co vás k&nbsp;nám přivádí?</h3> <p style=" display: flex; flex-wrap: wrap; justify-content: center; "><a class="btn-hp mp-container-header__btn  mp-container-header__btn--highlight mr-xl-5" href="co-nabizime/webove-stranky/">Nový web</a> <a class="btn-hp mp-container-header__btn" href="co-nabizime/mobilni-aplikace/">Mobilní aplikace</a> <a class="btn-hp mp-container-header__btn mr-xl-5" href="/co-nabizime/smart-info/">Smart Info</a> <a class="btn-hp mp-container-header__btn" href="/co-nabizime/elektronicke-uredni-desky/">Elektronické úřední desky</a></p>
+</div>
+</div>
+    </div>
+    <!--
+        <h1 class="mp-container-header__h1 animate__animated animate__fadeInLeft">Pomáháme <span class="mp-container-header__h1--bold">s digitalizací</span></h1>
+    
+        <div class="mp-container-header__left">
+            <div class="gcm-row mp-container-header__left-row">
+                <div class="mp-container-header__left-top">
+                    <h2 class="mp-container-header__h2 gcm-keyframes-color"><span>obcí</span>, <span>měst </span>a <span>příspěvkových organizací...</span></h2>
+                </div>
+                <div class="mp-container-header__left-bot">
+                    <div class="tpl_mini_module tpl_mini_editor_hp-2"><div class="editor_mini">
+    <h3 class="mp-container-header__h3">Co vás k&nbsp;nám přivádí?</h3> <p style=" display: flex; flex-wrap: wrap; justify-content: center; "><a class="btn-hp mp-container-header__btn  mp-container-header__btn--highlight mr-xl-5" href="co-nabizime/webove-stranky/">Nový web</a> <a class="btn-hp mp-container-header__btn" href="co-nabizime/mobilni-aplikace/">Mobilní aplikace</a> <a class="btn-hp mp-container-header__btn mr-xl-5" href="/co-nabizime/smart-info/">Smart Info</a> <a class="btn-hp mp-container-header__btn" href="/co-nabizime/elektronicke-uredni-desky/">Elektronické úřední desky</a></p>
+</div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="mp-container-header__right">
+            <div class="swiper-container1 js-swiper-container1 invisible">
+                <div class="swiper-wrapper">
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/uvodnifoto.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Pomáháme s&nbsp;<strong>digitalizací</strong></h2> <h3>obcí, měst a&nbsp;příspěvkových organizací...</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/tvorbawebovychstranek.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Tvorba <strong>webových stránek</strong></h2> <h3>jednička v&nbsp;České republice, více než 4000&nbsp;zákazníků</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/aplikacevobraze.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Mobilní aplikace <strong>V OBRAZE</strong></h2> <h3>novinky z&nbsp;webu přímo do&nbsp;mobilu občana</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/smartinfo.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>SMS zprávy&nbsp;- <strong>Smart Info</strong></h2> <h3>rozesílání SMS přímo z&nbsp;redakčního systému webu</h3></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/elektronickeurednidesky.jpg')">
+            </div>
+                            <div class="swiper-slide-text"><h2>Elektronické <strong>úřední desky</strong></h2> <h3>moderní a&nbsp;efektivní způsob zveřejňování dokumentů</h3></div>
+                    </div>
+    </div>
+<script>
+    const swiperOptions1 = {
+            }
+</script>
+
+            </div>
+            <div class="swiper-container1-2 js-swiper-container1-2 invisible">
+                <div class="swiper-wrapper">
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/mala-skala_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Internetové stránky od&nbsp;společnosti Galileo Corporation s.r.o. využívá obec Malá Skála od&nbsp;roku 2013.&nbsp;<strong>Stránky jsou přehledné, uživatelsky velice přívětivé, technická podpora profesionální.</strong> Potřebné informace sdělíte občanům prakticky ihned. Velice oceňuji splnění nových legislativních povinností ještě před&nbsp;nabytím jejich účinnosti, propojení na&nbsp;sociální sítě a&nbsp;mobilní aplikaci. Mohu jen a&nbsp;jen doporučit!&quot;</p> <p><em>Michal Rezler, starosta obce Malá skála</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/olovnice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Když jsem v&nbsp;roce 2014&nbsp;nastupoval jako nový starosta obce Olovnice, tak jedním z&nbsp;hlavním úkolů, které jsem si dal, bylo zkvalitnit, zpřehlednit a&nbsp;zjednodušit webové stránky naší obce, neboť tyto stránky jsou zpravidla prvním kontaktem většiny občanů s&nbsp;naší obcí. <strong>Díky firmě Galileo corporation se&nbsp;nám podařilo dosáhnout skvělého a&nbsp;reprezentativního vzhledu webových stránek obce.</strong>&quot;</p> <p><em>Ing. Zdeněk Kinter, starosta obce Olovnice</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/sporice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Jako starosta působím ve&nbsp;Spořicích již desátým rokem. Po&nbsp;celou dobu se&nbsp;o&nbsp;naše stránky stará firma Galileo Corporation s.r.o. <strong>Bez&nbsp;jejich redakčního systému, nadstandardní technické a&nbsp;legislativní podpory, si nedovedu naši práci představit.</strong>&quot;</p> <p><em>Ing. Roman Brand, starosta obce Spořice</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/rtyne_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;S firmou Galileo Corporation s.r.o. jsme velice spokojeni, její produkty jsou kvalitní, velice nám pomáhají. Zároveň oceňujeme zákaznickou podporu a&nbsp;obchodního zástupce paní Mgr. Dubskou. <strong>Vždy, když&nbsp;potřebujeme, věnují se&nbsp;našemu problému</strong> a&nbsp;bez zbytečných průtahů vše vyřešili.&quot;</p> <p><em>Jaroslav Liška, starosta obce Rtyně nad&nbsp;Bílinou</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/dalesice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Díky modernímu, jednoduchému řešení a&nbsp;skvělé podpoře od&nbsp;firmy Galileo Corporation nemusím trávit tolik času s&nbsp;administrací webových stránek a&nbsp;můžu se&nbsp;tak více věnovat rozvoji městyse. <strong>Navíc se&nbsp;mohu spolehnout na&nbsp;to, že&nbsp;naše internetové stránky splňují veškerou legislativu</strong>, což je další úleva pro&nbsp;obec. Proto s&nbsp;jistotou doporučuji spolupráci s&nbsp;firmou Galileo.&quot;</p> <p><em>Jiří Loukota, starosta městyse Dalešice</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/brandov-1_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Obec Brandov spolupracuje se&nbsp;společností Galileo Corporation s.r.o. již řadu let a&nbsp;to především co se&nbsp;týče zajištění webových stránek obce a&nbsp;následnou technickou podporou. Velmi oceňujeme přístup zástupců společnosti, kteří ochotně a&nbsp;bezodkladně reagují na&nbsp;naše podněty v&nbsp;případech řešení pomoci v&nbsp;souvislosti s&nbsp;administrativou stránek a&nbsp;také dalších služeb spojených s&nbsp;povinnostmi úřadu k&nbsp;dodržování legislativních podmínek. <strong>Z&nbsp;pohledu dosavadní spolupráce můžeme společnost Galileo Corporation s.r.o. doporučit</strong> i&nbsp;dalším úřadům a&nbsp;institucím.&quot;</p> <p><em>Jiří Mooz, starosta obce Brandov</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/choutice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Firma Galileo je pro&nbsp;nás velice solidním partnerem. Spolupracujeme s&nbsp;ní dlouhodobě a&nbsp;díky této spolupráci fungují naše webové stránky bez&nbsp;problémů. <strong>Firma sleduje všechnu novou legislativu a&nbsp;provádí průběžně potřebné úpravy webu</strong>.<strong> Nemusíme se&nbsp;tedy starat o&nbsp;to, zda jsme v&nbsp;souladu s&nbsp;nejnovějšími platnými pravidly. </strong>Spolupráce jak s&nbsp;obchodní zástupkyní, tak i&nbsp;s technickou podporou je vynikající. Galileo je dobrá volba pro&nbsp;webové služby.&quot;</p> <p><em>Mgr. Ing.&nbsp;Luboš Zajíc, starosta obce Chotutice</em></p></div>
+                    </div>
+    </div>
+<script>
+    const swiperOptions2 = {
+            }
+</script>
+
+            </div>
+        -->
+        </div>
+    </div>
+</div>
+<div class="gcm-info">
+                <nav aria-label="breadcrumb" class="gcm-navigation"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="https://www.igalileo.cz/" title="Home"><i class="far fa-home"></i><span>Home</span></a></li><li class="breadcrumb-item"><a href="o-nas/">O nás</a></li><li class="breadcrumb-item active last" aria-current="page">Kariéra - vývojář</li></ol></nav>
+            </div>
+<div class="gcm-main-container gcm-container">
+    <div class="gcm-row">
+        <div class="gcm-h1"><h1>Kariéra - vývojář</h1></div>
+        <div class="gcm-content">
+            
+
+                
+
+                <div class="multipage front module_content readable">
+        <div class="contentbox row">
+                                    <div id="widget_969" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-a" style="background:#003366; color: #fff">
+                    <div class="gcm-container">
+                        <div class="gcm-row">
+                             <h1 class="mp-container__h2 mp-container-a__h2" style="color: #fff">Kariéra</h1> 
+                            <p class="mp-container-a__text">Máš zájem o&nbsp;kariéru v&nbsp;naší společnosti?<br><b>Napiš nám na&nbsp;e-mail:</b></p>
+<a class="mx-auto mp-container-contact__link" style="color: #fff" href="mailto:job@igalileo.cz"><i class="mp-container-contact__ico fal fa-envelope" style="color: #fff"></i>job@igalileo.cz</a>
+                        </div> 
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_972" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-a">
+                    <div class="gcm-container">
+                        <div class="gcm-row">
+                            <h2 class="mp-container__h2 mp-container-a__h2">Hledáme vývojáře do&nbsp;našeho teamu!</h2>
+                            <p class="mp-container-a__text">Galileo Corporation s.r.o. je na&nbsp;trhu již více než 20&nbsp;let a&nbsp;zažívá stabilní růst. Chceme obcím, městům a&nbsp;samosprávám vytvořit nástroje a&nbsp;systémy, které jim usnadní práci a&nbsp;pomohou zlepšit kvalitu života pro&nbsp;občany. Náš vývojářský tým se musí postarat o to, aby byly stabilní, přehledné a&nbsp;vždy plnily aktuální potřeby.</p>
+                            <i class="mp-container-a__ico-2 fal fa-chevron-down">​​</i>
+                        </div>
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_1017" class="mini-RawHtmlMini widget col-12 highlight">
+        <div class="content">
+        <div class="mp-container mp-container-c">
+    <div class="gcm-container">
+        <div class="gcm-row">
+            <h2 class="mp-container__h2 mp-container-c__h2">Koho hledáme?</h2>
+            <div class="mp-container-c__link nav-link">
+                <i class="mp-container-c__ico fab fa-php">​​</i>
+                <h2 class="mp-container__h3">PHP programátor</h2>
+<p>
+PHP</br> 
+Symfony</br>
+SQL databáze
+</p>
+            </div>
+​    <div class="mp-container-c__link nav-link">
+                <i class="mp-container-c__ico fal fa-file-code">​​</i>
+                <h2 class="mp-container__h3">Frontendista</h2>
+<p>
+HTML</br> 
+CSS</br> 
+Javascript
+</p>
+            </div>
+    <div class="mp-container-c__link nav-link">
+                <i class="mp-container-c__ico fal fa-server">​​</i>
+                <h2 class="mp-container__h3">Deploy specialista</h2>
+<p>
+PHP</br> 
+Git</br> 
+Linux
+</p>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_984" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-f1">
+                    <div class="gcm-container">
+                        <div class="gcm-row mp-container-f1__row">
+                            <div class="mp-container-f1__img"><img src="skins/igalileo_lego2/images/mp/kariera_vyvojar.jpg" alt="Kariéra vývojář"/>
+</div>  
+                            <div class="mp-container-f1__body">
+                                <h2 class="mp-container__h2 mp-container-f1__h2">a dále?</h2> 
+<ul>
+ <li>Práce vývojáře tě baví a&nbsp;stabilní pracovní prostředí tě dlouhodobě naplňuje.</li> 
+ <li>Jsi zodpovědný/á, samostatný/á, komunikativní/á.</li>
+ <li>Věk, vzdělání, forma spolupráce (HPP, DPP, IČ), handicapy u&nbsp;nás nejsou omezením.</li>
+ <li>Místo výkonu práce: nejlépe Plzeňský kraj, ale může být celá ČR, dle dohody.</li>
+</ul>
+<p><b>Nástup: ihned nebo dohodou...</b></p>
+            </div> 
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_985" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-a" style="background:#006AD4; color: #fff">
+                    <div class="gcm-container">
+                        <div class="gcm-row">
+                            <h2 class="mp-container__h2 mp-container-a__h2" style="color: #fff">Chceš se přidat do našeho týmu?<br>Pošli nám e-mailem svůj životopis.</h2>
+<a class="mx-auto mp-container-contact__link" style="color: #fff" href="mailto:job@igalileo.cz"
+        ><i class="mp-container-contact__ico fal fa-envelope" style="color: #fff"></i>job@igalileo.cz</a>
+                        </div> 
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_986" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-d">
+                    <div class="gcm-container">
+                        <div class="gcm-row mp-container-d__row">
+                            <h2 class="mp-container__h2 mp-container-d__h2">Co je náplní práce v 5 bodech?</h2>
+                            <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Rozvoj stávajících produktů</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>Mezi naše stávající produkty patří webové stránky, mobilní aplikace, elektronické úřední desky, informační kiosky, komunikační systémy s&nbsp;občany a&nbsp;další řešení, které tvoří náš produktový ekosystém. Baví nás stávající produkty rozvíjet. A baví to i&nbsp;naše zákazníky.</p>
+                            </div>
+                          <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Vývoj nových produktů</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>Staráme se o&nbsp;ekosystém nástrojů pro&nbsp;4000 zákazníků. Zadání pro&nbsp;náš vývojářský team vznikají nasloucháním potřebám zákazníků (například skrze uživatelské testování) a&nbsp;legislativním novinkám v&nbsp;oblasti samospráv. Nové produkty pro&nbsp;naše zákazníky musí být přínosné, udržitelné a&nbsp;samospravovatelné.</p>
+                            </div>
+                            <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Správa a&nbsp;údržba systému</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>19 let&nbsp;na&nbsp;trhu a&nbsp;4000 stálých zákazníků vyžaduje velkou zodpovědnost, a&nbsp;proto systém musí fungovat, být zabezpečený a monitorovaný. Praxe a&nbsp;prostředí samospráv nás naučilo,  že to není jen o&nbsp;aktualizacích, ale o&nbsp;odstraňování chyb, odmazávání technického dluhu, používání různých technologií a&nbsp;optimalizování procesů.</p>
+</div>
+                             <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Vytvořit si pracovní prostředí podle sebe</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>V Galileu má každý možnost nastavit si pracovní prostředí podle sebe. To v&nbsp;praxi znamená, že pracovní doba, způsob komunikace, nástroje a&nbsp;vybavení i&nbsp;místo, odkud pracujete, je na&nbsp;pouze na&nbsp;vzájemné dohodě. To s&nbsp;sebou nese potřebu samostatnosti, schopnosti organizovat svou práci a&nbsp;zodpovědnosti, ale ověřili jsme si, že je to pro&nbsp;nás ta správná cesta.</p>
+</div>
+                            <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Být v&nbsp;týmu jeden pro&nbsp;druhého</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>Vzájemná podpora a&nbsp;komunikace mezi vývojáři a&nbsp;obchodníky, techniky, grafiky, kodéry je pro&nbsp;nás základem. Nevedeme žádné žabomyší války. Když něco nevíme, nebojíme se zeptat. Když víme, poradíme a&nbsp;umíme to říct ostatním. Vzájemně si pomáháme a&nbsp;respektujeme se.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_970" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-c">
+    <div class="gcm-container">
+        <div class="gcm-row">
+            <h2 class="mp-container__h2 mp-container-c__h2">Jsme v&nbsp;pohodě a&nbsp;práce nás baví</h2>
+            <div class="mp-container-c__link nav-link">
+                <i class="mp-container-c__ico fal fa-coffee">​​</i>
+                <h3 class="mp-container-c__h3">Neformální kultura</h3>
+            </div>
+​    <div class="mp-container-c__link nav-link">
+                <i class="mp-container-c__ico fal fa-handshake">​​</i>
+                <h3 class="mp-container-c__h3">Práce v mikrotýmech</h3>
+            </div>
+    <div class="mp-container-c__link nav-link">
+                <i class="mp-container-c__ico fal fa-laptop-house">​​</i>
+                <h3 class="mp-container-c__h3">Stabilní zázemí</h3>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_981" class="mini-RawHtmlMini widget col-12 highlight">
+        <div class="content">
+        <div class="mp-container mp-container-b2">
+                    <div class="gcm-row mp-container-b2__row">
+                        <div class="mp-container-b2__body">
+                            <h2 class="mp-container__h2 mp-container-b2__h2">Přátelská atmosféra je naší celofiremní prioritou!</h2>   
+                            <p class="mp-container-b2__perex">Jsme jeden tým, <b>již 19 let spolu</b>.</p>
+                        </div> 
+                        <img class="mp-container-b2__img" src="skins/igalileo_lego2/images/mp/foto_obchodnici.png" alt="Foto obchodníků" />  
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_983" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-d">
+                    <div class="gcm-container">
+                        <div class="gcm-row mp-container-d__row">
+                            <h2 class="mp-container__h2 mp-container-d__h2">Čím je práce u&nbsp;nás charakteristická?</h2>
+                            <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Jsme leadrem</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>Jsme jedničkou na&nbsp;trhu. Pro&nbsp;naše zákazníky nejsme jen zárukou kvality, stability a&nbsp;služeb, ale určujeme i&nbsp;směr. </p>
+                            </div>
+                            <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Neházíme neplavce do&nbsp;vody</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>Chápeme, že náplň práce, trh a&nbsp;kultura, kde firma působí, je v&nbsp;nové práci vždy specifická, proto se snažíme, abychom byli maximálně podporující při&nbsp;rozjezdu.</p>
+                            </div>
+                            <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Pracovní vybavení na&nbsp;míru</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>Každý si může zvolit pracovní vybavení podle sebe. Víme, že se správným pracovním vybavením se pracuje lépe.</p>
+</div>
+                            <div class="mp-container-d__link nav-link">
+                                <h3 class="mp-container-d__h3">Férové ohodnocení</h3>
+                                <p class="mp-container-d__text"><i class="mp-container-d__ico fal fa-check-circle">​​</i>Umíme své lidi ohodnotit. Nejen penězi, ale i&nbsp;různými benefity. Vnímáme, že každý má jiné představy, co je pro něj ohodnocení.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_982" class="mini-RawHtmlMini widget col-12 highlight">
+        <div class="content">
+        <div class="mp-container mp-container-a">
+                    <div class="gcm-container">
+                        <div class="gcm-row">
+                            <h2 class="mp-container__h2 mp-container-a__h2">Co říká vedení společnosti?</h2> 
+                            <i class="mp-container-a__ico-2 fal fa-chevron-down">​​</i>
+                        </div>
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_980" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-h">
+    <div class="gcm-container">
+        <div class="gcm-row mp-container-h__row">
+            <h2 class="mp-container__h2 mp-container-h__h2">"Klíčem úspěchu jsou právě lidé, kteří v Galileu tvoří jeden tým... není to jen o práci, ale i o&nbsp;zábavě a&nbsp;přátelství..."</h2>
+            <div class="mp-container-h__body">
+                <p class="mp-container-h__perex">"Být jedničkou na&nbsp;trhu s&nbsp;webovými stránkami a&nbsp;mobilní aplikací pro&nbsp;samosprávu pro&nbsp;mě znamená nejen velkou radost, ale především cítím velkou zodpovědnost.<p>
+Jsem hrdý na&nbsp;to, že díky naší usilovné práci, sledováním trendů, inovacím a&nbsp;především skvělému kolektivu děláme Váš úřad přívětivějším pro&nbsp;občany a&nbsp;návštěvníky.<p>
+Klíčem úspěchu jsou právě lidé, kteří v&nbsp;Galileu tvoří jeden tým. Dobré pracovní prostředí je pro&nbsp;mě klíčové. U nás to není jen o práci, ale i&nbsp;o&nbsp;zábavě a&nbsp;přátelství."
+</p>
+<p><i>Dušan Procházka, majitel a jednatel společnosti</i>
+</p>            
+</div> 
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_976" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-h pt-0">
+    <div class="gcm-container">
+        <div class="gcm-row mp-container-h__row">
+            <h2 class="mp-container__h2 mp-container-h__h2">"Mám radost, když mi kolegové řeknou, že je práce baví..."</h2>
+            <div class="mp-container-h__body">
+                <p class="mp-container-h__perex">"V Galileu mě to baví. Už 11&nbsp;let. Vím, že pracuji pro&nbsp;zákazníky, aby od&nbsp;nás měli to, co potřebují, co jím šetří čas a&nbsp;že jim vždy pomůžeme. Mám radost, když mi kolegové řeknou, že je práce baví, jsou tu rádi a&nbsp;že je tu důvěra a&nbsp;otevřenost. To je nejvíc."</p>
+<p><i>Jitka Vejvodová, projektový manažer</i>
+</p>            
+</div> 
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_979" class="mini-RawHtmlMini widget col-12 highlight">
+        <div class="content">
+        <div class="mp-container mp-container-a">
+                    <div class="gcm-container">
+                        <div class="gcm-row">
+                            <h2 class="mp-container__h2 mp-container-a__h2">Jaký názor mají naši kolegové?</h2> 
+                            <i class="mp-container-a__ico-2 fal fa-chevron-down">​​</i>
+                        </div>
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_978" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-h">
+    <div class="gcm-container">
+        <div class="gcm-row mp-container-h__row">
+            <h2 class="mp-container__h2 mp-container-h__h2">"…miluji svoji práci, baví mě cestovat a&nbsp;mám možnost setkávat se skvělými lidmi..."</h2>
+            <div class="mp-container-h__body">
+                <p class="mp-container-h__perex">"Jsem v&nbsp;Galileu 11&nbsp;let a&nbsp;za&nbsp;tu dobu jsem nacestoval téměř půl milionu kilometrů za&nbsp;úřady a&nbsp;lidmi, kteří je řídí. Jako životní optimista a&nbsp;otevřený člověk  mám rád setkávání se zákazníky, s&nbsp;mnohými z&nbsp;nich mám přátelské vztahy a&nbsp;i&nbsp;oni mě vždy rádi vidí. Vídáme se pravidelně několikrát do&nbsp;roka.</p><p>Vyjíždím na&nbsp;cesty po&nbsp;svém regionu za&nbsp;každého počasí, v&nbsp;zimě i&nbsp;v&nbsp;létě a&nbsp;moje starostky a&nbsp;starostové se mohou spolehnout, že k&nbsp;nim dorazím.  A&nbsp;také, že jim vždy pomohu vše vyřešit a&nbsp;vysvětlit. Koneckonců tak to děláme všichni u&nbsp;nás v&nbsp;Galileu. Jsme totiž firma plná úžasných lidí."</p><p><i>Jakub Červený, obchodní zástupce</i>
+</p>
+            </div> 
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_977" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-h pt-0">
+    <div class="gcm-container">
+        <div class="gcm-row mp-container-h__row">
+            <h2 class="mp-container__h2 mp-container-h__h2">"Pracovat v&nbsp;Galileo týmu mě baví… jsme tu jeden pro&nbsp;druhého..."</h2>
+            <div class="mp-container-h__body">
+                <p class="mp-container-h__perex">"Jsem sice „nováčkem na&nbsp;Technické podpoře“, za&nbsp;to ale mohu s&nbsp;jistotou říci, že bych nikde jinde nenašla lepší kolektiv. Kolegové mě do&nbsp;svého týmu přijali s&nbsp;otevřenou náručí, se vším mi pomohli a&nbsp;do teď pomáhají - jsme tu jeden pro&nbsp;druhého. Společně pracujeme na&nbsp;tom, aby s&nbsp;námi byli zákazníci co&nbsp;nejvíce spokojení a&nbsp;spolupráce s&nbsp;námi je bavila."</p><p><i>Veronika Pecháčková, technička</i>
+</p>
+            </div> 
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_975" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-h pt-0">
+    <div class="gcm-container">
+        <div class="gcm-row mp-container-h__row">
+            <h2 class="mp-container__h2 mp-container-h__h2">"...sdílím hodnoty společnosti jako je vzájemná důvěra, podpora a&nbsp;pomoc..."</h2>
+            <div class="mp-container-h__body">
+                <p class="mp-container-h__perex">"Společnost Galileo Corporation s.r.o. mi přirostla k&nbsp;srdci. Začal jsem zde pracovat jako převodce dat v&nbsp;roce 2018. Nezůstal jsem však jen u&nbsp;převodů dat. Dostal jsem možnost testovat webové stránky a&nbsp;podílet se na&nbsp;dalších a&nbsp;dalších zajímavých projektech. Postupem času jsem získal cenné zkušenosti. To vše v&nbsp;přátelské atmosféře.</p><p>Plně sdílím hodnoty společnosti jako je vzájemná důvěra, podpora a&nbsp;pomoc. Protože studuji vysokou školu, oceňuji také flexibilitu práce."</p><p><i>Václav Hlaváč, tester</i>
+</p>
+            </div> 
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_974" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-h pt-0">
+    <div class="gcm-container">
+        <div class="gcm-row mp-container-h__row">
+            <h2 class="mp-container__h2 mp-container-h__h2">"...nové moderní pracovní zázemí, skvělý kolektiv, výborná káva..."</h2>
+            <div class="mp-container-h__body">
+                <p class="mp-container-h__perex">"Před dvěma lety jsem se pustila do&nbsp;nové výzvy – najít si novou práci. Hledala jsem místo, kde bude dobrý kolektiv, kde se budu dále vzdělávat, kde se budu cítit dobře, kde mě práce bude bavit…</p>
+<p>Vše jsem našla na&nbsp;technické podpoře ve&nbsp;firmě Galileo. Firma se rozvíjí, rozšiřuje, modernizuje. Společně se snažíme plnit přání zákazníků. Nové moderní pracovní zázemí, skvělý kolektiv, výborná káva."</p><p><i>Petra Vaňková, technička</i>
+</p>
+            </div> 
+        </div>
+    </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_973" class="mini-RawHtmlMini widget col-12 highlight">
+        <div class="content">
+        <div class="mp-container mp-container-a">
+                    <div class="gcm-container">
+                        <div class="gcm-row">
+                            <h2 class="mp-container__h2 mp-container-a__h2">Co takhle Galileo Corporation v&nbsp;číslech?</h2> 
+                            <i class="mp-container-a__ico-2 fal fa-chevron-down">​​</i>
+                        </div>
+                    </div>
+                </div>
+    </div>
+        </div>
+                                                <div id="widget_971" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div
+  class="mp-container mp-container-x gcm-hp-5 gcm-container gcm-container--wide pb-0"
+>
+  <div class="gcm-hp-5__row gcm-row">
+    <div class="gcm-hp-5__heading-wrap">
+    </div>
+
+    <div class="gcm-hp-5__item">
+      <div class="gcm-hp-5__number purecounter" data-purecounter-duration="4" data-purecounter-delay="50" data-purecounter-end="80">0</div>
+
+      <div class="gcm-hp-5__text">spolupracovníků</div>
+    </div>
+
+    <div class="gcm-hp-5__item">
+      <div class="gcm-hp-5__number purecounter" data-purecounter-duration="4" data-purecounter-delay="117" data-purecounter-end="34">0</div>
+
+      <div class="gcm-hp-5__text">let průměrný věk</div>
+    </div>
+
+    <div class="gcm-hp-5__item">
+      <div class="gcm-hp-5__number purecounter" data-purecounter-duration="4" data-purecounter-delay="190" data-purecounter-end="21">0</div>
+
+      <div class="gcm-hp-5__text">typů pracovních pozic</div>
+    </div>
+
+
+    <div class="gcm-hp-5__item">
+      <div class="gcm-hp-5__number purecounter" data-purecounter-duration="4" data-purecounter-delay="211" data-purecounter-end="20">0</div>
+
+      <div class="gcm-hp-5__text">let držíme spolu</div>
+    </div>
+  </div>
+</div>
+    </div>
+        </div>
+                                                <div id="widget_987" class="mini-RawHtmlMini widget col-12">
+        <div class="content">
+        <div class="mp-container mp-container-a" style="background:#006AD4; color: #fff">
+                    <div class="gcm-container">
+                        <div class="gcm-row">
+                            <h2 class="mp-container__h2 mp-container-a__h2" style="color: #fff">Chceš se přidat do&nbsp;našeho týmu?<br>Pošli nám emailem svůj životopis.</h2>
+<a class="mx-auto mp-container-contact__link" style="color: #fff" href="mailto:job@igalileo.cz"
+        ><i class="mp-container-contact__ico fal fa-envelope" style="color: #fff"></i>job@igalileo.cz</a>
+                        </div> 
+                    </div>
+                </div>
+    </div>
+        </div>
+                        </div>
+    </div>
+
+                
+        </div>
+    </div>
+</div>
+
+<div class="swiper5-wrap hp-only">
+    <h2 class="swiper5-wrap--heading">Řekli o nás</h2>
+    <div class="swiper-container5 container position-relative d-print-none">
+        <div  class='slideshow_obal js-swiper-container5' aria-hidden="true" role="presentation">
+            <div class="swiper-wrapper">
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/mala-skala_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Internetové stránky od&nbsp;společnosti Galileo Corporation s.r.o. využívá obec Malá Skála od&nbsp;roku 2013.&nbsp;<strong>Stránky jsou přehledné, uživatelsky velice přívětivé, technická podpora profesionální.</strong> Potřebné informace sdělíte občanům prakticky ihned. Velice oceňuji splnění nových legislativních povinností ještě před&nbsp;nabytím jejich účinnosti, propojení na&nbsp;sociální sítě a&nbsp;mobilní aplikaci. Mohu jen a&nbsp;jen doporučit!&quot;</p> <p><em>Michal Rezler, starosta obce Malá skála</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/olovnice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Když jsem v&nbsp;roce 2014&nbsp;nastupoval jako nový starosta obce Olovnice, tak jedním z&nbsp;hlavním úkolů, které jsem si dal, bylo zkvalitnit, zpřehlednit a&nbsp;zjednodušit webové stránky naší obce, neboť tyto stránky jsou zpravidla prvním kontaktem většiny občanů s&nbsp;naší obcí. <strong>Díky firmě Galileo corporation se&nbsp;nám podařilo dosáhnout skvělého a&nbsp;reprezentativního vzhledu webových stránek obce.</strong>&quot;</p> <p><em>Ing. Zdeněk Kinter, starosta obce Olovnice</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/sporice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Jako starosta působím ve&nbsp;Spořicích již desátým rokem. Po&nbsp;celou dobu se&nbsp;o&nbsp;naše stránky stará firma Galileo Corporation s.r.o. <strong>Bez&nbsp;jejich redakčního systému, nadstandardní technické a&nbsp;legislativní podpory, si nedovedu naši práci představit.</strong>&quot;</p> <p><em>Ing. Roman Brand, starosta obce Spořice</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/rtyne_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;S firmou Galileo Corporation s.r.o. jsme velice spokojeni, její produkty jsou kvalitní, velice nám pomáhají. Zároveň oceňujeme zákaznickou podporu a&nbsp;obchodního zástupce paní Mgr. Dubskou. <strong>Vždy, když&nbsp;potřebujeme, věnují se&nbsp;našemu problému</strong> a&nbsp;bez zbytečných průtahů vše vyřešili.&quot;</p> <p><em>Jaroslav Liška, starosta obce Rtyně nad&nbsp;Bílinou</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/dalesice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Díky modernímu, jednoduchému řešení a&nbsp;skvělé podpoře od&nbsp;firmy Galileo Corporation nemusím trávit tolik času s&nbsp;administrací webových stránek a&nbsp;můžu se&nbsp;tak více věnovat rozvoji městyse. <strong>Navíc se&nbsp;mohu spolehnout na&nbsp;to, že&nbsp;naše internetové stránky splňují veškerou legislativu</strong>, což je další úleva pro&nbsp;obec. Proto s&nbsp;jistotou doporučuji spolupráci s&nbsp;firmou Galileo.&quot;</p> <p><em>Jiří Loukota, starosta městyse Dalešice</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/brandov-1_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Obec Brandov spolupracuje se&nbsp;společností Galileo Corporation s.r.o. již řadu let a&nbsp;to především co se&nbsp;týče zajištění webových stránek obce a&nbsp;následnou technickou podporou. Velmi oceňujeme přístup zástupců společnosti, kteří ochotně a&nbsp;bezodkladně reagují na&nbsp;naše podněty v&nbsp;případech řešení pomoci v&nbsp;souvislosti s&nbsp;administrativou stránek a&nbsp;také dalších služeb spojených s&nbsp;povinnostmi úřadu k&nbsp;dodržování legislativních podmínek. <strong>Z&nbsp;pohledu dosavadní spolupráce můžeme společnost Galileo Corporation s.r.o. doporučit</strong> i&nbsp;dalším úřadům a&nbsp;institucím.&quot;</p> <p><em>Jiří Mooz, starosta obce Brandov</em></p></div>
+                    </div>
+            <div class="swiper-slide">
+            <div class="swiper-slide-image"
+                 style="background-image: url('data/headerfooter/header_images/choutice_1.png')">
+            </div>
+                            <div class="swiper-slide-text"><p>&quot;Firma Galileo je pro&nbsp;nás velice solidním partnerem. Spolupracujeme s&nbsp;ní dlouhodobě a&nbsp;díky této spolupráci fungují naše webové stránky bez&nbsp;problémů. <strong>Firma sleduje všechnu novou legislativu a&nbsp;provádí průběžně potřebné úpravy webu</strong>.<strong> Nemusíme se&nbsp;tedy starat o&nbsp;to, zda jsme v&nbsp;souladu s&nbsp;nejnovějšími platnými pravidly. </strong>Spolupráce jak s&nbsp;obchodní zástupkyní, tak i&nbsp;s technickou podporou je vynikající. Galileo je dobrá volba pro&nbsp;webové služby.&quot;</p> <p><em>Mgr. Ing.&nbsp;Luboš Zajíc, starosta obce Chotutice</em></p></div>
+                    </div>
+    </div>
+<script>
+    const swiperOptions2 = {
+            }
+</script>
+
+            <div class="swiper-button-next5"></div>
+            <div class="swiper-button-prev5"></div>
+        </div>
+    </div>
+</div>
+
+<div class="gcm-hp-7">
+    <div class="gcm-container">
+        <div class="gcm-hp-7__row gcm-row">
+            <div class="gcm-hp-7--left">
+                <!--<div class="gcm-hp-7__map">
+                <h2 class="mt-6 text-uppercase">Mapa obchodního zastoupení</h2>
+                <img class="gcm-hp-7__img" src="skins/igalileo_lego2/images/map_igalileo.svg" alt="Galileo Corporation s.r.o.">
+                </div>-->
+                <div class="tpl_mini_module tpl_mini_form"><h3 class="access">Napište nám</h3>
+<div class="form_mini module_mini" id="form14">
+    <h4>Napište nám</h4>    <form action="modules/formulare/send.php" method="post" enctype="multipart/form-data" name="send_form_mini" id="send_form_mini">
+                                        <div class="form-group">
+        <label for="form-mini_182">Jméno a příjmení</label>
+        <input id="form-mini_182" name="form-mini[182]" type="text" class="form-control text"
+               value="">
+    </div>
+
+                                                    <div class="form-group">
+        <label for="form-mini_184" class="required">E-mail</label>
+        <input id="form-mini_184" name="form-mini[184]" type="email" class="form-control email"
+               value="" required>
+    </div>
+
+                                                    <div class="form-group">
+        <label for="form-mini_185">Telefon</label>
+        <input id="form-mini_185" name="form-mini[185]" type="text" class="form-control telefon"
+               value="">
+    </div>
+
+                                                    <div class="form-group">
+        <label for="form-mini_186" class="required">Vaše zpráva</label>
+        <textarea id="form-mini_186" name="form-mini[186]" class="form-control" rows="3"
+                   required></textarea>
+    </div>
+
+                                                    <div class="form-note">Stisknutím tlačítka &quot;Odeslat&quot; berete na vědomí, že pro tyto účely vyřízení vašeho dotazu budeme po nezbytně dlouhou dobu zpracovávat vaše vyplněné osobní údaje.</div>
+
+                            <div class="form_rowanti">
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&hl=cs" async defer></script>
+<script>
+    var onloadCallback = function() {
+        grecaptcha.execute();
+    };
+
+    function setResponse(response) {
+        document.querySelectorAll('.captcha-response').value = response;
+    }
+</script>
+<div class="g-recaptcha" data-sitekey="6LdSoRIcAAAAAGpQ2z70so_te_gZZbW6HDuWM_vF" data-badge="bottomleft" data-size="invisible" data-callback="setResponse"></div>
+<input type="hidden" id="captcha-response" name="captcha-response" class="captchaResponse" />
+
+    <input type="hidden" name="form-minisecure_token" id="form-minisecure_token" value="ZTAGx877OUqkvv_YdCCQIAcdlYG_QacWGIBif3zyM1w">
+</div>
+
+        
+<input type="hidden" name="active" value="255">
+<input type="hidden" name="lang" value="cs">
+<input type="hidden" name="mini" value="1">
+        <div class="submit"><button type="submit" name="odeslat" class="btn btn-primary">Odeslat</button></div>
+    </form>
+    
+</div>
+</div>
+            </div>
+            <div class="gcm-hp-7--right">
+                <div class="tpl_mini_module tpl_mini_editor_hp-7"><div class="editor_mini">
+    <h2 class="gcm-hp-7__heading">Technická podpora</h2> <div class="gcm-hp-7--wrap"> <div class="mr-3 mr-sm-10 mr-lg-0"> <h3>Kontakty</h3> <p>Telefon: <a href="tel:+420226257057">+420 226&nbsp;257&nbsp;057</a><br> E-mail: <a href="mailto:podpora@igalileo.cz">podpora@igalileo.cz</a><br> Datová schránka: pgm7j85</p> </div> <div class="mr-3 mr-lg-0"> <h3>Provozní doba</h3> <p style="display: flex;flex-wrap: wrap;max-width:320px"><span style="flex: 50%">Pondělí</span><span style="flex: 50%">8:00 - 17:00</span> <span style="flex: 50%">Úterý</span><span style="flex: 50%">8:00 - 17:00</span> <span style="flex: 50%">Středa</span><span style="flex: 50%">8:00 - 17:00</span> <span style="flex: 50%">Čtvrtek</span><span style="flex: 50%">8:00 - 17:00</span> <span style="flex: 50%">Pátek</span><span style="flex: 50%">8:00 - 16:00</span></p> </div> </div>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div onclick='window.scrollTo({top: 0, behavior: "smooth"});'  class="gcm-arrow-up" title="na začátek stránky">
+    <i class="gcm-arrow-up__ico fa fa-angle-up"><span class="sr-only">na začátek stránky</span></i>
+</div>
+
+<div class="gcm-footer">
+    <div class="gcm-container">
+        <div class="gcm-row">
+            <div class="gcm-footer-left col-12 col-md-6">
+                <div class="gcm-row gcm-footer-left__row">
+                    <div class="col-3 col-md-4 col-lg-3">
+                        <img class="gcm-logo" src="skins/igalileo_lego2/images/crest_cs-footer.svg" alt="Galileo Corporation s.r.o.">
+                    </div>
+                    <div class="col-md-8 col-lg-9">
+                        <p>Oficiální stránky Galileo Corporation s.r.o. &copy; 2021</p>
+                        <p>Provozovatel Galileo Corporation s.r.o.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="gcm-footer-right col-12 col-md-6">
+                <p>Poslední aktualizace: 22. 12. 2021</p>
+                <p><a href="?zmena-vzhledu=1&amp;lang=cs">Změna vzhledu</a>, <a
+                            href="?mapa-webu=1&amp;lang=cs" accesskey="2" title="Struktura stránek">Struktura stránek</a>
+                </p>
+                <p><a href="?tiraz=1#prohlaseniopristupnosti">Prohlášení o přístupnosti</a>, <a href="https://www.igalileo.cz/ochrana-osobnich-udaju/">Ochrana osobních údajů</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Google Tag Manager -->
+<script>
+  dataLayer = [];
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBV89SN');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-PBV89SN
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<script async src="skins/igalileo_lego2/js/purecounter.js"></script>
+
+<script>
+   function getMmenuOptions() {
+        let mmOptions = {
+            iconbar: {
+                use: true,
+                top: [
+                    "<a href='./'><i class='fa fa-home' title='Home'></i><span class='sr-only'>Home</span></a>",
+                    "<a href='mailto:info@igalileo.cz' title='info@igalileo.cz'><i class='fa fa-envelope'></i><span class='sr-only'>info@igalileo.cz</span></a>",
+                    "<a href='tel:+420226257057' title='+420 226 257 057'><i class='fa fa-phone'></i><span class='sr-only'>+420 226 257 057</span></a>",
+                    "<a href='//igalileo.cz.norma.gcm.cloud/kontakty/technicka-podpora/' title='Technická podpora'><i class='fa fa-headset'><span class='sr-only'>Technická podpora</span></i></a>",
+                    "<a href='//www.facebook.com/igalileo.cz' target='_blank' title='Facebook Galileo Corporation CZ'><i class='fab fa-facebook-f'><span class='sr-only'>Facebook Galileo Corporation CZ</span></i></a>",
+                ],
+                bottom: [
+                    "<a href='?mapa-webu'><i class='fa fa-sitemap' title='Mapa webu'><span class='sr-only'>Mapa webu</span></i></a>"
+                ]
+            },
+            extensions : ["position-front", "pagedim-black"],
+            columns : true,
+            counters : true,
+            iconPanels : false
+        };
+        if (jQuery(window).width() < 576) {
+            mmOptions = {
+                iconbar: {
+                    use: true,
+                    top: [
+                        "<a href='./'><i class='fa fa-home' title='Home'></i><span class='sr-only'>Home</span></a>",
+                        "<a href='mailto:info@igalileo.cz' title='info@igalileo.cz'><i class='fa fa-envelope'></i><span class='sr-only'>info@igalileo.cz</span></a>",
+                        "<a href='tel:+420226257057' title='+420 226 257 057'><i class='fa fa-phone'></i><span class='sr-only'>+420 226 257 057</span></a>",
+                        "<a href='//igalileo.cz.norma.gcm.cloud/kontakty-1/technicka-podpora/' title='Technická podpora'><i class='fa fa-headset'><span class='sr-only'>Technická podpora</span></i></a>",
+                        "<a href='//www.facebook.com/igalileo.cz' target='_blank' title='Facebook Galileo Corporation CZ'><i class='fab fa-facebook-f'><span class='sr-only'>Facebook Galileo Corporation CZ</span></i></a>",
+                    ],
+                    bottom: [
+                        "<a href='?mapa-webu'><i class='fa fa-sitemap' title='Mapa webu'><span class='sr-only'>Mapa webu</span></i></a>"
+                    ]
+                },
+                extensions : ["pagedim-black"],
+                columns : false,
+                counters : true,
+                iconPanels : true
+
+            };
+        }
+        return mmOptions;
+    }
+
+    jQuery(document).ready(function () {
+        var showMMenu = true;
+        if (getCookie('sitestyle') === 'nocss') {
+            showMMenu = false;
+        }
+        if (showMMenu) {
+            new Mmenu("#menu", getMmenuOptions(), {
+                offCanvas: {
+                    clone: true
+                }
+            });
+            if (jQuery(window).width() < 576) {
+                new Mhead(".gcm-mmenu", {
+                    hide: 200
+                });
+            }
+        }
+    });
+
+    var skinOffsetElements = ['js-menu-wrapper'];
+
+    //mapa obchodníků
+    jQuery(document).ready(function () {
+        fetch('/skins/igalileo_lego2/images/mapa-cz-min.svg')
+        .then(response => response.text())
+        .then(response => {const svgHere = document.getElementById('sales-map-svg'); svgHere.outerHTML = response;});
+    });
+</script>
+
+
+</body>
+</html>

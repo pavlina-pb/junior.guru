@@ -314,8 +314,8 @@ Jaké znalosti a zkušenosti u nás zúročíš?<br />
 
 
 
-<div class="job-item" id="job-27451959">
-    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27451959/">Business Process Analyst - Junior</a></h3>
+<div class="job-item" id="job-27489930">
+    <h3 class="job-item__title"><a class="job-item__link" href="/nabidka-27489930/">Pricing Analyst / Cenový analytik</a></h3>
     
     <span class="job-item__place job-item__place--city">Praha</span>
         <br>
@@ -437,7 +437,7 @@ Jaké znalosti a zkušenosti u nás zúročíš?<br />
                         <h1>Aby web fungoval jak má (souhlas s cookies)</h1>
                         <p>Pro co nejlepší zážitek z webových stránek jobsik.cz - aby funfovalo vyhledávání, abyste viděli jaké pracovní nabídky jste už navštívili nebo na ně odpověděli, abychom vás neobtěžovali nevhodnou reklamou, využívá náš web tzv. cookies.</p>
                         <p>Proto od vás potřebujeme souhlas se zpracováním souborů cookies, tj. malých souborů, které se dočasně ukládají ve vašem prohlížeči.
-                        Děkujeme, že nám ho dáte a pomůžete nám web zlepšovat. Budeme se k vašim datům chovat slušně.  <a href="/cookies/">Více zde</a><p>
+                        Děkujeme, že nám ho dáte a pomůžete nám web zlepšovat. Můžeme pracovat s cookies?.  <a href="/cookies/">Více zde</a><p>
                     </div>
                                         <section>
                         <div class="row slide ">
@@ -449,7 +449,7 @@ Jaké znalosti a zkušenosti u nás zúročíš?<br />
 <tr>
 	<th></th>
 
-	<td><input type="button" name="acceptAllSubmit" onclick="submitAccept()" class="btn btn-lg btn-success button" id="frm-cookieBar-cookieForm-acceptAllSubmit" value="Přijmout vše"></td>
+	<td><input type="button" name="acceptAllSubmit" onclick="submitAccept()" class="btn btn-lg btn-success button" id="frm-cookieBar-cookieForm-acceptAllSubmit" value="Ano, přijmout vše"></td>
 </tr>
 </table>
 </fieldset>
@@ -459,7 +459,7 @@ Jaké znalosti a zkušenosti u nás zúročíš?<br />
 <tr>
 	<th></th>
 
-	<td><input type="button" name="detailButton" onclick="setDetail()" class="btn btn-lg btn-info button" id="frm-cookieBar-cookieForm-detailButton" value="Předvolby"></td>
+	<td><input type="button" name="rejectAllSubmit" onclick="submitReject()" class="btn btn-lg btn-info button" id="frm-cookieBar-cookieForm-rejectAllSubmit" value="Ne, jsem tu na tajné misi"> <input type="button" name="detailButton" onclick="setDetail()" class="btn btn-lg btn-info button" id="frm-cookieBar-cookieForm-detailButton" value="Předvolby"></td>
 </tr>
 </table>
 </fieldset>

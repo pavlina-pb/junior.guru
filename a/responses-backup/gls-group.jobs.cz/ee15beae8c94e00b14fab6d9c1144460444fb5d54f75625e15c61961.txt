@@ -1,0 +1,995 @@
+<!doctype html>
+<html lang="cs-CZ" data-host="gls-group.jobs.cz">
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, follow">
+	
+     
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=yes">
+<meta name="author" content="LMC s.r.o. | www.lmc.eu (c) 2021">
+
+    <meta property="og:image" content="/assets/components/share-icons/images/logo-share-1200x630.png?av=9b2a798557e64f2f">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="/assets/components/share-icons/images/logo-share-1200x630.png?av=9b2a798557e64f2f">
+
+
+	<meta name="description" content="Chcete pracovat pro GLS Česká Republika nebo doporučit místo svým známým? Navštivte sekci KARIÉRA, kde jsou všechna aktuální volná pracovní místa.">
+     <title>Odpovědní formulář | GLS Česká Republika</title>
+		<link rel="stylesheet" type="text/css" href="/assets/css/vendors.min.css?av=9b2a798557e64f2f">
+		<link rel="stylesheet" type="text/css" href="/assets/css/style.min.css?av=9b2a798557e64f2f">
+		    <link rel="apple-touch-icon" sizes="180x180" href="/assets/components/favicons/images/apple-touch-icon.png?av=9b2a798557e64f2f">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/components/favicons/images/favicon-32x32.png?av=9b2a798557e64f2f">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/components/favicons/images/favicon-16x16.png?av=9b2a798557e64f2f">
+<link rel="manifest" href="/assets/components/favicons/images/site.webmanifest?av=9b2a798557e64f2f">
+<link rel="shortcut icon" href="/assets/components/favicons/images/favicon.ico?av=9b2a798557e64f2f">
+<meta name="apple-mobile-web-app-title" content="GLS Česk&aacute; Republika">
+<meta name="application-name" content="GLS Česk&aacute; Republika">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content="/assets/components/favicons/images/browserconfig.xml?av=9b2a798557e64f2f">
+<meta name="theme-color" content="#ffffff">
+	    <script>
+  var LMC_GTM_ID = [];
+</script>    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer',"GTM-TVVHFM");
+    </script>
+    		<script>
+			var isIE = window.eval("/*@cc_on!@*/false") || window.navigator.msPointerEnabled !== undefined;
+			if(isIE) {
+				var request = new XMLHttpRequest();
+				request.open('GET', '/assets/vendors/js/gls_group_polyfills_js.js?av=9b2a798557e64f2f', false);
+				request.send(null);
+				if (request.status === 200) {
+					window.eval(request.responseText);
+				}
+			}
+		</script>
+		<script src="/assets/js/vendors.min.js?av=9b2a798557e64f2f"></script>
+	    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@lmc-eu/cookie-consent-manager@1/LmcCookieConsentManager.min.css">
+<script type="text/javascript" defer src="https://cdn.jsdelivr.net/npm/@lmc-eu/cookie-consent-manager@1/init.js"></script>
+<style>
+    .cc_div {
+        font-size: 14px;
+    }
+</style>
+<script>
+    function detectLang() {
+        const MISSING_LANG_ATTRIBUTE_FALLBACK = 'cs';
+        const MISSING_TRANSLATION_FALLBACK = 'en';
+
+        const documentLang = document.documentElement.lang.split('-')[0].toLowerCase();
+        let lang = documentLang === '' ? MISSING_LANG_ATTRIBUTE_FALLBACK : documentLang;
+        const languages = [
+            'cs',
+            'en',
+            'sk',
+            'pl',
+            'ru',
+            'hu',
+            'de'
+        ];
+
+        if (languages.indexOf(lang) === -1) {
+            lang = MISSING_TRANSLATION_FALLBACK;
+        }
+
+        return lang;
+    }
+
+    function updateJobsConsent(cookie) {
+        fetch("https://www.jobs.cz/api/cookie-consent/v1/update/", {
+            method: "POST",
+            credentials: 'include',
+            body: JSON.stringify({level: cookie.level})
+        });
+    }
+
+    window.addEventListener('load', function () {
+        const cookieBannerConfig = {};
+
+        if (cookieBannerConfig.dark_mode === true) {
+            document.body.classList.add("c_darkmode");
+        }
+
+        window.ccm = initLmcCookieConsentManager(
+            'CP_' + location.host,
+            {
+                autodetectLang: false,
+                defaultLang: detectLang(),
+                config: cookieBannerConfig,
+                companyNames: ["LMC","GLS \u010cesk\u00e1 Republika"],
+                onFirstAcceptAll: (cookie) => {
+                    updateJobsConsent(cookie);
+                },
+                onAcceptOnlyNecessary: () => {
+                    localStorage.clear();
+                },
+            }
+        );
+    });
+</script>
+
+</head>
+<body class="body no-js" id="contentwrapper">
+
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVVHFM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    
+		    <script>
+    document.body.className=document.body.className.replace(/no-js/,'js');
+</script>
+
+		    
+
+<header>
+	<div class="ce_header_desktop fixed-top">
+		<div class="container">
+			<div class="ce_page_header">
+				<a href="https://gls-group.eu/CZ/cs/home" class="logo" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Logo">&nbsp;</a>
+				<div class="meta_navigation">
+					<ul>
+						<li class="search">
+							<div class="ce_header_search_wrap">
+							</div>
+						</li>
+						<li class="region">
+							<a href="#modal_country_switch" data-toggle="modal" class="region" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Country Switch"><span class="caption">Česká republika</span></a>
+						</li>
+						<li class="languages">
+							<a href="	/vacancy-detail/reply-form?r=reply&amp;id=cpbr-1578580245" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Language Switch">EN</a>
+							<a href="	/detail-pozice/odpovedni-formular?r=reply&amp;id=cpbr-1578580245" class="active" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Language Switch">CS</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/CZ/cs/faq" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Meta Link">FAQ</a>
+						</li>
+						<li>
+							<a href="http://online.gls-czech.com/index.php" target="_blank" rel="noopener noreferrer" class="ico-user" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Login"><span class="caption">GLS Online</span></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- (gls_group_header_navigation_desktop): start -->
+	<nav class="ce_desktop_navigation fixed-top">
+		<div class="container">
+			<ul class="level_1">
+				<li class="subnav" data-mm-id="23472">
+					<a href="https://gls-group.eu/CZ/cs/odesilatele" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Odesílatelé</span></a>
+					<div id="ce_mmenu_item_23472" class="ce_mmenu">
+						<div class="container">
+							<ul class="level_2" style="height: auto;">
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/odesilatele/pro-firmy" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Pro firmy </span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/odesilatele/pro-e-shopy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Pro e-shopy</span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/odesilatele/pro-soukrome-odesilatele" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Pro soukromé odesílatele</span></a>
+								</li>
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/prepravni-reseni" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Přepravní řešení</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/domaci-preprava" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Domácí přeprava </span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/mezinarodni-preprava" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Mezinárodní přeprava </span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/express" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Expresní doručení</span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/sluzby" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Doplňkové služby</span></a>
+								</li>
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption"> Užitečné informace pro odesílatele</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/prepravni-software" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Přepravní software </span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/baleni-zasilek" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Balení zásilek</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/rozmerova-omezeni" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Rozměrová omezení</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/objednani-svozu" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Objednání svozu </span></a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="subnav" data-mm-id="23923">
+					<a href="https://gls-group.eu/CZ/cs/prijemci" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Příjemci</span></a>
+					<div id="ce_mmenu_item_23923" class="ce_mmenu">
+						<div class="container">
+							<ul class="level_2" style="height: auto;">
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/prijemci/proces-doruceni" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Proces doručení</span></a>
+								</li>
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/prijemci/vraceni-zbozi" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Vracení zboží</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="subnav" data-mm-id="23929">
+					<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">ParcelShop</span></a>
+					<div id="ce_mmenu_item_23929" class="ce_mmenu">
+						<div class="container">
+							<ul class="level_2" style="height: auto;">
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Co je GLS ParcelShop</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop/doruceni-do-parcelshop" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Doručení do ParcelShopu</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop/odes%C3%ADlani-z-parcelshopu" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Odesílání z ParcelShopu</span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/parcelshop/stat-se-parcelshopem" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Jak se stát ParcelShopem</span></a>
+								</li>
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/seznam-parcelshopu" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Vyhledat ParcelShop</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="subnav" data-mm-id="23935">
+					<a href="https://gls-group.eu/CZ/cs/o-nas" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">O nás</span></a>
+					<div id="ce_mmenu_item_23935" class="ce_mmenu">
+						<div class="container">
+							<ul class="level_2" style="height: auto;">
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/o-nas/gls-czech-republic" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">GLS Czech Republic</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/o-nas/kde-nas-najdete" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Kde nás najdete </span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/o-nas/udrzitelnost" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Udržitelnost</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/o-nas/uzdritelnost/thinkgreen" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">ThinkGreen</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/o-nas/uzdritelnost/thinksocial" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">ThinkSocial</span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Newsroom</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom/novinky" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Novinky </span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom/tiskove-zpravy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Tiskové zprávy </span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/koronavirus" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Koronavirus</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom/brexit" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Brexit</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/phishingove-a-podvodne-zpravy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Phishingové zprávy</span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="subnav">
+									<a href="https://gls-group.eu/GROUP/en/about-us" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Skupina GLS</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/GROUP/en/about-us/our-network" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Naše síť </span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/GROUP/en/about-us/our-facts" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Fakta a čísla </span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/GROUP/en/about-us/our-philosophy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Naše filozofie </span></a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="subnav" data-mm-id="24211">
+					<a href="	/" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Kariéra</span></a>
+					<div id="ce_mmenu_item_24211" class="ce_mmenu">
+						<div class="container">
+							<ul class="level_2" style="height: auto;">
+								<li class="l2_no_subnav">
+									<a href="	/prace-v-centrale" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Práce v centrále</span></a>
+								</li>
+								<li class="subnav">
+									<a href="	/prace-v-preprave" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Práce v přepravě</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/kariera/prace-v-preprave/partnersky-kodex-gls" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Partnerský kodex GLS</span></a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="subnav" data-mm-id="23947">
+					<a href="https://gls-group.eu/CZ/cs/kontakty" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Kontakty</span></a>
+					<div id="ce_mmenu_item_23947" class="ce_mmenu">
+						<div class="container">
+							<ul class="level_2" style="height: auto;">
+								<li class="subnav">
+									<a href="https://gls-group.eu/CZ/cs/kontakty" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Kontaktovat GLS</span></a>
+									<ul class="level_3">
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/contacts/get-in-touch/questions" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Dotazy, stížnosti</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/kontakty/reklamace" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Reklamace</span></a>
+										</li>
+										<li>
+											<a href="https://gls-group.eu/CZ/cs/kontakty/stat-se-klientem" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Jak se stát klientem</span></a>
+										</li>
+									</ul>
+								</li>
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/seznam-parcelshopu" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Vyhledat ParcelShop</span></a>
+								</li>
+								<li class="l2_no_subnav">
+									<a href="https://gls-group.eu/CZ/cs/kontakty/vyhledat-depo" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation" style="height: auto;"><span class="caption">Vyhledat depo</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</nav>
+	<!-- (gls_group_header_navigation_desktop): end -->
+	<div class="ce_header_mobile fixed-top">
+		<dfn class="header_mobile_overlay"></dfn>
+		<div class="fixedBar">
+			<button type="button" class="burger-menu collapsed" data-analytics="Click" data-analytics-category="Navigation - Burger">
+				<span class="sr-only">toggle navigace</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a href="https://gls-group.eu/CZ/cs/home" class="logo" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Logo">&nbsp;</a>
+			<span class="meta_navigation mobile_login">
+<a href="http://online.gls-czech.com/index.php" target="_blank" rel="noopener noreferrer" class="ico-user" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Login"><span class="caption">GLS Online</span></a>
+</span>
+		</div>
+		<div class="navWrapper">
+			<div class="meta_navigation">
+				<ul>
+					<li>
+						<a href="#modal_country_switch" data-toggle="modal" class="region" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Country Switch"><span class="caption"></span></a>
+					</li>
+					<li class="languages">
+						<a href="	/vacancy-detail/reply-form?r=reply&amp;id=cpbr-1578580245" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Language Switch">EN</a>
+						<a href="	/detail-pozice/odpovedni-formular?r=reply&amp;id=cpbr-1578580245" class="active" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Language Switch">CS</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/faq" data-analytics="click" data-analytics-action="Click" data-analytics-category="Header - Meta Link">FAQ</a>
+					</li>
+					<li class="mobile_search">
+					</li>
+				</ul>
+			</div>
+			<!-- (gls_group_header_navigation_mobile): start -->
+			<nav class="ce_mobile_navigation">
+				<ul class="level_1">
+					<li class="subnav">
+						<a href="https://gls-group.eu/CZ/cs/odesilatele" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Odesílatelé</span></a>
+						<ul class="level_2">
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/odesilatele/pro-firmy" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Pro firmy </span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/odesilatele/pro-e-shopy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Pro e-shopy</span></a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/odesilatele/pro-soukrome-odesilatele" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Pro soukromé odesílatele</span></a>
+							</li>
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/prepravni-reseni" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Přepravní řešení</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/domaci-preprava" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Domácí přeprava </span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/mezinarodni-preprava" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Mezinárodní přeprava </span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/express" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Expresní doručení</span></a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/sluzby" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Doplňkové služby</span></a>
+							</li>
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption"> Užitečné informace pro odesílatele</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/prepravni-software" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Přepravní software </span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/baleni-zasilek" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Balení zásilek</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/rozmerova-omezeni" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Rozměrová omezení</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/objednani-svozu" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Objednání svozu </span></a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="subnav">
+						<a href="https://gls-group.eu/CZ/cs/prijemci" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Příjemci</span></a>
+						<ul class="level_2">
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/prijemci/proces-doruceni" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Proces doručení</span></a>
+							</li>
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/prijemci/vraceni-zbozi" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Vracení zboží</span></a>
+							</li>
+						</ul>
+					</li>
+					<li class="subnav">
+						<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">ParcelShop</span></a>
+						<ul class="level_2">
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Co je GLS ParcelShop</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop/doruceni-do-parcelshop" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Doručení do ParcelShopu</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/parcelshop/co-je-GLS-parcelshop/odes%C3%ADlani-z-parcelshopu" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Odesílání z ParcelShopu</span></a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/parcelshop/stat-se-parcelshopem" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Jak se stát ParcelShopem</span></a>
+							</li>
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/seznam-parcelshopu" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Vyhledat ParcelShop</span></a>
+							</li>
+						</ul>
+					</li>
+					<li class="subnav">
+						<a href="https://gls-group.eu/CZ/cs/o-nas" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">O nás</span></a>
+						<ul class="level_2">
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/o-nas/gls-czech-republic" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">GLS Czech Republic</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/o-nas/kde-nas-najdete" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Kde nás najdete </span></a>
+									</li>
+								</ul>
+							</li>
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/o-nas/udrzitelnost" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Udržitelnost</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/o-nas/uzdritelnost/thinkgreen" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">ThinkGreen</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/o-nas/uzdritelnost/thinksocial" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">ThinkSocial</span></a>
+									</li>
+								</ul>
+							</li>
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Newsroom</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom/novinky" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Novinky </span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom/tiskove-zpravy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Tiskové zprávy </span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/koronavirus" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Koronavirus</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/o-nas/newsroom/brexit" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Brexit</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/phishingove-a-podvodne-zpravy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Phishingové zprávy</span></a>
+									</li>
+								</ul>
+							</li>
+							<li class="subnav">
+								<a href="https://gls-group.eu/GROUP/en/about-us" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Skupina GLS</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/GROUP/en/about-us/our-network" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Naše síť </span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/GROUP/en/about-us/our-facts" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Fakta a čísla </span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/GROUP/en/about-us/our-philosophy" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Naše filozofie </span></a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="subnav">
+						<a href="	/" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Kariéra</span></a>
+						<ul class="level_2">
+							<li>
+								<a href="	/prace-v-centrale" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Práce v centrále</span></a>
+							</li>
+							<li class="subnav">
+								<a href="	/prace-v-preprave" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Práce v přepravě</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/kariera/prace-v-preprave/partnersky-kodex-gls" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Partnerský kodex GLS</span></a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="subnav">
+						<a href="https://gls-group.eu/CZ/cs/kontakty" class="level_1 level_1_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Kontakty</span></a>
+						<ul class="level_2">
+							<li class="subnav">
+								<a href="https://gls-group.eu/CZ/cs/kontakty" class="level_2 level_2_with_subnav" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Kontaktovat GLS</span><dfn class="clicktrigger clicktrigger_level_2"></dfn></a>
+								<ul class="level_3">
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/contacts/get-in-touch/questions" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Dotazy, stížnosti</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/kontakty/reklamace" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Reklamace</span></a>
+									</li>
+									<li>
+										<a href="https://gls-group.eu/CZ/cs/kontakty/stat-se-klientem" class="level_3" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Jak se stát klientem</span></a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/seznam-parcelshopu" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Vyhledat ParcelShop</span></a>
+							</li>
+							<li>
+								<a href="https://gls-group.eu/CZ/cs/kontakty/vyhledat-depo" class="level_2" data-analytics="click" data-analytics-action="Click" data-analytics-category="Navigation"><span class="caption">Vyhledat depo</span></a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+			<!-- (gls_group_header_navigation_mobile): end -->
+		</div>
+	</div>
+</header>
+
+		<main>
+				<div class="container pt-30 pb-30">
+		<div class="card card-shadow card-hover card_no_img">
+			<div id="widget_container"></div>
+		</div>
+	</div>
+		</main>
+		    <footer class="footer">
+	<div class="container container-navigation">
+		<ul class="list-group_sitemap">
+			<div class="footer-top-illustration">
+				<svg class="desktop" width="1059" height="34" viewBox="0 0 1059 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M1007.46 0l12.75 12.75 4.25 4.25-4.25 4.25L1007.46 34l-4.25-4.25 9.75-9.75H0v-6h1012.96l-9.75-9.75 4.25-4.25z" fill="#fff"></path>
+					<circle cx="1045" cy="16" transform="rotate(-180 1045 16)" fill="#FFD100" r="14"></circle>
+				</svg>
+				<svg class="mobile" width="1055" height="34" viewBox="0 0 1055 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path fill-rule="evenodd" clip-rule="evenodd" d="M1007.46 0l12.75 12.75 4.25 4.25-4.25 4.25L1007.46 34l-4.25-4.25 9.75-9.75H0v-6h1012.96l-9.75-9.75 4.25-4.25z" fill="#fff"></path>
+					<circle cx="1043" cy="17" transform="rotate(-180 1043 17)" fill="#FFD100" r="12"></circle>
+				</svg>
+			</div>
+			<li>
+				<a class="first-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Link">Rychl&#233; odkazy</a>
+				<ul>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/ceny-a-priplatky" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Palivov&#253;
+							p&#345;&#237;platek</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/sledovani-zasilek" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Sledov&#225;n&#237;
+							z&#225;silek</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/seznam-parcelshopu" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Vyhledat
+							ParcelShop</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/kontakty/vyhledat-depo" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Vyhledat
+							depo</a>
+					</li>
+					<li>
+						<a href="https://blog.gls-czech.cz/" target="_blank" rel="noopener noreferrer" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Blog
+							GLS</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/kontakty/stat-se-klientem" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Z&#237;skat
+							cenovou nab&#237;dku</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a class="first-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Link">Pos&#237;l&#225;n&#237;
+					a p&#345;ij&#237;m&#225;n&#237; bal&#237;k&#367;</a>
+				<ul>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/domaci-preprava" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Dom&#225;c&#237;
+							p&#345;eprava</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/mezinarodni-preprava" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Mezin&#225;rodn&#237;
+							p&#345;eprava</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/e-balik" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">e-Balik</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/prijemci/vraceni-zbozi" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Vr&#225;tit
+							bal&#237;k</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/rozmerova-omezeni" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Rozm&#283;rov&#225;
+							a hmotnostn&#237; omezen&#237;</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/prepravni-reseni/uzitecne-informace-pro-odesilatele/presmerovani-zasilky" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">P&#345;esm&#283;rov&#225;n&#237;
+							z&#225;silky</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a class="first-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Link">Skupina
+					GLS</a>
+				<ul>
+					<li>
+						<a href="https://gls-group.eu/GROUP/en/home.html" target="_blank" rel="noopener noreferrer" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Skupinov&#253;
+							web</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/GROUP/en/data-protection.html" target="_blank" rel="noopener noreferrer" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Skupinov&#225;
+							ochrana dat</a>
+					</li>
+					<li>
+						<a href="https://gls-group.eu/CZ/cs/mezinarodni-sankce" class="footer-link second-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Sitemap Link">Mezin&#225;rodn&#237;
+							sankce</a>
+					</li>
+				</ul>
+			</li>
+			<li class="footer-heading-only">
+				<a href="https://gls-group.eu/CZ/cs/faq" class="first-level" data-analytics="click" data-analytics-action="Click" data-analytics-category="Link">FAQ</a>
+				<ul>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div class="container container-social-media">
+		<ul>
+			<li>
+				<a href="https://www.linkedin.com/company/glscz" target="_blank" rel="noopener noreferrer" title="LinkedIn" data-analytics="click" data-analytics-action="LinkedIn" data-analytics-category="link-social-media">
+					<img src="/assets/vendors/images/gls_group_icons_social_linkedin_svg.svg?av=9b2a798557e64f2f" alt="LinkedIn" width="24" height="24">
+				</a>
+			</li>
+			<li>
+				<a href="https://www.facebook.com/GLScz/" target="_blank" rel="noopener noreferrer" title="Facebook" data-analytics="click" data-analytics-action="Facebook" data-analytics-category="link-social-media">
+					<img src="/assets/vendors/images/gls_group_icons_social_facebook_svg.svg?av=9b2a798557e64f2f" alt="Facebook" width="24" height="24">
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div class="container container-meta-navigation">
+		<div class="footer-bottom-illustration">
+			<svg class="desktop" width="1626" height="100" viewBox="0 0 1626 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M34 14h159.21a20 20 0 0120 20v43a20 20 0 0020 20H1626" stroke="#fff" stroke-width="6"></path>
+				<circle cx="14" cy="14" transform="rotate(-180 14 14)" fill="#00C2F0" r="14"></circle>
+			</svg>
+			<svg class="mobile" width="761" height="95" viewBox="0 0 761 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M30 12h111.15a20 20 0 0120 20v40a20 20 0 0020 20H761" stroke="#fff" stroke-width="6"></path>
+				<circle cx="12" cy="12" transform="rotate(-180 12 12)" fill="#00C2F0" r="12"></circle>
+			</svg>
+		</div>
+		<div>
+			<ul>
+				<li>
+					<a href="https://gls-group.eu/CZ/cs/ochrana-osobnich-udaju" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Horizontal Link">Z&#225;sady
+						ochrany osobn&#237;ch &#250;daj&#367;</a>
+				</li>
+				<li>
+					<a href="https://gls-group.eu/CZ/cs/cookie-policy" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Horizontal Link">Informace
+						o cookies</a>
+				</li>
+				<li>
+					<a href="https://gls-group.eu/CZ/cs/obchodni-podminky" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Horizontal Link">Obchodn&#237;
+						podm&#237;nky</a>
+				</li>
+				<li>
+					<a href="https://gls-group.eu/CZ/cs/impressum" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Horizontal Link">Impressum</a>
+				</li>
+				<li>
+					<a href="https://gls-group.eu/CZ/cs/disclaimer" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Horizontal Link">Pr&#225;vn&#237;
+						dolo&#382;ka</a>
+				</li>
+				<li>
+					<a href="https://www.lmc.eu/hr-marketing/karierni-stranky/" target="_blank" rel="noopener" data-analytics="click" data-analytics-action="Click" data-analytics-category="Footer - Horizontal Link">Powered
+						by LMC</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</footer>
+<!-- 8971 (gls_group_gca_footer): end -->
+<aside>
+	<!-- gls_group_gca_sticky: start -->
+	<!-- gls_group_gca_sticky: end -->
+	<!-- gls_group_gca_back_to_top: start -->
+	<div id="top_link" class="top-link to-top">
+		<a href="#contentwrapper" title="" class="shadow p-0 localscroll" data-analytics="click" data-analytics-action="Click" data-analytics-category="Back to Top">
+			<img src="/assets/vendors/images/gls_group_arrow_top_blue_svg.svg?av=9b2a798557e64f2f" alt="Go to Top" class="icon_48x48"/>
+		</a>
+	</div>
+	<!-- gls_group_gca_back_to_top: end -->
+	<!-- gls_group_gca_overlays: start -->
+	<!-- gls_group_gca_overlays: end -->
+	<!-- 8970 (gls_group_gca_country_switch): start -->
+	<div class="modal fade modal_country_switch" id="modal_country_switch" tabindex="-1" role="dialog" data-open-tag="countrySwitch">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Zavřít" data-analytics="click" data-analytics-action="Close" data-analytics-category="Country Switch Overlay">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body container_country_overlay">
+					<h4 class="form-chapter mb-2">Vyberte prosím zemi</h4>
+					<ul>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?group" class="group" title="Group" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Group</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?be" class="be" title="Belgie" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Belgie</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?bg" class="bg" title="Bulharsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Bulharsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?cz" class="cz active" title="&#268;esk&#225; republika" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">&#268;esk&#225;
+								republika</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?hr" class="hr" title="Chorvatsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Chorvatsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?dk" class="dk" title="D&#225;nsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">D&#225;nsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?ee" class="ee" title="Estonsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Estonsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?fi" class="fi" title="Finsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Finsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?fr" class="fr" title="Francie" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Francie</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?ie" class="ie" title="Irsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Irsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?it" class="it" title="It&#225;lie" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">It&#225;lie</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?can" class="can" title="Kanada" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Kanada</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?lt" class="lt" title="Litva" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Litva</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?lv" class="lv" title="Loty&#353;sko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Loty&#353;sko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?lu" class="lu" title="Lucembursko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Lucembursko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?hu" class="hu" title="Ma&#271;arsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Ma&#271;arsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?mt" class="mt" title="Malta" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Malta</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?de" class="de" title="N&#283;mecko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">N&#283;mecko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?nl" class="nl" title="Nizozem&#237;" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Nizozem&#237;</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?no" class="no" title="Norsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Norsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?pl" class="pl" title="Polsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Polsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?pt" class="pt" title="Portugalsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Portugalsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?at" class="at" title="Rakousko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Rakousko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?gr" class="gr" title="&#344;ecko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">&#344;ecko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?ro" class="ro" title="Rumunsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Rumunsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?sk" class="sk" title="Slovensko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Slovensko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?si" class="si" title="Slovinsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Slovinsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?es" class="es" title="&#352;pan&#283;lsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">&#352;pan&#283;lsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?gb" class="gb" title="Spojen&#233; Kr&#225;lovstv&#237;" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Spojen&#233;
+								Kr&#225;lovstv&#237;</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?us" class="us" title="Spojen&#233; st&#225;ty americk&#233;" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Spojen&#233;
+								st&#225;ty americk&#233;</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?rs" class="rs" title="Srbsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Srbsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?se" class="se" title="&#352;v&#233;dsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">&#352;v&#233;dsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?ch" class="ch" title="&#352;v&#253;carsko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">&#352;v&#253;carsko</a>
+						</li>
+						<li>
+							<a href="https://gls-group.eu/app/service/open/rest/rsgl007?tr" class="tr" title="Turecko" data-analytics="click" data-analytics-action="Click" data-analytics-category="Country Switch Link">Turecko</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 8970 (gls_group_gca_country_switch): end -->
+</aside>
+
+		    
+
+    
+<template data-page="list" data-position="before">
+    </template>
+
+<template data-page="list" data-position="after">
+    </template>
+
+<template data-page="error" data-position="before">
+    </template>
+
+<template data-page="error" data-position="after">
+    </template>
+
+    
+<template data-page="detail" data-position="before">
+    </template>
+
+<template data-page="detail" data-position="after">
+    </template>
+
+<template data-page="positionInvalid" data-position="before">
+    </template>
+
+<template data-page="positionInvalid" data-position="after">
+    </template>
+
+    
+<template data-page="form" data-position="before">
+    </template>
+
+<template data-page="form" data-position="after">
+    </template>
+
+<template data-page="thx" data-position="before">
+    </template>
+
+<template data-page="thx" data-position="after">
+    </template>
+
+
+	
+    <script>
+        window.__LMC_CAREER_WIDGET__ = [];
+    </script>
+
+
+    
+    <script>
+        window.__LMC_CAREER_WIDGET__.push({"apiKey":"94310c989c7fe709ad5266aae1f9c1f7623c912d96eebd6dd1d05968048f0f4a","widgetId":"74b4287e-1d40-4f8e-9f39-0c5d6ba256af","selector":"#widget_container","shareJobAdUrlTemplate":"https:\/\/gls-group.jobs.cz\/share\/__jobAdId__","environment":"prod","themes":[],"pagePath":"","detailPath":"detail-pozice","replyPath":"detail-pozice\/odpovedni-formular","onePage":false,"gtm":{"id":"GTM-TVVHFM","insertScript":false},"host":"gls-group.jobs.cz","logger":["rollbar"]});
+    </script>
+
+        <script>
+        (function() {
+            var defaultTitle = document.title;
+            var titleTemplate = "%positionName% - %pageName% | GLS \u010cesk\u00e1 Republika";
+            var errorTitle = "Str\u00e1nka nenalezena";
+            var widgetSelector = "#widget_container";
+
+            function getPageTitleFromTemplate(positionName, pageName) {
+                var data = {
+                    positionName: positionName,
+                    pageName: pageName
+                };
+
+                return titleTemplate.replace(/%([^%]+)%/gi, function (matched, index) {
+                    return data[index] || '';
+                });
+            }
+
+            document.querySelector(widgetSelector).addEventListener('LMC_career_widget_pageRendered', function (event) {
+                var type = event.detail.pageType;
+                var positionName = event.detail.positionName;
+                var title = defaultTitle;
+
+                if (type === 'detail') {
+                    title = getPageTitleFromTemplate(positionName, 'Detail pozice');
+                } else if (type === 'replyForm' || type === 'hooray') {
+                    title = getPageTitleFromTemplate(positionName, 'Odpovědní formulář');
+                }
+
+                document.title = title;
+            });
+
+            document.querySelector(widgetSelector).addEventListener('LMC_career_widget_errorRendered', function (event) {
+                document.title = event.detail.errorType === 'pageNotFound' ? errorTitle : defaultTitle;
+            });
+        })();
+    </script>
+
+
+    <script src="https://snippet.capybara.lmc.cz/js/widget-3.x.x.min.js?v=b55924e1cdb1daf8" async defer></script>
+
+
+	<script src="/assets/js/script.min.js?av=9b2a798557e64f2f"></script>
+
+</body>
+</html>
