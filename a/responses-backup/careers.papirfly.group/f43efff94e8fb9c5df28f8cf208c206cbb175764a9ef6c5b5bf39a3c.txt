@@ -7,7 +7,7 @@
     <title>Junior Java Developer - Papirfly Group</title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="5sqMlFZr4O4nkamcenkTgtWp0KoaaDLOcwnvTBxARwy+dzu7j3C95JpP1n7F3dcsb6R4tD/w9ToCYwPPQQCYCA==" />
+<meta name="csrf-token" content="gT0xvi/E4KJ2Gug5ivF/pQJh/yyUGsPEJp6Fv6u5FOKKrUUH2CabfgzN/0ZLrup0XKgGPrcnFHfEjrCDp+VQDA==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/c965160b-4966-417a-92ef-bd4d96bc544e/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/c965160b-4966-417a-92ef-bd4d96bc544e/original.png' sizes='180x180'>
@@ -78,7 +78,7 @@ p, ul, ol, table {
 <meta name="theme-color" content="#0a2e54">
 
 
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-f22a4b306b60b54daf21.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-7af70ed34a43e07b82fa.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/application-3fef5fbb645dcae56587.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload" defer="defer"></script>
@@ -89,7 +89,7 @@ p, ul, ol, table {
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/943-c99af93bddcb046b511a.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/font-awesome-2fd33a8dca3f007a6485.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/cookies-94aafae36928afd85a70.js" data-turbolinks-track="reload" defer="defer"></script>
-    <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/packs/css/careersite-ba6c9f7e.css" data-turbolinks-track="reload" defer="defer" />
+    <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/packs/css/careersite-35c278a1.css" data-turbolinks-track="reload" defer="defer" />
   </head>
 
   <body class="font-company-body min-h-screen flex flex-col text-company-primary bg-company-primary jobs show" data-controller="careersite--referrer-cookie">
@@ -418,7 +418,7 @@ Because we respect your right to privacy, you can choose not to allow some types
         <a class="careersite-button min-w-[220px] group  min-w-[220px] bg-opacity-100" href="/jobs/1456190-junior-java-developer/applications/new">
     <div class="flex items-center justify-center">
       <span class="truncate">Apply for this job</span>
-        <i class="pl-3 transition duration-200 transform fas fa-chevron-right group-hover:translate-x-1 mt-[-1px]"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
     </div>
 </a>
 
@@ -464,7 +464,7 @@ Because we respect your right to privacy, you can choose not to allow some types
         <a class="careersite-button min-w-[220px] group  min-w-[220px] bg-opacity-100" href="/jobs/1456190-junior-java-developer/applications/new">
     <div class="flex items-center justify-center">
       <span class="truncate">Apply for this job</span>
-        <i class="pl-3 transition duration-200 transform fas fa-chevron-right group-hover:translate-x-1 mt-[-1px]"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
     </div>
 </a>
 
@@ -552,7 +552,7 @@ Because we respect your right to privacy, you can choose not to allow some types
       <a class="careersite-button min-w-[220px] group " href="/jobs?department_id=130098">
     <div class="flex items-center justify-center">
       <span class="truncate">More jobs</span>
-        <i class="pl-3 transition duration-200 transform fas fa-chevron-right group-hover:translate-x-1 mt-[-1px]"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
     </div>
 </a>
     </div>
@@ -650,7 +650,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     <h2 class="text-center font-company-header text-4xl text-shadow">Already working at Papirfly Group?</h2>
     <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
       <div class="relative mx-auto max-w-[500px] w-full py-5 pl-8 mt-6 rounded cursor-pointer bg-company-secondary-text text-company-secondary bg-opacity-15 pr-14 focus-within:bg-white focus-within:text-gray-800" data-action="click->blocks--auto-join--form#focusEmailField">
-  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nhDijoQosOY/tyhSvjC9xKUtCncF71wVl/aRe58xLXtU1wiiBunNiKff/BW07Zx53xPwYbrcmd3AmYYlgwelMg==" />
+  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+B3fyPnLAx23mrzE5fSUoU5u0v2X1K9diaiTA8pJ6c7EgyqRHaLbw3I0CH1aECfXIZKa23itifWlELYUlF1T+w==" />
     <input value="papirfly.com" data-blocks--auto-join--form-target="domainField" type="hidden" name="domain" id="domain" />
     <input data-blocks--auto-join--form-target="emailField" type="hidden" name="email" id="email" />
     <input tabIndex="-1" required="required" type="email" autocomplete="off" title="Email address without domain" class="absolute inset-0 opacity-0" data-blocks--auto-join--form-target="fullEmailField" name="full_email" id="full_email" />
@@ -675,21 +675,21 @@ Because we respect your right to privacy, you can choose not to allow some types
   </div>
   <ul class="absolute bottom-[-27px] md:bottom-[-35px] flex items-center justify-center left-0 right-0" data-controller="blocks--auto-join--people">
     <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Johan Magnusson" alt="Johan Magnusson" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8afdd3ab-f251-44e7-a727-54c4de5788a4/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Jean-Marc König" alt="Jean-Marc König" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/071ba6d3-cbf4-4b38-9d3c-95a9dcd58034/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Morten Reigstad" alt="Morten Reigstad" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/0dbdd6ba-8770-494c-ad3f-a4ab357ecd0f/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Martin Landsberger Pospíšil" alt="Martin Landsberger Pospíšil" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/97ecb29a-6fb9-4897-a479-0076c86bf976/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Johan Magnusson" alt="Johan Magnusson" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8afdd3ab-f251-44e7-a727-54c4de5788a4/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Luke Alexandre" alt="Luke Alexandre" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/f722fe0a-1521-47d9-b1e2-7300572f4170/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Michael Pfeiffer" alt="Michael Pfeiffer" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/625cfc52-f832-4023-8828-ce64c0eec304/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Hanna Hugozon" alt="Hanna Hugozon" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/1b920a7f-bbc0-42f9-a43b-65a54f741f07/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Zuzana Doležalová" alt="Zuzana Doležalová" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8444de1d-42db-44b5-a117-f7c527e64588/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Luke Davis" alt="Luke Davis" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/83b8d4fb-d8ce-459d-9797-3a0ce15a1794/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Helen Keough" alt="Helen Keough" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/16082805-1026-4239-b780-191eb0d41ed6/original.png" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Denisa Zahradnická" alt="Denisa Zahradnická" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/110ff7f4-5313-4610-a913-154f66a7d92a/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block hidden md:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Justin Diver" alt="Justin Diver" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8cfcb51e-002e-4916-b046-2938335d8606/original.png" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Charlotte Smith" alt="Charlotte Smith" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/6f1c3795-51e0-48be-8b51-554f0ca754c7/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li></ul>
 
 </div>
@@ -729,7 +729,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'zg4KjiEX4PgSAk7Jp5aawpMM9E5Id/P4e/Q4ZQaEWa5PhaHEGgnEMw7C1fUL1E/9DNbDZ1xvNdpCMZeyLA2sxXddTtZPYuYtsz7JIz/ZmvpuOQzDEBMy5v27fTcBHoEXITytW8ylFSLjuOt13iGuBNAcTk9OlBPd3MpIUMJNd9AXXx88dvTXfOY=--4JNVpblBUNG1pAj2--T6m3gpqUGviz8qmirBXnvA==',
+        ed: 'rccM2PgSw4NHoQo477Etr+uk+FxRjeYhGdPpeuzp6TbHWSFpSA8JUrkzP7qszRmKalUqVI9ROBBE9YjtwXUKiuKquPjXPOaNP/whGUNEOkYUzezuqdE33DnmlIcB/5JUkwk5cogfQmdDxB/WHXpVGWLorYPGdMX3G/7g3W00QH0JhuOAd+vU4PA=--9v3y+VpWmsD6pKlw--HbrhVOr2q/WRczG6xiUllg==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

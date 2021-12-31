@@ -48,9 +48,12 @@
         {"@context":"http:\/\/schema.org","@type":"Organization","name":"FRG Technology Consulting","sameAs":["https:\/\/www.facebook.com\/FRGTechnologyConsulting\/","https:\/\/www.linkedin.com\/company\/18152901\/","https:\/\/twitter.com\/FRGTechnology"],"url":"https:\/\/www.frgconsulting.com","logo":"https:\/\/www.frgconsulting.com\/assets\/frg\/img\/logo-square.jpg"}
     </script>
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
 
 
-<body class='body-job-view  '>
+<body class='body-job-view touch-device '>
 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WV54BC9"
@@ -252,7 +255,7 @@
 
     
     <div>
-        <form method="POST" action="https://www.frgconsulting.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="epB0SmQ8shmXzIYHVMaQFHk0DAukryXDKfZgMX4n">        <input name="jobs[]" type="hidden" value="28514">
+        <form method="POST" action="https://www.frgconsulting.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="dgREC2SFNG32hSKZ8ExesCKc03O62wduLXC8MJMZ">        <input name="jobs[]" type="hidden" value="28514">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -337,7 +340,7 @@
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/28514?_token=epB0SmQ8shmXzIYHVMaQFHk0DAukryXDKfZgMX4n">
+                                      data-job-id="/saved-jobs/add/28514?_token=dgREC2SFNG32hSKZ8ExesCKc03O62wduLXC8MJMZ">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -380,7 +383,7 @@
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/28514?_token=epB0SmQ8shmXzIYHVMaQFHk0DAukryXDKfZgMX4n">
+                                              data-job-id="/saved-jobs/add/28514?_token=dgREC2SFNG32hSKZ8ExesCKc03O62wduLXC8MJMZ">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -399,7 +402,7 @@
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.frgconsulting.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="epB0SmQ8shmXzIYHVMaQFHk0DAukryXDKfZgMX4n">
+                <form method="POST" action="https://www.frgconsulting.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="dgREC2SFNG32hSKZ8ExesCKc03O62wduLXC8MJMZ">
 
 
 
@@ -540,12 +543,15 @@
         <div class="col-xs-12">
             <div class="company address">
                                     <h5>
-                        UK Head Office
+                        USA Office
                     </h5>
-                    <p>Plantation Place South, 6th Floor, 60 Great Tower Street, London, EC3R 5AZ</p>
-                    <p class="mini-mobile"><i class="fa fa-phone"></i> <a href="tel:+442038266764">+44 (0) 203 826
-                            6764</a></p><p class="mini-mobile"><i class="fa fa-envelope"></i>
-                        <a href="mailto:contact@frgconsulting.com">contact@frgconsulting.com</a></p>
+                    <p>Frank Recruitment Group, New York, 14 Wall Street, 6th Floor, NY 10005 <a
+                                href="tel:+12127318272"><i
+                                    class="fa fa-phone" style="padding-left: 10px;"></i> +1 212 731 8272 </a></p>
+
+                    <p><i class="fa fa-envelope" style="padding-left: 0px;"></i> <a
+                                href="mailto:contact@frgconsulting.com">contact@frgconsulting.com</a></p>
+                    <p>&copy; 2021  FRG Technology Consulting </p>
                                                     <p>&copy; 2021  FRG Technology Consulting &nbsp; | <button style="color: white;background: none;border: none;" data-toggle="modal" data-target="#cookieModal">Cookie Preferences</button> |
                         <button style="color: white;background: none;border: none; cursor: pointer" onclick="location.href='https://www.frankgroup.com/donotsell/'">California Consumers: Do Not Sell My Personal Information</button>
  | <button style="color: white;background: none;border: none; cursor: pointer; display: inline;" onclick="location.href='https://www.frankgroup.com/frg-website-covid-19-risk-statement/'">Covid Risk Assessment Statement</button>
