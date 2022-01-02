@@ -106,7 +106,7 @@
     
     
 
-      <button class="unify-apply-button__modal-outlet unify-apply-button top-card-layout__cta top-card-layout__cta--primary" data-modal="unify-apply-modal" data-reference-id="tD10X2GoRiqdg0aAQC0fsA==" data-tracking-control-name="public_unify_click_onsite_apply">
+      <button class="unify-apply-button__modal-outlet unify-apply-button top-card-layout__cta top-card-layout__cta--primary" data-modal="unify-apply-modal" data-reference-id="2/IZykpKTTqQ8HUIu5CrNw==" data-tracking-control-name="public_unify_click_onsite_apply">
         Apply Now
       </button>
   
@@ -246,7 +246,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"The password you provided must have at most 400 characters"--></code>
 
     <form class="sign-in-form save-job-form-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="e24b8af5-067b-4486-8765-41790a2ea85c" type="hidden">
+      <input name="loginCsrfParam" value="6ac30363-dbb6-41dd-891d-a03e8d945ca7" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -458,7 +458,7 @@
     
 
     <code id="jobId" style="display: none"><!--2849988368--></code>
-    <code id="referenceId" style="display: none"><!--"tD10X2GoRiqdg0aAQC0fsA=="--></code>
+    <code id="referenceId" style="display: none"><!--"2/IZykpKTTqQ8HUIu5CrNw=="--></code>
 
     
 
@@ -589,7 +589,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"The password you provided must have at most 400 characters"--></code>
 
     <form class="sign-in-form unify-apply-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="e24b8af5-067b-4486-8765-41790a2ea85c" type="hidden">
+      <input name="loginCsrfParam" value="6ac30363-dbb6-41dd-891d-a03e8d945ca7" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -921,7 +921,7 @@
 
 <!---->
           
-    <div class="dropdown" data-dropdown-response-value="82" data-dropdown-response-value-urn="urn:li:country:KR" data-dropdown-required="true">
+    <div class="dropdown" data-dropdown-response-value="254" data-dropdown-response-value-urn="urn:li:country:KE" data-dropdown-required="true">
       <select id="urn:li:jobs_applyformcommon_easyApplyFormElement:(2849988368,8814748988475243278,phoneNumber~country)" class="dropdown__select">
           <option value>Select an option</option>
           <option data-option-value="93" data-option-value-urn="urn:li:country:af" value="urn:li:country:af">
@@ -1269,6 +1269,9 @@
           <option data-option-value="254" data-option-value-urn="urn:li:country:ke" value="urn:li:country:ke">
             Kenya (+254)
           </option>
+          <option data-option-value="254" data-option-value-urn="urn:li:country:ke" value="urn:li:country:ke">
+            Kenya (+254)
+          </option>
           <option data-option-value="686" data-option-value-urn="urn:li:country:ki" value="urn:li:country:ki">
             Kiribati (+686)
           </option>
@@ -1535,9 +1538,6 @@
           </option>
           <option data-option-value="27" data-option-value-urn="urn:li:country:za" value="urn:li:country:za">
             South Africa (+27)
-          </option>
-          <option data-option-value="82" data-option-value-urn="urn:li:country:kr" value="urn:li:country:kr">
-            South Korea (+82)
           </option>
           <option data-option-value="211" data-option-value-urn="urn:li:country:ss" value="urn:li:country:ss">
             South Sudan (+211)
