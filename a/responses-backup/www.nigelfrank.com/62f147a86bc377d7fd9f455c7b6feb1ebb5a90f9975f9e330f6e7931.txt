@@ -76,9 +76,12 @@ Within this role you will be taking part in the developing of a Cloud native pro
 
 
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
+    
 
-
-<body class='body-job-view  '>
+<body class='body-job-view touch-device '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -246,7 +249,7 @@ Within this role you will be taking part in the developing of a Cloud native pro
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-132 current_page_item current_page_parent menu-item-142 active"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -388,7 +391,7 @@ Within this role you will be taking part in the developing of a Cloud native pro
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="HX5DjRBczUDzz5qxY3LqLG1uMwb1Mu1C7DIvZd7l">        <input name="jobs[]" type="hidden" value="390947">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="No53ntE0ZQbnM1XIsDWD9Rlck6AmGfmJGU4lt8NS">        <input name="jobs[]" type="hidden" value="390947">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -499,7 +502,7 @@ Within this role you will be taking part in the developing of a Cloud native pro
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/390947?_token=HX5DjRBczUDzz5qxY3LqLG1uMwb1Mu1C7DIvZd7l">
+                                      data-job-id="/saved-jobs/add/390947?_token=No53ntE0ZQbnM1XIsDWD9Rlck6AmGfmJGU4lt8NS">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -540,7 +543,7 @@ Within this role you will be taking part in the developing of a Cloud native pro
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/390947?_token=HX5DjRBczUDzz5qxY3LqLG1uMwb1Mu1C7DIvZd7l">
+                                              data-job-id="/saved-jobs/add/390947?_token=No53ntE0ZQbnM1XIsDWD9Rlck6AmGfmJGU4lt8NS">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -559,7 +562,7 @@ Within this role you will be taking part in the developing of a Cloud native pro
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="HX5DjRBczUDzz5qxY3LqLG1uMwb1Mu1C7DIvZd7l">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="No53ntE0ZQbnM1XIsDWD9Rlck6AmGfmJGU4lt8NS">
 
 
 
