@@ -1,23 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Junior Guru podcast</title>
-    <link>https://junior.guru</link>
-    <description>...</description>
+    <link>https://junior.guru/podcast/</link>
+    <description>Jsme tu pro všechny juniory v IT! Jak začít s programováním? Jak najít práci v IT? Přinášíme odpovědi, inspiraci, motivaci.</description>
     <itunes:explicit>no</itunes:explicit>
+    <copyright>© 2022 Pavlína Froňková, Jan Javorek</copyright>
     <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 05 Jan 2022 11:30:36 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Jan 2022 00:42:42 +0100</pubDate>
+    <generator>JuniorGuruBot (+https://junior.guru)</generator>
+    <language>cs</language>
+    <lastBuildDate>Wed, 05 Jan 2022 22:40:16 +0000</lastBuildDate>
+    <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
+    <dc:creator>Pája Froňková</dc:creator>
+    <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
+    <pubDate>Sat, 01 Jan 2022 01:42:42 +0100</pubDate>
+    <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
+    <itunes:owner>
+      <itunes:name>Honza Javorek</itunes:name>
+      <itunes:email>honza@junior.guru</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://junior.guru/api/podcast.xml" rel="self" type="application/rss+xml"/>
+    <podcast:funding url="https://junior.guru/club/">Přidej se do klubu junior.guru</podcast:funding>
+    <podcast:funding url="https://junior.guru/donate/">Přispěj junior.guru</podcast:funding>
     <item>
       <title>#0 Startujeme!</title>
-      <description><![CDATA[...]]></description>
-      <content:encoded><![CDATA[...]]></content:encoded>
-      <guid isPermaLink="false">0000</guid>
+      <link>https://junior.guru/podcast/#episode0000</link>
+      <description><![CDATA[<p>Jak začít s programováním? Jak najít práci v IT? Přinášíme odpovědi, inspiraci, motivaci. Pája Froňková uvádí podcast pro všechny juniory v IT. V krátkém úvodním dílu je spolu s Honzou Javorkem, autorem projektu junior.guru, kde tento podcast našel svůj domov.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0000</guid>
       <enclosure url="https://podcast.junior.guru/episodes/0000.mp3" length="2635792" type="audio/mpeg"/>
       <itunes:duration>03:08</itunes:duration>
-      <pubDate>Sat, 01 Jan 2022 00:42:42 +0100</pubDate>
-      <itunes:subtitle>...</itunes:subtitle>
+      <pubDate>Sat, 01 Jan 2022 01:42:42 +0100</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode display="#0">1</podcast:episode>
     </item>
   </channel>
 </rss>
