@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Business Developer - (Junior Sales Associate) - Ostrava. - Ebury</title>
-  <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/a2cc1991-85b3-4447-a9e1-9bb7c3b08305/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/a2cc1991-85b3-4447-a9e1-9bb7c3b08305/original.png' sizes='180x180'>
+  <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/155b8209-f939-440d-a0fd-5a26da818ff5/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/155b8209-f939-440d-a0fd-5a26da818ff5/original.png' sizes='180x180'>
   <meta name="description" content="New Business Developer - Junior Sales Associate - Ostrava About Us Ebury is a FinTech success story, positioned among the fastest-growing international compa..." />
   <meta name="keywords" content="Job opportunities, Jobs, Career, Career site" />
   
@@ -14,7 +14,7 @@
   
 
   
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-6120de6b97995a0ea84f.js" data-turbolinks-track="reload"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-7b9ae26201ddc59ff6f9.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/cookies-94aafae36928afd85a70.js" data-turbolinks-track="reload"></script>
   
   <link rel="alternate" type="application/rss+xml" title="Blog Posts" href="/blog/posts.rss" /><link rel="alternate" type="application/rss+xml" title="Jobs" href="/jobs.rss" />
@@ -38,7 +38,7 @@
   <meta property="article:section" content="Front Office" /><meta property="article:published_time" content="2021-09-22T12:35:06+01:00" /><meta property="article:modified_time" content="2021-12-22T16:04:02+00:00" />
   
 
-  <link href='//fonts.googleapis.com/css?family=Roboto:100%7CRoboto:700,600,500,400,300,400italic,300italic&display=swap' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Roboto:700,600,400,100&display=swap' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/jobsite/jobsite-ccbaf66f07c824c1a90c3ad0860bbc7cfadff62d97e303974ea1c91543d6cd50.css" />
 <style>/* Background colors */
 
@@ -525,6 +525,94 @@ h1, h2, h3, h4, h5, h6,
 body.jobsite-layout.menu-is-visible .header__main {
     background-color: #00bef0;
 }
+.z-career-header-menu-content {
+background-color: #00bef0!important;
+}
+.z-career-header-menu-content nav ul li a:hover {
+color: #00303d!important;
+}
+
+@media screen and (min-width: 768px) {
+section .z-career-block-content div .font-company-header .textFitted {
+  font-size: 52px!important;
+  }
+}
+
+.z-career-block-content div a.careersite-button {
+    background-color: transparent;
+    border-color: #ffffff;
+    border-width: 1px;
+    font-weight: normal;
+}
+
+.z-career-block-content div a.careersite-button:hover {
+    background-color: #ffffff;
+    color: #00bef0;
+}
+
+#section-8986171 .font-company-header {
+    color: #00bef0 !important;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+
+#section-8986171 .font-company-body {
+text-align: center;
+    font-size: 16px;
+    max-width: none;
+}
+
+#section-8986172 div a.careersite-button {
+    color: #fff;
+    background-color: #00bef0;
+    border-color: #00bef0;
+    border-width: 1px;
+}
+
+#section-8986172 div a.careersite-button:hover {
+    color: #ffffff;
+    background-color: #0095bd;
+    border-color: #0095bd;
+}
+
+#section-8986173 .font-company-header {
+    color: #00bef0;
+    font-size: 45px;
+    margin-bottom: 0;
+}
+
+#section-8986173 .animate__animated div {
+    padding-bottom: 35%;
+}
+
+#section-8986173 .animate__animated h3 {
+    font-size: 16px;
+    color: #01303d;
+}
+
+#section-8986174 .font-company-body {
+    font-size: 16px;
+}
+
+#section-8986174 .font-company-header {
+    color: #00bef0 !important;
+    font-size: 45px;
+}
+
+#section-8986176 .font-company-header {
+    color: #00bef0;
+    font-size: 45px;
+}
+
+#section-8986176 figure blockquote p {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+figcaption p {
+    font-size: 16px;
+}
 
 .header__main .sliding-menu-content .career-site-navigation li a:hover, .header__main .sliding-menu-content .career-site-navigation li a:focus {
     color: #00303d;
@@ -720,11 +808,11 @@ body {
 .jobs #section-office{display:none}
 
 .jobs #section-footer{display:none}</style>
-  <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-6120de6b97995a0ea84f.js" data-turbolinks-track="reload"></script>
+  <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-7b9ae26201ddc59ff6f9.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/343-ce5cb4b9839c370e634e.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-6860b77d3d5b71bc9b77.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-e85ed9168fb247958fd5.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-3f2f328a0d42b311c7f6.js" data-turbolinks-track="reload"></script>
 
   
@@ -741,7 +829,7 @@ body {
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'xfcmIN1hOcb4DUKS7/OlDJp7G2Ybf3gCX32D7DtvU5ViTo2xlj6X81Zg8R1G9aH11A4dqSmjh0NEyiGCCCLJ6XNBZcROlSVE46sbdP/yevGh1Nx8qRMkebZXqHZUBuvO6fhwD7quTdhHGa8pQlu1JIUIyEEGnMdM6QoWjRxaMnGLhiqnCR83FR8=--gshCow/Iv42UWkhg--k01vi+Rou6OgWV3aViityQ==',
+        ed: 'YLV7c5GhBWDqjeu+ibGOaS6pF+UZrGVDrSKl35+DgPSe49DnEPd92E5FNwPC+d4MtcpVOj0OPxWiOu8KwihCEoDjcICa+y+5ggP0KUknf1EHq4sPfdBUaYv0NPs+LwiNDpPH1K4Qwa41JQiezw+fkR6HIA9XmyGeSl1Z02ZSOa4/IPtTGtG8hP4=--l0SkP2v45IMTw/CI--eOShUBg2HfB0Oil95NadQA==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,
@@ -1537,7 +1625,7 @@ Manage the relationship with our account management team to speed up the convers
 
           <div class="c-employee-referral__form">
             <form method="post" action="https://careers.ebury.com/auto_join" class="filter row">
-              <input type="hidden" name="authenticity_token" id="authenticity_token" value="NvBSdIDNJ/uw4WSCWGFz8jhZTVFe5AFXg3jAas84mcaBOlQha07iIZQv9KG4ZzPZvJhmge5H3DFO77b+pq8xsQ==">
+              <input type="hidden" name="authenticity_token" id="authenticity_token" value="n5py8VXUGyUTheSXs9hHclrzb2k3c1vTx6h41e5YoNbDGXSOldb8XOMw8tK1/G/Tql/t4r8P1dXS/nZlS9dbvQ==">
               
               <button class="btn c-employee-referral__button tt-button--filled u-primary-button-text-color u-primary-button-background-color"
                 data-event-tracking="click"
@@ -1588,11 +1676,11 @@ Manage the relationship with our account management team to speed up the convers
   </script>
 
   
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-6120de6b97995a0ea84f.js" data-turbolinks-track="reload"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-7b9ae26201ddc59ff6f9.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/343-ce5cb4b9839c370e634e.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-6860b77d3d5b71bc9b77.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-e85ed9168fb247958fd5.js" data-turbolinks-track="reload"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-3f2f328a0d42b311c7f6.js" data-turbolinks-track="reload"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default%2CObject.values%2CIntersectionObserver%2CIntersectionObserverEntry" data-turbolinks-suppress-warning="true"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/jobsite/jobsite-64bffd6e9e674369d2213a241d177faa9843632cdbb44b690122f315cc1a8b31.js" data-turbolinks-suppress-warning="true"></script>
