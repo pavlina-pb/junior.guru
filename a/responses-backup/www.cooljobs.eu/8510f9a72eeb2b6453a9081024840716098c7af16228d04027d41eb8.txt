@@ -67,34 +67,32 @@ vyhody
 <meta property="og:image:height" content="1000">
 
 <link rel="alternate" hreflang="de" href="https://www.cooljobs.eu/at/c/26412" /><link rel="alternate" hreflang="cs" href="https://www.cooljobs.eu/cz/c/26412" /><link rel="alternate" hreflang="en" href="https://www.cooljobs.eu/en/c/26412" /><link rel="alternate" hreflang="sk" href="https://www.cooljobs.eu/sk/c/26412" /><link rel="alternate" hreflang="x-default" href="https://www.cooljobs.eu/cz/c/26412" />
-<link rel="stylesheet" href="tmp/minify/1641371794__sitewide.css">
-<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1641371834__a0543e7191d97ce9b6a79eeada081693a1111367.css">
-<script src="tmp/minify/1641445119__sitewide.js"></script>
+<link rel="stylesheet" href="tmp/minify/1641489305__sitewide.css">
+<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1641489305__a0543e7191d97ce9b6a79eeada081693a1111367.css">
+<script src="tmp/minify/1641530609__sitewide.js"></script>
 <script src="components/sweetalert2/sweetalert2.all.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script><script src="tmp/minify/1641371794__e17849c481b2c88c2dbf31cb41c542b3709dbd82.js"></script><script src="tmp/minify/1641371794__03d8bef2dd19bc13b8ce2440171f6cbc6783c534.js"></script><script src="tmp/minify/1641371794__498cdcdfb7da7a61e0337b246ee775b2d1753e0f.js"></script><script src="tmp/minify/1641371794__09e11dde4cde98d3e1feaa6b6a6595046ae46ee8.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script>
 <script>
 var moduleVars = {"WebModuleHref":"https://www.cooljobs.eu/en/pos/1116.html","csrf":"","error":"Error","timeout_error":"It's not possible connect with the server, please try again later.","unknown_error":"Unexpected error, please try again later.","ajaxpost_in_progress":"Please wait till processing of the previous request","debugmode":0}; Object.freeze(moduleVars);</script>
 <meta name="facebook-domain-verification" content="shs0cvv77iu5z6q1um590k3hc44wyl" />
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+<script>
+   // Define dataLayer and the gtag function.
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+
+   // Default ad_storage and analytics_storage to 'denied'.
+   gtag('consent', 'default', {
+     'ad_storage': 'denied',
+     'analytics_storage': 'denied',
+     'wait_for_update': 500
+   });
+ </script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-M5PHFZ9');</script>
 
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:1670065,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
-
-<!-- Hotjar Tracking Code for
-https://www.cooljobs.eu/cz --> <script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:2680857,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1;
- r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv='); </script>
 </head>
 
 <body class="lang-en">
@@ -113,7 +111,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 <div class="header-middle"></div>
 <div class="header-right">
-<ul class='main-menu'><li class="menu-home"><a href="cooljobs-social-for-it-professionals/1114.html"><i class='fal fa-home'></i>Home</a></li><li class="active menu-search"><a href="search-job/1115.html"><i class='fal fa-search'></i>Job search</a></li><li class="menu-briefcase unauth-disabled"><a href="moje-pozice/1117.html"><i class='fal fa-briefcase'></i>My jobs</a></li><li class="menu-reminders unauth-disabled"><a href="notifikace/1119.html"><i class='fal fa-bell'></i>Notifications</a></li><li class="menu-messages unauth-disabled"><a href="messages/1120.html"><i class='fal fa-comment-alt-dots'></i>Messages</a></li><li class="menu-profile unauth-disabled"><a href="profile/1121.html"><i class='fal fa-cog'></i>Profile</a></li></ul>
+<ul class='main-menu'><li class="menu-home"><a href="https://www.cooljobs.eu/en"><i class='fal fa-home'></i>Home</a></li><li class="active menu-search"><a href="search-job/1115.html"><i class='fal fa-search'></i>Job search</a></li><li class="menu-briefcase unauth-disabled"><a href="moje-pozice/1117.html"><i class='fal fa-briefcase'></i>My jobs</a></li><li class="menu-reminders unauth-disabled"><a href="notifikace/1119.html"><i class='fal fa-bell'></i>Notifications</a></li><li class="menu-messages unauth-disabled"><a href="messages/1120.html"><i class='fal fa-comment-alt-dots'></i>Messages</a></li><li class="menu-profile unauth-disabled"><a href="profile/1121.html"><i class='fal fa-cog'></i>Profile</a></li></ul>
 </div>
 </div>
 </header>
@@ -262,6 +260,77 @@ url:'https://www.cooljobs.eu/en/pos/1116.html?action=MessageToSourcer',data:{
 <a href="#" id="to-top" class="to-top" aria-hidden="true">
 <span class="chevron-up" title="Nahoru"></span>
 </a>
-
+<div class="popup-container" id="gdpr-container" style="display:none">
+<div class="popup page-intro">
+<div class="popup-header">
+CoolPeople cookies
+</div>
+<div class="popup-body">
+Kliknutím na button Povolit vše umožníte použití cookies pro funkční, analytické a marketingové účely na vašem zařízení. Sami můžete sami určit kliknutím na Podrobné nastavení, jaké cookies je možné zpracovávat, případně jejich zpracování zakázat.<br />
+<br />
+Více informací o zpracování osobních údajů naleznete v <a href="https://www.coolpeople.cz/zpracovani-osobnich-udaju/1013.html" target="_blank">Informace o zpracování osobních údajů</a>.
+</div>
+<div class="popup-footer">
+<button class="btn btn-povolitvse">Povolit vše</button>
+<br />
+<span class="btn-prizpusobit">Podrobné nastavení</span>
+</div>
+</div>
+<div class="popup page-customize hidden">
+<div class="popup-header">
+Ochrana soukromí - nastavení cookies
+</div>
+<div class="popup-body">
+<ul class="tab-switch">
+<li class="active" data-tabid="tab1">Co jsou cookies?</li>
+<li data-tabid="tab2" data-tabid="tab2">Nezbytné cookies</li>
+<li data-tabid="tab3" data-tabid="tab3">Marketingové cookies</li>
+</ul>
+<div class="tab-contents">
+<div class="tab tab1 active">
+<div class="tab_title">
+<div class="tab_title_text">
+Co jsou cookies?
+</div>
+</div>
+<div class="tab_text">
+Cookies nám slouží ke sledování návštěvnosti - díky tomu děláme naše weby a služby pro vás lepší.<br />
+Cookies vás obvykle přímo neidentifikují. Pamatují si, jaké aktivity ve svém prohlížeči na daném zařízení děláte.<br />
+CoolPeople respektuje vaše soukromí a nabízí vám volbu, které typy souborů cookies povolíte, je to jen na vás. Stačí prozkoumat kategorie níže a případně změnit výchozí nastavení (které zahrnuje pouze nezbytné cookies). Omezené nastavení může mít vliv na vaši uživatelskou zkušenost (může se snížit relevantnost zobrazovaných informaci).
+</div>
+</div>
+<div class="tab tab2">
+<div class="tab_title">
+<div class="tab_title_text">
+Nezbytné cookies
+</div>
+<div class="alwayson">vždy aktivní</div>
+</div>
+<div class="tab_text">
+Tyto cookies jsou nutné pro zajištění základní funkčnosti webových stránek (např. session id, nastavení souhlasů). <br />
+Nezbytné cookies neobsahují žádné osobní údaje.
+</div>
+</div>
+<div class="tab tab3">
+<div class="tab_title">
+<div class="tab_title_text">
+Marketingové cookies
+</div>
+<input class="tgl tgl-light" id="gdpr_marketing" name="gdpr_marketing" type="checkbox" value="1">
+<label class="tgl-btn" for="gdpr_marketing"></label>
+</div>
+<div class="tab_text">
+Umožňují nám sledovat uživání našich webů a jejich sekcí, na základě toho je dělat lepšími pro Vás. Umožňují nám též lepší cílení reklamy tak, aby tato byla co nejvíce relevantní pro své příjemce. <br />
+Konkrétní poskytovatelé cookies: Google Analytics, Facebook Pixel
+</div>
+</div>
+</div>
+</div>
+<div class="popup-footer">
+<button class="btn btn-ulozitzmenu">Uložit nastavení</button>
+<button class="btn btn-povolitvse">Povolit vše</button>
+</div>
+</div>
+</div>
 </body>
 </html>
