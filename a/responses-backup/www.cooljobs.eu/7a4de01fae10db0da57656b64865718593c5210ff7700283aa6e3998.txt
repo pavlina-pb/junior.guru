@@ -75,9 +75,9 @@ benefity
 <meta property="og:image:height" content="1000">
 
 <link rel="alternate" hreflang="de" href="https://www.cooljobs.eu/at/php/26618" /><link rel="alternate" hreflang="cs" href="https://www.cooljobs.eu/cz/php/26618" /><link rel="alternate" hreflang="en" href="https://www.cooljobs.eu/en/php/26618" /><link rel="alternate" hreflang="sk" href="https://www.cooljobs.eu/sk/php/26618" /><link rel="alternate" hreflang="x-default" href="https://www.cooljobs.eu/cz/php/26618" />
-<link rel="stylesheet" href="tmp/minify/1641489305__sitewide.css">
-<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1641489305__a0543e7191d97ce9b6a79eeada081693a1111367.css">
-<script src="tmp/minify/1641530652__sitewide.js"></script>
+<link rel="stylesheet" href="tmp/minify/1641569879__sitewide.css">
+<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1641569879__a0543e7191d97ce9b6a79eeada081693a1111367.css">
+<script src="tmp/minify/1641617313__sitewide.js"></script>
 <script src="components/sweetalert2/sweetalert2.all.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script>
 <script>
@@ -274,69 +274,69 @@ url:'https://www.cooljobs.eu/en/pos/1116.html?action=MessageToSourcer',data:{
 CoolPeople cookies
 </div>
 <div class="popup-body">
-Kliknutím na button Povolit vše umožníte použití cookies pro funkční, analytické a marketingové účely na vašem zařízení. Sami můžete sami určit kliknutím na Podrobné nastavení, jaké cookies je možné zpracovávat, případně jejich zpracování zakázat.<br />
+By clicking the Allow all button you allow the use of cookies for functional, analytical and marketing purposes on your device. You can determine for yourself by clicking on detailed settings which cookies can be processed or disable their processing.<br />
 <br />
-Více informací o zpracování osobních údajů naleznete v <a href="https://www.coolpeople.cz/zpracovani-osobnich-udaju/1013.html" target="_blank">Informace o zpracování osobních údajů</a>.
+For more information on the processing of personal data click  <a href="https://www.coolpeople.cz/en/information-of-the-processing-of-personal-data/1111.html" target="_blank">Information about the processing of personal data</a>.
 </div>
 <div class="popup-footer">
-<button class="btn btn-povolitvse">Povolit vše</button>
+<button class="btn btn-povolitvse">Allow all</button>
 <br />
-<span class="btn-prizpusobit">Podrobné nastavení</span>
+<span class="btn-prizpusobit">Detailed settings</span>
 </div>
 </div>
 <div class="popup page-customize hidden">
 <div class="popup-header">
-Ochrana soukromí - nastavení cookies
+Privacy - Cookies setting
 </div>
 <div class="popup-body">
 <ul class="tab-switch">
-<li class="active" data-tabid="tab1">Co jsou cookies?</li>
-<li data-tabid="tab2" data-tabid="tab2">Nezbytné cookies</li>
-<li data-tabid="tab3" data-tabid="tab3">Marketingové cookies</li>
+<li class="active" data-tabid="tab1">About cookies</li>
+<li data-tabid="tab2" data-tabid="tab2">Necessary cookies</li>
+<li data-tabid="tab3" data-tabid="tab3">Marketing cookies</li>
 </ul>
 <div class="tab-contents">
 <div class="tab tab1 active">
 <div class="tab_title">
 <div class="tab_title_text">
-Co jsou cookies?
+About cookies
 </div>
 </div>
 <div class="tab_text">
-Cookies nám slouží ke sledování návštěvnosti - díky tomu děláme naše weby a služby pro vás lepší.<br />
-Cookies vás obvykle přímo neidentifikují. Pamatují si, jaké aktivity ve svém prohlížeči na daném zařízení děláte.<br />
-CoolPeople respektuje vaše soukromí a nabízí vám volbu, které typy souborů cookies povolíte, je to jen na vás. Stačí prozkoumat kategorie níže a případně změnit výchozí nastavení (které zahrnuje pouze nezbytné cookies). Omezené nastavení může mít vliv na vaši uživatelskou zkušenost (může se snížit relevantnost zobrazovaných informaci).
+We use cookies to track traffic - to make our websites and services better for you.<br />
+Cookies usually do not directly identify you. They remember what activities you do on your browser on a given device.<br />
+CoolPeople respects your privacy and offers you the choice of which types of cookies you allow it's up to you. Just explore the categories below and change the default settings (which only include essential cookies) if necessary. Restricted settings may affect your user experience (the relevance of the information displayed may be reduced).
 </div>
 </div>
 <div class="tab tab2">
 <div class="tab_title">
 <div class="tab_title_text">
-Nezbytné cookies
+Necessary cookies
 </div>
-<div class="alwayson">vždy aktivní</div>
+<div class="alwayson">always on</div>
 </div>
 <div class="tab_text">
-Tyto cookies jsou nutné pro zajištění základní funkčnosti webových stránek (např. session id, nastavení souhlasů). <br />
-Nezbytné cookies neobsahují žádné osobní údaje.
+These cookies are necessary to ensure the basic functionality of the website (e.g. session id, consent settings). <br />
+Necessary cookies do not contain any personal data.
 </div>
 </div>
 <div class="tab tab3">
 <div class="tab_title">
 <div class="tab_title_text">
-Marketingové cookies
+Marketing cookies
 </div>
 <input class="tgl tgl-light" id="gdpr_marketing" name="gdpr_marketing" type="checkbox" value="1">
 <label class="tgl-btn" for="gdpr_marketing"></label>
 </div>
 <div class="tab_text">
-Umožňují nám sledovat uživání našich webů a jejich sekcí, na základě toho je dělat lepšími pro Vás. Umožňují nám též lepší cílení reklamy tak, aby tato byla co nejvíce relevantní pro své příjemce. <br />
-Konkrétní poskytovatelé cookies: Google Analytics, Facebook Pixel
+They allow us to monitor the usage of our websites and their sections, and to make them better for you. They also allow us to better target advertising so that it is as relevant as possible to its recipients. <br />
+Specific cookie providers: Google Anayltics, Facebook Pixel
 </div>
 </div>
 </div>
 </div>
 <div class="popup-footer">
-<button class="btn btn-ulozitzmenu">Uložit nastavení</button>
-<button class="btn btn-povolitvse">Povolit vše</button>
+<button class="btn btn-ulozitzmenu">Save settings</button>
+<button class="btn btn-povolitvse">Allow all</button>
 </div>
 </div>
 </div>

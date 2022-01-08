@@ -67,9 +67,9 @@ vyhody
 <meta property="og:image:height" content="1000">
 
 <link rel="alternate" hreflang="de" href="https://www.cooljobs.eu/at/c/26412" /><link rel="alternate" hreflang="cs" href="https://www.cooljobs.eu/cz/c/26412" /><link rel="alternate" hreflang="en" href="https://www.cooljobs.eu/en/c/26412" /><link rel="alternate" hreflang="sk" href="https://www.cooljobs.eu/sk/c/26412" /><link rel="alternate" hreflang="x-default" href="https://www.cooljobs.eu/cz/c/26412" />
-<link rel="stylesheet" href="tmp/minify/1641489305__sitewide.css">
-<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1641489305__a0543e7191d97ce9b6a79eeada081693a1111367.css">
-<script src="tmp/minify/1641530609__sitewide.js"></script>
+<link rel="stylesheet" href="tmp/minify/1641569879__sitewide.css">
+<link rel="stylesheet" href="https://crm2.coolpeople.cz/.sharedlib/fas/css/all.min.css"><link rel="stylesheet" href="tmp/minify/1641569879__a0543e7191d97ce9b6a79eeada081693a1111367.css">
+<script src="tmp/minify/1641617258__sitewide.js"></script>
 <script src="components/sweetalert2/sweetalert2.all.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@7.1.0/dist/promise.min.js"></script>
 <script>
@@ -151,78 +151,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <div class="body">
-
+<div><div class="archived-position-warning">This job is no longer available.</div></div>
 <p>Dynamicky rostoucí tým hledá senior <strong>C++</strong>&nbsp;<strong>Engineera</strong> na pomoc s vývojem nové cloudové verze aplikace. Hlavním bodem práce bude řešení, které zajišťuje ochranu před cílenými útoky. Řešení obsahuje server psaný v jazyce <strong>C++</strong> a frontend v <strong>JavaScript</strong>. Pro ukládání dat server používá databázi <strong>SQL</strong>. Využijte příležitosti naučit se a následně používat širokou škálu technologií, od frontendu a SQL až po cloudové technologie. Přihlaste se ještě dnes a já vám ráda povím víc informací.<br /><br /><strong>Náplň práce</strong><br />- vývoj nové cloudové verze interní aplikace<br />- analýza, návrh, implementace a automatické testování aplikace<br />- spolupráce na řešení pro ochranu zákazníků proti cíleným útokům<br /><br /><strong>Požadavky</strong><br />- VŠ vzdělání v oboru počítačové informatiky<br />- min. 6 let zkušeností s C++<br />- schopnost efektivně řešit problémy, testovat, bugfixing skills<br />- dobrá organizace práce<br />- chuť učit se novým technologiím<br />- AJ min. B2<br /><br /><strong>Výhody</strong><br />- JavaScript, ReactJS, HTML5, CSS<br />- SQL, Python<br />- Cloud technologie (Docker, Kubernetes), Azure</p>
 </div>
 
 </div>
 
 
-
-<div class="form-row">
-<form id="applyform" class="form labels-left-collapsible" style="flex-grow:2">
-<h2>I'm interested, pls. contact me</h2>
-<div style="max-width: 450px;">
-<div class="field" style="">
-<label>Name</label>
-<input type="text" name="jmeno" id="jmeno">
-</div>
-<div class="field" style="">
-<label>E-mail</label>
-<input type="text" name="email" id="email">
-</div>
-<div class="field" style="">
-<label>Phone</label>
-<input type="text" name="telefon" id="telefon" placeholder="+420">
-</div>
-<div class="field">
-<label for="poznamka">Message</label>
-<div class="autosize-textarea with-emoji" style="min-height: 100px;">
-<div class="hiddentext"></div>
-<textarea name="poznamka" id="poznamka" placeholder="Your message"></textarea>
-<i class="fal fa-smile emoji-picker"></i>
-</div>
-</div>
-<div class="field cvRow">
-<label for="cv">My current CV<span class="cvVolitelne">- Optional. if you do not have it with you send without it.</span></spam></label>
-<div style="display: flex; align-items: center">
-<button type="button" class="btn btn-gray btn-small" style="width:auto;margin-right: 10px;" id="cv-filebutton">choose file</button>
-<span id="cv-filename" style="font-size: 9pt;"></span>
-</div>
-<input type="file" name="cv" id="cv-fileinput" style="display: none">
-</div>
-<div class="row souhlasRow" style="align-items: center;margin-top: 40px;margin-bottom: 20px;">
-<input id="souhlas" name="souhlas" type="checkbox" /> <label for="souhlas">I agree with processing <a id="zasady_anchor" style="text-decoration: underline" href="#">personal data</a></label>
-</div>
-<div class="field">
-<button type="submit" class="btn btn-primary" id="submit-application-button">Send</button>
-<input type="hidden" name="requestid" id="requestid" value="26412">
-</div>
-</div>
-</form>
-<div id="contact" class="form labels-above matedotaz" style="flex-basis:350px; flex-grow:0; flex-shrink:0">
-<h2>Your contact</h2>
-
-<p><strong><a href="alice-gajdosova">Alice Gajdošová</a></strong></p>
-<p><a href="mailto:alice.gajdosova@coolpeople.cz?subject=Job #26412">alice.gajdosova@coolpeople.cz</a></p>
-<a href="tel:+420 797 827 973">+420 797 827 973</a>
-
-<img class="avatar_img" src="https://avatar.coolpeople.cz/2030_6c7bc6a310407192.jpg?1631806941" />
-
-<p>Do you have a question?</p>
-
-
-			<div class="autosize-textarea with-emoji" style="max-width: 500px;">
-				<div class="hiddentext"></div>
-				<textarea id="matedotaz-zprava"></textarea>
-				<i class="fal fa-smile emoji-picker"></i>
-			</div>
-			<div>
-				<button type="submit" class="btn btn-secondary btn-small" id="matedotaz-sendbtn" style="margin-top:10px;display: none">Send</button>
-			</div>
-
-</div>
-</div>
 
 
 <h2>Similar jobs</h2><ul class="podobne-pozice"><li><a href='c/26590'>Embedded Software Engineer (26590)</a></li><li><a href='c/26573'>IoT Developer (26573)</a></li><li><a href='c/26559'>C++ Developer (26559)</a></li><li><a href='c/26544'>C++ Engineer (26544)</a></li><li><a href='c/26441'>Embedded Developer (26441)</a></li></ul>
@@ -266,69 +201,69 @@ url:'https://www.cooljobs.eu/en/pos/1116.html?action=MessageToSourcer',data:{
 CoolPeople cookies
 </div>
 <div class="popup-body">
-Kliknutím na button Povolit vše umožníte použití cookies pro funkční, analytické a marketingové účely na vašem zařízení. Sami můžete sami určit kliknutím na Podrobné nastavení, jaké cookies je možné zpracovávat, případně jejich zpracování zakázat.<br />
+By clicking the Allow all button you allow the use of cookies for functional, analytical and marketing purposes on your device. You can determine for yourself by clicking on detailed settings which cookies can be processed or disable their processing.<br />
 <br />
-Více informací o zpracování osobních údajů naleznete v <a href="https://www.coolpeople.cz/zpracovani-osobnich-udaju/1013.html" target="_blank">Informace o zpracování osobních údajů</a>.
+For more information on the processing of personal data click  <a href="https://www.coolpeople.cz/en/information-of-the-processing-of-personal-data/1111.html" target="_blank">Information about the processing of personal data</a>.
 </div>
 <div class="popup-footer">
-<button class="btn btn-povolitvse">Povolit vše</button>
+<button class="btn btn-povolitvse">Allow all</button>
 <br />
-<span class="btn-prizpusobit">Podrobné nastavení</span>
+<span class="btn-prizpusobit">Detailed settings</span>
 </div>
 </div>
 <div class="popup page-customize hidden">
 <div class="popup-header">
-Ochrana soukromí - nastavení cookies
+Privacy - Cookies setting
 </div>
 <div class="popup-body">
 <ul class="tab-switch">
-<li class="active" data-tabid="tab1">Co jsou cookies?</li>
-<li data-tabid="tab2" data-tabid="tab2">Nezbytné cookies</li>
-<li data-tabid="tab3" data-tabid="tab3">Marketingové cookies</li>
+<li class="active" data-tabid="tab1">About cookies</li>
+<li data-tabid="tab2" data-tabid="tab2">Necessary cookies</li>
+<li data-tabid="tab3" data-tabid="tab3">Marketing cookies</li>
 </ul>
 <div class="tab-contents">
 <div class="tab tab1 active">
 <div class="tab_title">
 <div class="tab_title_text">
-Co jsou cookies?
+About cookies
 </div>
 </div>
 <div class="tab_text">
-Cookies nám slouží ke sledování návštěvnosti - díky tomu děláme naše weby a služby pro vás lepší.<br />
-Cookies vás obvykle přímo neidentifikují. Pamatují si, jaké aktivity ve svém prohlížeči na daném zařízení děláte.<br />
-CoolPeople respektuje vaše soukromí a nabízí vám volbu, které typy souborů cookies povolíte, je to jen na vás. Stačí prozkoumat kategorie níže a případně změnit výchozí nastavení (které zahrnuje pouze nezbytné cookies). Omezené nastavení může mít vliv na vaši uživatelskou zkušenost (může se snížit relevantnost zobrazovaných informaci).
+We use cookies to track traffic - to make our websites and services better for you.<br />
+Cookies usually do not directly identify you. They remember what activities you do on your browser on a given device.<br />
+CoolPeople respects your privacy and offers you the choice of which types of cookies you allow it's up to you. Just explore the categories below and change the default settings (which only include essential cookies) if necessary. Restricted settings may affect your user experience (the relevance of the information displayed may be reduced).
 </div>
 </div>
 <div class="tab tab2">
 <div class="tab_title">
 <div class="tab_title_text">
-Nezbytné cookies
+Necessary cookies
 </div>
-<div class="alwayson">vždy aktivní</div>
+<div class="alwayson">always on</div>
 </div>
 <div class="tab_text">
-Tyto cookies jsou nutné pro zajištění základní funkčnosti webových stránek (např. session id, nastavení souhlasů). <br />
-Nezbytné cookies neobsahují žádné osobní údaje.
+These cookies are necessary to ensure the basic functionality of the website (e.g. session id, consent settings). <br />
+Necessary cookies do not contain any personal data.
 </div>
 </div>
 <div class="tab tab3">
 <div class="tab_title">
 <div class="tab_title_text">
-Marketingové cookies
+Marketing cookies
 </div>
 <input class="tgl tgl-light" id="gdpr_marketing" name="gdpr_marketing" type="checkbox" value="1">
 <label class="tgl-btn" for="gdpr_marketing"></label>
 </div>
 <div class="tab_text">
-Umožňují nám sledovat uživání našich webů a jejich sekcí, na základě toho je dělat lepšími pro Vás. Umožňují nám též lepší cílení reklamy tak, aby tato byla co nejvíce relevantní pro své příjemce. <br />
-Konkrétní poskytovatelé cookies: Google Analytics, Facebook Pixel
+They allow us to monitor the usage of our websites and their sections, and to make them better for you. They also allow us to better target advertising so that it is as relevant as possible to its recipients. <br />
+Specific cookie providers: Google Anayltics, Facebook Pixel
 </div>
 </div>
 </div>
 </div>
 <div class="popup-footer">
-<button class="btn btn-ulozitzmenu">Uložit nastavení</button>
-<button class="btn btn-povolitvse">Povolit vše</button>
+<button class="btn btn-ulozitzmenu">Save settings</button>
+<button class="btn btn-povolitvse">Allow all</button>
 </div>
 </div>
 </div>
