@@ -696,7 +696,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "f2c032ba-bd44-4f91-a9cf-a1d6359cb519"
+						"X-CSRF-Token" : "215e917a-78b1-4bf0-92f4-7a9f71dbc6ab"
 					}
 				});
 			//]]>
@@ -746,7 +746,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "f2c032ba-bd44-4f91-a9cf-a1d6359cb519"
+						"X-CSRF-Token" : "215e917a-78b1-4bf0-92f4-7a9f71dbc6ab"
 					}
 				});
 			//]]>
