@@ -68,7 +68,7 @@
             <link rel="alternate" hreflang="de" href="https&#x3A;&#x2F;&#x2F;www.profesia.cz&#x2F;de&#x2F;arbeit-suchen&#x2F;profiq&#x2F;O4210672" />
     
 <link rel="stylesheet" href="/css/bootstrap.min-f348e78ca.css" type="text/css">
-<link rel="stylesheet" href="/css_compiled/pages/base-d92d6b2aa.css" type="text/css">
+<link rel="stylesheet" href="/css_compiled/pages/base-ddf685ecc.css" type="text/css">
 <link rel="stylesheet" href="/css_compiled/app-f2c2e56ff.css" type="text/css"><script>if (window.NodeList && !NodeList.prototype.forEach) {
     NodeList.prototype.forEach = Array.prototype.forEach;
 }</script></head><body id="pages" class='detail offer cz' ><script>dataLayer = [{"dimensionUserType":"Not_Logged","designFlag":"ProfesiaCzLayout","offerValidTill":"2022-02-03","dimensionPageCategory":"Offer_detail","adwordsRemarketingCustomParams":{"job_id":"O4210672"},"dimensionOfferType":"Default","rtbId":"pr_HNku1IGvto1ZcEvGYsZc_offer_4210672"}];</script>
@@ -109,7 +109,7 @@
 <header id="profesia-header">
     <div class="container">
         <div class="logo">
-            <a href="/"><img src="/images/svg-logo/logo_profesia_christmas.svg" width="80" height="55" alt="PROFESIA.CZ - práce, zaměstnání, nabídky práce, brigáda, volné pracovní místo"></a>
+            <a href="/"><img src="/images/svg-logo/logo_profesia_color2.svg" width="80" height="55" alt="PROFESIA.CZ - práce, zaměstnání, nabídky práce, brigáda, volné pracovní místo"></a>
         </div>
         
         <nav>
@@ -118,11 +118,7 @@
         </nav>
     </div>
 </header>
-<link rel="stylesheet" href="/css_compiled/molecules/chat_bot-3adccb010.css" type="text/css">
-
-<div id="live-agent-chat-button">
-    <div class="chat-bot-title">Jak Vám poradíme?</div>
-</div><div id="content"><div class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">Junior Software Engineer/ka in QA</li></ul><nav class="navbar navbar-inverse navbar-fixed-bottom persistent-bar visible-xs">
+<div id="content"><div class="container"><ul class="breadcrumb" ><li><a href="&#x2F;">Úvodní stránka</a></li><li><a href="&#x2F;prace&#x2F;">Hledám práci</a></li><li class="active">Junior Software Engineer/ka in QA</li></ul><nav class="navbar navbar-inverse navbar-fixed-bottom persistent-bar visible-xs">
     <div class="container">
         <div class="row">
             <div class="col-xs-10 col-xs-offset-1">
@@ -457,7 +453,7 @@ Nabídky se uloží do Vašeho účtu a můžete se k nim kdykoli vrátit z jak�
 
 		    setTimeout(function(){ServeLoginAnchor()},800);
 
-dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4210672"],"content_type":"product"}});feedDataLayerDetail('O4210672','Default','d7','d7');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
+dataLayer.push({"event":"fbEvent","fbEventName":"ViewContent","fbEventParams":{"content_ids":["O4210672"],"content_type":"product"}});feedDataLayerDetail('O4210672','Default','d8','d8');if ($('#offer-send-to-friend-bottom').is(':visible')) {dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Doporučit nabídku známému","eventLabel":"view"});}
 $('#offer-send-to-friend').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"E-mail","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-facebook').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Facebook","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
 $('#offer-share-viber').on('click', function(e) { var href = $(e.target).attr('href'); if (href) { e.preventDefault(); } dataLayer.push({"event":"gaEvent","eventCategory":"Offer Detail","eventAction":"Viber","eventLabel":"click"});if (href) { setTimeout(function() { window.location.href = href; }, 150); } });
