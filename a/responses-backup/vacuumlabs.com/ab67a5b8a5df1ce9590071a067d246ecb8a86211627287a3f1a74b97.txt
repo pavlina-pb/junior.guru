@@ -498,138 +498,6 @@ button.modal__close,
 	}
 }
 
-/* Software ING */
-
-.career-level p:nth-child(2) {
-	font-size: 12px !important;
-	line-height: 1.75;
-}
-
-.elementor-1279 .elementor-element.elementor-element-a65f936 {
-	max-width: 350px !important;
-}
-
-.elementor-1279 .elementor-element.elementor-element-f92b165 {
-	max-width: 325px !important;
-}
-
-.elementor-1279 .elementor-element.elementor-element-2144b43 {
-	max-width: 325px !important;
-}
-
-.elementor-1279 .elementor-element.elementor-element-2c8f2c2 {
-	max-width: 300px !important;
-}
-
-@media (min-width: 1151px) {
-	#career-path .elementor-container {
-		width: 1120px;
-		min-width: 1120px;
-		max-width: 1120px;
-	}
-}
-
-.vl-software-ing-img .elementor-image {
-	width: 100%;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	overflow: hidden !important;
-}
-
-.vl-software-ing-img .elementor-image img {
-	width: 1100px !important;
-	min-width: 1100px !important;
-	max-width: 1100px !important;
-	max-height: initial !important;
-	height: auto !important;
-}
-
-body:not(.rtl) .elementor-1279 .elementor-element.elementor-element-3636736 {
-	left: calc(50% - 27.35em);
-  top: -54.85%;
-}
-
-body:not(.rtl) .elementor-1279 .elementor-element.elementor-element-b1f4074 {
-	left: calc(50% - 15.075em);
-  top: -21.85%;
-}
-
-body:not(.rtl) .elementor-1279 .elementor-element.elementor-element-8bddfdc {
-	left: calc(50% - 2.85em);
-  top: -54.85%;
-}
-
-body:not(.rtl) .elementor-1279 .elementor-element.elementor-element-0763f02 {
-	left: calc(50% + 8.725em);
-  top: -21.85%;
-}
-
-body:not(.rtl) .elementor-1279 .elementor-element.elementor-element-46ac4ce {
-	left: calc(50% + 22.35em);
-  top: -54.85%;
-}
-
-@media (min-width: 1025) and (max-width: 1150px) {
-	#career-path .elementor-container {
-		width: 1000px;
-		min-width: 1000px;
-		max-width: 1000px;
-	}
-	
-	.vl-software-ing-img .elementor-image img {
-		width: 1000px !important;
-		min-width: 1000px !important;
-		max-width: 1000px !important;
-	}
-}
-
-#career-path .elementor-widget-icon {
-	opacity: 1 !important;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	height: 11px;
-	position: relative;
-}
-
-#career-path .elementor-widget-icon .elementor-widget-container {
-	opacity: 0;	
-	transition: 150ms linear;
-}
-
-#career-path .elementor-widget-icon[style*="opacity: 1;"] .elementor-widget-container {
-	opacity: 1 !important;
-}
-
-#career-path .elementor-widget-icon:after {
-	content: "";
-	width: 10px;
-	height: 10px;
-	border-radius: 50%;
-	border: 1px solid;
-	border-color: #E72076;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	position: absolute;
-  animation: spin 2s linear infinite;
-	transition: .5s linear;
-}
-
-@keyframes spin {
-  0% { transform: scale(1); border-color: rgba(0,0,0,0); }
-  50% { transform: scale(2); border-color: #E72076; }
-	100% { transform: scale(1); border-color: rgba(0,0,0,0); }
-}
-
-#career-path .elementor-widget-icon:hover:after {
-	opacity: 0;
-}
-
-#career-path .elementor-widget-icon[style*="opacity: 1;"]:after {
-	opacity: 0 !important;
-}
 
 .elementor-6102 .elementor-element.elementor-element-f115cf0 .eael-instafeed-square-img .eael-instafeed-item img{
 	object-fit: cover!important;
@@ -708,51 +576,72 @@ div[data-elementor-type=footer] {
 		max-width: 1120px;
 	}
 
-.vl-software-ing-img .elementor-image {
-	width: 100%;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	overflow: hidden !important;
+.vl_new_carrer .vl-career-path-wrap svg {
+	transform: scale(1.0825);
+	margin-left: -65px;
 }
 
-.vl-software-ing-img .elementor-image img {
-	width: 1100px !important;
-	min-width: 1100px !important;
-	max-width: 1100px !important;
-	max-height: initial !important;
-	height: auto !important;
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-01,
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-02,
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-03,
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-04,
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-05 {
+	stroke-width: 1;
+	opacity: 0;
+	animation: spin 2s linear infinite;
 }
 
-.vl_new_carrer .vl-software-ing-img .elementor-image img {
-	width: 950px !important;
-	min-width: 950px !important;
-	max-width: 950px !important;
+
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-01 {
+	transform: scale(2); cx: 47; cy: 98.25;
 }
+
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-02 {
+	transform: scale(2); cx: 132; cy: 79.5;
+}
+
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-03 {
+	transform: scale(2); cx: 208; cy: 62.25;
+}
+
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-04 {
+	transform: scale(2); cx: 286; cy: 45.25;
+}
+
+.vl_new_carrer .vl-career-path-wrap svg .vl-career-path-circle-05 {
+	transform: scale(2); cx: 363; cy: 30.25;
+}
+
+@keyframes spin {
+  0% { opacity: 0 }
+  50% { opacity: 1 }
+	100% { opacity: 0 }
+}
+
 
 body:not(.rtl) .vl_new_carrer #career-intern {
-	left: calc(50% - 34.08em) !important;
+	left: calc(50% - 34.85em) !important;
   top: -29% !important;
 }
 
 body:not(.rtl) .vl_new_carrer #career-junior {
-	left: calc(50% - 23.4em) !important;
-  top: -36.4% !important;
+	left: calc(50% - 24.65em) !important;
+    top: -36.5% !important;
 }
 
 body:not(.rtl) .vl_new_carrer #career-mid {
-	left: calc(50% - 13.98em) !important;
-  top: -43% !important;
+	left: calc(50% - 15.7em) !important;
+    top: -43.5% !important;
 }
 
 body:not(.rtl) .vl_new_carrer #career-senior {
-	left: calc(50% - 4.95em) !important;
-  top: -49.55% !important;
+	left: calc(50% - 7.75em) !important;
+    top: -50.5% !important;
 }
 
 body:not(.rtl) .vl_new_carrer #career-team-lead {
-	left: calc(50% + 6em) !important;
-  top: -55.35% !important;
+	left: calc(50% + 4em) !important;
+    top: -56.3% !important;
 }
 
 @media (min-width: 1025) and (max-width: 1150px) {
@@ -787,29 +676,18 @@ body:not(.rtl) .vl_new_carrer #career-team-lead {
 	transition: 150ms linear;
 }
 
-#career-path .elementor-widget-icon[style*="opacity: 1;"] .elementor-widget-container {
-	opacity: 1 !important;
-}
-
-#career-path .elementor-widget-icon:after {
-	content: "";
-	width: 10px;
-	height: 10px;
+#career-path .elementor-widget-icon i {
+	border: 14px solid #FDE8F1;
 	border-radius: 50%;
-	border: 1px solid;
-	border-color: #E72076;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	position: absolute;
-  animation: spin 2s linear infinite;
-	transition: .5s linear;
+	margin-left: -7px;
+	margin-top: 7px;
 }
 
-@keyframes spin {
-  0% { transform: scale(1); border-color: rgba(0,0,0,0); }
-  50% { transform: scale(2); border-color: #E72076; }
-	100% { transform: scale(1); border-color: rgba(0,0,0,0); }
+#career-path .elementor-widget-icon[style*="opacity: 1;"] .elementor-widget-container {
+	opacity: 1 !important;
 }
 
 #career-path .elementor-widget-icon:hover:after {
@@ -2154,7 +2032,7 @@ var wpcf7_recaptcha = {"sitekey":"6LeuGi0dAAAAAJ5A-OVJegvlkpu5TqNqwh0u_boE","act
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.4' id='elementor-frontend-modules-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.0' id='elementor-sticky-js'></script>
 <script type='text/javascript' id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"549e3d9393","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"dc98005aa8","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.0' id='elementor-pro-frontend-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
