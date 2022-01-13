@@ -117,8 +117,8 @@
     <div id='application' class="">
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/acronis/jobs/5811278002" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
-        <input type="hidden" name="fingerprint" id="fingerprint" value="fe735ebeb1e0533b3a8b4834500795115af39aec" />
-        <input type="hidden" name="render_date" id="render_date" value="2022-01-12 03:08:06 +0000" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="987af09b80c23bda0a1768a2dd1f7f874905ccc2" />
+        <input type="hidden" name="render_date" id="render_date" value="2022-01-13 04:49:56 +0000" />
 
 
 
@@ -293,6 +293,52 @@
 <input type="hidden" name="job_application[answers_attributes][1][priority]" id="job_application_answers_attributes_1_priority" value="1" />
 
 <input type="text" name="job_application[answers_attributes][1][text_value]" id="job_application_answers_attributes_1_text_value" maxlength="255" autocomplete="custom-question-website" />
+
+
+</label></div>
+<div class="field">
+  <label>Privacy<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    <span><p>I accept <a href="https://www.acronis.com/en-us/compliance/recruitment-declaration.html">Acronis Recruitment Data Protection Declaration</a> and the Terms and Conditions of use</p></span>
+    <input type="hidden" name="job_application[answers_attributes][2][question_id]" id="job_application_answers_attributes_2_question_id" value="16539650002" />
+<input type="hidden" name="job_application[answers_attributes][2][priority]" id="job_application_answers_attributes_2_priority" value="2" />
+
+<div>
+  <div class="msg-container" set="16539650002"></div>
+</div>
+
+
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][2][answer_selected_options_attributes][0][question_option_id]" id="job_application_answers_attributes_2_answer_selected_options_attributes_0_question_option_id" value="75964854002" set="16539650002" aria-required="true" />&nbsp;&nbsp;Accept/Confirm
+</label>
+<br/>
+
+
+
+
+</label></div>
+<div class="field">
+  <label>I give my consent to Acronis to store and process my Recruitment Data for potential future recruitment (optional)<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][3][question_id]" id="job_application_answers_attributes_3_question_id" value="16539652002" />
+<input type="hidden" name="job_application[answers_attributes][3][priority]" id="job_application_answers_attributes_3_priority" value="3" />
+
+<div>
+  <div class="msg-container" set="16539652002"></div>
+</div>
+
+
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][3][answer_selected_options_attributes][0][question_option_id]" id="job_application_answers_attributes_3_answer_selected_options_attributes_0_question_option_id" value="75964856002" set="16539652002" aria-required="true" />&nbsp;&nbsp;Yes
+</label>
+<br/>
+<label>
+  <input type="checkbox" name="job_application[answers_attributes][3][answer_selected_options_attributes][1][question_option_id]" id="job_application_answers_attributes_3_answer_selected_options_attributes_1_question_option_id" value="75964857002" set="16539652002" aria-required="true" />&nbsp;&nbsp;No
+</label>
+<br/>
+
+
 
 
 </label></div>

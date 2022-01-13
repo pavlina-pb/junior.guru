@@ -14,8 +14,8 @@
   
 
   
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-9f376be779f0596eb171.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/cookies-94aafae36928afd85a70.js" data-turbolinks-track="reload"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-4139601ec0e53fb34d9b.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/cookies-33f6cb1b643cba52ad68.js" data-turbolinks-track="reload"></script>
   
   <link rel="alternate" type="application/rss+xml" title="Blog Posts" href="/blog/posts.rss" /><link rel="alternate" type="application/rss+xml" title="Jobs" href="/jobs.rss" />
 
@@ -545,12 +545,12 @@ footer .sitemap .sitemap-inner .links:nth-child(3) ul li:nth-child(2) {display:n
 .teamtailor .teamtailor-wrapper img{display:none!important;}
 
 .teamtailor .teamtailor-wrapper{display:none!important;} p</style>
-  <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-9f376be779f0596eb171.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/343-ce5cb4b9839c370e634e.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-26474aee0176105f0d4b.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-3f2f328a0d42b311c7f6.js" data-turbolinks-track="reload"></script>
+  <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-4139601ec0e53fb34d9b.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/9917-c446c9b4c62ddec17dec.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/8833-83df9a2e452882d97aa8.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/5343-623323f801420314b3d7.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/5552-a99bab1bd338fd66e0b1.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-3cf19dc603dbcae74f3a.js" data-turbolinks-track="reload"></script>
 
   
 
@@ -566,7 +566,7 @@ footer .sitemap .sitemap-inner .links:nth-child(3) ul li:nth-child(2) {display:n
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'Mqi2BGq+gCKTwq0xwYKlUPcjGt/cspE4Iv0wj/HkxV7mwXRbiaB0iV7CU3vmslq/M5xSzZp1iCZsY85aAGehgWjFlrsEfPHPQtaq6aHBcSQ6awuY76Gq6PBk/L7vmcHSi43S8TyyfHCp54a2SjL89q8eUE5jr11kmn8XepeUOKChRIQypsyLbyI=--F0r0ded8Kg3OZLb4--nD34wE3CyRf60Cdp9mhDhA==',
+        ed: 'GZES34MaU8vkIQ8ROhUtWE0M39TwQ3OJAGSbJxstKqV4AJ7/D5yVkokuceiS1KPt6JH5DRQqejzGIeu1dYtYHBaYLIeIGViVVaW7F5k2xWxa8uMRIBqsSq9w+2aK8sTIDAaMD6iiBMVjSTQ3WRD8llzWuyYHNFrxLCET/GgGKi/VHIT9ZTKQouw=--kFxkciRDfQ4wQ82m--BtCkMfR2jgZJTNJau4xsNA==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,
@@ -657,7 +657,7 @@ ga('statsTracker.set', 'dimension5', '157675 ');
     data-show-variant=opt_in_bar
     data-block-scripts=true
   >
-    <div class="tt-cookie-alert__content u-primary-background-color u-primary-text-color">
+    <div class="tt-cookie-alert__content company-links u-primary-background-color u-primary-text-color">
       
 
       <div class="tt-cookie-alert__message">
@@ -671,7 +671,7 @@ ga('statsTracker.set', 'dimension5', '157675 ');
       </div>
 
       <div class="tt-cookie-alert__actions">
-        <button class="btn btn--link tt-cookie-alert__preferences u-link-color tt-cookie-alert__preferences-btn" id="tt-cookie-alert__preferences">
+        <button class="btn btn--link tt-cookie-alert__preferences u-link-color tt-cookie-alert__preferences-btn company-link" id="tt-cookie-alert__preferences">
           Cookie preferences
         </button>
 
@@ -1255,7 +1255,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 
           <div class="c-employee-referral__form">
             <form method="post" action="https://careers.memsource.com/auto_join" class="filter row">
-              <input type="hidden" name="authenticity_token" id="authenticity_token" value="cwo4EVmbnp9dnz75zzeKfdw9Xnb+uMZSFOwNNxxRq3M54Bs2BaDiisVGfn05sFrdxadWtm+RjJopeTPYpGDdgQ==">
+              <input type="hidden" name="authenticity_token" id="authenticity_token" value="wTlVxEO3N/H1E3H40xNQU4oIj9odu/9gFL7ouSkJ7sfcV7ghoO7J+7DZSmboXojTTIAAnml7ADYPja9ZkB0LTg==">
               
               <button class="btn c-employee-referral__button tt-button--filled u-primary-button-text-color u-primary-button-background-color"
                 data-event-tracking="click"
@@ -1306,12 +1306,12 @@ Because we respect your right to privacy, you can choose not to allow some types
   </script>
 
   
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-9f376be779f0596eb171.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/917-52ddcf769c5998871e47.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/833-8253f1d1f9d7b944fa07.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/343-ce5cb4b9839c370e634e.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/552-26474aee0176105f0d4b.js" data-turbolinks-track="reload"></script>
-<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-3f2f328a0d42b311c7f6.js" data-turbolinks-track="reload"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-4139601ec0e53fb34d9b.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/9917-c446c9b4c62ddec17dec.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/8833-83df9a2e452882d97aa8.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/5343-623323f801420314b3d7.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/5552-a99bab1bd338fd66e0b1.js" data-turbolinks-track="reload"></script>
+<script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/careersite-3cf19dc603dbcae74f3a.js" data-turbolinks-track="reload"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default%2CObject.values%2CIntersectionObserver%2CIntersectionObserverEntry" data-turbolinks-suppress-warning="true"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/jobsite/jobsite-64bffd6e9e674369d2213a241d177faa9843632cdbb44b690122f315cc1a8b31.js" data-turbolinks-suppress-warning="true"></script>
     <script>

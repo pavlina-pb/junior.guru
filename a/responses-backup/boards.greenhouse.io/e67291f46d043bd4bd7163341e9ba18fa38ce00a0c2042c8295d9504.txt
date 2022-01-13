@@ -84,7 +84,7 @@
       <a name='app'></a>
       <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/acronis/jobs/5387494002" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
         <input type="hidden" name="fingerprint" id="fingerprint" value="93f8aa6b8f7266557020c919a8ff60a497a0d769" />
-        <input type="hidden" name="render_date" id="render_date" value="2022-01-12 03:08:11 +0000" />
+        <input type="hidden" name="render_date" id="render_date" value="2022-01-13 04:48:26 +0000" />
 
 
 
@@ -297,7 +297,7 @@
 
 </label></div>
 <div class="field">
-  <label>I give my consent to Acronis to store and process my Recruitment Data for potential future recruitment (optional)
+  <label>I give my consent to Acronis to store and process my Recruitment Data for potential future recruitment (optional)<span class="asterisk" aria-hidden="true">&nbsp;*</span>
     <br/>
     
     <input type="hidden" name="job_application[answers_attributes][4][question_id]" id="job_application_answers_attributes_4_question_id" value="16333757002" />
@@ -309,11 +309,11 @@
 
 
 <label>
-  <input type="checkbox" name="job_application[answers_attributes][4][answer_selected_options_attributes][0][question_option_id]" id="job_application_answers_attributes_4_answer_selected_options_attributes_0_question_option_id" value="74889898002" set="16333757002" aria-required="false" />&nbsp;&nbsp;Yes
+  <input type="checkbox" name="job_application[answers_attributes][4][answer_selected_options_attributes][0][question_option_id]" id="job_application_answers_attributes_4_answer_selected_options_attributes_0_question_option_id" value="74889898002" set="16333757002" aria-required="true" />&nbsp;&nbsp;Yes
 </label>
 <br/>
 <label>
-  <input type="checkbox" name="job_application[answers_attributes][4][answer_selected_options_attributes][1][question_option_id]" id="job_application_answers_attributes_4_answer_selected_options_attributes_1_question_option_id" value="74889899002" set="16333757002" aria-required="false" />&nbsp;&nbsp;No
+  <input type="checkbox" name="job_application[answers_attributes][4][answer_selected_options_attributes][1][question_option_id]" id="job_application_answers_attributes_4_answer_selected_options_attributes_1_question_option_id" value="74889899002" set="16333757002" aria-required="true" />&nbsp;&nbsp;No
 </label>
 <br/>
 
