@@ -109,7 +109,7 @@ var handl_utm = [];
 <script type='text/javascript' src='https://zetaglobal.com/wp-content/plugins/handl-utm-grabber/js/handl-utm-grabber.js?ver=5.8.2' id='handl-utm-grabber-js'></script>
 <script type='text/javascript' id='cookie-notice-front-js-extra'>
 /* <![CDATA[ */
-var cnArgs = {"ajaxUrl":"https:\/\/zetaglobal.com\/wp-admin\/admin-ajax.php","nonce":"fd51afb8b0","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+var cnArgs = {"ajaxUrl":"https:\/\/zetaglobal.com\/wp-admin\/admin-ajax.php","nonce":"7c380d5561","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
 /* ]]> */
 </script>
 <script async type='text/javascript' src='https://zetaglobal.com/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.1.3' id='cookie-notice-front-js'></script>
@@ -5297,7 +5297,7 @@ jQuery('#tradeshow_button').click(function () {
     var tradeshow_name = jQuery("#ts_name").val();
     var tradeshow_startdate = jQuery("#ts_startdate").val();
     
-    var submission_date= '2022-01-12T04:45:05.000000Z'; 	
+    var submission_date= '2022-01-14T04:46:19.000000Z'; 	
     
     if(userIdentifier!=''){
         
@@ -5426,7 +5426,7 @@ jQuery('#trackdemorequest_button').click(function () {
             var tradeshow_name = jQuery("#ts_name").val();
             var tradeshow_startdate = jQuery("#ts_startdate").val();
             
-            var submission_date= '2022-01-12T04:45:05.000000Z';  
+            var submission_date= '2022-01-14T04:46:19.000000Z';  
             
             if(userIdentifier!=''){
                 
@@ -5834,7 +5834,7 @@ jQuery(".dropbox4 .droplink4, .droplink4-panel").hover(function(){
 	<div class="notificationbar">
 			<div class="notify-inner">
 
-				<a style="color: #fff;" href="https://zetaglobal.com/press-releases/zeta-strengthens-sales-leadership-team-with-chief-revenue-officers-to-build-on-accelerated-growth/" target="_blank">Zeta Proudly Announces New Chief Revenue Officers, Jed Hartman and Kelly Kennedy  &gt;&gt;</a>
+				<a style="color: #fff;" href="https://zetaglobal.com/press-releases/zeta-strengthens-sales-leadership-team-with-chief-revenue-officers-to-build-on-accelerated-growth/" target="_blank">Zeta Proudly Announces New Chief Revenue Officers, Jed Hartman and Kelly Kennedy  >></a>
 				<!--a class="btn_learnmore_top" href="https://marketing.zetaglobal.com/forrester-total-economic-impact-report" target="_blank" title="Learn More">Learn More »</a-->
 			</div>	
 		<span class="btn-close"><img src="https://zeta2021.wpengine.com/wp-content/uploads/2021/06/btn_close2.png"></span>
@@ -5998,8 +5998,8 @@ jQuery(".dropbox4 .droplink4, .droplink4-panel").hover(function(){
 					
 						<h3 class="cta_button_title">SUBSCRIBE TO OUR NEWSLETTER  </h3>
 					<div class="intheknow_subscribe">
-					<div class="intheknow_h2"> 
-hbspt.forms.create({ region: "na1", portalId: "8997771", formId: "cad7d4b1-843b-42df-b191-ca77e345e574", sfdcCampaignId: "7010e000001LSUfAAO",onFormSubmit: function($form) {gtag('event', 'submission',{ 'event_category': 'Footer Newsletter Subscriptions', 'event_label': 'completed', 'value': 'value' });} }); 			</div>
+					<div class="intheknow_h2"> <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script data-hubspot-rendered="true">hbspt.forms.create({ region: "na1", portalId: "8997771", formId: "cad7d4b1-843b-42df-b191-ca77e345e574", sfdcCampaignId: "7010e000001LSUfAAO",onFormSubmit: function($form) {gtag('event', 'submission',{ 'event_category': 'Footer Newsletter Subscriptions', 'event_label': 'completed', 'value': 'value' });} }); </script>			</div>
 				</header>
 			</div>
 		</div>

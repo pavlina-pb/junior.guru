@@ -76,12 +76,9 @@ Within this role you will be focusing on the development of the backend architec
 
 
 </head>
-    <script>
-        var touchDevice = true;
-    </script>
-    
 
-<body class='body-job-view touch-device '>
+
+<body class='body-job-view  '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -249,7 +246,7 @@ Within this role you will be focusing on the development of the backend architec
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-132 current_page_item current_page_parent menu-item-142 active"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -257,7 +254,7 @@ Within this role you will be focusing on the development of the backend architec
 	<li id="menu-item-4951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4951"><a title="Employees Reviews" href="https://www.nigelfrank.com/employee-reviews/"><i class="fa fa-angle-right"></i>Employees Reviews</a></li>
 </ul>
 </li>
-<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-250 current_page_item menu-item-280 active"><a title="Contact" href="https://www.nigelfrank.com/contact/">Contact</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a title="Contact" href="https://www.nigelfrank.com/contact/">Contact</a></li>
 </ul>                    </div>
                             </div>
         </div>
@@ -391,7 +388,7 @@ Within this role you will be focusing on the development of the backend architec
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="xHGoth7IEPu4CuCFb6J31qmIRUqmzowGqtj9YC01">        <input name="jobs[]" type="hidden" value="393142">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="ybhyV0KUn4BCRQ3eu0bGgBQ35JWUvtk4CPsWjYDc">        <input name="jobs[]" type="hidden" value="393142">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -501,7 +498,7 @@ Within this role you will be focusing on the development of the backend architec
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/393142?_token=xHGoth7IEPu4CuCFb6J31qmIRUqmzowGqtj9YC01">
+                                      data-job-id="/saved-jobs/add/393142?_token=ybhyV0KUn4BCRQ3eu0bGgBQ35JWUvtk4CPsWjYDc">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -540,7 +537,7 @@ Within this role you will be focusing on the development of the backend architec
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/393142?_token=xHGoth7IEPu4CuCFb6J31qmIRUqmzowGqtj9YC01">
+                                              data-job-id="/saved-jobs/add/393142?_token=ybhyV0KUn4BCRQ3eu0bGgBQ35JWUvtk4CPsWjYDc">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -559,7 +556,7 @@ Within this role you will be focusing on the development of the backend architec
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="xHGoth7IEPu4CuCFb6J31qmIRUqmzowGqtj9YC01">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="ybhyV0KUn4BCRQ3eu0bGgBQ35JWUvtk4CPsWjYDc">
 
 
 
