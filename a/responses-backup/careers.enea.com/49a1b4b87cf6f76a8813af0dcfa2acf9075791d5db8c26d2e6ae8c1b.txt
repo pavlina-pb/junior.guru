@@ -7,7 +7,7 @@
     <title>Graduate Software Engineer - Enea </title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="m2xWp0/I2Dlafhrz5DDavlt00ZWiMBQuiqTNngAuIQyZoe+ugOIJuQAXf6UF9g06tTFdDm6wgeGXMklO2pYTVQ==" />
+<meta name="csrf-token" content="wnuN9x+Ew5eKF+C2/POGP0EkNZPU2s2o974HdK0DM/EtyDivBrhm+6BHxw7qExpP4znp7lpnKqAI+u59M61ouA==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/0c64ee04-84b8-48bd-ade5-1058c596303b/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/0c64ee04-84b8-48bd-ade5-1058c596303b/original.png' sizes='180x180'>
@@ -75,7 +75,7 @@
 <meta name="theme-color" content="#344767">
 
 
-    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-4139601ec0e53fb34d9b.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/runtime-6ced586a88deb4b73539.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/8833-83df9a2e452882d97aa8.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/application-1bb77ec0bf5185bb2efc.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/9917-c446c9b4c62ddec17dec.js" data-turbolinks-track="reload" defer="defer"></script>
@@ -85,7 +85,7 @@
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/190-8d3e5b102271a959e884.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/9943-02aa10600569dd74a0fd.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets-aws.teamtailor-cdn.com/assets/packs/js/font-awesome-fb50427ba79adba6c3dc.js" data-turbolinks-track="reload" defer="defer"></script>
-    <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/packs/css/careersite-007a1f02.css" data-turbolinks-track="reload" defer="defer" />
+    <link rel="stylesheet" media="screen" href="https://assets-aws.teamtailor-cdn.com/assets/packs/css/careersite-4044bb68.css" data-turbolinks-track="reload" defer="defer" />
   </head>
 
   <body class="font-company-body min-h-screen flex flex-col text-company-primary bg-company-primary jobs show" data-controller="careersite--referrer-cookie careersite--preload">
@@ -298,7 +298,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     </div>
     <span class="hidden ml-2 text-sm leading-normal tracking-wider uppercase sm:block">Career menu</span>
   </button>
-  <div class="absolute top-0 bottom-0 hidden w-full h-screen py-20 overflow-y-scroll text-white bg-black z-career-header-menu-content" data-common--header--menu-target="menu">
+  <div class="absolute top-0 bottom-0 hidden w-full h-screen py-20 overflow-y-auto text-white bg-black z-career-header-menu-content" data-common--header--menu-target="menu">
     <nav class="w-full sm:h-full">
       <ul class="w-full sm:py-12">
           <li>
@@ -336,7 +336,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   
     <path d="M16 2v7h-2v-5h-12v16h12v-5h2v7h-16v-20h16zm2 9v-4l6 5-6 5v-4h-10v-2h10z" fill-rule="evenodd" clip-rule="evenodd"></path>
 </svg>
-</button>    <div class="absolute flex-col hidden mt-2 mr-2 bg-white rounded min-w-[175px] shadow-form animate__animated animate__faster z-dropdown max-h-[70vh] overflow-y-scroll  p-2 top-full right-0" data-common--dropdown-target="dropdown">
+</button>    <div class="absolute flex-col hidden mt-2 mr-2 bg-white rounded min-w-[175px] shadow-form animate__animated animate__faster z-dropdown max-h-[70vh] overflow-y-auto  p-2 top-full right-0" data-common--dropdown-target="dropdown">
 
         <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Facebook" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
@@ -518,7 +518,7 @@ Because we respect your right to privacy, you can choose not to allow some types
       <h2 class="mb-4 text-4xl text-center text-block-title font-company-header block-max-w--sm lg:max-w-600">
         We care
       </h2>
-      <div class="prose block-max-w--sm lg:max-w-600 company-links">
+      <div class="prose prose-block block-max-w--sm lg:max-w-600 company-links">
         <p>At Enea, we believe our employees are our most important asset and are dedicated to their well-being. We encourage, guide and accompany employees through their time with us, helping them to advance on their career journey and to contribute as much as possible to our customer projects and to our company.&nbsp;</p><p>We want our employees to be happy and healthy and encourage activities outside work responsibilities. We contribute to sporting activities, organize social events, encourage employee celebrations and support all efforts for employee well-being.  With us, you will find a healthy and stimulating working environment, where we reward extraordinary achievements and allow people to grow in their professional roles.</p>
       </div>
 </div>    <div class="w-full lg:w-half lg:flex-shrink-0 min-h-[400px] bg-no-repeat bg-center bg-cover lg:min-h-[500px]" style="background-image: url(https://media.cdn.teamtailor.com/images/s3/teamtailor-production/gallery_picture-v3/image_uploads/8cb434fe-0c3e-4a9b-9818-e79ce47212c0/original.jpeg)"></div>
@@ -697,7 +697,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: '28cfD4y/ZmDkSIG4FGEx2tYAWHowvg+Lag710tHof+VR+S7DVFrZrCvXsY+YpbvuQTPQMoKNFhdOKQ4RPHimhWYkG1rxbf9vxiNs1nYxUD0bL0oMJfqtizzh2gf+EDomhOuVTJ0hUnRaoo6xXN/rbC9j0EjJ4UYktVhnMq80BGMzu1Zk23zZ--8teTfzOb+e05Niwd--i5CJF+u0UoaXpcxZXzJ4CA==',
+        ed: 'FgcQKcsRnu+W36EGOgC17gukxaaw8RtB9Gl0V92/00eUFGcpQdvyzv8sSESc6Pwsa/YtHfnmLVZ9Rh38yhkXAmAtsAWXBe2orebos1M/wu9e9y2IoDnyzI6GGfnh17vW9ZfyEQClLFobT0f4yMnu0CmH2AN596h3nGF3dpg70K0xYgcGIirH--2QGG4MxdwMLXh6aF--5SRCec5Lzn5Kes+4IYwASg==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

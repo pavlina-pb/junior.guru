@@ -9,11 +9,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>JuniorGuruBot (+https://junior.guru)</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 14 Jan 2022 14:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 04:57:52 +0000</lastBuildDate>
     <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
     <dc:creator>Pája Froňková</dc:creator>
     <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
-    <pubDate>Sat, 01 Jan 2022 01:42:42 +0100</pubDate>
+    <pubDate>Sat, 15 Jan 2022 01:42:42 +0100</pubDate>
     <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
     <itunes:category text="Technology"/>
     <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
@@ -34,6 +34,17 @@
       <pubDate>Sat, 01 Jan 2022 01:42:42 +0100</pubDate>
       <itunes:episode>1</itunes:episode>
       <podcast:episode display="#0">1</podcast:episode>
+    </item>
+    <item>
+      <title>#1 Jiří Psotka (Red Hat) o hledání první práce v IT</title>
+      <link>https://junior.guru/podcast/#episode0001</link>
+      <description><![CDATA[<p>V prvním díle uslyšíš Jirku Psotku, seniorního recruitera v Red Hatu. Dozvíš se, jak se jako junior připravit na výběrové řízení – od bezchybného CV, až po samotný pohovor. Hledáš první uplatnění v IT světě a hodilo by se ti pár tipů do začátku? Tak tohle je díl pro tebe!</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0001</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0001.mp3" length="46558026" type="audio/mpeg"/>
+      <itunes:duration>55:26</itunes:duration>
+      <pubDate>Sat, 15 Jan 2022 01:42:42 +0100</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode display="#1">2</podcast:episode>
     </item>
   </channel>
 </rss>

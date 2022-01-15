@@ -470,6 +470,10 @@ button.modal__close,
 	display: none !important;
 }
 
+.wg-apply-now {
+	z-index: 100;
+}
+
 /* Home services */
 
 .vl-home-3box .elementor-widget-wrap {
@@ -622,6 +626,7 @@ div[data-elementor-type=footer] {
 }
 
 
+
 body:not(.rtl) .vl_new_carrer #career-intern {
 	left: calc(50% - 34.85em) !important;
   top: -29% !important;
@@ -646,6 +651,34 @@ body:not(.rtl) .vl_new_carrer #career-team-lead {
 	left: calc(50% + 4em) !important;
     top: -57% !important;
 }
+
+
+
+body:not(.rtl) .vl-carrer-spec #career-intern {
+	left: calc(50% - 34.5em) !important;
+  top: -29% !important;
+}
+
+body:not(.rtl) .vl-carrer-spec #career-junior {
+	left: calc(50% - 23.95em) !important;
+    top: -36.5% !important;
+}
+
+body:not(.rtl) .vl-carrer-spec #career-mid {
+	left: calc(50% - 15em) !important;
+    top: -43.5% !important;
+}
+
+body:not(.rtl) .vl-carrer-spec #career-senior {
+	left: calc(50% - 7em) !important;
+    top: -50.5% !important;
+}
+
+body:not(.rtl) .vl-carrer-spec #career-team-lead {
+	left: calc(50% + 4.7em) !important;
+    top: -57% !important;
+}
+
 
 @media (min-width: 1025) and (max-width: 1150px) {
 	#career-path .elementor-container {
@@ -2039,7 +2072,7 @@ var wpcf7_recaptcha = {"sitekey":"6LeuGi0dAAAAAJ5A-OVJegvlkpu5TqNqwh0u_boE","act
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.4' id='elementor-frontend-modules-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.0' id='elementor-sticky-js'></script>
 <script type='text/javascript' id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"6174a227ef","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"a4421ddfe9","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.0' id='elementor-pro-frontend-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
@@ -2077,5 +2110,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using disk: enhanced 
 Lazy Loading
 
-Served from: vacuumlabs.com @ 2022-01-14 05:50:27 by W3 Total Cache
+Served from: vacuumlabs.com @ 2022-01-15 05:35:11 by W3 Total Cache
 -->

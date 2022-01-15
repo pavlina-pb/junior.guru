@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Job Application for C#/.NET Developer at Wandera</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-eb75018198aebd6aa381295caca389e2e4a646e8f5c17fb164b447c3ba1bd600.css" />
+  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! There was an error processing your application. Please try again.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;},&quot;job_post&quot;:{&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;Paste&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;errors&quot;:{&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-69893c3b3f8f27477ac24dbcb3d8e569fcc265882e77cd464d2bad69dd7d3918.svg" type="text/configuration"></script>
+    <meta property="og:title" content="C#/.NET Developer"></meta>
+    <meta property="og:description" content="Czechia"></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/wandera/jobs/4176679004"></meta>
+    <meta property="og:image"></meta>
+    <meta property="og:type" content="article"></meta>
+
+        <link rel="stylesheet" media="screen" href="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/400/533/600/original/gh-wandera.css?1636056288" />
+
+
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+
+
+
+<div id='app_body' style='padding-left:20px'>
+    
+
+    <div id="header">
+    <a href='#app' id='apply_button' class='button'>
+      Apply Now
+    </a>
+
+  <h1 class='app-title'>C#/.NET Developer</h1>
+
+  <span class='company-name'>
+    at Wandera
+  </span>
+
+    
+
+    <div class='location'>
+      Czechia
+    </div>
+</div>
+  <div id="content" class="">
+    
+
+    <p><span style="font-weight: 400;">At the end of 2020, we launched a new product Wandera Private Access (WPA), which allows companies to securely access their applications and data stored in the cloud. We are looking for an </span><strong>experienced C#/.NET Developer</strong><span style="font-weight: 400;"> to join our growing Windows Team.&nbsp;&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Last year, our Win10 customer base expanded by more than 400% and we expect similar growth even this year. Together we are building the best product for remote working based on the principles of the Zero Trust Network.</span></p>
+<p><strong>Good things aren't the easy ones 📈&nbsp;</strong></p>
+<p><span style="font-weight: 400;">You will gain end to end experience developing our new Windows 10 client. That will include working on areas ranging from deep in the Windows OS networking stack, to the app’s core business logic, to the backend RESTful API integration and also UI development. We experienced that the Windows 10 platform brought us a lot of new technological challenges and a new set of customer expectations. There is plenty of development ahead.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">As a developer, you will become a part of a small team and get plenty of input and ownership in the design, delivery and release of our software.</span></p>
+<p>&nbsp;</p>
+<p><strong>Skills pay bills ⭐</strong></p>
+<p><strong>To&nbsp; succeed in this position, you will be required:&nbsp;</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">C# and .NET Software Development - both Win32 and WPF</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understanding of network protocols (IP, TCP/UDP, DNS)</span></li>
+</ul>
+<p><span style="font-weight: 400;"><br></span><strong>Strong bonus, if you have experience with:&nbsp;</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Windows Filtering Platform (WFP)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Network Driver Interface Specification (NDIS)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Akka.net framework</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">C++ (for low-level networking)</span></li>
+</ul>
+<p><span style="font-weight: 400;"><br></span><strong>Nice to have:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Windows Communication Foundation (WCF)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with NUnit framework for unit tests&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Overall, we are looking for a Windows developer with the necessary technical aptitude, enthusiasm and collaboration skills required to thrive at Wandera.</span></p>
+<p>&nbsp;</p>
+<p><strong>Why will you love it here? </strong><span style="font-weight: 400;">❤️&nbsp;&nbsp;&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Open and friendly culture (yes, everybody says that, join us and see for yourself 😉).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Clean code.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working on </span><a href="https://techspective.net/2020/12/01/wandera-launches-wandera-private-access-for-secure-remote-connectivity/"><span style="font-weight: 400;">top security product</span></a><span style="font-weight: 400;"> used world-wide.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Flexible working hours.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Our house is full of experienced people with passion for knowledge sharing.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">$1,000 for WFH workplace equipment, Apple gear, restricted stock options, reimbursed mobile tariff.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">30 days of holiday, 3 sick days, 3 paid days to volunteer, 1 additional day off.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">And of course other exceptional perks and benefits. But we believe that is not the main reason why you will love it here.&nbsp;</span></li>
+</ul>
+
+    
+</div>
+
+    <div id='application' class="">
+      <a name='app'></a>
+      <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/wandera/jobs/4176679004" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="0eb83dfcd1bee46f81a6a8efa09361a5bb16686c" />
+        <input type="hidden" name="render_date" id="render_date" value="2022-01-15 04:41:43 +0000" />
+
+
+
+        <div id='main_fields'>
+            <h2 class='heading'>Apply for this Job</h2>
+
+            <div class='required-fields'>
+              <span class='asterisk'>*</span> Required
+            </div>
+
+          <div class='clear'></div>
+
+
+          
+<script>
+  var EMAIL_ADDRESS_VALIDATOR_URL = 'https://email-address-validator.us.greenhouse.io/address/validate';
+</script>
+
+<div class='field'>
+  <label for='first_name'>First Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='first_name' name='job_application[first_name]' aria-required="true" maxlength="255" autocomplete="given-name"/>
+</div>
+<div class='field'>
+  <label for='last_name'>Last Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='last_name' name='job_application[last_name]' aria-required="true" maxlength="255" autocomplete="family-name" />
+</div>
+<div class='field'>
+  <label for='email'>Email <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='email' name='job_application[email]' aria-required="true" maxlength="255" autocomplete="email" />
+</div>
+<div class='field'>
+  <label for='phone'>Phone <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='phone' name='job_application[phone]' maxlength="255" autocomplete="tel" required='required' aria-required="true"/>
+</div>
+
+
+
+          
+<div class='field'>
+  <label aria-label="required" id="resume">Resume/CV <span class='asterisk' aria-hidden='true'>*</span></label>
+  
+<div class="attach-or-paste " required="required" data-allow-s3="true" data-field="resume" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="resume_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
+    <span id="resume_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="resume" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="resume" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="resume" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="resume" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_resume style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+    <textarea name="job_application[resume_text]" id="resume_text" class="paste">
+</textarea>
+
+</div>
+
+</div>
+
+  <div class='field'>
+    <label id='cover_letter' aria-label="">Cover Letter</label>
+    
+<div class="attach-or-paste " data-allow-s3="true" data-field="cover_letter" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="cover_letter_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
+    <span id="cover_letter_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="cover_letter" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="cover_letter" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="cover_letter" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="cover_letter" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_cover_letter style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+    <textarea name="job_application[cover_letter_text]" id="cover_letter_text" class="paste">
+</textarea>
+
+</div>
+
+  </div>
+
+
+
+        </div>
+
+            <hr/>
+
+          <div id='custom_fields'>
+            <div class="field">
+  <label>Do you have your LinkedIn Profile? Share the link with us...
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][0][question_id]" id="job_application_answers_attributes_0_question_id" value="4917265004" />
+<input type="hidden" name="job_application[answers_attributes][0][priority]" id="job_application_answers_attributes_0_priority" value="0" />
+
+<input type="text" name="job_application[answers_attributes][0][text_value]" id="job_application_answers_attributes_0_text_value" maxlength="255" autocomplete="custom-question-do-you-have-your-linkedin-profile-share-the-link-with-us" />
+
+
+</label></div>
+
+          </div>
+
+
+
+          <hr/>
+          <div id="data_compliance">
+              <div class="data_compliance_item field" id="gdpr_consent_required">
+  <input type="checkbox" name="job_application[data_compliance][gdpr_consent_given]" id="job_application_data_compliance_gdpr_consent_given" value="1" aria-required="true" required="required" />
+  <label for="job_application_data_compliance_gdpr_consent_given">
+    Wandera has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to 730 days thereafter.
+    <span class="asterisk" aria-hidden="true">*</span>
+</label></div>
+
+          </div>
+
+          <div id='captcha_container'></div>
+  <hr/>
+
+
+
+        <div id='error_message'></div>
+
+        <div id='submit_buttons'>
+          <input
+            type='button'
+            value='Submit Application'
+            id='submit_app'
+            class='button'>
+        </div>
+</form>    </div>
+</div>
+
+
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <div class="s3-upload-form" data-presigned-form="resume"></div>
+
+  <div class="s3-upload-form" data-presigned-form="cover_letter"></div>
+<script class="js-metadata" data-key="JBEN.hideCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.alternateCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.geetestPath" data-type="string" data-value="/geetest" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.publicKey" data-type="string" data-value="6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL" type="text/configuration"></script>      <script src='https://www.google.com/recaptcha/enterprise.js?render=6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL' async></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/show_init-2f5fdd5c5ac90ad3c0ac0d76992d75eafc694581fdc565f42aa90e0fdc3c5d2c.js"></script>
+  
+
+
+  <script class="js-metadata" data-key="JBEN.PublicJobBoard.UncacheableAttributes.path" data-type="string" data-value="/uncacheable_attributes.json" type="text/configuration"></script><script class="js-metadata" data-key="LocationControl.Providers.Mapbox.apiKey" data-type="string" data-value="pk.eyJ1IjoiamNtdWxsZXIiLCJhIjoiY2l2YmI2ZG82MDA4bzJ6b3UwNTB1enkycSJ9.oRrvDNk1PKKA76v6qSRFXg" type="text/configuration"></script>
+  <script class="js-metadata" data-key="LocationControl.Providers.Pelias.apiKey" data-type="string" data-value="ge-39f1178289d5d0c5" type="text/configuration"></script>
+  <script type="application/ld+json">
+  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Wandera"},"title":"C#/.NET Developer","datePosted":"2021-11-03","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Brno, South Moravian, Czech Republic","addressRegion":"JM","addressCountry":null,"postalCode":null}},"description":"\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eAt the end of 2020, we launched a new product Wandera Private Access (WPA), which allows companies to securely access their applications and data stored in the cloud. We are looking for an \u003c/span\u003e\u003cstrong\u003eexperienced C#/.NET Developer\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e to join our growing Windows Team.\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eLast year, our Win10 customer base expanded by more than 400% and we expect similar growth even this year. Together we are building the best product for remote working based on the principles of the Zero Trust Network.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGood things aren't the easy ones 📈\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou will gain end to end experience developing our new Windows 10 client. That will include working on areas ranging from deep in the Windows OS networking stack, to the app’s core business logic, to the backend RESTful API integration and also UI development. We experienced that the Windows 10 platform brought us a lot of new technological challenges and a new set of customer expectations. There is plenty of development ahead.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eAs a developer, you will become a part of a small team and get plenty of input and ownership in the design, delivery and release of our software.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSkills pay bills ⭐\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTo\u0026nbsp; succeed in this position, you will be required:\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eC# and .NET Software Development - both Win32 and WPF\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eUnderstanding of network protocols (IP, TCP/UDP, DNS)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u003cbr\u003e\u003c/span\u003e\u003cstrong\u003eStrong bonus, if you have experience with:\u0026nbsp;\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWindows Filtering Platform (WFP)\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eNetwork Driver Interface Specification (NDIS)\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eAkka.net framework\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eC++ (for low-level networking)\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u003cbr\u003e\u003c/span\u003e\u003cstrong\u003eNice to have:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eExperience with Windows Communication Foundation (WCF)\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eExperience with NUnit framework for unit tests\u0026nbsp;\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u003cbr\u003e\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003eOverall, we are looking for a Windows developer with the necessary technical aptitude, enthusiasm and collaboration skills required to thrive at Wandera.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWhy will you love it here? \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e❤️\u0026nbsp;\u0026nbsp;\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eOpen and friendly culture (yes, everybody says that, join us and see for yourself 😉).\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eClean code.\u0026nbsp;\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWorking on \u003c/span\u003e\u003ca href=\"https://techspective.net/2020/12/01/wandera-launches-wandera-private-access-for-secure-remote-connectivity/\"\u003e\u003cspan style=\"font-weight: 400;\"\u003etop security product\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e used world-wide.\u0026nbsp;\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eFlexible working hours.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eOur house is full of experienced people with passion for knowledge sharing.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003e$1,000 for WFH workplace equipment, Apple gear, restricted stock options, reimbursed mobile tariff.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003e30 days of holiday, 3 sick days, 3 paid days to volunteer, 1 additional day off.\u0026nbsp;\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eAnd of course other exceptional perks and benefits. But we believe that is not the main reason why you will love it here.\u0026nbsp;\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e"}
+</script>
+
+    <script type='text/javascript' src='https://www.dropbox.com/static/api/2/dropins.js' id='dropboxjs' data-app-key='mh9jyh4mfwjnfhj' async></script>
+
+<script class="js-metadata" data-key="googlePickerDeveloperKey" data-type="string" data-value="AIzaSyCratp6KuOmiXWfR3ABY8azVmw8XFnBl64" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerClientId" data-type="string" data-value="594601915089-7c2994029qkt5qu2tmbppujr9jqrqqrs.apps.googleusercontent.com" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerAppId" data-type="number" data-value="594601915089" type="text/configuration"></script>
+  <script type='text/javascript' src='https://apis.google.com/js/client.js?onload=googleDriveLoader' async></script>
+  <script type='text/javascript' src='https://apis.google.com/js/api.js?onload=googlePickerLoader' async></script>
+
+
+  </body>
+</html>
