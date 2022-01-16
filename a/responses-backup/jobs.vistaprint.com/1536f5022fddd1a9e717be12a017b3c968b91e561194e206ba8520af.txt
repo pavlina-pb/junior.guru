@@ -800,7 +800,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "a4db2b10-ce1e-4385-8d4d-abb6876e30eb"
+						"X-CSRF-Token" : "9e8e8695-3abb-426f-a3cd-75d22400f516"
 					}
 				});
 			//]]>
@@ -840,7 +840,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=678982552"></script>
+        <script type="text/javascript" src="/js/override.js?locale=en_US&amp;i=605513926"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
