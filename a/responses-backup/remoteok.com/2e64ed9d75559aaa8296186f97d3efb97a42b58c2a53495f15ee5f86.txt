@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"dev":"\ud83e\udd13Developer (3,568)","engineer":"\ud83e\udd13Engineer (2,966)","javascript":"\u2615\ufe0fJavaScript (2,152)","senior":"\ud83d\udc75Senior (2,015)","exec":"\ud83d\udcbcExecutive (1,393)","golang":"\ud83d\udc00Golang (1,060)","backend":"\ud83c\udf51Backend (892)","ruby":"\ud83d\udc8eRuby (860)","react":"\u269b\ufe0fReact (835)","full stack":"\ud83e\udd5eFull Stack (809)","meteor":"\u2604\ufe0fMeteor (741)","front end":"\ud83c\udfa8Front End (720)","devops":"\u267e\ufe0fDevOps (576)","design":"\ud83c\udfa8Design (554)","php":"\ud83d\udc18PHP (540)","marketing":"\ud83d\udea5Marketing (496)","non tech":"\ud83d\udd0cNon Tech (447)","node":"\ud83d\udd17Node (431)","css":"\ud83c\udfa8CSS (391)","c":"\ud83d\udd37C (370)","python":"\ud83d\udc0dPython (360)","web dev":"\ud83e\udd13Web Developer (338)","html":"\ud83d\udd21HTML (325)","ios":"\ud83c\udf4eiOS (318)","product manager":"\ud83d\udce6Product Manager (267)","customer support":"\ud83c\udfa7Customer Support (256)","mobile":"\ud83d\udcf1Mobile (246)","aws":"\u2601\ufe0fAWS (236)","sql":"\ud83d\udc2cSQL (216)","js":"\u2615\ufe0fJavaScript (212)","admin":"\u267e\ufe0fAdmin (202)","full time":"\u23f0Full Time (193)","java":"\u2615\ufe0fJava (190)","typescript":"\ud83d\udfe6Typescript (183)","saas":"\ud83d\udce6SaaS (182)","sales":"\ud83d\udcbcSales (178)","api":"\ud83e\udd16API (173)","angular":"\ud83c\udd70\ufe0fAngular (167)","sys admin":"\u267e\ufe0fSys Admin (165)","cloud":"\u2601\ufe0fCloud (159)","android":"\ud83e\udd16Android (151)","c plus plus":"\u2795C Plus Plus (151)","react native":"\u269b\ufe0fReact Native (143)","testing":"\ud83e\uddeaTesting (140)","user interface":"\ud83c\udfa8User Interface (138)","user experience":"\ud83c\udfa8User Experience (128)","quality assurance":"\ud83d\udd2cQuality Assurance (119)","docker":"\ud83d\udc33Docker (118)","wordpress":"\u270d\ufe0fWordpress (114)","ecommerce":"\ud83d\udecdEcommerce (114)","infosec":"\ud83d\udd11InfoSec (111)","vue":"\ud83d\udc9aVue (108)","data science":"\ud83d\udc69\u200d\ud83d\udd2cData Science (108)","mongo":"\ud83c\udf43Mongo (106)","postgres":"\ud83d\udc2cPostgres (104)","developer":"\ud83e\udd13Developer (103)","linux":"\ud83d\udc27Linux (103)","kubernetes":"\ud83e\udd91Kubernetes (100)","mongodb":"\ud83c\udf43Mongo (99)","finance":"\ud83d\udcb0Finance (98)","graphql":"\u269b\ufe0fGraphQL (96)","frontend":"\ud83c\udfa8Frontend (94)","architecture":"\ud83d\udce6Architecture (93)","web3":"\ud83d\udc8eWeb3 (90)","teaching":"\ud83d\udc68\u200d\ud83c\udfebTeaching (89)","social media":"\u270d\ufe0fSocial Media (80)","blockchain":"\u26d3Blockchain (80)","education":"\ud83d\udc68\u200d\ud83c\udfebEducation (80)","game dev":"\ud83d\udd79Game Developer (80)","analyst":"\ud83e\udd14Analyst (78)","jquery":"\ud83e\udde9jQuery (76)","copywriting":"\u270d\ufe0fCopywriting (75)","swift":"\ud83d\udc07Swift (71)","ops":"\u267e\ufe0fOps (70)","seo":"\ud83d\udd0eSEO (69)","laravel":"\ud83d\udce6Laravel (68)","machine learning":"\ud83e\udd16Machine Learning (68)","mysql":"\ud83d\udc2cMySQL (67)","part time":"\u23f0Part Time (67)","product":"\ud83d\udce6Product (62)","junior":"\ud83d\udc76Junior (61)","django":"\ud83e\udd20Django (60)","ux":"\ud83c\udfa8UX (59)","ui":"\ud83c\udfa8UI (57)","redux":"\u269b\ufe0fRedux (56)","crypto":"\ud83c\udfc5Crypto (55)","fullstack":"\ud83e\udd5eFullstack (54)","startup":"\ud83d\ude80Startup (54)","git":"\ud83d\udce6Git (54)","consulting":"\ud83d\udcbcConsulting (51)","stats":"\ud83d\udc69\u200d\ud83d\udd2cStats (50)","postgresql":"\ud83d\udc2cPostgreSQL (50)","net":"\ud83c\udf0aNet (49)","engineering":"\ud83e\udd13Engineering (48)","recruiter":"\ud83c\udfafRecruiter (45)","elasticsearch":"\ud83e\udde9Elasticsearch (45)","medical":"\ud83d\ude91Medical (45)","redis":"\ud83e\udde0Redis (44)","video":"Video (43)","terraform":"\ud83c\udf33Terraform (42)","back end":"\ud83c\udf51Back End (42)","growth":"\ud83d\ude80Growth (42)","fintech":"\ud83d\udcb0Fintech (42)","scala":"\u2615\ufe0fScala (41)","software":"\ud83e\udd13Software (41)","qa":"\ud83d\udd75\ufe0fQuality Assurance (40)","ads":"\ud83d\udcd7Ads (38)","shopify":"\ud83d\udecdShopify (37)","bus dev":"\ud83e\udd13Bus Developer (36)","serverless":"\u2601\ufe0fServerless (35)","english teacher":"\ud83c\uddec\ud83c\udde7English Teacher (34)","tech":"\u2699\ufe0fTech (34)","product design":"\ud83c\udfa8Product Design (33)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0fTech Lead (32)","kotlin":"\u2615\ufe0fKotlin (32)","hr":"\ud83c\udfafHr (31)","virtual assistant":"Virtual Assistant (29)","automation":"\ud83e\udd16Automation (29)","product management":"\ud83d\udcbcProduct Management (29)","elixir":"\ud83e\uddeaElixir (29)","b2b":"\ud83d\udcbcB2B (29)","manager":"\ud83d\udcbcManager (29)","software engineer":"\ud83e\udd13Software Engineer (29)","clojure":"\u262f\ufe0fClojure (29)","drupal":"\ud83d\udca7Drupal (28)","data":"\ud83d\udc69\u200d\ud83d\udd2cData (27)","objective c":"\ud83d\udd37Objective C (27)","writing":"\u270d\ufe0fWriting (26)","content":"\u270d\ufe0fContent (26)","remote":"\ud83c\udfddRemote (26)","lead":"\ud83d\udc69\u200d\u2708\ufe0fLead (26)","web":"\ud83c\udf81Web (25)","microservices":"\ud83d\udd37Microservices (25)","infrastructure":"\ud83c\udf09Infrastructure (25)","y combinator":"\ud83d\udfe7Y Combinator (24)","customer success":"\ud83c\udfa7Customer Success (24)","travel":"Travel (24)","gcp":"\u2601\ufe0fGCP (24)","amazon":"Amazon (23)","support":"\ud83c\udfa7Support (23)","information services":"\ud83d\udc69\u200d\ud83d\udd2cInformation Services (23)","software engineering":"\ud83e\udd13Software Engineering (23)","technical support":"\u2699\ufe0fTechnical Support (22)","analytics":"\ud83d\udc69\u200d\ud83d\udd2cAnalytics (22)","sre":"Sre (22)","software development":"\ud83d\udcbcSoftware Development (22)","development":"\ud83d\udcbcDevelopment (22)","kafka":"\ud83d\ude81Kafka (21)","project management":"\ud83d\udcbcProject Management (21)","ansible":"Ansible (21)","azure":"\u2601\ufe0fAzure (20)","internship":"Internship (20)","dba":"\ud83e\udd5eDatabase Admin (20)","agile":"\ud83d\udc07Agile (19)","security":"\ud83d\udd11Security (19)","ember":"\ud83d\udc39Ember (19)","architect":"\ud83d\udce6Architect (19)","healthcare":"\ud83d\udc89Healthcare (19)","open source":"\ud83e\udde9Open Source (19)","salesforce":"\u2601\ufe0fSalesforce (19)","ethereum":"\ud83d\udc8eEthereum (19)","heroku":"\ud83d\udfeaHeroku (18)","ai":"\ud83e\udd16AI (18)","management":"\ud83d\udcbcManagement (18)","content marketing":"\u270d\ufe0fContent Marketing (18)","big data":"\ud83e\udde0Big Data (17)","other":"\u2753Other (17)","operations":"Operations (16)","unity":"Unity (16)","ruby on rails":"\ud83d\udc8eRuby on Rails (16)","nginx":"\u2747\ufe0fNginx (16)","account management":"\ud83d\udd37Account Management (16)","symfony":"\ud83d\udce6Symfony (16)","nosql":"\ud83d\udeabNoSQL (16)","health tech":"\ud83d\ude91Health Tech (16)","spring":"Spring (16)","photoshop":"\ud83c\udfa8Photoshop (15)","html5":"\ud83d\udd21HTML5 (15)","illustrator":"Illustrator (15)","lamp":"LAMP (15)","customer service":"\ud83c\udfa7Customer Service (15)","vfx":"VFX (14)","work from home":"Work from Home (14)","celery":"\ud83d\udd37Celery (14)","outdoors":"Outdoors (14)","crm":"\ud83d\udd37Crm (14)","designer":"\ud83c\udfa8Designer (14)","spark":"Spark (14)","legal":"\ud83d\udc69\u200d\u2696\ufe0fLegal (14)","airflow":"\ud83e\udd16Airflow (14)","figma":"\ud83c\udfa8Figma (14)","digital marketing":"\ud83d\udea5Digital Marketing (14)","scrum":"\ud83d\udd01Scrum (13)","english":"\ud83c\uddec\ud83c\udde7English (13)","solidity":"\u26d3Solidity (13)","apis":"\ud83e\udd16Apis (13)","ci cd":"\u267e\ufe0fCi Cd (13)","business development":"\ud83d\udcbcBusiness Development (13)","go":"\ud83d\udc00Go (13)","product development":"\ud83d\udcbcProduct Development (13)","apollo":"Apollo (13)","accounting":"\ud83d\udd37Accounting (12)","chef":"\ud83d\udd37Chef (12)","artificial intelligence":"\u267e\ufe0fArtificial Intelligence (12)","edtech":"\ud83d\udc68\u200d\ud83c\udfebEdtech (12)","es6":"Es6 (12)","bootstrap":"\ud83d\udfeaBootstrap (12)","gaming":"Gaming (12)","flask":"\ud83c\udf7cFlask (12)","cycling":"\ud83d\udd37Cycling (12)","test automation":"\ud83e\udd16Test Automation (12)","it":"\ud83c\uddee\ud83c\uddf9IT (12)","recruitment":"\ud83c\udfafRecruitment (11)","ambassador":"Ambassador (11)","research":"\ud83d\udc69\u200d\ud83d\udd2cResearch (11)","leadership":"\ud83d\udc69\u200d\u2708\ufe0fLeadership (11)","rest":"Rest (11)","e commerce":"\ud83d\udd37E Commerce (11)","sysadmin":"\u267e\ufe0fSysadmin (11)","cassandra":"\ud83d\udd37Cassandra (11)","web design":"\ud83c\udfa8Web Design (11)","dotnet":".NET (11)","rust":"\ud83e\udd80Rust (11)","jira":"\ud83d\udd37Jira (11)","web development":"\ud83e\udd13Web Development (11)","clojurescript":"\u262f\ufe0fClojurescript (11)","net core":"\ud83d\udd37Net Core (11)","rails":"\ud83d\udee4Rails (10)","digital":"\ud83c\udfddDigital (10)","product marketing":"\ud83d\udea5Product Marketing (10)","firebase":"\ud83d\udd25Firebase (10)","nft":"\ud83c\udf81Nft (10)","google cloud":"\u2601\ufe0fGoogle Cloud (10)","freelance":"\ud83d\udd37Freelance (10)","scss":"\ud83c\udfa8Scss (10)","c sharp":"#\ufe0f\u20e3C Sharp (10)","google cloud platform":"\u2601\ufe0fGoogle Cloud Platform (10)","technical":"\u2699\ufe0fTechnical (10)","unix":"\ud83d\udc27Unix (9)","phonegap":"Phonegap (9)","healthtech":"\u2699\ufe0fHealthtech (9)","ui ux":"\ud83c\udfa8UI UX (9)","smart contracts":"\ud83d\udccbSmart Contracts (9)","product designer":"\ud83d\udce6Product Designer (9)","dot net":"\ud83c\udf0aDot Net (9)","apache":"\ud83d\ude81Apache (9)","sketch":"\ud83c\udfa8Sketch (9)","music":"\ud83d\udd37Music (9)","tech support":"\u2699\ufe0fTech Support (9)","express":"\ud83e\udde9Express (9)","node js":"\ud83d\udd17Node  JS (9)","macos":"\ud83c\udf4emacOS (9)","rest api":"\ud83e\udd16Rest API (9)","bitcoin":"\ud83c\udfc5Bitcoin (9)","perl":"\ud83d\udc2aPerl (9)","recruiting":"\ud83c\udfa8Recruiting (9)","erp":"Erp (8)","programming":"\ud83e\udd13Programming (8)","govtech":"\u2699\ufe0fGovtech (8)","enterprise":"Enterprise (8)","cypress":"\ud83d\udd37Cypress (8)","community management":"\ud83d\udd37Community Management (8)","start up":"Start Up (8)","ux design":"\ud83c\udfa8UX Design (8)","copywriter":"\ud83d\udd37Copywriter (8)","energy":"\u26a1\ufe0fEnergy (8)","flutter":"\ud83e\udda9Flutter (8)","windows":"\ud83e\ude9fWindows (8)","ui design":"\ud83c\udfa8UI Design (8)","database":"\ud83e\udde0Database (8)","distributed systems":"Distributed Systems (8)","project manager":"\ud83d\udcbcProject Manager (8)","vuejs":"\u2615\ufe0fVue JS (8)","community":"\ud83d\udd37Community (8)","tailwind":"\ud83d\udca8Tailwind (8)","phoenix":"\ud83d\udc13Phoenix (8)","nextjs":"\u27a1\ufe0fNext JS (8)","amazon web services":"\ud83d\udd37Amazon Web Services (8)","data engineering":"\ud83d\udc69\u200d\ud83d\udd2cData Engineering (8)","advertising":"\ud83d\udd25Advertising (8)","functional programming":"\ud83e\udd13Functional Programming (8)","defi":"\ud83d\udcb0Defi (8)","css3":"\ud83c\udfa8Css3 (8)","github":"\ud83d\udc19Github (8)","rabbitmq":"Rabbitmq (8)","professional services":"\ud83d\udd37Professional Services (8)","data analyst":"\ud83d\udc69\u200d\ud83d\udd2cData Analyst (7)","grpc":"\ud83d\udd37Grpc (7)","oop":"\ud83e\udde0Oop (7)","nuxt":"\ud83c\udfa8Nuxt (7)","jenkins":"\ud83c\udfa9Jenkins (7)","ionic":"\ud83d\udd37Ionic (7)","mobile development":"\ud83d\udcbcMobile Development (7)","zendesk":"\ud83c\udfa7Zendesk (7)","selenium":"Selenium (7)","executive":"\ud83d\udcbcExecutive (7)","email marketing":"\ud83e\udd16Email Marketing (7)","lambda":"Lambda (7)","civictech":"\u2699\ufe0fCivictech (7)","nlp":"NLP (7)","cto":"\ud83d\udd37Cto (7)","communication":"\ud83d\udd37Communication (7)","microsoft":"\ud83d\udd37Microsoft (7)","agency":"\ud83d\udd37Agency (7)","monitoring":"Monitoring (7)","containers":"\ud83e\udd16Containers (7)","pandas":"Pandas (7)","chat":"\ud83d\udd37Chat (7)","excel":"\ud83d\udcd7Excel (7)","editing":"Editing (7)","privacy":"\ud83d\udd37Privacy (7)","rxjs":"\u2615\ufe0fRx JS (7)","technical writing":"\u2699\ufe0fTechnical Writing (7)","magento":"\ud83d\udd38Magento (7)","ml":"\ud83e\udde0Ml (7)","reactnative":"\u269b\ufe0fReactnative (7)","openstack":"\ud83d\udd37Openstack (7)","web scraping":"\ud83e\udd16Web Scraping (7)","cro":"\ud83d\udd37Cro (7)","prometheus":"Prometheus (7)","brand":"\ud83d\udea5Brand (7)","meteor js":"\u2615\ufe0fMeteor  JS (7)","grafana":"Grafana (7)","cicd":"\u267e\ufe0fCicd (6)","media":"\u270d\ufe0fMedia (6)","virtual reality":"Virtual Reality (6)","business":"\ud83d\udcbcBusiness (6)","helpdesk":"\ud83c\udfa7Helpdesk (6)","snowflake":"Snowflake (6)","chief":"\ud83d\udd37Chief (6)","etl":"Etl (6)","affiliate":"Affiliate (6)","account manager":"\ud83d\udcbcAccount Manager (6)","node dev":"\ud83d\udd17Node Developer (6)","gitlab":"\ud83d\udc69\u200d\ud83d\udd2cGitlab (6)","full stack developer":"\ud83e\udd13Full Stack Developer (6)","manual testing":"\ud83e\uddeaManual Testing (6)","cryptocurrency":"\ud83c\udfc5Cryptocurrency (6)","jest":"Jest (6)","zf2":"Zf2 (6)","content creation":"\ud83d\udd37Content Creation (6)","sdr":"Sdr (6)","test":"\ud83e\uddeaTest (6)","email":"\ud83e\udd16Email (6)","software testing":"\ud83e\uddeaSoftware Testing (6)","demand generation":"Demand Generation (6)","partnerships":"Partnerships (6)","quality":"\ud83d\udd2cQuality (6)","woocommerce":"\ud83d\udd37Woocommerce (6)","argocd":"\u267e\ufe0fArgocd (5)","contract":"\ud83d\udccbContract (5)","full stack engineer":"\ud83e\udd13Full Stack Engineer (5)","ux research":"\ud83d\udc69\u200d\ud83d\udd2cUX Research (5)","elk":"Elk (5)","aws lambda":"\u2601\ufe0fAWS Lambda (5)","data scientist":"\ud83d\udc69\u200d\ud83d\udd2cData Scientist (5)","sdk":"Sdk (5)","esports":"Esports (5)","software design":"\ud83c\udfa8Software Design (5)","ux ui":"\ud83c\udfa8UX UI (5)","cybersecurity":"\ud83d\udd11Cybersecurity (5)","digital media":"\ud83d\udce6Digital Media (5)","xamarin":"\u274eXamarin (5)","paas":"\ud83d\udce6PaaS (5)","platform":"Platform (5)","inbound sales":"\ud83d\udcbcInbound Sales (5)","s3":"\ud83c\udfa8S3 (5)","haskell":"#\ufe0f\u20e3Haskell (5)","german":"\ud83c\udde9\ud83c\uddeaGerman (5)","facebook ads":"\ud83d\udd37Facebook Ads (5)","marketing manager":"\ud83d\udea5Marketing Manager (5)","remote jobs":"\ud83c\udfddRemote Jobs (5)","community manager":"\ud83d\udcbcCommunity Manager (5)","client services":"\ud83d\udd37Client Services (5)","branding":"\ud83d\udea5Branding (5)","mariadb":"Mariadb (5)","k8s":"\ud83e\udd91Kubernetes (5)","nestjs":"\u2615\ufe0fNest JS (5)","culture":"\ud83d\udd37Culture (5)","app":"\ud83c\udf4eApp (5)","ppc":"\ud83d\udd37Ppc (5)","front end development":"\ud83c\udfa8Front End Development (5)","liquid":"\ud83c\udfa8Liquid (5)","electron":"\u269b\ufe0fElectron (5)","ci":"\u267e\ufe0fCi (5)","smart contract":"\ud83d\udccbSmart Contract (5)","redshift":"Redshift (5)","startups":"\ud83d\ude80Startups (5)","strategy":"Strategy (5)","vue js":"\u2615\ufe0fVue  JS (5)","sales development":"\ud83d\udcbcSales Development (5)","data analysis":"\ud83d\udc69\u200d\ud83d\udd2cData Analysis (5)","cloud native":"\u2601\ufe0fCloud Native (5)","customer":"\ud83c\udfa7Customer (5)","social":"\u270d\ufe0fSocial (5)","pytest":"\ud83e\uddeaPytest (5)","english teaching":"\ud83c\uddec\ud83c\udde7English Teaching (5)","reverse engineering":"\ud83e\udd13Reverse Engineering (5)","remote work":"\ud83c\udfddRemote Work (5)"}					;
+						{"dev":"\ud83e\udd13Developer (3,569)","engineer":"\ud83e\udd13Engineer (2,967)","javascript":"\u2615\ufe0fJavaScript (2,153)","senior":"\ud83d\udc75Senior (2,015)","exec":"\ud83d\udcbcExecutive (1,396)","golang":"\ud83d\udc00Golang (1,060)","backend":"\ud83c\udf51Backend (892)","ruby":"\ud83d\udc8eRuby (860)","react":"\u269b\ufe0fReact (836)","full stack":"\ud83e\udd5eFull Stack (809)","meteor":"\u2604\ufe0fMeteor (741)","front end":"\ud83c\udfa8Front End (720)","devops":"\u267e\ufe0fDevOps (576)","design":"\ud83c\udfa8Design (554)","php":"\ud83d\udc18PHP (540)","marketing":"\ud83d\udea5Marketing (499)","non tech":"\ud83d\udd0cNon Tech (452)","node":"\ud83d\udd17Node (431)","css":"\ud83c\udfa8CSS (391)","c":"\ud83d\udd37C (370)","python":"\ud83d\udc0dPython (360)","web dev":"\ud83e\udd13Web Developer (338)","html":"\ud83d\udd21HTML (325)","ios":"\ud83c\udf4eiOS (318)","product manager":"\ud83d\udce6Product Manager (267)","customer support":"\ud83c\udfa7Customer Support (256)","mobile":"\ud83d\udcf1Mobile (247)","aws":"\u2601\ufe0fAWS (236)","sql":"\ud83d\udc2cSQL (216)","js":"\u2615\ufe0fJavaScript (212)","admin":"\u267e\ufe0fAdmin (202)","full time":"\u23f0Full Time (194)","java":"\u2615\ufe0fJava (190)","typescript":"\ud83d\udfe6Typescript (184)","saas":"\ud83d\udce6SaaS (182)","sales":"\ud83d\udcbcSales (178)","api":"\ud83e\udd16API (173)","angular":"\ud83c\udd70\ufe0fAngular (167)","sys admin":"\u267e\ufe0fSys Admin (165)","cloud":"\u2601\ufe0fCloud (159)","c plus plus":"\u2795C Plus Plus (151)","android":"\ud83e\udd16Android (151)","react native":"\u269b\ufe0fReact Native (144)","testing":"\ud83e\uddeaTesting (140)","user interface":"\ud83c\udfa8User Interface (138)","user experience":"\ud83c\udfa8User Experience (128)","quality assurance":"\ud83d\udd2cQuality Assurance (119)","docker":"\ud83d\udc33Docker (118)","ecommerce":"\ud83d\udecdEcommerce (114)","wordpress":"\u270d\ufe0fWordpress (114)","infosec":"\ud83d\udd11InfoSec (112)","vue":"\ud83d\udc9aVue (108)","data science":"\ud83d\udc69\u200d\ud83d\udd2cData Science (108)","mongo":"\ud83c\udf43Mongo (106)","postgres":"\ud83d\udc2cPostgres (104)","linux":"\ud83d\udc27Linux (103)","developer":"\ud83e\udd13Developer (103)","kubernetes":"\ud83e\udd91Kubernetes (100)","mongodb":"\ud83c\udf43Mongo (99)","finance":"\ud83d\udcb0Finance (99)","graphql":"\u269b\ufe0fGraphQL (96)","frontend":"\ud83c\udfa8Frontend (94)","architecture":"\ud83d\udce6Architecture (93)","web3":"\ud83d\udc8eWeb3 (90)","teaching":"\ud83d\udc68\u200d\ud83c\udfebTeaching (89)","education":"\ud83d\udc68\u200d\ud83c\udfebEducation (80)","game dev":"\ud83d\udd79Game Developer (80)","blockchain":"\u26d3Blockchain (80)","social media":"\u270d\ufe0fSocial Media (80)","analyst":"\ud83e\udd14Analyst (79)","copywriting":"\u270d\ufe0fCopywriting (76)","jquery":"\ud83e\udde9jQuery (76)","swift":"\ud83d\udc07Swift (71)","ops":"\u267e\ufe0fOps (70)","seo":"\ud83d\udd0eSEO (69)","machine learning":"\ud83e\udd16Machine Learning (68)","laravel":"\ud83d\udce6Laravel (68)","mysql":"\ud83d\udc2cMySQL (67)","part time":"\u23f0Part Time (67)","product":"\ud83d\udce6Product (63)","junior":"\ud83d\udc76Junior (61)","django":"\ud83e\udd20Django (60)","ux":"\ud83c\udfa8UX (59)","ui":"\ud83c\udfa8UI (57)","redux":"\u269b\ufe0fRedux (56)","crypto":"\ud83c\udfc5Crypto (55)","git":"\ud83d\udce6Git (54)","startup":"\ud83d\ude80Startup (54)","fullstack":"\ud83e\udd5eFullstack (54)","consulting":"\ud83d\udcbcConsulting (51)","postgresql":"\ud83d\udc2cPostgreSQL (50)","stats":"\ud83d\udc69\u200d\ud83d\udd2cStats (50)","net":"\ud83c\udf0aNet (49)","engineering":"\ud83e\udd13Engineering (48)","medical":"\ud83d\ude91Medical (46)","recruiter":"\ud83c\udfafRecruiter (45)","elasticsearch":"\ud83e\udde9Elasticsearch (45)","redis":"\ud83e\udde0Redis (44)","video":"Video (43)","growth":"\ud83d\ude80Growth (42)","back end":"\ud83c\udf51Back End (42)","fintech":"\ud83d\udcb0Fintech (42)","terraform":"\ud83c\udf33Terraform (42)","scala":"\u2615\ufe0fScala (41)","software":"\ud83e\udd13Software (41)","qa":"\ud83d\udd75\ufe0fQuality Assurance (40)","ads":"\ud83d\udcd7Ads (38)","shopify":"\ud83d\udecdShopify (37)","bus dev":"\ud83e\udd13Bus Developer (36)","serverless":"\u2601\ufe0fServerless (35)","tech":"\u2699\ufe0fTech (34)","english teacher":"\ud83c\uddec\ud83c\udde7English Teacher (34)","product design":"\ud83c\udfa8Product Design (33)","kotlin":"\u2615\ufe0fKotlin (32)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0fTech Lead (32)","hr":"\ud83c\udfafHr (31)","elixir":"\ud83e\uddeaElixir (29)","automation":"\ud83e\udd16Automation (29)","product management":"\ud83d\udcbcProduct Management (29)","b2b":"\ud83d\udcbcB2B (29)","clojure":"\u262f\ufe0fClojure (29)","manager":"\ud83d\udcbcManager (29)","virtual assistant":"Virtual Assistant (29)","software engineer":"\ud83e\udd13Software Engineer (29)","drupal":"\ud83d\udca7Drupal (28)","content":"\u270d\ufe0fContent (28)","objective c":"\ud83d\udd37Objective C (27)","data":"\ud83d\udc69\u200d\ud83d\udd2cData (27)","lead":"\ud83d\udc69\u200d\u2708\ufe0fLead (26)","writing":"\u270d\ufe0fWriting (26)","remote":"\ud83c\udfddRemote (26)","web":"\ud83c\udf81Web (25)","infrastructure":"\ud83c\udf09Infrastructure (25)","microservices":"\ud83d\udd37Microservices (25)","gcp":"\u2601\ufe0fGCP (24)","travel":"Travel (24)","y combinator":"\ud83d\udfe7Y Combinator (24)","customer success":"\ud83c\udfa7Customer Success (24)","information services":"\ud83d\udc69\u200d\ud83d\udd2cInformation Services (23)","software engineering":"\ud83e\udd13Software Engineering (23)","amazon":"Amazon (23)","support":"\ud83c\udfa7Support (23)","development":"\ud83d\udcbcDevelopment (22)","analytics":"\ud83d\udc69\u200d\ud83d\udd2cAnalytics (22)","technical support":"\u2699\ufe0fTechnical Support (22)","software development":"\ud83d\udcbcSoftware Development (22)","project management":"\ud83d\udcbcProject Management (22)","sre":"Sre (22)","ansible":"Ansible (21)","kafka":"\ud83d\ude81Kafka (21)","internship":"Internship (20)","azure":"\u2601\ufe0fAzure (20)","other":"\u2753Other (20)","dba":"\ud83e\udd5eDatabase Admin (20)","agile":"\ud83d\udc07Agile (19)","architect":"\ud83d\udce6Architect (19)","security":"\ud83d\udd11Security (19)","healthcare":"\ud83d\udc89Healthcare (19)","open source":"\ud83e\udde9Open Source (19)","ethereum":"\ud83d\udc8eEthereum (19)","salesforce":"\u2601\ufe0fSalesforce (19)","ember":"\ud83d\udc39Ember (19)","ai":"\ud83e\udd16AI (18)","management":"\ud83d\udcbcManagement (18)","heroku":"\ud83d\udfeaHeroku (18)","content marketing":"\u270d\ufe0fContent Marketing (18)","health tech":"\ud83d\ude91Health Tech (17)","big data":"\ud83e\udde0Big Data (17)","nginx":"\u2747\ufe0fNginx (16)","spring":"Spring (16)","symfony":"\ud83d\udce6Symfony (16)","unity":"Unity (16)","account management":"\ud83d\udd37Account Management (16)","nosql":"\ud83d\udeabNoSQL (16)","operations":"Operations (16)","ruby on rails":"\ud83d\udc8eRuby on Rails (16)","html5":"\ud83d\udd21HTML5 (15)","customer service":"\ud83c\udfa7Customer Service (15)","photoshop":"\ud83c\udfa8Photoshop (15)","illustrator":"Illustrator (15)","lamp":"LAMP (15)","figma":"\ud83c\udfa8Figma (14)","airflow":"\ud83e\udd16Airflow (14)","celery":"\ud83d\udd37Celery (14)","spark":"Spark (14)","vfx":"VFX (14)","designer":"\ud83c\udfa8Designer (14)","work from home":"Work from Home (14)","crm":"\ud83d\udd37Crm (14)","outdoors":"Outdoors (14)","legal":"\ud83d\udc69\u200d\u2696\ufe0fLegal (14)","digital marketing":"\ud83d\udea5Digital Marketing (14)","apollo":"Apollo (13)","ci cd":"\u267e\ufe0fCi Cd (13)","english":"\ud83c\uddec\ud83c\udde7English (13)","solidity":"\u26d3Solidity (13)","go":"\ud83d\udc00Go (13)","scrum":"\ud83d\udd01Scrum (13)","product development":"\ud83d\udcbcProduct Development (13)","apis":"\ud83e\udd16Apis (13)","business development":"\ud83d\udcbcBusiness Development (13)","bootstrap":"\ud83d\udfeaBootstrap (12)","accounting":"\ud83d\udd37Accounting (12)","cycling":"\ud83d\udd37Cycling (12)","gaming":"Gaming (12)","test automation":"\ud83e\udd16Test Automation (12)","flask":"\ud83c\udf7cFlask (12)","chef":"\ud83d\udd37Chef (12)","it":"\ud83c\uddee\ud83c\uddf9IT (12)","es6":"Es6 (12)","artificial intelligence":"\u267e\ufe0fArtificial Intelligence (12)","edtech":"\ud83d\udc68\u200d\ud83c\udfebEdtech (12)","leadership":"\ud83d\udc69\u200d\u2708\ufe0fLeadership (11)","e commerce":"\ud83d\udd37E Commerce (11)","rust":"\ud83e\udd80Rust (11)","web design":"\ud83c\udfa8Web Design (11)","jira":"\ud83d\udd37Jira (11)","web development":"\ud83e\udd13Web Development (11)","clojurescript":"\u262f\ufe0fClojurescript (11)","cassandra":"\ud83d\udd37Cassandra (11)","research":"\ud83d\udc69\u200d\ud83d\udd2cResearch (11)","recruitment":"\ud83c\udfafRecruitment (11)","net core":"\ud83d\udd37Net Core (11)","ambassador":"Ambassador (11)","sysadmin":"\u267e\ufe0fSysadmin (11)","dotnet":".NET (11)","rest":"Rest (11)","digital":"\ud83c\udfddDigital (10)","rails":"\ud83d\udee4Rails (10)","nft":"\ud83c\udf81Nft (10)","product marketing":"\ud83d\udea5Product Marketing (10)","freelance":"\ud83d\udd37Freelance (10)","firebase":"\ud83d\udd25Firebase (10)","technical":"\u2699\ufe0fTechnical (10)","google cloud platform":"\u2601\ufe0fGoogle Cloud Platform (10)","google cloud":"\u2601\ufe0fGoogle Cloud (10)","scss":"\ud83c\udfa8Scss (10)","c sharp":"#\ufe0f\u20e3C Sharp (10)","tech support":"\u2699\ufe0fTech Support (9)","unix":"\ud83d\udc27Unix (9)","dot net":"\ud83c\udf0aDot Net (9)","macos":"\ud83c\udf4emacOS (9)","healthtech":"\u2699\ufe0fHealthtech (9)","product designer":"\ud83d\udce6Product Designer (9)","smart contracts":"\ud83d\udccbSmart Contracts (9)","ui ux":"\ud83c\udfa8UI UX (9)","rest api":"\ud83e\udd16Rest API (9)","apache":"\ud83d\ude81Apache (9)","perl":"\ud83d\udc2aPerl (9)","music":"\ud83d\udd37Music (9)","project manager":"\ud83d\udcbcProject Manager (9)","recruiting":"\ud83c\udfa8Recruiting (9)","sketch":"\ud83c\udfa8Sketch (9)","express":"\ud83e\udde9Express (9)","node js":"\ud83d\udd17Node  JS (9)","bitcoin":"\ud83c\udfc5Bitcoin (9)","phonegap":"Phonegap (9)","phoenix":"\ud83d\udc13Phoenix (8)","energy":"\u26a1\ufe0fEnergy (8)","erp":"Erp (8)","flutter":"\ud83e\udda9Flutter (8)","tailwind":"\ud83d\udca8Tailwind (8)","github":"\ud83d\udc19Github (8)","data engineering":"\ud83d\udc69\u200d\ud83d\udd2cData Engineering (8)","copywriter":"\ud83d\udd37Copywriter (8)","professional services":"\ud83d\udd37Professional Services (8)","community":"\ud83d\udd37Community (8)","windows":"\ud83e\ude9fWindows (8)","distributed systems":"Distributed Systems (8)","enterprise":"Enterprise (8)","community management":"\ud83d\udd37Community Management (8)","database":"\ud83e\udde0Database (8)","defi":"\ud83d\udcb0Defi (8)","functional programming":"\ud83e\udd13Functional Programming (8)","rabbitmq":"Rabbitmq (8)","vuejs":"\u2615\ufe0fVue JS (8)","ux design":"\ud83c\udfa8UX Design (8)","start up":"Start Up (8)","ui design":"\ud83c\udfa8UI Design (8)","advertising":"\ud83d\udd25Advertising (8)","nextjs":"\u27a1\ufe0fNext JS (8)","amazon web services":"\ud83d\udd37Amazon Web Services (8)","css3":"\ud83c\udfa8Css3 (8)","govtech":"\u2699\ufe0fGovtech (8)","cypress":"\ud83d\udd37Cypress (8)","programming":"\ud83e\udd13Programming (8)","chat":"\ud83d\udd37Chat (7)","grafana":"Grafana (7)","ionic":"\ud83d\udd37Ionic (7)","privacy":"\ud83d\udd37Privacy (7)","brand":"\ud83d\udea5Brand (7)","ml":"\ud83e\udde0Ml (7)","cto":"\ud83d\udd37Cto (7)","jenkins":"\ud83c\udfa9Jenkins (7)","openstack":"\ud83d\udd37Openstack (7)","grpc":"\ud83d\udd37Grpc (7)","zendesk":"\ud83c\udfa7Zendesk (7)","nlp":"NLP (7)","mobile development":"\ud83d\udcbcMobile Development (7)","cro":"\ud83d\udd37Cro (7)","agency":"\ud83d\udd37Agency (7)","meteor js":"\u2615\ufe0fMeteor  JS (7)","civictech":"\u2699\ufe0fCivictech (7)","communication":"\ud83d\udd37Communication (7)","nuxt":"\ud83c\udfa8Nuxt (7)","editing":"Editing (7)","data analyst":"\ud83d\udc69\u200d\ud83d\udd2cData Analyst (7)","rxjs":"\u2615\ufe0fRx JS (7)","magento":"\ud83d\udd38Magento (7)","excel":"\ud83d\udcd7Excel (7)","reactnative":"\u269b\ufe0fReactnative (7)","monitoring":"Monitoring (7)","oop":"\ud83e\udde0Oop (7)","demand generation":"Demand Generation (7)","lambda":"Lambda (7)","selenium":"Selenium (7)","technical writing":"\u2699\ufe0fTechnical Writing (7)","pandas":"Pandas (7)","executive":"\ud83d\udcbcExecutive (7)","microsoft":"\ud83d\udd37Microsoft (7)","web scraping":"\ud83e\udd16Web Scraping (7)","email marketing":"\ud83e\udd16Email Marketing (7)","prometheus":"Prometheus (7)","containers":"\ud83e\udd16Containers (7)","virtual reality":"Virtual Reality (6)","woocommerce":"\ud83d\udd37Woocommerce (6)","helpdesk":"\ud83c\udfa7Helpdesk (6)","zf2":"Zf2 (6)","affiliate":"Affiliate (6)","full stack developer":"\ud83e\udd13Full Stack Developer (6)","cicd":"\u267e\ufe0fCicd (6)","gitlab":"\ud83d\udc69\u200d\ud83d\udd2cGitlab (6)","sdr":"Sdr (6)","cryptocurrency":"\ud83c\udfc5Cryptocurrency (6)","account manager":"\ud83d\udcbcAccount Manager (6)","quality":"\ud83d\udd2cQuality (6)","partnerships":"Partnerships (6)","node dev":"\ud83d\udd17Node Developer (6)","email":"\ud83e\udd16Email (6)","jest":"Jest (6)","content creation":"\ud83d\udd37Content Creation (6)","chief":"\ud83d\udd37Chief (6)","business":"\ud83d\udcbcBusiness (6)","snowflake":"Snowflake (6)","test":"\ud83e\uddeaTest (6)","etl":"Etl (6)","software testing":"\ud83e\uddeaSoftware Testing (6)","manual testing":"\ud83e\uddeaManual Testing (6)","media":"\u270d\ufe0fMedia (6)","esports":"Esports (5)","remote jobs":"\ud83c\udfddRemote Jobs (5)","client services":"\ud83d\udd37Client Services (5)","community manager":"\ud83d\udcbcCommunity Manager (5)","facebook ads":"\ud83d\udd37Facebook Ads (5)","culture":"\ud83d\udd37Culture (5)","customer":"\ud83c\udfa7Customer (5)","s3":"\ud83c\udfa8S3 (5)","ux research":"\ud83d\udc69\u200d\ud83d\udd2cUX Research (5)","k8s":"\ud83e\udd91Kubernetes (5)","mariadb":"Mariadb (5)","english teaching":"\ud83c\uddec\ud83c\udde7English Teaching (5)","haskell":"#\ufe0f\u20e3Haskell (5)","german":"\ud83c\udde9\ud83c\uddeaGerman (5)","reverse engineering":"\ud83e\udd13Reverse Engineering (5)","nestjs":"\u2615\ufe0fNest JS (5)","app":"\ud83c\udf4eApp (5)","sdk":"Sdk (5)","marketing manager":"\ud83d\udea5Marketing Manager (5)","data scientist":"\ud83d\udc69\u200d\ud83d\udd2cData Scientist (5)","platform":"Platform (5)","redshift":"Redshift (5)","elk":"Elk (5)","software design":"\ud83c\udfa8Software Design (5)","social":"\u270d\ufe0fSocial (5)","sales development":"\ud83d\udcbcSales Development (5)","ci":"\u267e\ufe0fCi (5)","aws lambda":"\u2601\ufe0fAWS Lambda (5)","vue js":"\u2615\ufe0fVue  JS (5)","argocd":"\u267e\ufe0fArgocd (5)","electron":"\u269b\ufe0fElectron (5)","digital media":"\ud83d\udce6Digital Media (5)","xamarin":"\u274eXamarin (5)","paas":"\ud83d\udce6PaaS (5)","contract":"\ud83d\udccbContract (5)","full stack engineer":"\ud83e\udd13Full Stack Engineer (5)","data analysis":"\ud83d\udc69\u200d\ud83d\udd2cData Analysis (5)","strategy":"Strategy (5)","ppc":"\ud83d\udd37Ppc (5)","cloud native":"\u2601\ufe0fCloud Native (5)","liquid":"\ud83c\udfa8Liquid (5)","inbound sales":"\ud83d\udcbcInbound Sales (5)","remote work":"\ud83c\udfddRemote Work (5)","startups":"\ud83d\ude80Startups (5)","branding":"\ud83d\udea5Branding (5)","smart contract":"\ud83d\udccbSmart Contract (5)","cybersecurity":"\ud83d\udd11Cybersecurity (5)","ux ui":"\ud83c\udfa8UX UI (5)","front end development":"\ud83c\udfa8Front End Development (5)","pytest":"\ud83e\uddeaPytest (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -277,7 +277,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($105k/mo)
+🤲&nbsp; Open Startup ($113k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.66%)
@@ -346,7 +346,7 @@ Post a job </div> on the 🏆 #1 Remote Jobs board.
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#f685979a9385b684939b998293999dd895999bc98583949c939582cbb792809384829f8593dd9998dda4939b998293ddb9bdd09499928fcba29e9f85dd939b979f9add92999385dd989982dd8199849dd8d3c6b7d3c6cfa69a93978593dd838593dd829e93dd939b979f9add97929284938585dd9792a985979a9385dd979892dd829e9398ddd3c2c6dd979892dd829e9398dd829e9f85dd859f8293d3c4c185dd92999b979f98dd9f988582939792d3c4b5dd8299dd9780999f92dd8586979b9b938485dd909a9999929f9891dd829e9f85dd939b979f9ad8dda193d3c4c18493dd99989a8fdd9795959386829f9891dd85869998859984859e9f86d3c4b09792dd9293979a85dd9084999bddd3c4c2c5c69dd3c4b09b99dd9782dd829e9f85dd9b999b939882dd979892dd829e938493d3c4c185dd97dd81979f829f9891dd9a9f8582d8dda193dd9299ddb8b9a2dd9299ddb5a6b7d3c4b09790909f9a9f978293d3c4b085979a93db9497859392dd9293979a85d3c4b5dd99989a8fdd909a9782dd909393dd9a839b86dd85839bdd9e978492dd9597859edd85869998859984859e9f8685d3c4b0979285d3c4b5dd869a93978593dd85978093dd9499829edd9990dd8385dd829f9b93dd979892dd929998d3c4c182dd939b979f9add8385dd9794998382dd829e9782d8dda29e97989d85d3c4c7">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#b4c7d5d8d1c7f4c6d1d9dbc0d1dbdf9ad7dbd98bc7c1d6ded1d7c089f5d0c2d1c6c0ddc7d19fdbda9fe6d1d9dbc0d19ffbff92d6dbd0cd89e0dcddc79fd1d9d5ddd89fd0dbd1c79fdadbc09fc3dbc6df9a9184f591848de4d8d1d5c7d19fc1c7d19fc0dcd19fd1d9d5ddd89fd5d0d0c6d1c7c79fd5d0ebc7d5d8d1c79fd5dad09fc0dcd1da9f9180849fd5dad09fc0dcd1da9fc0dcddc79fc7ddc0d1918683c79fd0dbd9d5ddda9fdddac7c0d1d5d09186f79fc0db9fd5c2dbddd09fc7c4d5d9d9d1c6c79fd2d8dbdbd0dddad39fc0dcddc79fd1d9d5ddd89a9fe3d1918683c6d19fdbdad8cd9fd5d7d7d1c4c0dddad39fc7c4dbdac7dbc6c7dcddc49186f2d5d09fd0d1d5d8c79fd2c6dbd99f9186808784df9186f2d9db9fd5c09fc0dcddc79fd9dbd9d1dac09fd5dad09fc0dcd1c6d1918683c79fd59fc3d5ddc0dddad39fd8ddc7c09a9fe3d19fd0db9ffafbe09fd0db9ff7e4f59186f2d5d2d2ddd8ddd5c0d19186f2c7d5d8d199d6d5c7d1d09fd0d1d5d8c79186f79fdbdad8cd9fd2d8d5c09fd2d1d19fd8c1d9c49fc7c1d99fdcd5c6d09fd7d5c7dc9fc7c4dbdac7dbc6c7dcddc4c79186f2d5d0c79186f79fc4d8d1d5c7d19fc7d5c2d19fd6dbc0dc9fdbd29fc1c79fc0ddd9d19fd5dad09fd0dbda918683c09fd1d9d5ddd89fc1c79fd5d6dbc1c09fc0dcd5c09a9fe0dcd5dadfc7918685">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -446,7 +446,7 @@ Post a job </div> on the 🏆 #1 Remote Jobs board.
 												"currency": "USD",
 												"value": {
 													"@type": "QuantitativeValue",
-																											"minValue":"70000",
+																											"minValue":70000,
 														"maxValue":"120000",
 																										"unitText": "YEAR"
 												}
@@ -494,7 +494,7 @@ engineer </h3>
 <td class="time" style="">
 <a target="_blank" href="/remote-jobs/108200-remote-senior-software-engineer-coins-ph">
 <time datetime="2022-01-14T13:15:03+00:00">
-3d </time>
+4d </time>
 </a>
 </td>
 <td class="source" style="">
@@ -622,7 +622,7 @@ Apply for this job
 <h2 style="text-align:center;">
 Recommended remote workers for this job
 </h2>
-<a href="/@23eff076b16e84cb60214ac40220683c" class="matching_user_card">
+<a href="/@priucodes" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/23eff076b16e84cb60214ac40220683c.jpg?1614213265"><br />
 <div class="bio">
 Software Engineer specializing in building high-quality websites and applications. Looking for a gre... </div>
@@ -633,11 +633,11 @@ golang </div>
 js </div>
 <div class="tag">
 node </div>
- </div>
+</div>
 <div class="button green">
 Hire remote worker
 </div>
-</a><a href="/@5aa8339a95725c2f7b88fd2e00bc556e" class="matching_user_card">
+</a><a href="/@upheaver" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/5aa8339a95725c2f7b88fd2e00bc556e.jpg?1614213268"><br />
 <div class="bio">
 15 years of experience / node.js / react / microservices / blockchain / fintech. I help achieve scal... </div>
@@ -652,7 +652,7 @@ react </div>
 <div class="button green">
 Hire remote worker
 </div>
-</a><a href="/@9201883a6154fa5fd496fee19a24aacc" class="matching_user_card">
+</a><a href="/@2ln4va2n" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/9201883a6154fa5fd496fee19a24aacc.jpg?1614213271"><br />
 <div class="bio">
 SAP Cloud Platform </div>
@@ -667,7 +667,7 @@ linux </div>
 <div class="button green">
 Hire remote worker
 </div>
-</a><a href="/@nl_c948293035833cef807bd7cfab581f25" class="matching_user_card">
+</a><a href="/@sbaildon" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/nl_c948293035833cef807bd7cfab581f25.jpg?1614213277"><br />
 <div class="bio">
 Practiced engineer with strong devops and infra domain expertise. Advocate for declarative and repro... </div>
@@ -835,11 +835,11 @@ Remote Sys Admin Jobs
 ☁️<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
 </a> </div><div class="tag">
-🤖<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
 ➕<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
+</a> </div><div class="tag">
+🤖<a href="/remote-android-jobs">
+Remote Android Jobs
 </a> </div><div class="tag">
 ⚛️<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -859,11 +859,11 @@ Remote Quality Assurance Jobs
 🐳<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-✍️<a href="/remote-wordpress-jobs">
-Remote Wordpress Jobs
-</a> </div><div class="tag">
 🛍<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
+</a> </div><div class="tag">
+✍️<a href="/remote-wordpress-jobs">
+Remote Wordpress Jobs
 </a> </div><div class="tag">
 🔑<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
@@ -880,11 +880,11 @@ Remote Mongo Jobs
 🐬<a href="/remote-postgres-jobs">
 Remote Postgres Jobs
 </a> </div><div class="tag">
-🤓<a href="/remote-developer-jobs">
-Remote Developer Jobs
-</a> </div><div class="tag">
 🐧<a href="/remote-linux-jobs">
 Remote Linux Jobs
+</a> </div><div class="tag">
+🤓<a href="/remote-developer-jobs">
+Remote Developer Jobs
 </a> </div><div class="tag">
 🦑<a href="/remote-kubernetes-jobs">
 Remote Kubernetes Jobs
@@ -1039,24 +1039,28 @@ Hire Frontend Developers Remotely
 Hire Sass Developers Remotely
 </a>
 </div><div class="tag">
-🎨 <a href="/hire/graphic-design">
-Hire Graphic Design Freelancers Remotely
-</a>
-</div><div class="tag">
 ✍️ <a href="/hire/social-media">
 Hire Social Media Freelancers Remotely
 </a>
 </div><div class="tag">
-🦑 <a href="/hire/kubernetes">
-Hire Kubernetes Developers Remotely
+🎨 <a href="/hire/graphic-design">
+Hire Graphic Design Freelancers Remotely
 </a>
 </div><div class="tag">
 🎨 <a href="/hire/photoshop">
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
+🦑 <a href="/hire/kubernetes">
+Hire Kubernetes Developers Remotely
+</a>
+</div><div class="tag">
 ♾️ <a href="/hire/devops">
 Hire DevOps Freelancers Remotely
+</a>
+</div><div class="tag">
+🎧 <a href="/hire/customer-service">
+Hire Customer Service Freelancers Remotely
 </a>
 </div><div class="tag">
 ⚛️ <a href="/hire/redux">
@@ -1064,31 +1068,27 @@ Hire Redux Developers Remotely
 </a>
 </div><div class="tag">
 🎨 <a href="/hire/figma">
- Hire Figma Developers Remotely
-</a>
-</div><div class="tag">
-🎧 <a href="/hire/customer-service">
-Hire Customer Service Freelancers Remotely
+Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
 🚥 <a href="/hire/digital-marketing">
 Hire Digital Marketing Freelancers Remotely
 </a>
 </div><div class="tag">
-🐇 <a href="/hire/swift">
-Hire Swift Developers Remotely
-</a>
-</div><div class="tag">
 🐇 <a href="/hire/agile">
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-💼 <a href="/hire/product-management">
-Hire Product Management Developers Remotely
+🐇 <a href="/hire/swift">
+Hire Swift Developers Remotely
 </a>
 </div><div class="tag">
 🍑 <a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+💼 <a href="/hire/product-management">
+Hire Product Management Developers Remotely
 </a>
 </div><div class="tag">
 🍎 <a href="/hire/ios">
@@ -1383,6 +1383,6 @@ Thanks for the message! We will get back to you soon.
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-128ms
+133ms
 </div>
 <div class="END-OF-FILE"></div>
