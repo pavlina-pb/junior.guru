@@ -154,12 +154,7 @@ jQuery(document).on("scroll", function(event){
 }
 
 html body.blog #LeadboosterContainer,
-html body.page-id-6102 #LeadboosterContainer,
-html body.page-id-6023 #LeadboosterContainer,
-html body.page-id-5888 #LeadboosterContainer,
-html body.page-id-6132 #LeadboosterContainer,
-html body.page-id-20066 #LeadboosterContainer,
-html body.page-id-20488 #LeadboosterContainer {
+html body.vl_hide_leadbooster #LeadboosterContainer {
 	display: none !important;
 }
 
@@ -2072,7 +2067,7 @@ var wpcf7_recaptcha = {"sitekey":"6LeuGi0dAAAAAJ5A-OVJegvlkpu5TqNqwh0u_boE","act
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.4' id='elementor-frontend-modules-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.3.0' id='elementor-sticky-js'></script>
 <script type='text/javascript' id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"d3d56ed4ea","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/vacuumlabs.com\/wp-admin\/admin-ajax.php","nonce":"a6c0f5937d","urls":{"assets":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/vacuumlabs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.0' id='elementor-pro-frontend-js'></script>
 <script type='text/javascript' src='https://vacuumlabs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
@@ -2110,5 +2105,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Page Caching using disk: enhanced 
 Lazy Loading
 
-Served from: vacuumlabs.com @ 2022-01-18 05:47:02 by W3 Total Cache
+Served from: vacuumlabs.com @ 2022-01-19 05:48:20 by W3 Total Cache
 -->
