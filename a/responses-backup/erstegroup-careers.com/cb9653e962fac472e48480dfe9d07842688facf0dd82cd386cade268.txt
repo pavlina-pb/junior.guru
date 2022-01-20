@@ -696,7 +696,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "7bd4a18e-cf6a-4e67-995d-66a93aed4f28"
+						"X-CSRF-Token" : "cfd34027-48e6-4cd1-a3ae-ff6d307bb65b"
 					}
 				});
 			//]]>
@@ -746,7 +746,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "7bd4a18e-cf6a-4e67-995d-66a93aed4f28"
+						"X-CSRF-Token" : "cfd34027-48e6-4cd1-a3ae-ff6d307bb65b"
 					}
 				});
 			//]]>
@@ -763,26 +763,6 @@
                 });
                 //]]>
             </script>
-		<script type="text/javascript">
-		//<![CDATA[
-			$(function() 
-			{
-				var ctid = '1352d630-5c7e-4f72-a51e-4664d96cb33e';
-				var referrer = 'https\x3A\x2F\x2Fwww.linkedin.com\x2Fjobs\x2Dguest\x2Fjobs\x2Fapi\x2FjobPosting\x2F2860290983';
-				var landing = document.location.href;
-				var brand = 'csas';
-				$.ajax({ url: '/services/t/l'
-						,data: 'referrer='+ encodeURIComponent(referrer)
-								+ '&ctid=' + ctid 
-								+ '&landing=' + encodeURIComponent(landing)
-								+ '&brand=' + brand
-						,dataType: 'json'
-						,cache: false
-						,success: function(){}
-				});
-			});
-		//]]>
-		</script>
         <script type="text/javascript">
             //<![CDATA[
             $(function() {
@@ -805,7 +785,7 @@
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1516706138"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1245206847"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
