@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1faff5" />
+	<title>Kariéra – Programátor / kodér – Wordpress | Aira GROUP s.r.o.</title>
+	<meta name="description" content="Spolupracujte s profesionály ze společnosti Aira Group s.r.o.! Do našeho týmu hledáme PHP programátora! Náplň práce: programování dynamických prvků www prezentací a aplikací." />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="shortcut icon" href="/img/favicon.png" type="image/gif" />
+    <link rel="canonical" href="https://www.aira.cz/programator-php-wordpress/" />
+
+	
+	<link rel="stylesheet" href="/css/jquery.bxslider.min.css" />
+	<link rel="stylesheet" href="/css/jquery.fancybox.min.css" />
+	<link rel="stylesheet" href="/css/jquery.meanmenu.css" />
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/fontawesome.min.css">
+  <link rel="stylesheet" href="/css/carousel.css" />
+  <link rel="stylesheet" href="/css/style.css?v=1642762440" />
+
+
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-232839-1', 'auto');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+  </script>
+
+  <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1998220500466891');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1998220500466891&ev=PageView&noscript=1"
+    /></noscript>
+  <!-- End Facebook Pixel Code -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6DTHQX');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6DTHQX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+	<header id="header" class="fixed">
+		<div class="inner">
+            <div class="top-nav">
+                <ul id="langs">
+                    <li class="active"><a href="/" class="bold">CZ <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                    <ul>
+                        <li><a href="/en/">EN</a></li>
+                        <li><a href="/de/">DE</a></li>
+                    </ul>
+                    </li>
+                </ul>
+                <div class="contact">
+                    <a href="/pomoc/" class="helpdesk"><i class="fa fa-life-ring" aria-hidden="true"></i> Helpdesk</a>
+                    <a href="mailto:info@aira.cz"><i class="fa fa-envelope-o" aria-hidden="true"></i> info@aira.cz</a>
+                    <a href="tel:00420283850031"><i class="fa fa-phone" aria-hidden="true"></i> +420 283 850 031</a>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+			<a id="logo" href="/"><img src="/gfx/logo.png" alt="Aira GROUP" /></a>
+			<div id="menu-mobile"></div>
+			<nav>
+    <ul>
+	    <li><a href="/">Domů</a></li>
+		<li><a href="/nabidka-sluzeb/">Služby</a>
+			<ul class="sub-sluzby">
+				<li><a href="/outsourcing-it/" id="outsourcingit">Outsourcing IT</a></li>
+				<li><a href="/tvorba-webu/"  id="tvorbawebu">Tvorba webu</a></li>
+				<li><a href="/online-marketing/"  id="onlinemarketing">Online marketing</a></li>
+				<li><a href="/vyvoj-aplikaci/"  id="vyvojaplikaci">Vývoj aplikací</a></li>
+			</ul>
+		</li>
+		<li><a href="/reference/">Reference</a>
+		<ul class="sub-sluzby">
+			<li><a href="/reference/outsourcing/" id="reference-outsourcing">Outsourcing IT</a></li>
+			<li><a href="/reference/vyvojaplikaci/"  id="reference-vyvojaplikaci">Vývoj aplikací</a></li>
+			<li><a href="/reference/tvorbawebu/"  id="reference-tvorbawebu">Tvorba webu</a></li>
+			<li><a href="/reference/onlinemarketing/"  id="reference-onlinemarketing">Online marketing</a></li>
+			<li><a href="/galerie-grafiky/"  id="galerie-graf">Galerie grafiky</a></li>
+		</ul>
+		</li>
+        <li><a href="/o-spolecnosti/">O společnosti</a></li>
+		<li><a href="/kariera/">Kariéra</a></li>
+        <li><a href="https://blog.aira.cz">Blog</a></li>
+	    <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="#" class="search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+    </ul>
+</nav>
+
+<!-- Search Form -->
+<div id="search"> 
+	<span class="close">X</span>
+	<form role="search" id="searchform" action="/vyhledavani/" method="get">
+		<input value="" name="q" type="search" placeholder="napište hledaný výraz"/>
+	</form>
+</div>		</div>
+		<div class="clearfix"></div>
+	</header>
+
+	<main>
+    		
+
+
+
+<section class="special">
+	<div class="inner">
+		<div id="breadcrumb">
+			<i>&raquo;</i>
+			<a href="/kariera/">kariéra</a> <i>&raquo;</i>
+			<span>Programátor / kodér – Wordpress</span>
+		</div>
+
+		<div class="single-page kariera-detail">
+<h1>Programátor / kodér – Wordpress</h1>
+<p>Do našeho IT týmu přijmeme <strong>PHP programátora/kodéra se znalostí redakčního systému Wordpress</strong>. Požadujeme minimálně uživatelskou znalost RS Wordpress, znalost PHP a SQL. Náplní Vaší práce bude programování dynamických prvků www prezentací a aplikací a jejich správa. Tuto práci je možné <strong>částečně vykonávat z domova</strong> a nastavit <strong>individuální pracovní dobu</strong>. Pozice je vhodná i pro studenty.</p>
+
+<h2 class="pozadujeme">Požadujeme</h2>
+<ul>
+	<li>znalost RS Wordpress</li>
+	<li>znalost PHP, jazyka SQL</li>
+	<li>znalost XHTML, CSS, JavaScript</li>
+	<li>přehledný a dokumentovaný kód</li>
+	<li>samostatnost, zodpovědnost, aktivitu</li>
+	<li>ochotu učit se</li>
+</ul>
+
+<h2 class="body-navic">Výhodou</h2>
+<ul>
+	<li>znalost některého PHP frameworku (Symfony, Laravel)</li>
+	<li>znalost šablonových systémů (SMARTY, TWIG, apod.)</li>
+	<li>znalost dalších redakčních systémů (například Drupal, Joomla)</li>
+</ul>
+
+<h2 class="nabizime">Nabízíme</h2>
+<ul>
+	<li>odpovídající finanční ohodnocení</li>
+	<li>možnost pracovat na zkrácený úvazek</li>
+	<li>dlouhodobou spolupráci</li>
+	<li>individuální pracovní dobu například pro studenty</li>
+	<li>zajímavou práci v mladém kolektivu</li>
+	<li>možnost kariérního rozvoje</li>
+	<li>tvůrčí práci na projektech pro významné klienty</li>
+	<li>možnost částečně vykonávat práci z domova</li>
+</ul>
+
+<div class="napiste-nam">
+    <h2>Zaujala vás tato pozice? Ozvěte se nám.</h2>
+    <p>Vaše odpovědi spolu s motivačním dopisem a CV zasílejte na <a href="mailto:kariera@aira.cz?subject=Programátor / kodér - Wordpress">kariera@aira.cz</a><br /> <strong>(do předmětu zprávy uveďte „Programátor / kodér - Wordpress“).</strong> </p>
+</div>             
+<br />
+<p class="souhlas">Zasláním Vašeho životopisu společnosti Aira GROUP s.r.o. dáváte souhlas ke zpracování Vašich osobních údajů a jejich uchování v personální databázi v souladu se zákonem č. 101/2000 Sb., o ochraně osobních údajů, výhradně pro účely výběrového řízení a to na dobu odvolání Vašeho souhlasu.</p>
+
+<p>Zpět na výpis <a href="/kariera/">pracovních pozic</a></p>
+		</div>
+	</div>
+</section>
+	</main>
+  
+<!-- Kód Google značky pro remarketing -->
+<!--
+Značka pro remarketing nesmí být spojena s údaji umožňujícími identifikaci osob nebo umístěna na stránkách týkajících se citlivých kategorií. Další informace a postup nastavení značky naleznete na stránce: https://google.com/ads/remarketingsetup
+-->
+<script>
+/* <![CDATA[ */
+var google_conversion_id = 1068696361;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1068696361/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script>
+/* <![CDATA[ */
+var seznam_retargeting_id = 13535;
+/* ]]> */
+</script>
+<script src="//c.imedia.cz/js/retargeting.js"></script>
+
+<footer>
+	<div class="inner">
+		<div class="social">
+				<a class="facebook" href="https://www.facebook.com/AiraGroup" title="Sledujte náš Facebook"></a>
+				<!-- <a class="google" href="https://plus.google.com/+AiraGROUPsroPraha/about" title="Sledujte náš Google+">G+</a>-->
+				<a class="twitter" href="https://twitter.com/Aira_GROUP" title="Sledujte náš Twitter"></a>
+		</div>
+		<img src="/gfx/footer.png" alt="Sexy Seo" class="footer-image">
+		<div class="footer-inner">
+		<div class="text links">
+            
+            
+    
+            
+            
+             
+            
+               
+            
+			<ul>
+				<li><a href="/reference/">Proč my?</a></li>
+				<li><a href="/nabidka-sluzeb/">Časté dotazy</a></li>
+				<li><a href="https://blog.aira.cz/">Aira Blog</a></li>
+				<li><a href="/pomoc/">Helpdesk</a></li>
+			</ul>
+			<ul>
+				<li><a href="/outsourcing-it/">Outsourcing IT</a></li>
+				<li><a href="/vyvoj-aplikaci/">Vývoj aplikací</a></li>
+				<li><a href="/tvorba-webu/">Tvorba webu</a></li>
+				<li><a href="/online-marketing/">Online marketing</a></li>
+			</ul>         
+		</div>
+		<div class="right">
+			<div class="text contact">
+				<div class="bluebox"><a href="tel:+420283850031">+420 283 850 031</a></div>
+				<div class="bluebox"><a href="mailto:info@aira.cz">info@aira.cz</a></div>
+				<p>
+					IČ: 25682598<br />
+					DIČ: CZ 25682598
+				</p>
+			</div>
+			<div class="text adress">
+				<p>
+					<a href="/"><img src="/gfx/logo-footer.png" alt="Aira GROUP" /></a>
+					Aira GROUP, s.r.o.<br />
+					Vratislavova 57/1<br />
+					128 00 Praha 2
+				</p>
+			</div>
+		</div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="copyright">2020 © Copyright Aira Group l <a href="/zasady/">Zásady ochrany osobních údajů</a> l <a id="AiraGdprCookiesOpenDialogLink" href="javascript: void(0);">Nastavení cookies</a></div>
+	</div>
+</footer>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://hrabos-gdpr.aira.cz/85ba069f-8fec-4923-a072-bbc2fb06b3dc/init.js" type="text/javascript"></script>
+	<script src="/js/jquery.bxslider.min.js"></script>
+	<script src="/js/jquery.fancybox.min.js"></script>
+	<script src="/js/jquery.meanmenu.min.js"></script>
+	<script src="/js/script.js?v=5"></script>
+
+	<script src="/js/js.js"></script>
+  
+
+  <!-- Zopim -->
+  <script>
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$zopim(function() {$zopim.livechat.bubble.setTitle('Potřebujete poradit?'); $zopim.livechat.bubble.setText('klikněte a napište nám');});
+$.src="//v2.zopim.com/?orsc4lugKT9igWr0W831phcqtENgYkPI";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+  
+</body>
+</html>

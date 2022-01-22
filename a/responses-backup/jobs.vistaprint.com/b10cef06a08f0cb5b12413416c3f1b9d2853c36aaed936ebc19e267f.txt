@@ -800,7 +800,7 @@
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "c11ec8bf-208b-4cb9-ac49-a74e99faad22"
+						"X-CSRF-Token" : "bfac0df1-9845-4cde-8186-11007b69428d"
 					}
 				});
 			//]]>
