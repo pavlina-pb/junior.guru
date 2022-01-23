@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8"></meta>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0, minimum-scale=1"></meta>
+        
+                    <meta name="google-site-verification" content="2N-KZmBPgIyCV1I9HBNUbrroqEve-L21m53HgWPHTKw"/>
+        
+            <meta property="og:title" content="Embedded SW Tester - Internship"/>
+        <meta property="og:description" content="For our development center in Brno, we are looking for a current student from VUT Brno, Faculty of Electrical Engineering and Communication for a long-term part-time job, who will participate in the development of embedded software for appliances controlling the combustion of gas. You will have the opportunity to work with international development teams and to use modern equipped laboratory and test cells."/>
+                    <meta property="og:image" content="https://i.ibb.co/zPtVS4Y/Resideo-Logo-Blk150x40.png"/>
+                <meta property="og:type" content="website"/>
+        <meta property="og:site_name" content="Resideo"/>
+        <title>Resideo</title>
+        
+        <link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		
+                    <base href="/hcmUI/CandidateExperience/en/sites/CX"/>
+                
+        <link rel="icon" sizes="16x16" type="image/png" title="favicon" href="/hcmUI/CandExpStatic/siteFavicon/favicon-16x16.png?siteNumber=CX&size=16x16"></link>
+        <link rel="icon" sizes="144x144" type="image/png" title="favicon" href="/hcmUI/CandExpStatic/siteFavicon/favicon-144x144.png?siteNumber=CX&size=144x144"></link>
+        <link rel="icon" sizes="152x152" type="image/png" title="favicon" href="/hcmUI/CandExpStatic/siteFavicon/favicon-152x152.png?siteNumber=CX&size=152x152"></link>
+
+        <link rel="apple-touch-icon" sizes="152x152" type="image/png" title="favicon" href="/hcmUI/CandExpStatic/siteFavicon/favicon-152x152.png?siteNumber=CX&size=152x152"></link>
+
+        
+        <link rel="stylesheet" href="https://static.oracle.com/cdn/jet/10.0.0/default/css/alta/oj-alta-notag-min.css">
+        <link rel="stylesheet" href="/hcmUI/CandExpStatic/21.10.55/css/main-minimal.css">
+        <link rel="stylesheet" title="cx-custom" data-custom-css href="/hcmUI/CandExpStatic/css/ce-custom.css?themeNumber=default_minimal_theme_CX&lang=en&themeVersion=3&brandVersion=1&brandTlVersion=1&siteNumber=CX"></link>
+
+        <script data-cx-config>
+           var CX_CONFIG = {
+                app: {
+                    apiBaseUrl: 'https://ehtl.fa.us6.oraclecloud.com:443',
+                    uiBaseUrl: 'https://ehtl.fa.us6.oraclecloud.com:443/hcmUI',
+                                                                                faHostUrl: '',
+                    siteName: 'Resideo',
+                    siteCode: 'CX',
+                    siteNumber: 'CX',
+                    siteLang: 'en',
+                    languages: [
+    {
+        "code": "cs",
+        "fusionCode": "CS",
+        "direction": "ltr",
+        "label": "\u010ce\u0161tina"
+    },
+    {
+        "code": "de",
+        "fusionCode": "D",
+        "direction": "ltr",
+        "label": "Deutsch"
+    },
+    {
+        "code": "en",
+        "fusionCode": "US",
+        "direction": "ltr",
+        "label": "American English"
+    },
+    {
+        "code": "es",
+        "fusionCode": "E",
+        "direction": "ltr",
+        "label": "Espa\u00f1ol"
+    },
+    {
+        "code": "fr",
+        "fusionCode": "F",
+        "direction": "ltr",
+        "label": "Fran\u00e7ais"
+    },
+    {
+        "code": "nl",
+        "fusionCode": "NL",
+        "direction": "ltr",
+        "label": "Nederlands"
+    },
+    {
+        "code": "zh-CN",
+        "fusionCode": "ZHS",
+        "direction": "ltr",
+        "label": "\u7b80\u4f53\u4e2d\u6587"
+    }
+],
+                    headerMode: 1,
+                    footerMode: 2,
+                    template: {
+    "templateNumber": "minimal",
+    "splashPageNumber": "10040",
+    "splashPageCode": "3001",
+    "welcomeText": "JOIN OUR TEAM",
+    "mainCallForAction": null
+},
+                    talentCommunitySignUp: {
+    "title": "Can't find what you're looking for?",
+    "buttonLabel": "Join Our Talent Community",
+    "showAtSearchResults": true,
+    "showWhenNoSearchResultsFound": true,
+    "description": "Join our talent community and get notified of new job opportunities."
+},
+                    tcOptInEnabled: true,
+                    gjsEnabled: true,
+                    chatbot:{
+    "channelId": "",
+    "width": "440px",
+    "sendIcon": "",
+    "botButtonIconSubText": "#{adfBundle['oracle.apps.hcm.people.resource.HcmPeopleTopGenBundle']['OText.Iconthatopensthechatwindow.Instructiontextthatdescribesth']}",
+    "font": "16px \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "locale": "en-US",
+    "chatBubbleIconSubText": "#{adfBundle['oracle.apps.hcm.people.resource.HcmPeopleTopGenBundle']['OText.Imagetodisplaywhenuseriswaitingforbotsre.Instructiontextthatdescribesan']}",
+    "botIcon": "",
+    "typingIndicatorTimeout": "45",
+    "URI": "idcs-oda-f0caf4c031024b268598efbb0614b517-da2.data.digitalassistant.oci.oraclecloud.com",
+    "botButtonIcon": "",
+    "chatBubbleIconHeight": "18px",
+    "personIconSubText": "#{adfBundle['oracle.apps.hcm.people.resource.HcmPeopleTopGenBundle']['OText.Imageshownnexttotheuserswrittenresponses.Instructiontextthatdescribesth']}",
+    "autoplayVideo": false,
+    "errorIcon": "",
+    "theme": "",
+    "chatBubbleIcon": "",
+    "personIcon": "",
+    "enableSpeech": false,
+    "colors": {
+        "botText": null,
+        "branding": "#1B8FD2",
+        "textLight": "#737373",
+        "notificationBadgeBackground": null,
+        "footerBackground": null,
+        "userMessageBackground": null,
+        "userText": "#212121",
+        "botMessageBackground": null,
+        "conversationBackground": null,
+        "text": null,
+        "headerBackground": null,
+        "notificationBadgeText": null,
+        "cardBackground": null
+    },
+    "audioResponseOnIcon": "",
+    "enableBotAudioResponse": true,
+    "initBotAudioMuted": true,
+    "closeIcon": "",
+    "sendIconSubText": "",
+    "attachmentIcon": "",
+    "logoIcon": "",
+    "errorIconSubText": "",
+    "enableAutocompleteClientCache": true,
+    "position": "{bottom: '20px', right: '20px'}",
+    "displayActionsAsPills": true,
+    "clearMessageIcon": "",
+    "showTypingIndicator": true,
+    "chatBubbleIconWidth": "24px",
+    "height": "620px",
+    "openChatOnLoad": false,
+    "disablePastActions": "all",
+    "enableLocalConversationHistory": true,
+    "enableAttachment": false,
+    "conversationBeginPosition": "top",
+    "i18n": {
+        "en": {
+            "send": "Odeslat",
+            "close": "Zav\u0159\u00edt",
+            "audioResponseOff": "Zvukov\u00e1 odpov\u011b\u010f je vypnut\u00e1",
+            "chatSubtitle": null,
+            "audioResponseOn": "Zvukov\u00e1 odpov\u011b\u010f je zapnut\u00e1",
+            "chatTitle": "Nadpis konverzace",
+            "inputPlaceholder": "Z\u00e1stupn\u00fd symbol textu",
+            "clear": "Vymazat"
+        }
+    },
+    "enableSpeechAutoSend": false,
+    "enableAutocomplete": true,
+    "openLinksInNewWindow": true,
+    "audioResponseOffIcon": "",
+    "initUserHiddenMessage": "Hi",
+    "micIcon": "",
+    "logoIconSubText": "#{adfBundle['oracle.apps.hcm.people.resource.HcmPeopleTopGenBundle']['OText.Logoimagedisplayedintheheaderofthechatwi.Instructiontextthatdescribesth']}",
+    "autoplayAudio": false,
+    "enableTimestamp": false,
+    "enableClearMessage": false,
+    "botIconSubText": "#{adfBundle['oracle.apps.hcm.people.resource.HcmPeopleTopGenBundle']['OText.Imageshownnexttothebotwrittenresponses.Instructiontextthatdescribesth']}",
+    "messagePadding": "15px"
+},
+                    cookieConsent : {
+    "popUpMessage": "Hello, We use cookies to create the most secure and effective website possible. By clicking Accept, you consent to the use of cookies.",
+    "declineButtonLabel": "Decline",
+    "declineButtonEnabled": true,
+    "acceptButtonLabel": "Accept",
+    "cookieMessageEnabled": true,
+    "policyMessage": "See full details in our Privacy Policy."
+},
+                    settings : [
+    {
+        "settingValue": "full",
+        "settingKey": "WORK_LOCATIONS_DISPLAY"
+    },
+    {
+        "settingValue": "https://www.google-analytics.com/collect?v=1&t=event&tid=UA-138627547-11&cid=%7B%7Bcandid%7D%7D&ec=job_req_step&ea=start_application&el=%7B%7Bcandid%7D%7D_%7B%7Breqid%7D%7D&dl=https%3A%2F%2Fehtl.fa.us6.oraclecloud.com%2Fstart_application&reqid={reqId}&candid={candId}",
+        "settingKey": "PIXEL_TRACKING_URL_APPLY_ENTRY"
+    },
+    {
+        "settingValue": "true",
+        "settingKey": "PARALLAX_ENABLED"
+    },
+    {
+        "settingValue": "https://www.google-analytics.com/collect?v=1&t=event&tid=UA-138627547-11&cid=%7B%7Bcandid%7D%7D&ec=job_req_step&ea=submit_application&el=%7B%7Bcandid%7D%7D_%7B%7Breqid%7D%7D&dl=https%3A%2F%2Fehtl.fa.us6.oraclecloud.com%2Fapplication_submitted&reqid={reqId}&candid={candId}",
+        "settingKey": "PIXEL_TRACKING_URL_SUBMIT"
+    },
+    {
+        "settingValue": "https://www.google-analytics.com/collect?v=1&t=event&tid=UA-138627547-11&cid=candidateId&ec=job_req_step&ea=apply&el=requisitionId&dl=https%3A%2F%2Fehtl.fa.us6.oraclecloud.com%2Fapply&reqid={reqId}&candid={candId}",
+        "settingKey": "PIXEL_TRACKING_URL_APPLY"
+    }
+],
+                    links : {
+    "footer": [
+        {
+            "visibleOnMobile": true,
+            "sublinks": [
+                
+            ],
+            "text": "Follow us on Twitter",
+            "url": "https://twitter.com/Resideo",
+            "name": "Follow us on Twitter"
+        },
+        {
+            "visibleOnMobile": true,
+            "sublinks": [
+                
+            ],
+            "text": "Follow us on Facebook",
+            "url": "https://www.facebook.com/Resideo/",
+            "name": "Follow us on Facebook"
+        },
+        {
+            "visibleOnMobile": true,
+            "sublinks": [
+                
+            ],
+            "text": "Terms and Conditions",
+            "url": "https://corporate.resideo.com/terms",
+            "name": "Terms and Conditions"
+        },
+        {
+            "visibleOnMobile": true,
+            "sublinks": [
+                
+            ],
+            "text": "Privacy Notice",
+            "url": "https://www.resideo.com/us/en/corporate/~/media/Files/Corporate/Resideo%20%20-%20Recruitment%20Privacy%20Notice",
+            "name": "Privacy Notice"
+        }
+    ],
+    "header": [
+        {
+            "visibleOnMobile": true,
+            "sublinks": [
+                {
+                    "visibleOnMobile": false,
+                    "sublinks": [
+                        
+                    ],
+                    "text": "Board of Directors",
+                    "url": "https://www.resideo.com/us/en/corporate/board-of-directors/roger-b-fradin",
+                    "name": "Board of Directors"
+                },
+                {
+                    "visibleOnMobile": false,
+                    "sublinks": [
+                        
+                    ],
+                    "text": "Executive Leadership",
+                    "url": "https://www.resideo.com/us/en/corporate/executive-leadership/jay-geldmacher/",
+                    "name": "Executive Leadership"
+                },
+                {
+                    "visibleOnMobile": false,
+                    "sublinks": [
+                        
+                    ],
+                    "text": "Overview",
+                    "url": "https://www.resideo.com/us/en/corporate/about/corporate-overview/",
+                    "name": "Overview"
+                }
+            ],
+            "text": "About",
+            "url": "https://www.resideo.com/us/en/corporate/about/corporate-overview",
+            "name": "About"
+        },
+        {
+            "visibleOnMobile": false,
+            "sublinks": [
+                
+            ],
+            "text": "Businesses",
+            "url": "https://www.resideo.com/us/en/corporate/businesses",
+            "name": "Businesses"
+        },
+        {
+            "visibleOnMobile": false,
+            "sublinks": [
+                
+            ],
+            "text": "News",
+            "url": "https://www.resideo.com/us/en/corporate/newsroom/",
+            "name": "News"
+        },
+        {
+            "visibleOnMobile": false,
+            "sublinks": [
+                
+            ],
+            "text": "Careers",
+            "url": "https://www.resideo.com/us/en/corporate/about/careers",
+            "name": "Careers"
+        }
+    ],
+    "ice": {
+        "sharedJobDetails": "https://ehtl.fa.us6.oraclecloud.com:443/fndSetup/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=%3AjobId%3A;pShareId=:shareId:;pCalledFrom=FUSESHELL",
+        "search": "https://ehtl.fa.us6.oraclecloud.com:443/fndSetup/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP",
+        "jobAlerts": "https://ehtl.fa.us6.oraclecloud.com:443/fndSetup/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_ALERTS_RESP&objKey=;pCalledFrom=FUSESHELL",
+        "referredJobDetails": "https://ehtl.fa.us6.oraclecloud.com:443/fndSetup/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=%3AjobId%3A;pReferralId=:referralId:;pCalledFrom=FUSESHELL",
+        "jobDetails": "https://ehtl.fa.us6.oraclecloud.com:443/fndSetup/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_DETAILS_RESP&objKey=pRequisitionNo=%3AjobId%3A;pCalledFrom=FUSESHELL"
+    }
+},
+                    optinDescriptionStr: "I wish to be included in your job campaigns.",
+                    optinDescriptionVersionId: 300000021951521,
+                    images : {"mobileFrontImageUrl":"https://www.resideo.com/us/en/-/media/Resideo/Landing%20Pages/Careers%20Page/Job%20Search%20Engine%20Images/JobSite_BackgroundPhoto","frontImageUrl":"https://www.resideo.com/us/en/-/media/Resideo/Landing%20Pages/Careers%20Page/Job%20Search%20Engine%20Images/JobSite_BackgroundPhoto","mobileLogoImageUrl":"https://i.ibb.co/zPtVS4Y/Resideo-Logo-Blk150x40.png","logoImageUrl":"https://i.ibb.co/zPtVS4Y/Resideo-Logo-Blk150x40.png"},
+                    shortUrl : {
+    "challengeFlag": null,
+    "url": null
+} ,
+                    overridenLang: '' ,
+                    infinityTag:  'prod' ,
+                    vanityBaseUrl : ''
+                }
+            };
+                            const HASHBANG_REGEX = /\/?#\/(job|requisitions)\//;
+                if (window.location.href.match(HASHBANG_REGEX)) {	
+                        window.location.replace(window.location.href.replace(HASHBANG_REGEX, '/$1/'));
+                }
+                    </script>
+        <script src="https://static.oracle.com/cdn/jet/10.0.0/3rdparty/require/require.js" data-main="/hcmUI/CandExpStatic/js/21.10.55/main-minimal.js" data-base-url="/hcmUI/CandExpStatic/js/21.10.55" defer></script>
+        <script src="/hcmUI/CandExpStatic/js/21.10.55/require-config.js" defer></script>
+                <script id="custom-js" src="/hcmUI/CandExpStatic/js/ce-custom.js?themeNumber=default_minimal_theme_CX&themeVersion=3" defer data-custom-js></script>
+                <style id="custom-css">
+            -html,
+input,
+select,
+textarea {
+	color: #002586;
+	font-size: 13px;
+	font-family: 'Proxima Nova Regular', sans-serif;
+}		
+/* AB REFRESH - Carrie 10-12-17 - Start */
+/* RESPONSIVE GRIDS */
+/*  SECTIONS  ============================================================================= */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+/*  GROUPING  ============================================================================= */
+.group:before,
+.group:after {
+	content:"";
+	display:table;
+}
+.group:after {
+	clear:both;
+}
+.group {
+	zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+/*  GRID COLUMN SETUP   ==================================================================== */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child {
+	margin-left: 0;
+} 
+/* all browsers except IE6 and lower */
+/*  REMOVE MARGINS AS ALL GO FULL WIDTH AT 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {
+		margin: 1% 0 1% 0%;
+	}
+}
+@media only screen and (max-width: 1600px) {
+	.styles2017 .inner-padding {
+		padding: 0 10px;
+	}
+}
+.styles2017 .inner-padding {
+    margin: 0 auto;
+    max-width: 1600px;
+    padding: 0 40px;
+}	
+.styles2017 a {
+    color: #ffffff;
+	border-bottom: 1px #ffffff solid;
+}	
+.styles2017 .text-center {
+	text-align: center;
+}	
+/* FOOTER */
+.styles2017 .new-footer {
+	background-color: #000000;
+}
+.styles2017 .new-footer ul li {
+	display: inline-block;
+}
+.styles2017 .new-footer h2{
+	text-align: center;
+}
+.styles2017 .new-footer h2 i {
+	font-size: 40px;
+	margin-right: 5px;
+	color: #009b3a;
+}
+/* FOOTER - CONNECT BOXES */
+.styles2017 .alt-link-style a:link, a:visited, a:active {
+	text-decoration: none;
+	border-bottom: none;
+}
+
+.styles2017 .new-footer .connect-boxes ul li {
+	margin: 0px 5px;
+}
+.styles2017 .new-footer .connect-boxes p {
+	color: #009b3a;
+	font-size: 1.8em;
+	margin: 0px;
+}
+@media only screen and (max-width: 1100px) {
+	.styles2017 .new-footer .connect-boxes h3, .new-footer .connect-boxes p {
+	float: none;
+	text-align: center;
+	}
+}
+.styles2017 .connect-boxes .ab-symbol-list {
+	font-size: 1.45em;
+}
+/* FOOTER - ABSOLUTE FOOTER */
+.styles2017 .new-absolute-footer {
+	background-color: #000000;
+	color: #ececec;
+}
+.styles2017 .new-absolute-footer a {
+	color: #ececec;
+}
+.styles2017 .new-absolute-footer a:link, .styles2017 .new-absolute-footer a:visited, .styles2017 .new-absolute-footer a:active {
+	text-decoration: none;
+	border-bottom: 1px #ececec solid;
+}
+
+
+.styles2017 .link-list {
+	line-height: 2em;
+}
+.styles2017 .new-footer ul {
+	padding: 0 0 0 0;
+}
+
+.styles2017 .new-footer ul.link-list li {
+	margin: 0px 10px;
+}
+.styles2017 .new-absolute-footer {
+	height: 50px;
+}
+.styles2017 .new-absolute-footer p {
+	line-height: 50px;
+}
+@media only screen and (max-width: 920px) {
+	.styles2017 .new-absolute-footer table td, .styles2017 .new-absolute-footer table td:first-child, .styles2017 .new-absolute-footer table td:nth-child(2), .styles2017 .new-absolute-footer table td:nth-child(3)  {
+		width: 100%;
+		display: block;
+		text-align: center;
+	}
+}
+.styles2017 .section .col.span_1_of_1 {
+	width: 100%;
+}
+.styles2017 .no-underline a {
+	border-bottom: none;
+}
+/* END - ALL NEW HOMEPAGE, ADDED BY CJA */
+        </style>
+        </head>
+    <body class="app-loading font-family-primary" data-bind="loadingIndicator, a11y.toggleFocusIndicator, bodyScrolledDown">
+        <div class="app-loading-spinner"></div>
+        <section class="app" data-bind="view: 'layout'"></section>
+                <script type="text/html" id="custom-footer">
+            <div class="styles2017">
+	<div class="new-footer">
+		<div style="border-bottom: 1px solid #bebebe;" class="section group inner-padding">
+			<div class="col span_1_of_1">
+				<p style = "color: #FFFFFF; font-size: 2em; margin: 0px; text-align: center;">SIMPLIFYING THE CONNECTED WORLD</p>
+				</div>
+		</div>
+		<div class="section group inner-padding">
+			<div class="connect-boxes">
+				<!-- <td class="connect-section"> -->
+				<ul class="bank-anytime-anywhere alt-link-style text-center" style="margin: 0; margin-top: 13px;">
+				<li><a href="https://twitter.com/resideo" target="_blank" style="cursor:pointer; margin: 12px;"><img src="https://www.resideo.com/us/en/-/media/Resideo/Consumer-Images/SVG%20Assets/White/footer-twitter.svg?rv=3ca0178be79b4c92b353827bcc495581" alt="twitter" title="twitter" /></a></li>
+				<li><a href="https://www.facebook.com/Resideo/" target="_blank" style="cursor:pointer; margin: 12px;"><img src="https://www.resideo.com/us/en/-/media/Resideo/Consumer-Images/SVG%20Assets/White/footer-facebook.svg?rv=e16fa08e62d14f8babcb864128acfb47" alt="facebook" title="facebook" /></a></li>
+				<li><a href="https://www.youtube.com/channel/UCISUSClmcOrxjUH7p3-w0bg" target="_blank" style="cursor:pointer; margin: 12px;"><img src="https://www.resideo.com/us/en/-/media/Resideo/Consumer-Images/SVG%20Assets/White/footer-youtube.svg?rv=7455764c3f2749048cb1f8f47849dc54" alt="youtube" title="youtube" /></a></li>
+				<li><a href="https://www.linkedin.com/company/resideo1/" target="_blank" style="cursor:pointer; margin: 12px;"><img src="https://www.resideo.com/us/en/-/media/Resideo/Consumer-Images/SVG%20Assets/White/footer-linkdin.svg?rv=3bfe5fe5f044430189923b4c82c8e269" alt="linkedIn" title="linkedIn" /></a></li>
+				<li><a href="https://www.instagram.com/weareresideo/" target="_blank" style="cursor:pointer; margin: 12px;"><img  style="width:32px; height: 24px;" src="https://www.resideo.com/us/en/-/media/Resideo/Consumer-Images/SVG%20Assets/White/footer-Instagram.png?h=410&amp;w=540&amp;rv=a2879fb5346645159b777835fc3dea85&amp;hash=16F267D8DFD1536EE10BCF5F58C08696" alt="instagram" title="instagram" /></a></li>
+				</ul>
+				<!-- </td> -->
+			</div>
+			<br>
+			<p  style = "color: #FFFFFF; font-size: 1em; margin: 0px; line-height: 1.5;">At Resideo, we bring together diverse individuals to build the future of homes. Resideo is an equal opportunity employer.
+           For more information on applicable U.S. equal employment regulations, refer to the 
+<a style="text-decoration: none;" href="https://www.resideo.com/us/en/-/media/Resideo/Files/Corporate/Careers/EEO%20is%20the%20Law%20poster.pdf?rv=fdc492d184344b3ea4aec0c96b321632">"EEO is the Law" poster</a>, 
+<a style="text-decoration: none;" href="https://www.resideo.com/us/en/-/media/Resideo/Files/Corporate/Careers/EEO%20is%20the%20Law%20Supplement%20Poster.pdf?rv=ebe367cad846443e8fa5aa86062813b6"> "EEO is the Law" Supplement Poster </a> 
+and the <a style="text-decoration: none;"href="https://www.resideo.com/us/en/-/media/Resideo/Files/Corporate/Careers/Pay%20Transparency%20Nondiscrimination%20Provision.pdf?rv=11a9cf6533ba426296b137d906b0ce01"> Pay Transparency Nondiscrimination Provision</a>. 
+Resideo complies with applicable equal employment laws in all countries where we do business.  
+For more information on how we process your information in the job application process, please refer to 
+<a style="text-decoration: none;" href="https://www.resideo.com/us/en/-/media/Resideo/Files/Corporate/Resideo%20%20-%20Recruitment%20Privacy%20Notice.pdf?rv=6d871e71bfa24982b181c92fda232b7a"> Recruitment Privacy Notice</a>. 
+If you require a reasonable accommodation to apply for a job, please use <a style="color: #ffffff; border-bottom: 1px #ffffff solid;" href="mailto:careers@resideo.com?subject=Contact Us Form – Job Application Assistance&body=This mailbox is intended only for assistance applying.  We require candidates apply through our website.  Please visit www.resideo.com/careers to find positions matching your interests and experience to apply for.  Resumes sent to this mailbox will not be accepted.%0D%0APlease describe reasonable accommodation needed or issues you are having with your application below.  Including job requisition number, title and location will aid us in assisting you."> Contact Us </a> 
+form for assistance.</p>
+<br>
+		<br>
+			</div>
+	</div>
+	
+</div>	
+        </script>
+       
+    </body>
+</html>
