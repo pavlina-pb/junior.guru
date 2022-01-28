@@ -76,9 +76,12 @@ Within this role you will be focusing on the development of the backend architec
 
 
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
+    
 
-
-<body class='body-job-view  '>
+<body class='body-job-view touch-device '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -194,7 +197,7 @@ Within this role you will be focusing on the development of the backend architec
 	<li id="menu-item-wpml-ls-2-it" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-it wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-it"><a title="Italian" href="https://www.nigelfrank.com/it/393142/fullstack-developer"><span class="glyphicon Italian"></span> <img class="wpml-ls-flag" src="https://www.nigelfrank.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" alt="it" title="Italiano"><span class="wpml-ls-display">Italian</span></a></li>
 </ul>
 </li>
-<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8914"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
+<li id="menu-item-8914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-8914 active"><a title="Home" href="https://www.nigelfrank.com/">Home</a></li>
 <li id="menu-item-5623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5623 dropdown">
 <a title="Search Jobs" href="/microsoft-jobs" class="has-children" role="button" aria-expanded="false">Search Jobs <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -207,7 +210,7 @@ Within this role you will be focusing on the development of the backend architec
 	<li id="menu-item-7581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7581"><a title="Microsoft SQL Server Jobs" href="https://www.nigelfrank.com/microsoft-sql-server-jobs"><i class="fa fa-angle-right"></i>Microsoft SQL Server Jobs</a></li>
 </ul>
 </li>
-<li id="menu-item-3893" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-3893 dropdown">
+<li id="menu-item-3893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3893 dropdown">
 <a title="Job Seekers" href="https://www.nigelfrank.com/job-seekers/" class="has-children" role="button" aria-expanded="false">Job Seekers <span class="caret"></span></a>
 <ul class="dropdown-menu">
 <li id="menu-item-6271" class="display-on-mobile menu-item menu-item-type-post_type menu-item-object-page menu-item-6271"><a title="Find Your Dream Microsoft Technology Job" href="https://www.nigelfrank.com/job-seekers/"><i class="fa fa-angle-right"></i>Find Your Dream Microsoft Technology Job</a></li>
@@ -216,7 +219,7 @@ Within this role you will be focusing on the development of the backend architec
 	<li id="menu-item-4877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4877"><a title="Upload Your Resume" href="https://www.nigelfrank.com/job-seekers/upload-resume/"><i class="fa fa-angle-right"></i>Upload Your Resume</a></li>
 	<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a title="Get Jobs By Email" href="https://www.nigelfrank.com/job-seekers/get-jobs-by-email/"><i class="fa fa-angle-right"></i>Get Jobs By Email</a></li>
 	<li id="menu-item-3152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3152"><a title="Global Relocation Team" href="https://www.nigelfrank.com/job-seekers/global-relocation-team/"><i class="fa fa-angle-right"></i>Global Relocation Team</a></li>
-	<li id="menu-item-3149" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3137 current_page_item menu-item-3149 active"><a title="Dynamics Returnship Program" href="https://www.nigelfrank.com/diversity-in-dynamics/"><i class="fa fa-angle-right"></i>Dynamics Returnship Program</a></li>
+	<li id="menu-item-3149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3149"><a title="Dynamics Returnship Program" href="https://www.nigelfrank.com/diversity-in-dynamics/"><i class="fa fa-angle-right"></i>Dynamics Returnship Program</a></li>
 	<li id="menu-item-3151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3151"><a title="Job Seeker Testimonials" href="https://www.nigelfrank.com/job-seekers/testimonials/"><i class="fa fa-angle-right"></i>Job Seeker Testimonials</a></li>
 </ul>
 </li>
@@ -387,7 +390,7 @@ Within this role you will be focusing on the development of the backend architec
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="udC0D1yQi2e4X1sp0p9qPBtoCRNSv4CggVgWwxiS">        <input name="jobs[]" type="hidden" value="393142">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="ng75nTvUikeG0lM6iPTNehygP56FF84jKaXwHmnn">        <input name="jobs[]" type="hidden" value="393142">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -497,7 +500,7 @@ Within this role you will be focusing on the development of the backend architec
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/393142?_token=udC0D1yQi2e4X1sp0p9qPBtoCRNSv4CggVgWwxiS">
+                                      data-job-id="/saved-jobs/add/393142?_token=ng75nTvUikeG0lM6iPTNehygP56FF84jKaXwHmnn">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -536,7 +539,7 @@ Within this role you will be focusing on the development of the backend architec
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/393142?_token=udC0D1yQi2e4X1sp0p9qPBtoCRNSv4CggVgWwxiS">
+                                              data-job-id="/saved-jobs/add/393142?_token=ng75nTvUikeG0lM6iPTNehygP56FF84jKaXwHmnn">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -555,7 +558,7 @@ Within this role you will be focusing on the development of the backend architec
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="udC0D1yQi2e4X1sp0p9qPBtoCRNSv4CggVgWwxiS">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="ng75nTvUikeG0lM6iPTNehygP56FF84jKaXwHmnn">
 
 
 
