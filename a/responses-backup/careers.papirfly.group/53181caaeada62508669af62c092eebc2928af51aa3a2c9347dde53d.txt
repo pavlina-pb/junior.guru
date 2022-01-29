@@ -7,7 +7,7 @@
     <title>Front-end Developer - Papirfly Group</title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="WeEYPvttfQgjt30FsPB5pIFhUidhJJEn8xjIQu3kZIP60o8wzsZevol5YP+k13gVyPRHErIRxRJAFqtY9itHIQ==" />
+<meta name="csrf-token" content="YAVge7xNnnFzbBT0ZNx/Yh+zbZG0A4PElN/V6gXqqKiXAxL8D7stRdgVcXj+AuM5u6Kx6hJRCx8tSDROvsfSCQ==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/8a6b9f06-e537-4e45-9490-ab23b1d10194/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/8a6b9f06-e537-4e45-9490-ab23b1d10194/original.png' sizes='180x180'>
@@ -78,7 +78,7 @@ p, ul, ol, table {
 <meta name="theme-color" content="#0a2e54">
 
 
-    <script src="https://assets.teamtailor-cdn.com/assets/packs/js/runtime-774fd7afe283a13fad53.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="https://assets.teamtailor-cdn.com/assets/packs/js/runtime-cd7899a1e74853fa1c7f.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/8833-34bb79aa1c40b967c79a.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/application-46fc5c3c8597ec6cc5ca.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/9917-c446c9b4c62ddec17dec.js" data-turbolinks-track="reload" defer="defer"></script>
@@ -88,7 +88,7 @@ p, ul, ol, table {
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/190-3bad7c80f651713eebf5.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/9943-c785a1e184e223b1fb2c.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/font-awesome-be8b730315126737def6.js" data-turbolinks-track="reload" defer="defer"></script>
-    <link rel="stylesheet" media="screen" href="https://assets.teamtailor-cdn.com/assets/packs/css/careersite-2a58f523.css" data-turbolinks-track="reload" defer="defer" />
+    <link rel="stylesheet" media="screen" href="https://assets.teamtailor-cdn.com/assets/packs/css/careersite-5418526e.css" data-turbolinks-track="reload" defer="defer" />
   </head>
 
   <body class="font-company-body min-h-screen flex flex-col text-company-primary bg-company-primary jobs show" data-controller="careersite--referrer-cookie careersite--preload">
@@ -309,7 +309,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 <header class="absolute top-0 z-career-header flex w-full h-20 text-company-secondary" style="color: #FFFFFF !important">
       <div data-controller="common--header--menu" data-common--header--menu-open-value="false">
   <button
-    class="absolute top-0 left-0 flex items-center h-full px-6 no-underline cursor-pointer sm:w-auto bg-opacity-80 sm:bg-transparent z-career-header-menu-button"
+    class="absolute top-0 flex items-center h-full px-6 no-underline cursor-pointer ltr:left-0 rtl:right-0 sm:w-auto bg-opacity-80 sm:bg-transparent z-career-header-menu-button"
     data-action="click->common--header--menu#toggle"
     data-common--header--menu-target="button"
   >
@@ -319,24 +319,24 @@ Because we respect your right to privacy, you can choose not to allow some types
         <span class="header-menu-burger__item"></span>
         <span class="header-menu-burger__item"></span>
     </div>
-    <span class="hidden ml-2 text-sm leading-normal tracking-wider uppercase sm:block">Career menu</span>
+    <span class="hidden mx-2 text-sm leading-normal tracking-wider uppercase sm:block">Career menu</span>
   </button>
   <div class="absolute top-0 bottom-0 hidden w-full h-screen py-20 overflow-y-auto text-white bg-black z-career-header-menu-content" data-common--header--menu-target="menu">
     <nav class="w-full sm:h-full">
       <ul class="w-full sm:py-12">
           <li>
-            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company" href="/">Start</a>
+            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company rtl:degree-[90deg]" href="/">Start</a>
 </li>          <li>
-            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company" href="/departments">Departments</a>
+            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company rtl:degree-[90deg]" href="/departments">Departments</a>
 </li>          <li>
-            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company active" href="/jobs">Jobs</a>
+            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company rtl:degree-[90deg] active" href="/jobs">Jobs</a>
 </li>          <li>
-            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company" href="https://careers.papirfly.group/pages/about-us">About Us</a>
+            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company rtl:degree-[90deg]" href="https://careers.papirfly.group/pages/about-us">About Us</a>
 </li>          <li>
-            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company" href="https://careers.papirfly.group/pages/our-values">Our Values</a>
+            <a class="text-xl sm:text-4xl py-3 px-8 sm:px-[20%] block font-bold w-full no-underline hover:bg-gradient-company rtl:degree-[90deg]" href="https://careers.papirfly.group/pages/our-values">Our Values</a>
 </li>      </ul>
     </nav>
-    <div class="flex flex-col px-8 py-8 sm:text-right sm:fixed top-10 right-8 sm:px-0 sm:py-0">
+    <div class="flex flex-col px-8 py-8 sm:text-right sm:fixed top-10 ltr:right-8 rtl:left-8 sm:px-0 sm:py-0">
       <span class="text-lg font-bold">Employee</span>
       <a class="hover:underline" href="https://app.teamtailor.com/companies/fgb6nJ0ENTk/dashboard">Log in</a>
         <span class="mt-12 text-lg font-bold">Candidate</span>
@@ -348,7 +348,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   <a class="h-[80px] w-50 mx-auto flex items-center justify-center text-center" id="ee2d3369503b0b5d7ea78e3801f6c6e0e" data-turbolinks-permanent="true" href="https://careers.papirfly.group/">
     <img alt="Papirfly Group logotype" class="max-w-[180px] sm:max-w-[200px] max-h-[90%]" src="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/logotype-v1/image_uploads/90ddd858-1f2d-4e78-bd06-502a838df4ef/original.png" />
 </a>
-    <div class="absolute top-0 right-0 flex items-center h-full mr-3">
+    <div class="absolute top-0 flex items-center h-full mx-3 ltr:right-0 rtl:left-0">
       <div data-controller="common--share" data-common--share-url-value="https://careers.papirfly.group/jobs/1456141-front-end-developer">
   <div class="relative" data-controller="common--dropdown">
     <button type="button" class="text-current p-4 block flex items-center justify-center" title="Share page" data-common--dropdown-target="button" data-action="common--dropdown#toggle">
@@ -356,7 +356,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   
     <path d="M16 2v7h-2v-5h-12v16h12v-5h2v7h-16v-20h16zm2 9v-4l6 5-6 5v-4h-10v-2h10z" fill-rule="evenodd" clip-rule="evenodd"></path>
 </svg>
-</button>    <div class="absolute flex-col hidden mt-2 mr-2 bg-white rounded min-w-[175px] shadow-form animate__animated animate__faster z-dropdown max-h-[70vh] overflow-y-auto  p-2 top-full right-0" data-common--dropdown-target="dropdown">
+</button>    <div class="absolute flex-col hidden mt-2 mr-2 bg-white rounded min-w-[175px] shadow-form animate__animated animate__faster z-dropdown max-h-[70vh] overflow-y-auto  p-2 top-full ltr:right-0 rtl:left-0" data-common--dropdown-target="dropdown">
 
         <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Facebook" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
@@ -364,7 +364,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   
     <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-3 7h-1.924c-.615 0-1.076.252-1.076.889v1.111h3l-.238 3h-2.762v8h-3v-8h-2v-3h2v-1.923c0-2.022 1.064-3.077 3.461-3.077h2.539v3z"></path>
 </svg>
-        <span class="ml-3">Facebook</span>
+        <span class="mx-3">Facebook</span>
       </span>
 </button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Twitter" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
@@ -372,7 +372,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   
     <path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"></path>
 </svg>
-        <span class="ml-3">Twitter</span>
+        <span class="mx-3">Twitter</span>
       </span>
 </button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="LinkedIn" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
@@ -380,7 +380,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   
     <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"></path>
 </svg>
-        <span class="ml-3">LinkedIn</span>
+        <span class="mx-3">LinkedIn</span>
       </span>
 </button>
           <a data-event-tracking="click" data-event-category="Sharing" data-event-name="Email: job preview" data-event-label="https://careers.papirfly.group/jobs/1456141-front-end-developer" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs" href="mailto:?subject=Check out this job at Papirfly Group&amp;body=I found this job and thought I should share it with you:%0D%0A%0D%0Ahttps://careers.papirfly.group/jobs/1456141-front-end-developer">
@@ -390,7 +390,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"></path>
     <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"></path>
 </svg>
-          <span class="ml-3">Mail</span>
+          <span class="mx-3">Mail</span>
         </span>
 </a>
 </div></div></div>
@@ -686,7 +686,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     <h2 class="text-center font-company-header text-4xl text-shadow">Already working at Papirfly Group?</h2>
     <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
       <div class="relative mx-auto max-w-[500px] w-full py-5 pl-8 mt-6 rounded cursor-pointer bg-company-secondary-text text-company-secondary bg-opacity-15 pr-14 focus-within:bg-white focus-within:text-gray-800" data-action="click->blocks--auto-join--form#focusEmailField">
-  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oeLaTL+Z5gNe1NVAXgb1Q9k3oagMn7gdX3oR4mCHEWyn+ErOmBmgv60KiPGY2fswM+ckiLAhCu1V3sOzNkRLcw==" />
+  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dB4HySaLYISbewP6u03RKl1qZtnNzKsITA24FDNffrozQesH4vdyVFN/MhfYVBz8g/JVMIk521umJJTay7vcQA==" />
     <input value="papirfly.com" data-blocks--auto-join--form-target="domainField" type="hidden" name="domain" id="domain" />
     <input data-blocks--auto-join--form-target="emailField" type="hidden" name="email" id="email" />
     <input tabIndex="-1" required="required" type="email" autocomplete="off" title="Email address without domain" class="absolute inset-0 opacity-0" data-blocks--auto-join--form-target="fullEmailField" name="full_email" id="full_email" />
@@ -711,21 +711,21 @@ Because we respect your right to privacy, you can choose not to allow some types
   </div>
   <ul class="absolute bottom-[-27px] md:bottom-[-35px] flex items-center justify-center left-0 right-0" data-controller="blocks--auto-join--people">
     <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Justin Diver" alt="Justin Diver" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8cfcb51e-002e-4916-b046-2938335d8606/original.png" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Max Sihvonen" alt="Max Sihvonen" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/bb808143-a580-44c3-b239-c6f9ed4ce2b3/original.png" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Tim Tipple" alt="Tim Tipple" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/9d3898eb-ccf2-4a85-8934-3debbd3a4a0d/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Hanna Hugozon" alt="Hanna Hugozon" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/1b920a7f-bbc0-42f9-a43b-65a54f741f07/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Johan Magnusson" alt="Johan Magnusson" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8afdd3ab-f251-44e7-a727-54c4de5788a4/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Martin Landsberger Pospíšil" alt="Martin Landsberger Pospíšil" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/97ecb29a-6fb9-4897-a479-0076c86bf976/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Denisa Zahradnická" alt="Denisa Zahradnická" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/110ff7f4-5313-4610-a913-154f66a7d92a/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Zuzana Doležalová" alt="Zuzana Doležalová" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8444de1d-42db-44b5-a117-f7c527e64588/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Jakob Ekdahl" alt="Jakob Ekdahl" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/4c221e1b-8213-46f6-9f09-3c9ee0ec3267/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Tim Tipple" alt="Tim Tipple" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/9d3898eb-ccf2-4a85-8934-3debbd3a4a0d/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Luke Davis" alt="Luke Davis" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/83b8d4fb-d8ce-459d-9797-3a0ce15a1794/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block hidden md:block">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Justin Diver" alt="Justin Diver" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8cfcb51e-002e-4916-b046-2938335d8606/original.png" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Dave Thompson" alt="Dave Thompson" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/2752011b-b32f-485d-9fab-68dd3af05c40/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block hidden md:block">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Morten Reigstad" alt="Morten Reigstad" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/0dbdd6ba-8770-494c-ad3f-a4ab357ecd0f/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li></ul>
 
 </div>
@@ -765,7 +765,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: '77VuAOsVnKBKBo+XlLSMwyeEmQ1EMx+RPGVXBa9f44tcXso93KZqyf5Pq4/i0tg4GHcGF7sKuLAwvBLMaoJJKrnKlCB3uQZ2XtFB5FbFqAAGYbsZmpRN+X3KyJ17/Pk6S4rUPevAcusdvLvT55KgqyrQn54LlfdTBMNNDN6JDc9sjj/0iXCj4Fc=--+BYBu9rcOPIeswPx--cjhhfYHWgxaaxz+SJZAEHw==',
+        ed: 'q8dOL+Q1phIqqbd2pdUvOHCpDeOsEq4A0j2ZaPM+vV22nXed2ngWbQkjfNEqjti6yToa7Hoeb9GJz4bQl8Umb64UVodmiVP+TVBU8FHtxRXOImWs1t15vtV0A/xM7ZUQscXW7dPh9JVzHmtmQNDYOQYaYMsIy+QOT+NwB0X3gnLIOiIevF8RZCs=--SVGpBIH0IsDxaiFK--KamvkjSgLOErp1ca56SZHw==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

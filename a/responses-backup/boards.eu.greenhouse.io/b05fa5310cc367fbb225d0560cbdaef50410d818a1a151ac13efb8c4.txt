@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <title>Job Application for Software Engineer at Speechmatics</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-cc9ff140a6991533721ab12ee05b95767ed853e3e611979976b519ed3fb2ec3e.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! There was an error processing your application. Please try again.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;},&quot;job_post&quot;:{&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;Paste&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;errors&quot;:{&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-69893c3b3f8f27477ac24dbcb3d8e569fcc265882e77cd464d2bad69dd7d3918.svg" type="text/configuration"></script>
+    <meta property="og:title" content="Software Engineer"></meta>
+    <meta property="og:description" content="Brno, South Moravian, Czech Republic"></meta>
+    <meta property="og:url" content="https://boards.eu.greenhouse.io/speechmatics/jobs/4016891101"></meta>
+    <meta property="og:image" content="https://s101-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/056/210/original/09cdc142-5d1b-4be4-980c-4ba40ae71c98.png?1642090852"></meta>
+    <meta property="og:type" content="article"></meta>
+
+  
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+
+
+
+<div id='app_body' style='padding-left:20px'>
+  <div class="logo-container">
+      <div id="logo"><a target="_blank" href="https://www.speechmatics.com/"><img alt="Speechmatics Logo" src="https://s101-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/056/210/resized/09cdc142-5d1b-4be4-980c-4ba40ae71c98.png?1642090852" width="107" height="75" /></a></div>
+  </div>
+
+    <div id="header">
+    <a href='#app' id='apply_button' class='button'>
+      Apply Now
+    </a>
+
+  <h1 class='app-title'>Software Engineer</h1>
+
+  <span class='company-name'>
+    at Speechmatics
+  </span>
+
+    <a data-mapped="true" href="/speechmatics">(View all jobs)</a>
+
+    <div class='location'>
+      Brno, South Moravian, Czech Republic
+    </div>
+</div>
+  <div id="content" class="">
+    <div class="content-intro"><p><strong>Who we are:</strong></p>
+<p>As a recognised pioneer and market leader in machine learning voice engineering, Speechmatics enables companies to build applications that detect and transcribe voice in any context in real-time. Its neural networks consider acoustics, languages, dialects, multiple speakers, punctuation, capitalisation, context and implicit meanings. This has enabled us to build the most accurate and inclusive speech-to-text engine available.</p>
+<p>Speechmatics is a rapidly growing, global company with offices in the UK, US, India and Czech Republic. With ambitious growth plans comes great opportunities that are exciting and progressive. You will be working with some of the smartest minds in the industry, working on cutting-edge projects and deploying the latest techniques to disrupt the market.</p>
+<p>If this is a mission you want to contribute to in a passionate way, then we want to hear from you.</p></div>
+
+    <p><strong>The Role</strong></p>
+<p>You will work with some of the smartest minds in the industry, on cutting-edge projects and innovative solutions using the latest technologies. You'll provide customers with a high value technology, while immersed in a great team and company culture that strives to be world leading. We’re looking for people who wholeheartedly believe that they can bring new ideas and join us on our journey. If that’s you, we’d love to hear from you.</p>
+<p>We're looking for talented software engineers for both senior and junior levels to join our engineering team. You will have a strong competency in at least one of Python, C++, Go, or JavaScript or have a strong motivation to learn one of these languages.</p>
+<p>You will be a team player who thrives in a fast-paced environment. We encourage versatility and knowledge transfer across teams. You will find satisfaction in sharing your knowledge and experience while also learning from others. You will help drive the system architecture and participate in defining and improving the best practices we employ for development, code review and testing.</p>
+<p><strong>What you’ll be doing:</strong></p>
+<ul>
+<li>Take a leading role in one or more of design, development, architectural improvements, and QA</li>
+<li>Depending on your skills and interests:
+<ul>
+<li>Ensure that the core speech recognition engine continues to give our customers the fast turnaround that they expect and that it runs without issues. Technologies: C++17, clang, Docker, Linux, valgrind, gdb</li>
+<li>Integrate our C++ speech recognition engine into our Python services in docker containers and into our “bare metal” library. technologies: Python, Docker, Windows, MacOS, Linux, C++17</li>
+<li>Ensure a seamless interoperability of many technologies and services forming our products. Technologies: Python, Go, Rust, Docker, Kubernetes, Swagger, PostgreSQL, public clouds</li>
+<li>Design and implement UI for our users: Typescript, React, Next.js</li>
+</ul>
+</li>
+</ul>
+<p><strong>Who we are looking for:</strong></p>
+<ul>
+<li>Smart, talented, and ambitious individuals</li>
+<li>Excellent skills in one of Python, C++, Go, JavaScript or similar languages</li>
+<li>Good Linux development skills</li>
+<li>Comfortable collaborating with teams with very different technical skills, and non-technical teams</li>
+</ul>
+<p><strong data-redactor-tag="strong">We consider an advantage:</strong></p>
+<ul>
+<li>Professional experience in software development</li>
+<li>Proven experience working within a team to create, deliver, and run high-quality systems</li>
+<li>Experience developing for MacOS and Windows</li>
+<li>Experience with build systems and continuous integration pipelines, such as GitLab CI</li>
+<li>Familiarity with the tools our developers like to use: Docker, Kubernetes, SQL, VSCode, PyCharm, git</li>
+</ul>
+
+    <div class="content-conclusion"><p><strong>At Speechmatics, our mission has always been to ‘Understand Every Voice’.</strong> We believe that recruiting talent with diverse experiences, perspectives and backgrounds encourages people to think differently and be more creative.</p>
+<p>We welcome difference whether it’s gender, gender identity or expression, race, disability, age, sexual orientation, religion or belief, marital status, national origin, veteran status, or pregnancy and maternity status; so please be yourself!</p>
+<p>For more information on us<sub>,&nbsp;</sub>please visit&nbsp;<a href="https://www.speechmatics.com/">our website</a> and follow Speechmatics on our social channels via&nbsp;<a href="https://twitter.com/Speechmatics/">Twitter</a>, <a href="https://www.facebook.com/speechmatics/">Facebook</a>, <a href="https://www.linkedin.com/company/speechmatics/">LinkedIn</a>, and <a href="https://www.youtube.com/channel/UCaZUN77-Wq0XQg5ICHLxKVw/">YouTube.</a></p>
+<h5><strong><em>We rely on legitimate interest as a legal basis for processing personal information under the GDPR for purposes of recruitment and applications for employment.&nbsp;</em></strong></h5></div>
+</div>
+
+    <div id='application' class="">
+      <a name='app'></a>
+      <form id="application_form" enctype="multipart/form-data" action="https://boards.eu.greenhouse.io/speechmatics/jobs/4016891101" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="94181b8e4d900f1f24503cd53b5eac0ee4d04dba" />
+        <input type="hidden" name="render_date" id="render_date" value="2022-01-28 23:15:19 +0000" />
+
+
+
+        <div id='main_fields'>
+            <h2 class='heading'>Apply for this Job</h2>
+
+            <div class='required-fields'>
+              <span class='asterisk'>*</span> Required
+            </div>
+
+          <div class='clear'></div>
+
+
+          
+<script>
+  var EMAIL_ADDRESS_VALIDATOR_URL = 'https://email-address-validator.eu.greenhouse.io/address/validate';
+</script>
+
+<div class='field'>
+  <label for='first_name'>First Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='first_name' name='job_application[first_name]' aria-required="true" maxlength="255" autocomplete="given-name"/>
+</div>
+<div class='field'>
+  <label for='last_name'>Last Name <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='last_name' name='job_application[last_name]' aria-required="true" maxlength="255" autocomplete="family-name" />
+</div>
+<div class='field'>
+  <label for='email'>Email <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='email' name='job_application[email]' aria-required="true" maxlength="255" autocomplete="email" />
+</div>
+<div class='field'>
+  <label for='phone'>Phone <span class='asterisk' aria-hidden='true'>*</span></label>
+  <input type='text' id='phone' name='job_application[phone]' maxlength="255" autocomplete="tel" required='required' aria-required="true"/>
+</div>
+
+
+
+          
+<div class='field'>
+  <label aria-label="required" id="resume">Resume/CV <span class='asterisk' aria-hidden='true'>*</span></label>
+  
+<div class="attach-or-paste " required="required" data-allow-s3="true" data-field="resume" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="resume_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
+    <span id="resume_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="resume" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="resume" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="resume" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="resume" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_resume style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+    <textarea name="job_application[resume_text]" id="resume_text" class="paste">
+</textarea>
+
+</div>
+
+</div>
+
+  <div class='field'>
+    <label id='cover_letter' aria-label="">Cover Letter</label>
+    
+<div class="attach-or-paste " data-allow-s3="true" data-field="cover_letter" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="cover_letter_chosen" class="chosen">
+    <img src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
+    <span id="cover_letter_filename"></span>
+    <a href="#" class="remove">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+  <div class="link-container">
+    <a data-source="attach" aria-labelledby="cover_letter" href="#">Attach</a>
+
+        <a data-source="dropbox" aria-labelledby="cover_letter" href="#">Dropbox</a>
+
+        <a data-source="google-drive" aria-labelledby="cover_letter" href="#">Google Drive</a>
+
+      <a data-source="paste" aria-labelledby="cover_letter" href="#">Paste</a>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id=validate_cover_letter style="display: none" id=""></div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+    <textarea name="job_application[cover_letter_text]" id="cover_letter_text" class="paste">
+</textarea>
+
+</div>
+
+  </div>
+
+
+
+        </div>
+
+            <hr/>
+
+          <div id='custom_fields'>
+            <div class="field">
+  <label>LinkedIn Profile
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][0][question_id]" id="job_application_answers_attributes_0_question_id" value="4073307101" />
+<input type="hidden" name="job_application[answers_attributes][0][priority]" id="job_application_answers_attributes_0_priority" value="0" />
+
+<input type="text" name="job_application[answers_attributes][0][text_value]" id="job_application_answers_attributes_0_text_value" maxlength="255" autocomplete="custom-question-linkedin-profile" />
+
+
+</label></div>
+<div class="field">
+  <label>How did you hear about us?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][1][question_id]" id="job_application_answers_attributes_1_question_id" value="4073308101" />
+<input type="hidden" name="job_application[answers_attributes][1][priority]" id="job_application_answers_attributes_1_priority" value="1" />
+
+<select name="job_application[answers_attributes][1][answer_selected_options_attributes][1][question_option_id]" id="job_application_answers_attributes_1_answer_selected_options_attributes_1_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="4203843101">Conference/ Event</option>
+<option value="4203844101">Employee Referral</option>
+<option value="4203845101">Industry Press</option>
+<option value="4203846101">LinkedIn</option>
+<option value="4203847101">Search Engine/ Our Website</option>
+<option value="4203848101">University Recruiting</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Are you authorised to work in the country where this job is located?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][2][question_id]" id="job_application_answers_attributes_2_question_id" value="4073309101" />
+<input type="hidden" name="job_application[answers_attributes][2][priority]" id="job_application_answers_attributes_2_priority" value="2" />
+
+<select name="job_application[answers_attributes][2][boolean_value]" id="job_application_answers_attributes_2_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Have you worked for Speechmatics in the past?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][3][question_id]" id="job_application_answers_attributes_3_question_id" value="4073310101" />
+<input type="hidden" name="job_application[answers_attributes][3][priority]" id="job_application_answers_attributes_3_priority" value="3" />
+
+<select name="job_application[answers_attributes][3][boolean_value]" id="job_application_answers_attributes_3_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Are you currently a Speechmatics employee?<span class="asterisk" aria-hidden="true">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][4][question_id]" id="job_application_answers_attributes_4_question_id" value="4073311101" />
+<input type="hidden" name="job_application[answers_attributes][4][priority]" id="job_application_answers_attributes_4_priority" value="4" />
+
+<select name="job_application[answers_attributes][4][boolean_value]" id="job_application_answers_attributes_4_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Would you like to make us aware of any adjustments needed for your interview process?
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][5][question_id]" id="job_application_answers_attributes_5_question_id" value="4073312101" />
+<input type="hidden" name="job_application[answers_attributes][5][priority]" id="job_application_answers_attributes_5_priority" value="5" />
+
+<textarea name="job_application[answers_attributes][5][text_value]" id="job_application_answers_attributes_5_text_value" autocomplete="custom-question-would-you-like-to-make-us-aware-of-any-adjustments-needed-for-your-interview-process">
+</textarea>
+
+
+</label></div>
+
+          </div>
+
+
+
+
+          <div id='captcha_container'></div>
+  <hr/>
+
+
+
+        <div id='error_message'></div>
+
+        <div id='submit_buttons'>
+          <input
+            type='button'
+            value='Submit Application'
+            id='submit_app'
+            class='button'>
+        </div>
+</form>    </div>
+</div>
+
+
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-51e8e9d8ab5bd4940e65f432e2ba89b0ebdc434ca64d89ba726d670a8698b730.js"></script>
+
+  <div class="s3-upload-form" data-presigned-form="resume"></div>
+
+  <div class="s3-upload-form" data-presigned-form="cover_letter"></div>
+<script class="js-metadata" data-key="JBEN.hideCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.alternateCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.geetestPath" data-type="string" data-value="/geetest" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.publicKey" data-type="string" data-value="6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL" type="text/configuration"></script>      <script src='https://www.google.com/recaptcha/enterprise.js?render=6LfZS8kaAAAAAG853sBcz6KRVtBgvRVFoF7qk4mL' async></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/show_init-2f5fdd5c5ac90ad3c0ac0d76992d75eafc694581fdc565f42aa90e0fdc3c5d2c.js"></script>
+  
+
+
+  <script class="js-metadata" data-key="JBEN.PublicJobBoard.UncacheableAttributes.path" data-type="string" data-value="/uncacheable_attributes.json" type="text/configuration"></script><script class="js-metadata" data-key="LocationControl.Providers.Mapbox.apiKey" data-type="string" data-value="pk.eyJ1IjoiamNtdWxsZXIiLCJhIjoiY2l2YmI2ZG82MDA4bzJ6b3UwNTB1enkycSJ9.oRrvDNk1PKKA76v6qSRFXg" type="text/configuration"></script>
+  <script class="js-metadata" data-key="LocationControl.Providers.Pelias.apiKey" data-type="string" data-value="ge-39f1178289d5d0c5" type="text/configuration"></script>
+  <script type="application/ld+json">
+  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Speechmatics","logo":"https://s101-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/056/210/resized/09cdc142-5d1b-4be4-980c-4ba40ae71c98.png?1642090852"},"title":"Software Engineer","datePosted":"2022-01-26","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Brno, South Moravian, Czech Republic","addressRegion":"JM","addressCountry":null,"postalCode":null}},"description":"\u003cp\u003e\u003cstrong\u003eThe Role\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eYou will work with some of the smartest minds in the industry, on cutting-edge projects and innovative solutions using the latest technologies. You'll provide customers with a high value technology, while immersed in a great team and company culture that strives to be world leading. We’re looking for people who wholeheartedly believe that they can bring new ideas and join us on our journey. If that’s you, we’d love to hear from you.\u003c/p\u003e\n\u003cp\u003eWe're looking for talented software engineers for both senior and junior levels to join our engineering team. You will have a strong competency in at least one of Python, C++, Go, or JavaScript or have a strong motivation to learn one of these languages.\u003c/p\u003e\n\u003cp\u003eYou will be a team player who thrives in a fast-paced environment. We encourage versatility and knowledge transfer across teams. You will find satisfaction in sharing your knowledge and experience while also learning from others. You will help drive the system architecture and participate in defining and improving the best practices we employ for development, code review and testing.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWhat you’ll be doing:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eTake a leading role in one or more of design, development, architectural improvements, and QA\u003c/li\u003e\n\u003cli\u003eDepending on your skills and interests:\n\u003cul\u003e\n\u003cli\u003eEnsure that the core speech recognition engine continues to give our customers the fast turnaround that they expect and that it runs without issues. Technologies: C++17, clang, Docker, Linux, valgrind, gdb\u003c/li\u003e\n\u003cli\u003eIntegrate our C++ speech recognition engine into our Python services in docker containers and into our “bare metal” library. technologies: Python, Docker, Windows, MacOS, Linux, C++17\u003c/li\u003e\n\u003cli\u003eEnsure a seamless interoperability of many technologies and services forming our products. Technologies: Python, Go, Rust, Docker, Kubernetes, Swagger, PostgreSQL, public clouds\u003c/li\u003e\n\u003cli\u003eDesign and implement UI for our users: Typescript, React, Next.js\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eWho we are looking for:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eSmart, talented, and ambitious individuals\u003c/li\u003e\n\u003cli\u003eExcellent skills in one of Python, C++, Go, JavaScript or similar languages\u003c/li\u003e\n\u003cli\u003eGood Linux development skills\u003c/li\u003e\n\u003cli\u003eComfortable collaborating with teams with very different technical skills, and non-technical teams\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong data-redactor-tag=\"strong\"\u003eWe consider an advantage:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eProfessional experience in software development\u003c/li\u003e\n\u003cli\u003eProven experience working within a team to create, deliver, and run high-quality systems\u003c/li\u003e\n\u003cli\u003eExperience developing for MacOS and Windows\u003c/li\u003e\n\u003cli\u003eExperience with build systems and continuous integration pipelines, such as GitLab CI\u003c/li\u003e\n\u003cli\u003eFamiliarity with the tools our developers like to use: Docker, Kubernetes, SQL, VSCode, PyCharm, git\u003c/li\u003e\n\u003c/ul\u003e"}
+</script>
+
+    <script type='text/javascript' src='https://www.dropbox.com/static/api/2/dropins.js' id='dropboxjs' data-app-key='mh9jyh4mfwjnfhj' async></script>
+
+<script class="js-metadata" data-key="googlePickerDeveloperKey" data-type="string" data-value="AIzaSyCratp6KuOmiXWfR3ABY8azVmw8XFnBl64" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerClientId" data-type="string" data-value="594601915089-7c2994029qkt5qu2tmbppujr9jqrqqrs.apps.googleusercontent.com" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerAppId" data-type="number" data-value="594601915089" type="text/configuration"></script>
+  <script type='text/javascript' src='https://apis.google.com/js/client.js?onload=googleDriveLoader' async></script>
+  <script type='text/javascript' src='https://apis.google.com/js/api.js?onload=googlePickerLoader' async></script>
+
+
+  </body>
+</html>
