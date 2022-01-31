@@ -7,7 +7,7 @@
     <title>Frontend Developer - Memsource</title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="rmuj+jwyj2iFjS8eE1KGF5S1WFLRe8iXQ6M295iCEEAoyCwG77AjITttlq6sRgpjD0z8LTIOa7dvoq2DHRX/9Q==" />
+<meta name="csrf-token" content="X71mqnKyHdpqVSPKXpEsys6c5FCILEIK4V1wUMPSjMr8+HcX0BWljboqXCijkyW7wJaOQI/Ymiq8R63JlvfsPg==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/bccd3130-c0ad-42bb-a744-235e2968e6ec/original.x-icon'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/bccd3130-c0ad-42bb-a744-235e2968e6ec/original.x-icon' sizes='180x180'>
@@ -683,7 +683,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   <div class="w-full px-4 pt-12 mx-auto rounded pb-18 block-max-w--lg bg-company-secondary text-company-secondary block-shadow" data-controller="blocks--auto-join--form" >
     <h2 class="text-center font-company-header text-4xl text-shadow">Already working at Memsource?</h2>
     <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
-      <form class="flex w-full mt-6" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VJ3rGqaciP6LIj05YvRBJPKvArQftGk0ugHlTqMCTkZ6l9Y1LoiDWXhc57iOuC0VhnK0Lnla8LJ+6syNkEYRGw==" />
+      <form class="flex w-full mt-6" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5US5deRfDzE+v68LqMBl8fn87cp6bQ0Xjf1NSoGv3gQwyJgW7AQ7eFq8qyKPoxgyLTbf6b7pAO6kesxScrpfBQ==" />
   <button type="submit" class="careersite-button careersite-button--secondary mx-auto min-w-[200px]" data-event-tracking="click" data-event-category="Account" data-event-name="Auto Joined: Create" data-event-label="Click">
     Log in
 </button></form>
@@ -726,7 +726,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'CZcGIkJho+tnGWaoTYppNrRA0B8Ig5VQZySEUPgCNCT+Ihmr6s6vW0ut6orVAaL1JyO3wC5jbBcDOKIrsPa683eZqxPitgQpekvklyW8qbaPgBHTMFLetxtZQXDFiDlDKcagkYDLBk8TELK/w0DXQqxn1lJjTI4YAMR3x/y5qsPinYyDT0/Wh7UNi7O4ePGf/E468o9Sgw==--u8OSvhoULcOttXmO--DLp8y7ZbW19VEqTzTtdGpg==',
+        ed: 'DmlfaLbb/gAKsitAjL41I6QZTh35OPmQFUT1MXH1vT1tkYnRhGfNUE6OzM8WFTApLMYmcEA9wGV4uAD4pBwGpjkA1MyzZHYFIoR22aa2EV3ALuAUIA92Ezs+/Di0BSZ00G9gZn8r3xmtAtGceXSmSg5Gpx0JP9TuVglu35yMtGyer947sJ71XjFkEFlFzcr8hv/J5peafw==--LOVPsagTrk2iRgz2--lEI0H1rKBT+L/o1VmWfs2Q==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,
