@@ -7,7 +7,7 @@
     <title>PHP Developer - Papirfly Group</title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="u1E/l5Ue57JEpgNX34qk/EfB2lSCK5G916KTy+CXd+e9F+3aOGGVJDGapmvEG8jArSvEYG49awVNEWj6F3lm6g==" />
+<meta name="csrf-token" content="icELPVeKqpIe0kYNp3WwX+dZUxOQwz3sgdxhzS1FPdWBZybGXm5Tl5kCc+ljkfVXolg4gSDZCqW1L7ZcWkydlA==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/8a6b9f06-e537-4e45-9490-ab23b1d10194/original.png'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/8a6b9f06-e537-4e45-9490-ab23b1d10194/original.png' sizes='180x180'>
@@ -78,7 +78,7 @@ p, ul, ol, table {
 <meta name="theme-color" content="#0a2e54">
 
 
-    <script src="https://assets.teamtailor-cdn.com/assets/packs/js/runtime-cd7899a1e74853fa1c7f.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="https://assets.teamtailor-cdn.com/assets/packs/js/runtime-7c4c10197e372e6d6565.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/8833-34bb79aa1c40b967c79a.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/application-46fc5c3c8597ec6cc5ca.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/9917-c446c9b4c62ddec17dec.js" data-turbolinks-track="reload" defer="defer"></script>
@@ -88,7 +88,7 @@ p, ul, ol, table {
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/190-3bad7c80f651713eebf5.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/9943-c785a1e184e223b1fb2c.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/font-awesome-be8b730315126737def6.js" data-turbolinks-track="reload" defer="defer"></script>
-    <link rel="stylesheet" media="screen" href="https://assets.teamtailor-cdn.com/assets/packs/css/careersite-5418526e.css" data-turbolinks-track="reload" defer="defer" />
+    <link rel="stylesheet" media="screen" href="https://assets.teamtailor-cdn.com/assets/packs/css/careersite-c1589d46.css" data-turbolinks-track="reload" defer="defer" />
   </head>
 
   <body class="font-company-body min-h-screen flex flex-col text-company-primary bg-company-primary jobs show" data-controller="careersite--referrer-cookie careersite--preload">
@@ -357,7 +357,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 </svg>
 </button>    <div class="absolute flex-col hidden mt-2 mr-2 bg-white rounded min-w-[175px] shadow-form animate__animated animate__faster z-dropdown max-h-[70vh] overflow-y-auto  p-2 top-full ltr:right-0 rtl:left-0" data-common--dropdown-target="dropdown">
 
-        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Facebook" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
+        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Facebook" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6  currentColor">
   
@@ -365,7 +365,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 </svg>
         <span class="mx-3">Facebook</span>
       </span>
-</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Twitter" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
+</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Twitter" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6  currentColor">
   
@@ -373,7 +373,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 </svg>
         <span class="mx-3">Twitter</span>
       </span>
-</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="LinkedIn" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
+</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="LinkedIn" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6  currentColor">
   
@@ -382,7 +382,7 @@ Because we respect your right to privacy, you can choose not to allow some types
         <span class="mx-3">LinkedIn</span>
       </span>
 </button>
-          <a data-event-tracking="click" data-event-category="Sharing" data-event-name="Email: job preview" data-event-label="https://careers.papirfly.group/jobs/1495023-php-developer" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs" href="mailto:?subject=Check out this job at Papirfly Group&amp;body=I found this job and thought I should share it with you:%0D%0A%0D%0Ahttps://careers.papirfly.group/jobs/1495023-php-developer">
+          <a data-event-tracking="click" data-event-category="Sharing" data-event-name="Email: job preview" data-event-label="https://careers.papirfly.group/jobs/1495023-php-developer" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs" href="mailto:?subject=Check out this job at Papirfly Group&amp;body=I found this job and thought I should share it with you:%0D%0A%0D%0Ahttps://careers.papirfly.group/jobs/1495023-php-developer">
             <span class="flex items-center">
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6  currentColor">
   
@@ -432,9 +432,9 @@ Because we respect your right to privacy, you can choose not to allow some types
       <div class="mt-10">
     
         <a class="careersite-button min-w-[220px] group  min-w-[220px] bg-opacity-100" href="/jobs/1495023-php-developer/applications/new">
-    <div class="flex items-center justify-center">
+    <div class="flex items-center justify-center gap-x-3">
       <span class="truncate">Apply for this job</span>
-        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] fa-chevron-right group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:-scale-x-100"></i>
     </div>
 </a>
 
@@ -472,14 +472,14 @@ Because we respect your right to privacy, you can choose not to allow some types
   <div class="px-8 mx-auto max-w-[856px] w-full bg-company-primary-text bg-opacity-3 rounded pt-12 pb-10">
       <dl class=" mb-5 md:max-w-[70%] mx-auto text-md flex flex-wrap flex-col md:flex-row company-links">
           <dt class="w-full font-semibold md:mb-5 md:w-half">Department</dt>
-<dd class="w-full mb-5 md:w-half md:pl-16">
+<dd class="w-full mb-5 md:w-half md:ltr:pl-16 md:rtl:pr-16">
   
               <a href="https://careers.papirfly.group/departments/it">IT</a>
 
 </dd>
 
           <dt class="w-full font-semibold md:mb-5 md:w-half">Locations</dt>
-<dd class="w-full mb-5 md:w-half md:pl-16">
+<dd class="w-full mb-5 md:w-half md:ltr:pl-16 md:rtl:pr-16">
   
               <a href="https://careers.papirfly.group/locations/zlin-czech-republic">Zlín, Czech Republic</a>
 
@@ -493,9 +493,9 @@ Because we respect your right to privacy, you can choose not to allow some types
     
       <section class="flex flex-col items-center">
         <a class="careersite-button min-w-[220px] group  min-w-[220px] bg-opacity-100" href="/jobs/1495023-php-developer/applications/new">
-    <div class="flex items-center justify-center">
+    <div class="flex items-center justify-center gap-x-3">
       <span class="truncate">Apply for this job</span>
-        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] fa-chevron-right group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:-scale-x-100"></i>
     </div>
 </a>
 
@@ -537,6 +537,23 @@ Because we respect your right to privacy, you can choose not to allow some types
       <div class="mx-auto text-lg block-max-w--lg">
     <ul>
         <li class="text-center border-b md:text-left border-block-base-text border-opacity-15 last:border-b-0">
+          <a class="hover:bg-block-base-text hover:bg-opacity-3 flex flex-col sm:flex-row justify-between items-center py-4 px-6" href="https://careers.papirfly.group/jobs/1565697-system-administrator">
+            <span class="text-block-base-link sm:min-w-[25%] sm:truncate" title="System Administrator">System Administrator</span>
+            <div class="mt-1 sm:mt-0 sm:ml-2 text-md sm:whitespace-nowrap">
+              <span>IT</span>
+
+  <span class="mx-[2px]">&middot;</span>
+
+    <span>Sandnes, Norway</span>
+
+    <span class="mx-[2px]">&middot;</span>
+  <span class="inline-flex items-center gap-x-2">
+    Hybrid Remote
+    <i class="w-5 h-5 text-sm fas fa-wifi"></i>
+</span>
+            </div>
+</a>        </li>
+        <li class="text-center border-b md:text-left border-block-base-text border-opacity-15 last:border-b-0">
           <a class="hover:bg-block-base-text hover:bg-opacity-3 flex flex-col sm:flex-row justify-between items-center py-4 px-6" href="https://careers.papirfly.group/jobs/1495005-senior-java-developer">
             <span class="text-block-base-link sm:min-w-[25%] sm:truncate" title="Senior Java Developer">Senior Java Developer</span>
             <div class="mt-1 sm:mt-0 sm:ml-2 text-md sm:whitespace-nowrap">
@@ -560,22 +577,10 @@ Because we respect your right to privacy, you can choose not to allow some types
     <span>Kalmar, Sweden</span>
 
     <span class="mx-[2px]">&middot;</span>
-  <span class="inline-flex items-center">
-    Hybrid Remote<i class="w-5 h-5 ml-2 text-sm fas fa-wifi"></i>
+  <span class="inline-flex items-center gap-x-2">
+    Hybrid Remote
+    <i class="w-5 h-5 text-sm fas fa-wifi"></i>
 </span>
-            </div>
-</a>        </li>
-        <li class="text-center border-b md:text-left border-block-base-text border-opacity-15 last:border-b-0">
-          <a class="hover:bg-block-base-text hover:bg-opacity-3 flex flex-col sm:flex-row justify-between items-center py-4 px-6" href="https://careers.papirfly.group/jobs/1456214-motion-designer">
-            <span class="text-block-base-link sm:min-w-[25%] sm:truncate" title="Motion Designer">Motion Designer</span>
-            <div class="mt-1 sm:mt-0 sm:ml-2 text-md sm:whitespace-nowrap">
-              <span>IT</span>
-
-  <span class="mx-[2px]">&middot;</span>
-
-    <span>Zlín, Czech Republic</span>
-
-
             </div>
 </a>        </li>
     </ul>
@@ -584,9 +589,9 @@ Because we respect your right to privacy, you can choose not to allow some types
 
     <div class="flex justify-center mx-auto mt-12">
       <a class="careersite-button min-w-[220px] group " href="/jobs?department_id=130098">
-    <div class="flex items-center justify-center">
+    <div class="flex items-center justify-center gap-x-3">
       <span class="truncate">More jobs</span>
-        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] fa-chevron-right group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:-scale-x-100"></i>
     </div>
 </a>
     </div>
@@ -667,7 +672,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   </div>
 </div>
 
-  <div class="flex flex-col py-4 mx-auto text-center border-t sm:text-left block-max-w--lg border-company-primary-text border-opacity-15 sm:justify-between sm:flex-row">
+  <div class="flex flex-col py-4 mx-auto text-center border-t sm:text-unset block-max-w--lg border-company-primary-text border-opacity-15 sm:justify-between sm:flex-row">
     <div class="flex justify-center w-full sm:w-auto">
     <a class="text-company-primary hover:text-company-link" href="https://app.teamtailor.com/companies/fgb6nJ0ENTk/dashboard">Employee login</a>
 </div>
@@ -683,8 +688,8 @@ Because we respect your right to privacy, you can choose not to allow some types
   <div class="w-full px-4 pt-12 mx-auto rounded pb-18 block-max-w--lg bg-company-secondary text-company-secondary block-shadow" data-controller="blocks--auto-join--form" >
     <h2 class="text-center font-company-header text-4xl text-shadow">Already working at Papirfly Group?</h2>
     <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
-      <div class="relative mx-auto max-w-[500px] w-full py-5 pl-8 mt-6 rounded cursor-pointer bg-company-secondary-text text-company-secondary bg-opacity-15 pr-14 focus-within:bg-white focus-within:text-gray-800" data-action="click->blocks--auto-join--form#focusEmailField">
-  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0EHAkxPIBuYwpC/PwYDMFLbUbPgJkTp/3vxaO7nbAFNATsC+PqA1/ZBWbrFG/jQXQnsVKD9c/q3qmctACiNiHw==" />
+      <div dir="ltr" class="relative mx-auto max-w-[500px] w-full py-5 pl-8 mt-6 rounded cursor-pointer bg-company-secondary-text text-company-secondary bg-opacity-15 pr-14 focus-within:bg-white focus-within:text-gray-800" data-action="click->blocks--auto-join--form#focusEmailField">
+  <form class="flex items-center leading-tight text-md" data-remote="true" data-blocks--auto-join--form-target="form" data-action="ajax:beforeSend-&gt;blocks--auto-join--form#handleBlur ajax:before-&gt;blocks--auto-join--form#handleBefore ajax:complete-&gt;blocks--auto-join--form#handleComplete" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yvJu5NnDVLR7FZeiAMOGRpTKzry2w+7oNmg2zHl3dkiCs8XCBoFWWJhxuG09ohR6/1Ymh7Bx3hRqbkpuLyQ8hQ==" />
     <input value="papirfly.com" data-blocks--auto-join--form-target="domainField" type="hidden" name="domain" id="domain" />
     <input data-blocks--auto-join--form-target="emailField" type="hidden" name="email" id="email" />
     <input tabIndex="-1" required="required" type="email" autocomplete="off" title="Email address without domain" class="absolute inset-0 opacity-0" data-blocks--auto-join--form-target="fullEmailField" name="full_email" id="full_email" />
@@ -709,21 +714,21 @@ Because we respect your right to privacy, you can choose not to allow some types
   </div>
   <ul class="absolute bottom-[-27px] md:bottom-[-35px] flex items-center justify-center left-0 right-0" data-controller="blocks--auto-join--people">
     <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Michael Pfeiffer" alt="Michael Pfeiffer" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/625cfc52-f832-4023-8828-ce64c0eec304/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Sam Wiltshire" alt="Sam Wiltshire" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/dffb92ff-23ab-4c5e-9567-6dc530029318/original.png" data-blocks--auto-join--people-target="person"></div>
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Martin Landsberger Pospíšil" alt="Martin Landsberger Pospíšil" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/97ecb29a-6fb9-4897-a479-0076c86bf976/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Charlotte Smith" alt="Charlotte Smith" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/6f1c3795-51e0-48be-8b51-554f0ca754c7/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Michael Pfeiffer" alt="Michael Pfeiffer" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/625cfc52-f832-4023-8828-ce64c0eec304/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Helen Keough" alt="Helen Keough" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/16082805-1026-4239-b780-191eb0d41ed6/original.png" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Frode Nortvedt" alt="Frode Nortvedt" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/9f88fc8e-2782-446b-a6c9-2461b3099d8b/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Luke Alexandre" alt="Luke Alexandre" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/f722fe0a-1521-47d9-b1e2-7300572f4170/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Karl Wilhelm Klevan" alt="Karl Wilhelm Klevan" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/bf1a6702-c321-4350-81cc-8278620a3f56/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Tim Tipple" alt="Tim Tipple" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/9d3898eb-ccf2-4a85-8934-3debbd3a4a0d/original.jpeg" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block">
-      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Helen Keough" alt="Helen Keough" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/16082805-1026-4239-b780-191eb0d41ed6/original.png" data-blocks--auto-join--people-target="person"></div>
-</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block hidden md:block">
       <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Zuzana Doležalová" alt="Zuzana Doležalová" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/8444de1d-42db-44b5-a117-f7c527e64588/original.jpeg" data-blocks--auto-join--people-target="person"></div>
+</li>    <li class="flex-shrink-0 rounded-full ml-4 md:ml-7 first:ml-0 bg-company-secondary-text border-3 border-company-secondary-text shadow-form-strong hidden sm:block hidden md:block">
+      <div class="w-12 h-12 md:w-16 md:h-16 rounded-full bg-cover bg-center" title="Karl Wilhelm Klevan" alt="Karl Wilhelm Klevan" data-background-image-url="https://media.cdn.teamtailor.com/images/s3/teamtailor-production/employee_picture-v1/image_uploads/bf1a6702-c321-4350-81cc-8278620a3f56/original.jpeg" data-blocks--auto-join--people-target="person"></div>
 </li></ul>
 
 </div>
@@ -763,7 +768,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'bLZlLk4PGc+acL5RG+qNpqSBtgbQTxne0aQX59RfHYrFk2MzrjlxmeUmk+Di0Yju0mUj0iapRzB3sFghVTBaVLQTVDKE7dWpX6JXLVHoY0XHmF1ijPpAGTkZLUevCU7bxhc7xVfNg77aawOuArfsCOdneAvlu9HKewGD23wEVLggNz1A1XYpudE=--RW2zrVZRn1Drj+c5--dJWU8vskH0J1/c6lYJMcFQ==',
+        ed: 'lKPFkEuYJOGKf41NFKFPh5yt5+jN0Yrgr0+hyQ7spIyZ3iy6lQPVfxjWzODBcqQQqM1rAJ146LD9hLPzKyDg4amCbnRK/UU5pfR60bRqzDHetaBwWRE78HQultFmndFnkTzlTUnXM7Q3mFYOxiRYPNuBU4kDKuzPalaxGX65d9t++DGo8iv2OgA=--e6SLoY2+0BRYqCwW--Cs1ObOiCT8gTC9BR8AflcQ==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

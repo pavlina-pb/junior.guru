@@ -7,7 +7,7 @@
     <title>Frontend Developer - Memsource</title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="X71mqnKyHdpqVSPKXpEsys6c5FCILEIK4V1wUMPSjMr8+HcX0BWljboqXCijkyW7wJaOQI/Ymiq8R63JlvfsPg==" />
+<meta name="csrf-token" content="6wyhgwzGZC6qucKitnfLXPRQlrEUyv3XzaKkMCCtnyW36Wv+KP3wuiKTAL5IJT7zaDNaEmAnbQDoG6tBxZSzwg==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/bccd3130-c0ad-42bb-a744-235e2968e6ec/original.x-icon'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/bccd3130-c0ad-42bb-a744-235e2968e6ec/original.x-icon' sizes='180x180'>
@@ -117,7 +117,7 @@ footer .sitemap .sitemap-inner .links:nth-child(3) ul li:nth-child(2) {display:n
 <meta name="theme-color" content="#0b132b">
 
 
-    <script src="https://assets.teamtailor-cdn.com/assets/packs/js/runtime-cd7899a1e74853fa1c7f.js" data-turbolinks-track="reload" defer="defer"></script>
+    <script src="https://assets.teamtailor-cdn.com/assets/packs/js/runtime-7c4c10197e372e6d6565.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/8833-34bb79aa1c40b967c79a.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/application-46fc5c3c8597ec6cc5ca.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/9917-c446c9b4c62ddec17dec.js" data-turbolinks-track="reload" defer="defer"></script>
@@ -127,7 +127,7 @@ footer .sitemap .sitemap-inner .links:nth-child(3) ul li:nth-child(2) {display:n
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/190-3bad7c80f651713eebf5.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/9943-c785a1e184e223b1fb2c.js" data-turbolinks-track="reload" defer="defer"></script>
 <script src="https://assets.teamtailor-cdn.com/assets/packs/js/font-awesome-be8b730315126737def6.js" data-turbolinks-track="reload" defer="defer"></script>
-    <link rel="stylesheet" media="screen" href="https://assets.teamtailor-cdn.com/assets/packs/css/careersite-5418526e.css" data-turbolinks-track="reload" defer="defer" />
+    <link rel="stylesheet" media="screen" href="https://assets.teamtailor-cdn.com/assets/packs/css/careersite-c1589d46.css" data-turbolinks-track="reload" defer="defer" />
   </head>
 
   <body class="font-company-body min-h-screen flex flex-col text-company-primary bg-company-primary jobs show" data-controller="careersite--referrer-cookie careersite--preload">
@@ -408,7 +408,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 </svg>
 </button>    <div class="absolute flex-col hidden mt-2 mr-2 bg-white rounded min-w-[175px] shadow-form animate__animated animate__faster z-dropdown max-h-[70vh] overflow-y-auto  p-2 top-full ltr:right-0 rtl:left-0" data-common--dropdown-target="dropdown">
 
-        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Facebook" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
+        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Facebook" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6  currentColor">
   
@@ -416,7 +416,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 </svg>
         <span class="mx-3">Facebook</span>
       </span>
-</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Twitter" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
+</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="Twitter" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6  currentColor">
   
@@ -424,7 +424,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 </svg>
         <span class="mx-3">Twitter</span>
       </span>
-</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="LinkedIn" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
+</button>        <button type="button" data-action="click-&gt;common--share#handleClick" data-provider="LinkedIn" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs">
           <span class="flex items-center">
         <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24" class="w-6 h-6  currentColor">
   
@@ -433,7 +433,7 @@ Because we respect your right to privacy, you can choose not to allow some types
         <span class="mx-3">LinkedIn</span>
       </span>
 </button>
-          <a data-event-tracking="click" data-event-category="Sharing" data-event-name="Email: job preview" data-event-label="https://careers.memsource.com/jobs/1538815-frontend-developer" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 text-left hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs" href="mailto:?subject=Check out this job at Memsource&amp;body=I found this job and thought I should share it with you:%0D%0A%0D%0Ahttps://careers.memsource.com/jobs/1538815-frontend-developer">
+          <a data-event-tracking="click" data-event-category="Sharing" data-event-name="Email: job preview" data-event-label="https://careers.memsource.com/jobs/1538815-frontend-developer" class="block whitespace-nowrap no-underline px-3 py-3 sm:py-1 text-gray-800 hover:bg-company-secondary hover:text-company-secondary last:mb-0 mb-1 rounded-xs" href="mailto:?subject=Check out this job at Memsource&amp;body=I found this job and thought I should share it with you:%0D%0A%0D%0Ahttps://careers.memsource.com/jobs/1538815-frontend-developer">
             <span class="flex items-center">
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6  currentColor">
   
@@ -476,8 +476,9 @@ Because we respect your right to privacy, you can choose not to allow some types
     <span title="Prague, Hamburg, UK (fully remote)">Multiple locations</span>
 
     <span class="mx-[2px]">&middot;</span>
-  <span class="inline-flex items-center">
-    Fully Remote<i class="w-5 h-5 ml-2 text-sm fas fa-wifi"></i>
+  <span class="inline-flex items-center gap-x-2">
+    Fully Remote
+    <i class="w-5 h-5 text-sm fas fa-wifi"></i>
 </span>
     </div>
     <h1 class="font-company-header text-[35px] md:text-6xl lg:text-[72px] leading-tight" data-controller="fit-title">Frontend Developer</h1>
@@ -486,9 +487,9 @@ Because we respect your right to privacy, you can choose not to allow some types
       <div class="mt-10">
     
         <a class="careersite-button min-w-[220px] group  min-w-[220px] bg-opacity-100" href="/jobs/1538815-frontend-developer/applications/new">
-    <div class="flex items-center justify-center">
+    <div class="flex items-center justify-center gap-x-3">
       <span class="truncate">Apply now</span>
-        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] fa-chevron-right group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:-scale-x-100"></i>
     </div>
 </a>
 
@@ -555,21 +556,21 @@ Because we respect your right to privacy, you can choose not to allow some types
   <div class="px-8 mx-auto max-w-[856px] w-full bg-company-primary-text bg-opacity-3 rounded pt-12 pb-10">
       <dl class=" mb-5 md:max-w-[70%] mx-auto text-md flex flex-wrap flex-col md:flex-row company-links">
           <dt class="w-full font-semibold md:mb-5 md:w-half">Department</dt>
-<dd class="w-full mb-5 md:w-half md:pl-16">
+<dd class="w-full mb-5 md:w-half md:ltr:pl-16 md:rtl:pr-16">
   
               Engineering
 
 </dd>
 
           <dt class="w-full font-semibold md:mb-5 md:w-half">Locations</dt>
-<dd class="w-full mb-5 md:w-half md:pl-16">
+<dd class="w-full mb-5 md:w-half md:ltr:pl-16 md:rtl:pr-16">
   
               Prague, Hamburg, UK (fully remote)
 
 </dd>
 
           <dt class="w-full font-semibold md:mb-5 md:w-half">Remote status</dt>
-<dd class="w-full mb-5 md:w-half md:pl-16">
+<dd class="w-full mb-5 md:w-half md:ltr:pl-16 md:rtl:pr-16">
   
             Fully Remote
 
@@ -577,7 +578,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 
 
           <dt class="w-full font-semibold md:mb-5 md:w-half">Employment type</dt>
-<dd class="w-full mb-5 md:w-half md:pl-16">
+<dd class="w-full mb-5 md:w-half md:ltr:pl-16 md:rtl:pr-16">
   
             Full-time
 
@@ -588,9 +589,9 @@ Because we respect your right to privacy, you can choose not to allow some types
     
       <section class="flex flex-col items-center">
         <a class="careersite-button min-w-[220px] group  min-w-[220px] bg-opacity-100" href="/jobs/1538815-frontend-developer/applications/new">
-    <div class="flex items-center justify-center">
+    <div class="flex items-center justify-center gap-x-3">
       <span class="truncate">Apply now</span>
-        <i class="transition duration-200 transform fas mt-[-1px] pl-3 fa-chevron-right group-hover:translate-x-1"></i>
+        <i class="transition duration-200 transform fas mt-[-1px] fa-chevron-right group-hover:translate-x-1 rtl:group-hover:-translate-x-1 rtl:-scale-x-100"></i>
     </div>
 </a>
 
@@ -633,7 +634,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 <footer class="justify-self-end block-px mt-auto">
     <div class="text-lg block-padding" data-controller="blocks--footer--menu">
   <div class="w-full mx-auto sm:flex block-max-w--lg">
-      <div class="w-full lg:flex-shrink-0 md:w-[47%] md:text-center lg:text-left lg:w-[25%] md:pr-[3%] mb-10 lg:mb-0 last:mb-0 company-links">
+      <div class="w-full lg:flex-shrink-0 md:w-[47%] md:text-center lg:text-unset lg:w-[25%] md:pr-[3%] mb-10 lg:mb-0 last:mb-0 company-links">
   <h3 class="mb-4 text-xl font-company-header">Career site</h3>
   <ul class="flex flex-col gap-y-3">
       <li class="w-full text-md leading-tight">
@@ -649,7 +650,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 </div>
 
 
-      <div class="w-full lg:flex-shrink-0 md:w-[47%] md:text-center lg:text-left lg:w-[25%] md:pr-[3%] mb-10 lg:mb-0 last:mb-0 company-links">
+      <div class="w-full lg:flex-shrink-0 md:w-[47%] md:text-center lg:text-unset lg:w-[25%] md:pr-[3%] mb-10 lg:mb-0 last:mb-0 company-links">
   <h3 class="mb-4 text-xl font-company-header">Departments</h3>
   <ul class="flex flex-col gap-y-3">
       <li class="w-full text-md leading-tight">
@@ -667,7 +668,7 @@ Because we respect your right to privacy, you can choose not to allow some types
 
     <div class="flex flex-col items-center justify-center flex-grow flex-shrink-0 overflow-hidden text-base sm:items-end sm:justify-end"></div></div></div>
 
-  <div class="flex flex-col py-4 mx-auto text-center border-t sm:text-left block-max-w--lg border-company-primary-text border-opacity-15 sm:justify-between sm:flex-row">
+  <div class="flex flex-col py-4 mx-auto text-center border-t sm:text-unset block-max-w--lg border-company-primary-text border-opacity-15 sm:justify-between sm:flex-row">
     <div class="flex justify-center w-full sm:w-auto">
     <a class="text-company-primary hover:text-company-link" href="/sso_login">Employee login</a>
 </div>
@@ -683,7 +684,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   <div class="w-full px-4 pt-12 mx-auto rounded pb-18 block-max-w--lg bg-company-secondary text-company-secondary block-shadow" data-controller="blocks--auto-join--form" >
     <h2 class="text-center font-company-header text-4xl text-shadow">Already working at Memsource?</h2>
     <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
-      <form class="flex w-full mt-6" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5US5deRfDzE+v68LqMBl8fn87cp6bQ0Xjf1NSoGv3gQwyJgW7AQ7eFq8qyKPoxgyLTbf6b7pAO6kesxScrpfBQ==" />
+      <form class="flex w-full mt-6" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1+VbLorK3ChuQt69/HU4u4kfp+mSD8+4+1+S5Il7P3Trif4Mgi/4B656Mn26VG4PXAapIpBfLWG4SVKddc4/bg==" />
   <button type="submit" class="careersite-button careersite-button--secondary mx-auto min-w-[200px]" data-event-tracking="click" data-event-category="Account" data-event-name="Auto Joined: Create" data-event-label="Click">
     Log in
 </button></form>
@@ -726,7 +727,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: 'DmlfaLbb/gAKsitAjL41I6QZTh35OPmQFUT1MXH1vT1tkYnRhGfNUE6OzM8WFTApLMYmcEA9wGV4uAD4pBwGpjkA1MyzZHYFIoR22aa2EV3ALuAUIA92Ezs+/Di0BSZ00G9gZn8r3xmtAtGceXSmSg5Gpx0JP9TuVglu35yMtGyer947sJ71XjFkEFlFzcr8hv/J5peafw==--LOVPsagTrk2iRgz2--lEI0H1rKBT+L/o1VmWfs2Q==',
+        ed: 'l1SeQq83cv16AZHJKvcMQMtUh3HIx+EzO0b1MlAL18hUspXgHsXB/y1TXgVWT9VGtiQyXujaP3wCWOCSjYdyyUptGLS+cXqO6ra1v4NsO5zxs5e97oKTtR/imBXMaveX+oeHSy60R2qKlH6BEh2qzKDHHYdmgR6OM1yCQbYvcLbhHgdFSYZ6hg2yDVnk9CIUbXy/P9+xRg==--JLqtGO7kirx/wgcd--vpkWyTl7v9Dto9lntTqiVw==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

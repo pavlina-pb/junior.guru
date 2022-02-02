@@ -91,13 +91,10 @@
     
     
 
-        <figure class="num-applicants__figure topcard__flavor--metadata topcard__flavor--bullet">
-          <span class="num-applicants__icon num-applicants__icon--clock lazy-load"></span>
-          <figcaption class="num-applicants__caption">
-            Be among the first 25 applicants
-          </figcaption>
-        </figure>
-      
+        <span class="num-applicants__caption topcard__flavor--metadata topcard__flavor--bullet">
+          25 applicants
+        </span>
+  
         </div>
           
     
@@ -108,13 +105,13 @@
     <div class="face-pile see-who-was-hired">
       <div class="face-pile__images-container">
           
+      <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/e35v5d00c9m96fu6a13unq7ei" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
+  
+          
       <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/56eykoq8djj56h5r6i28llghm" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
   
           
       <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/a2wlk3z1s5pffht0cyhsdg2bs" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
-  
-          
-      <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/ep18cz0zbog1k61nu8kk2kwmr" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
   
       </div>
           <a class="face-pile__cta" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D18043750%26title%3DSoftware%2BEngineer&amp;emailAddress=&amp;fromSignIn=&amp;trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta" data-tracking-control-name="public_jobs_see-who-was-hired_people-search-link_face-pile-cta" data-tracking-will-navigate>
@@ -133,7 +130,7 @@
     
     
 
-      <button class="unify-apply-button__modal-outlet unify-apply-button top-card-layout__cta top-card-layout__cta--primary" data-modal="unify-apply-modal" data-reference-id="Rqr6iMMpRsWl4Dq7dNJEIg==" data-tracking-control-name="public_unify_click_onsite_apply">
+      <button class="unify-apply-button__modal-outlet unify-apply-button top-card-layout__cta top-card-layout__cta--primary" data-modal="unify-apply-modal" data-reference-id="hcaa5xmbSTC7cfNGaElX4Q==" data-tracking-control-name="public_unify_click_onsite_apply">
         Apply Now
       </button>
   
@@ -273,7 +270,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"The password you provided must have at most 400 characters"--></code>
 
     <form class="sign-in-form save-job-form-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="690bc7a3-c5ab-433f-8e18-7b419995f36c" type="hidden">
+      <input name="loginCsrfParam" value="643b373d-edec-42c1-80bc-5a9ce27347e7" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -470,7 +467,7 @@
       
     <section class="show-more-less-html" data-max-lines="5">
       <div class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5">
-        •	Are you interested in Electric mobility and want to shape a more sustainable future?  We would like to expand our team by a Software Developer to support us in our mission to accomplish this vision.<br>•	The Charging System team is mostly focusing on Software Development and its Validation of a variety of systems related to Electric mobility, predominantly in the areas of charging infrastructure (AC Fast Charging, DC High Power Charging) as well as in components located in Electric Vehicles themselves. <br>•	To enrich our team, we are looking for a new member that has hands-on programming experience and is keen on becoming an expert in Electric mobility and its related standards (OCPP2.0, EEBus, ISO15118, …) by implementing and/or validating respective Software.<br><br>Tasks<br>•	Implementation of Software in automotive systems in C/C++ <br>•	Collaboration with other team members on Software Validation <br>•	Collaboration with other team members to contribute to the Continuous Integration and Development process<br>•	Supporting the creation of Software architecture and specification<br>•	Cooperation with other project teams and suppliers<br>•	Demonstration and presentation of implemented functionalities<br><br>Requirements<br><br>Must have:<br>•	Degree with technical focus in Computer Science, Software Engineering, Mechatronics, Automotive Engineering or Control Engineering preferred<br>•	Good working knowledge in C/C++ <br>•	User-like knowledge of the Linux operating system<br>•	Good working knowledge in English <br>•	Experience working with Agile Project Management methodologies like Scrum or Kanban<br>•	Service- and team-oriented working style<br>•	Self-confidence and an eye for the essential<br><br>Nice to have:<br>•	Experience in the field of Electric mobility <br>•	Absolved Certified Scrum Master – CSM® course<br>•	Good working knowledge of other programming/scripting languages such as Python, C# and Bash <br>•	Knowledge of IT Security/Cryptography <br>•	Experience with Atlassian Tools, Gitlab<br>•	Working knowledge in German is an advantage<br>
+        <p>•	Are you interested in Electric mobility and want to shape a more sustainable future? We would like to expand our team by a Software Developer to support us in our mission to accomplish this vision.</p><p>•	The Charging System team is mostly focusing on Software Development and its Validation of a variety of systems related to Electric mobility, predominantly in the areas of charging infrastructure (AC Fast Charging, DC High Power Charging) as well as in components located in Electric Vehicles themselves. </p><p>•	To enrich our team, we are looking for a new member that has hands-on programming experience and is keen on becoming an expert in Electric mobility and its related standards (OCPP2.0, EEBus, ISO15118, …) by implementing and/or validating respective Software.</p><p><br></p><p>Tasks</p><p>•	Implementation of Software in automotive systems in C/C++ </p><p>•	Collaboration with other team members on Software Validation </p><p>•	Collaboration with other team members to contribute to the Continuous Integration and Development process</p><p>•	Supporting the creation of Software architecture and specification</p><p>•	Cooperation with other project teams and suppliers</p><p>•	Demonstration and presentation of implemented functionalities</p><p><br></p><p>Requirements</p><p><br></p><p>Must have:</p><p>•	Degree with technical focus in Computer Science, Software Engineering, Mechatronics, Automotive Engineering or Control Engineering preferred</p><p>•	Good working knowledge in C/C++ </p><p>•	User-like knowledge of the Linux operating system</p><p>•	Good working knowledge in English </p><p>•	Experience working with Agile Project Management methodologies like Scrum or Kanban</p><p>•	Service- and team-oriented working style</p><p>•	Self-confidence and an eye for the essential</p><p><br></p><p>Nice to have:</p><p>•	Experience in the field of Electric mobility </p><p>•	Absolved Certified Scrum Master – CSM® course</p><p>•	Good working knowledge of other programming/scripting languages such as Python, C# and Bash </p><p>•	Knowledge of IT Security/Cryptography </p><p>•	Experience with Atlassian Tools, Gitlab</p><p>•	Working knowledge in German is an advantage</p><p><br></p><p>Please apply to the open position via our job locator:</p><p><br></p><p>https://porscheengineering.jobs.cz/detail?r=detail&amp;id=cpbr-1566576315&amp;rps=233</p>
       </div>
 
         
@@ -535,13 +532,13 @@
     <div class="face-pile">
       <div class="face-pile__images-container">
           
+      <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/tgg16g4l8khb9lwyit64p5rp" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
+  
+          
       <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/l525cbfhd5o3bku6r37kxly1" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
   
           
       <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/cpmr0fzgd0uvdtnfmhm2blnnp" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
-  
-          
-      <img class="artdeco-entity-image artdeco-entity-image--circle-1  face-pile__image face-pile__image--1" data-delayed-url="https://static-exp1.licdn.com/sc/h/9xu9nvkhqn88oqusz8vit8jn1" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry" alt>
   
       </div>
         
@@ -571,7 +568,7 @@
     
     
 
-      <button class="unify-apply-button__modal-outlet unify-apply-button" data-modal="unify-apply-modal" data-reference-id="Rqr6iMMpRsWl4Dq7dNJEIg==" data-tracking-control-name="public_unify_click_onsite_apply">
+      <button class="unify-apply-button__modal-outlet unify-apply-button" data-modal="unify-apply-modal" data-reference-id="hcaa5xmbSTC7cfNGaElX4Q==" data-tracking-control-name="public_unify_click_onsite_apply">
         Apply Now
       </button>
   
@@ -580,7 +577,7 @@
     
 
     <code id="jobId" style="display: none"><!--2871012887--></code>
-    <code id="referenceId" style="display: none"><!--"Rqr6iMMpRsWl4Dq7dNJEIg=="--></code>
+    <code id="referenceId" style="display: none"><!--"hcaa5xmbSTC7cfNGaElX4Q=="--></code>
 
     
 
@@ -711,7 +708,7 @@
     <code id="i18n_password_error_too_long" style="display: none"><!--"The password you provided must have at most 400 characters"--></code>
 
     <form class="sign-in-form unify-apply-sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate>
-      <input name="loginCsrfParam" value="690bc7a3-c5ab-433f-8e18-7b419995f36c" type="hidden">
+      <input name="loginCsrfParam" value="643b373d-edec-42c1-80bc-5a9ce27347e7" type="hidden">
 
       <div class="sign-in-form__inputs">
         
@@ -975,7 +972,7 @@
 
 <!---->
           
-    <div class="dropdown" data-dropdown-response-value="1" data-dropdown-response-value-urn="urn:li:country:US" data-dropdown-required="true">
+    <div class="dropdown" data-dropdown-response-value="61" data-dropdown-response-value-urn="urn:li:country:AU" data-dropdown-required="true">
       <select id="urn:li:jobs_applyformcommon_easyApplyFormElement:(2871012887,9,phoneNumber~country)" class="dropdown__select">
           <option value>Select an option</option>
           <option data-option-value="93" data-option-value-urn="urn:li:country:af" value="urn:li:country:af">
@@ -1016,6 +1013,9 @@
           </option>
           <option data-option-value="297" data-option-value-urn="urn:li:country:aw" value="urn:li:country:aw">
             Aruba (+297)
+          </option>
+          <option data-option-value="61" data-option-value-urn="urn:li:country:au" value="urn:li:country:au">
+            Australia (+61)
           </option>
           <option data-option-value="61" data-option-value-urn="urn:li:country:au" value="urn:li:country:au">
             Australia (+61)
@@ -1676,9 +1676,6 @@
           </option>
           <option data-option-value="44" data-option-value-urn="urn:li:country:gb" value="urn:li:country:gb">
             United Kingdom (+44)
-          </option>
-          <option data-option-value="1" data-option-value-urn="urn:li:country:us" value="urn:li:country:us">
-            United States (+1)
           </option>
           <option data-option-value="1" data-option-value-urn="urn:li:country:us" value="urn:li:country:us">
             United States (+1)

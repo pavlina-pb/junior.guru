@@ -45,12 +45,12 @@ var dataLayer = dataLayer || [];
 <meta property="og:description" content="..." />
 <meta property="og:url" content="https://natek.eu/jobs/ios-sw-developer/" />
 <meta property="og:site_name" content="NATEK Work IT with us" />
-<meta property="article:modified_time" content="2022-01-28T16:00:12+00:00" />
+<meta property="article:modified_time" content="2022-02-01T12:00:13+00:00" />
 <meta property="og:image" content="https://natek.eu/wp-content/uploads/2018/10/autumn-cover-08.png" />
 <meta property="og:image:width" content="2500" />
 <meta property="og:image:height" content="1306" />
 <meta name="twitter:card" content="summary" />
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://natek.eu/#organization","name":"Natek","url":"https://natek.eu/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://natek.eu/#logo","inLanguage":"en-US","url":"https://natek.eu/wp-content/uploads/2017/02/logo-mobile.png","width":169,"height":74,"caption":"Natek"},"image":{"@id":"https://natek.eu/#logo"}},{"@type":"WebSite","@id":"https://natek.eu/#website","url":"https://natek.eu/","name":"NATEK Work IT with us","description":"NATEK zapewnia specjalist\u00f3w najwy\u017cszej pr\u00f3by, przygotowanych do pracy z dowoln\u0105 technologi\u0105 \u2013 internetow\u0105, mobiln\u0105 czy desktopow\u0105.","publisher":{"@id":"https://natek.eu/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://natek.eu/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://natek.eu/jobs/ios-sw-developer/#webpage","url":"https://natek.eu/jobs/ios-sw-developer/","name":"iOS SW developer - NATEK Work IT with us","isPartOf":{"@id":"https://natek.eu/#website"},"datePublished":"2021-01-21T16:31:51+00:00","dateModified":"2022-01-28T16:00:12+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://natek.eu/jobs/ios-sw-developer/"]}]}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://natek.eu/#organization","name":"Natek","url":"https://natek.eu/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://natek.eu/#logo","inLanguage":"en-US","url":"https://natek.eu/wp-content/uploads/2017/02/logo-mobile.png","width":169,"height":74,"caption":"Natek"},"image":{"@id":"https://natek.eu/#logo"}},{"@type":"WebSite","@id":"https://natek.eu/#website","url":"https://natek.eu/","name":"NATEK Work IT with us","description":"NATEK zapewnia specjalist\u00f3w najwy\u017cszej pr\u00f3by, przygotowanych do pracy z dowoln\u0105 technologi\u0105 \u2013 internetow\u0105, mobiln\u0105 czy desktopow\u0105.","publisher":{"@id":"https://natek.eu/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://natek.eu/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://natek.eu/jobs/ios-sw-developer/#webpage","url":"https://natek.eu/jobs/ios-sw-developer/","name":"iOS SW developer - NATEK Work IT with us","isPartOf":{"@id":"https://natek.eu/#website"},"datePublished":"2021-01-21T16:31:51+00:00","dateModified":"2022-02-01T12:00:13+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://natek.eu/jobs/ios-sw-developer/"]}]}]}</script>
 <!-- / Yoast SEO plugin. -->
 <link rel='dns-prefetch' href='//ajax.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -617,13 +617,13 @@ jQuery('.st-search-field .search-results').fadeOut("fast").html("");
 <div class="jobs-search-form">
 <form action="https://natek.eu/" id="job-form" method="get" role="search">
 <div class="input-row">
-<input type="text" name="se" placeholder="Find your dream job e.g. java developer" value=""><!--using comments to remove spaces for display:inline
+<input type="text" name="se" placeholder="Find your dream job e.g. java developer" value="ios"><!--using comments to remove spaces for display:inline
 --><select name="pjobcategory" id="pjobcategory" form="job-form">
 <option value="">All Teams & Roles</option>
 selected='selected'<option value=""  selected='selected'></option><option value=".NET (C#)" >.NET (C#)</option><option value="Business Analyst" >Business Analyst</option><option value="C/C++" >C/C++</option><option value="Customer Support" >Customer Support</option><option value="DB - SQL" >DB - SQL</option><option value="Database Administrator" >Database Administrator</option><option value="ERP Functional Consultant" >ERP Functional Consultant</option><option value="Frontend Developer" >Frontend Developer</option><option value="Human Resources" >Human Resources</option><option value="IT Infrastructure and Tools" >IT Infrastructure and Tools</option><option value="IT Voice" >IT Voice</option><option value="Java J2EE" >Java J2EE</option><option value="Javascript" >Javascript</option><option value="Linux" >Linux</option><option value="Marketing" >Marketing</option><option value="Network Specialist" >Network Specialist</option><option value="Operations" >Operations</option><option value="PHP" >PHP</option><option value="Project Manager" >Project Manager</option><option value="Quality Assurance, Security" >Quality Assurance, Security</option><option value="SAP Abap" >SAP Abap</option><option value="SAP Basis (R3, ECC)" >SAP Basis (R3, ECC)</option><option value="Sales" >Sales</option><option value="Scrum Master" >Scrum Master</option><option value="Software Developer" >Software Developer</option><option value="Solution Architect" >Solution Architect</option><option value="Sourcing" >Sourcing</option><option value="System Administrator" >System Administrator</option><option value="System Integrator" >System Integrator</option><option value="Systems Programmer" >Systems Programmer</option><option value="Tester" >Tester</option><option value="Web Specialist" >Web Specialist</option><option value="Windows" >Windows</option>			</select><!--
 --><select name="pcountry" id="pcountry" class="select-country" form="job-form">
 <option value="">All Countries</option>
-<option value="Poland" >Poland</option><option class="select-city-option" id="select-city-Poland" value="Warsaw">Warsaw</option><option class="select-city-option" id="select-city-Poland" value="Cracow">Cracow</option><option class="select-city-option" id="select-city-Poland" value="Wroclaw">Wroclaw</option><option class="select-city-option" id="select-city-Poland" value="Bydgoszcz">Bydgoszcz</option><option class="select-city-option" id="select-city-Poland" value="Gdansk">Gdansk</option><option class="select-city-option" id="select-city-Poland" value="Gdynia">Gdynia</option><option value="Bulgaria" >Bulgaria</option><option class="select-city-option" id="select-city-Bulgaria" value="Sofia">Sofia</option><option value="Slovakia" >Slovakia</option><option class="select-city-option" id="select-city-Slovakia" value="Bratislava">Bratislava</option><option class="select-city-option" id="select-city-Slovakia" value="Kosice">Kosice</option><option value="Czech Republic" >Czech Republic</option><option class="select-city-option" id="select-city-Czech Republic" value="Prague">Prague</option><option class="select-city-option" id="select-city-Czech Republic" value="Brno">Brno</option><option class="select-city-option" id="select-city-Czech Republic" value="Ostrava">Ostrava</option><option value="Germany" >Germany</option>
+<option value="Slovakia" >Slovakia</option><option class="select-city-option" id="select-city-Slovakia" value="Bratislava">Bratislava</option><option class="select-city-option" id="select-city-Slovakia" value="Kosice">Kosice</option><option value="Poland" >Poland</option><option class="select-city-option" id="select-city-Poland" value="Warsaw">Warsaw</option><option class="select-city-option" id="select-city-Poland" value="Cracow">Cracow</option><option class="select-city-option" id="select-city-Poland" value="Wroclaw">Wroclaw</option><option class="select-city-option" id="select-city-Poland" value="Bydgoszcz">Bydgoszcz</option><option class="select-city-option" id="select-city-Poland" value="Gdansk">Gdansk</option><option class="select-city-option" id="select-city-Poland" value="Gdynia">Gdynia</option><option value="Bulgaria" >Bulgaria</option><option class="select-city-option" id="select-city-Bulgaria" value="Sofia">Sofia</option><option value="Czech Republic" >Czech Republic</option><option class="select-city-option" id="select-city-Czech Republic" value="Prague">Prague</option><option class="select-city-option" id="select-city-Czech Republic" value="Brno">Brno</option><option class="select-city-option" id="select-city-Czech Republic" value="Ostrava">Ostrava</option><option value="Germany" >Germany</option>
 </select>
 <!--Implementation for IT-3508-->
 <!-- <select name="pcity" id="pcity" class="select-country" form="job-form"> -->
@@ -642,7 +642,7 @@ selected='selected'<option value=""  selected='selected'></option><option value=
 <div class="row">
 <div class="small-12 columns text-center results-header">
 DETAILS<br>
-<span>
+<span>ios, 
 All categories, 
 All countries
 </span>
@@ -825,12 +825,6 @@ _____________PROPONOWANE_______________
 <h4 class="text-center medium-text-left">CONNECTED: JOB</h4>
 <div class="sidebar-stanowisko">
 <div class="sidebar-job-item text-center medium-text-left">
-<p  class="text-center medium-text-left"><a href="https://natek.eu/jobs/php-developer-7/" rel="bookmark" title="PHP Developer">PHP Developer</a><br>
-<span><strong>Sofia, Bulgaria</strong></span>
-</p>
-<a href="https://profile.natek.eu/login.php?task=login&vacancy=3067" target="_blank" class="button blog-more-button">Apply</a>
-</div>
-<div class="sidebar-job-item text-center medium-text-left">
 <p  class="text-center medium-text-left"><a href="https://natek.eu/jobs/statistical-programmer/" rel="bookmark" title="Statistical Programmer">Statistical Programmer</a><br>
 <span><strong>Warsaw, Poland</strong></span>
 </p>
@@ -841,6 +835,12 @@ _____________PROPONOWANE_______________
 <span><strong>, Poland</strong></span>
 </p>
 <a href="https://profile.natek.eu/login.php?task=login&vacancy=3138" target="_blank" class="button blog-more-button">Apply</a>
+</div>
+<div class="sidebar-job-item text-center medium-text-left">
+<p  class="text-center medium-text-left"><a href="https://natek.eu/jobs/full-stack-developer-java-and-angular-2/" rel="bookmark" title="Full stack Developer – Java and Angular">Full stack Developer – Java and Angular</a><br>
+<span><strong>Gdansk, Poland</strong></span>
+</p>
+<a href="https://profile.natek.eu/login.php?task=login&vacancy=3126" target="_blank" class="button blog-more-button">Apply</a>
 </div>
 -->
 </div>
@@ -1063,7 +1063,7 @@ wp.i18n.setLocaleData( localeData, domain );
 <script type='text/javascript' src='https://natek.eu/wp-includes/js/dist/api-fetch.min.js?ver=4dec825c071b87c57f687eb90f7c23c3' id='wp-api-fetch-js'></script>
 <script type='text/javascript' id='wp-api-fetch-js-after'>
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://natek.eu/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "293a7a6643" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "498152a8db" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://natek.eu/wp-admin/admin-ajax.php?action=rest-nonce";
@@ -1101,4 +1101,4 @@ var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[href*='#']:
 <script type='text/javascript' src='https://natek.eu/wp-content/themes/natek/assets/js/slick.min.js?ver=1.6.1' id='slick-js-js'></script>
 </body>
 </html><!-- end page -->
-<!-- WP Fastest Cache file was created in 0.698890209198 seconds, on 28-01-22 17:06:50 -->
+<!-- WP Fastest Cache file was created in 0.68708515167236 seconds, on 01-02-22 13:54:47 -->
