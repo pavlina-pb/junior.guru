@@ -7,7 +7,7 @@
     <title>QA Tester / Test Analyst - Memsource</title>
 
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="2QRkvAJSlJK7+NClAuCsl1Me6uiIEn0BjhiuWWihrPLranvDmnKNg0oMjCxUt8I971RXAUUW0WyufpBXH/4GgA==" />
+<meta name="csrf-token" content="X0fPJfU0N8a8kDtjSDXsfFCGiisYZhLlJVldKNbLadOK58hWlSJTQGy7qRxcpeSbWGkXI4YE7ClpNg3wzIBaDQ==" />
     <meta name="csp-nonce" />
 
     <link rel='icon' type='image/png' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon-v1/image_uploads/bccd3130-c0ad-42bb-a744-235e2968e6ec/original.x-icon'><link rel='apple-touch-icon' href='https://media.cdn.teamtailor.com/images/s3/teamtailor-production/favicon_apple-v1/image_uploads/bccd3130-c0ad-42bb-a744-235e2968e6ec/original.x-icon' sizes='180x180'>
@@ -527,7 +527,6 @@ Because we respect your right to privacy, you can choose not to allow some types
               Engineering
 
 </dd>
-
           <dt class="w-full font-semibold md:mb-5 md:w-half">Locations</dt>
 <dd class="w-full mb-5 md:w-half md:ltr:pl-16 md:rtl:pr-16">
   
@@ -581,9 +580,9 @@ Because we respect your right to privacy, you can choose not to allow some types
       <span class="mb-1 text-sm font-bold tracking-widest uppercase">Contact</span>
       <a class="text-lg md:text-xl font-company-header" href="/people/891768-nadine-steinert">Nadine Steinert </a>
       <span class="leading-tight md:text-md">
-        Recruiting Lead
+        Talent Acquisition Lead
          – 
-        HR
+        People
       </span>
     </div>
   </div>
@@ -650,7 +649,7 @@ Because we respect your right to privacy, you can choose not to allow some types
   <div class="w-full px-4 pt-12 mx-auto rounded pb-18 block-max-w--lg bg-company-secondary text-company-secondary block-shadow" data-controller="blocks--auto-join--form" >
     <h2 class="text-center font-company-header text-4xl text-shadow">Already working at Memsource?</h2>
     <p class="text-center text-xl text-opacity-80 text-company-secondary text-shadow">Let’s recruit together and find your next colleague.</p>
-      <form class="flex w-full mt-6" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="D4vcgc/UqmKynC5jbeaRSUIzvtXd9tosdU8/eeXugIrGjLPjHUJ/rp6pzMfqZdFEKCtydvXSX/FartUzw9UN+Q==" />
+      <form class="flex w-full mt-6" action="/auto_join" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="B7Wi0wOBB9akGJ74M6N2g/MrcBV34EFfoYVzxYX6qO/pdRDPajb01ei0cst/WoyU+ZdTj6OKpm2vWVowlJCAjQ==" />
   <button type="submit" class="careersite-button careersite-button--secondary mx-auto min-w-[200px]" data-event-tracking="click" data-event-category="Account" data-event-name="Auto Joined: Create" data-event-label="Click">
     Log in
 </button></form>
@@ -693,7 +692,7 @@ Because we respect your right to privacy, you can choose not to allow some types
     window.analyticsPageviewCallback = true;
     window.addEventListener('turbolinks:load', function() {
       var payload = {
-        ed: '6y9ajSpkRJK34uh9i7yWz6TluvuXGIYVD0j/rN6B5meEgfvxZ4S3hAXbn8W8H9hfDiDtYfiWfBC6QigyGORq6GyTdFa0YJRWvA9MbovtlOrOi2fwHQMl2ryCUumYRRaR0LfKiZVs1d5DvKujnAVHKmcDkVJ1rLb/F40RV12AEmFF9UJ+rTpOUo4=--WoM/xwMaQkTS1gEc--qcY4TaZeDb9hCa8wftmXfw==',
+        ed: 'TbFZOsU3g0+Zy1s5OGwQoDDKyMO8gTs/eJo7D4JwdywuVHNm6Tsad2lesNvjBzyiD3cSDTiaAR/QjvKSIjm078wMADmt57VC2+8ECnHHPsFY9M8H69xkM7gwgKZENvT0EdlQ2kJ08HDQynJcLWEIjtjwj/rroHiy89FcTU9aGJWTdONFjirVJBo=--JpBCW16z3CjoELsW--YGBUw3umhm1vP1IwoncmCw==',
         referrer: document.referrer,
         data: {
           ua: navigator.userAgent,

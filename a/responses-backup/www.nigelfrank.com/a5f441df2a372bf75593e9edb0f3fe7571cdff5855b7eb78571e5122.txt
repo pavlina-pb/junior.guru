@@ -76,9 +76,12 @@ Within this role you will be working on a greenfield project within a fast-paced
 
 
 </head>
+    <script>
+        var touchDevice = true;
+    </script>
+    
 
-
-<body class='body-job-view  '>
+<body class='body-job-view touch-device '>
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H92QGK"
                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -232,10 +235,10 @@ Within this role you will be working on a greenfield project within a fast-paced
 	<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a title="Employer Testimonials" href="https://www.nigelfrank.com/employers/testimonials/"><i class="fa fa-angle-right"></i>Employer Testimonials</a></li>
 </ul>
 </li>
-<li id="menu-item-3189" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-3189 dropdown">
+<li id="menu-item-3189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3189 dropdown">
 <a title="Market Reports" class="has-children" role="button" aria-expanded="false">Market Reports <span class="caret"></span></a>
 <ul class="dropdown-menu">
-<li id="menu-item-8911" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-234 current_page_item menu-item-8911 active"><a title="Business Applications Careers and Hiring Guide 2022" href="https://www.nigelfrank.com/business-apps-careers-and-hiring-guide/"><i class="fa fa-angle-right"></i>Business Applications Careers and Hiring Guide 2022</a></li>
+<li id="menu-item-8911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8911"><a title="Business Applications Careers and Hiring Guide 2022" href="https://www.nigelfrank.com/business-apps-careers-and-hiring-guide/"><i class="fa fa-angle-right"></i>Business Applications Careers and Hiring Guide 2022</a></li>
 	<li id="menu-item-8852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8852"><a title="Microsoft 365 and Azure Careers and Hiring Guide" href="https://www.nigelfrank.com/microsoft-365-azure-careers-and-hiring-guide/"><i class="fa fa-angle-right"></i>Microsoft 365 and Azure Careers and Hiring Guide</a></li>
 	<li id="menu-item-13745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13745"><a title="Overcoming Business Challenges With Dynamics" href="https://www.nigelfrank.com/overcoming-business-challenges-with-dynamics/"><i class="fa fa-angle-right"></i>Overcoming Business Challenges With Dynamics</a></li>
 	<li id="menu-item-12965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12965"><a title="Overcoming Business Challenges with Azure" href="https://www.nigelfrank.com/overcoming-business-challenges-with-azure/"><i class="fa fa-angle-right"></i>Overcoming Business Challenges with Azure</a></li>
@@ -244,7 +247,7 @@ Within this role you will be working on a greenfield project within a fast-paced
 </ul>
 </li>
 <li id="menu-item-10784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10784"><a title="Candidate Search" href="https://candidate-search.nigelfrank.com/search/results">Candidate Search</a></li>
-<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-142"><a title="Blog" href="https://www.nigelfrank.com/blog/">Blog</a></li>
 <li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381 dropdown">
 <a title="Work for Us" target="_blank" href="https://www.frankgroup.com/join-us/" class="has-children" role="button" aria-expanded="false">Work for Us <span class="caret"></span></a>
 <ul class="dropdown-menu">
@@ -386,7 +389,7 @@ Within this role you will be working on a greenfield project within a fast-paced
 
     
     <div>
-        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="aHSoQoMwLERmyUohCgfhV5gCzBUXLTbvVSgTZYHM">        <input name="jobs[]" type="hidden" value="393149">
+        <form method="POST" action="https://www.nigelfrank.com/jobs/apply" accept-charset="UTF-8" target="_self" class="full job-view-form"><input name="_token" type="hidden" value="8UnpHp6DommuEZIJfcGALmbyZPW8nlU1tpmsVEU7">        <input name="jobs[]" type="hidden" value="393149">
         <div class="row">
             <div class=" no-gutter-mobile">
                                     <div class="col-xs-12 col-sm-12 link-search-results">
@@ -497,7 +500,7 @@ Within this role you will be working on a greenfield project within a fast-paced
                                                             <span data-lang-add="Save Job"
                                       data-lang-remove="Saved Job"
                                       class="btn  btn-secondary-theme shortlist btn-block"
-                                      data-job-id="/saved-jobs/add/393149?_token=aHSoQoMwLERmyUohCgfhV5gCzBUXLTbvVSgTZYHM">
+                                      data-job-id="/saved-jobs/add/393149?_token=8UnpHp6DommuEZIJfcGALmbyZPW8nlU1tpmsVEU7">
                                         <i class="fa fa-heart-o"></i> Save Job                                    </span>
                                                     </li>
 
@@ -540,7 +543,7 @@ Within this role you will be working on a greenfield project within a fast-paced
                                                                             <span data-lang-add="Save Job"
                                               data-lang-remove="Saved Job"
                                               class="btn  btn-secondary-theme shortlist btn-block"
-                                              data-job-id="/saved-jobs/add/393149?_token=aHSoQoMwLERmyUohCgfhV5gCzBUXLTbvVSgTZYHM">
+                                              data-job-id="/saved-jobs/add/393149?_token=8UnpHp6DommuEZIJfcGALmbyZPW8nlU1tpmsVEU7">
                                      Save Job                                        </span>
                                                                     </li>
                                                                                             <li><a class="btn btn-secondary-theme " id="btn-email-me-similar" data-toggle="modal"
@@ -559,7 +562,7 @@ Within this role you will be working on a greenfield project within a fast-paced
         <div class="modal-content">
             <div class="modal-body">
 
-                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="aHSoQoMwLERmyUohCgfhV5gCzBUXLTbvVSgTZYHM">
+                <form method="POST" action="https://www.nigelfrank.com/email/jobs" accept-charset="UTF-8" class="form-resubmit"><input name="_token" type="hidden" value="8UnpHp6DommuEZIJfcGALmbyZPW8nlU1tpmsVEU7">
 
 
 

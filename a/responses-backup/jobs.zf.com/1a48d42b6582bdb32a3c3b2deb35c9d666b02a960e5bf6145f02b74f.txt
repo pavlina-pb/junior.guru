@@ -1732,7 +1732,7 @@ tags.async=!0,tags.src="//zf-friedrichshafen.containers.piwik.pro/"+id+".js"+qPS
 				$.ajaxSetup({
 					cache   : false,
 					headers : {
-						"X-CSRF-Token" : "64d7e912-0090-42df-825e-1e1e8edfecf7"
+						"X-CSRF-Token" : "22772929-c144-4ceb-89c1-e274469a64fc"
 					}
 				});
 			//]]>
@@ -1772,7 +1772,7 @@ tags.async=!0,tags.src="//zf-friedrichshafen.containers.piwik.pro/"+id+".js"+qPS
         <script type="text/javascript" src="/platform/js/jquery/js.cookie-2.2.1.min.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.lightbox_me.js"></script>
         <script type="text/javascript" src="/platform/js/jquery/jquery.placeholder.2.0.7.min.js"></script>
-        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=1051668203"></script>
+        <script type="text/javascript" src="/js/override.js?locale=cs_CZ&amp;i=224978198"></script>
             <script type="text/javascript">
             //<![CDATA[
                 if (Cookies && !Cookies.get('rmk12')) {
