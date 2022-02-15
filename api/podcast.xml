@@ -9,11 +9,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>JuniorGuruBot (+https://junior.guru)</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 14 Feb 2022 11:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 04:45:23 +0000</lastBuildDate>
     <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
     <dc:creator>Pája Froňková</dc:creator>
     <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
-    <pubDate>Sat, 15 Jan 2022 01:42:42 +0100</pubDate>
+    <pubDate>Tue, 15 Feb 2022 01:42:42 +0100</pubDate>
     <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
     <itunes:category text="Technology"/>
     <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
@@ -45,6 +45,17 @@
       <pubDate>Sat, 15 Jan 2022 01:42:42 +0100</pubDate>
       <itunes:episode>2</itunes:episode>
       <podcast:episode display="#1">2</podcast:episode>
+    </item>
+    <item>
+      <title>#2 Roman Hraška (yablko) o kurzech webdevelopmentu</title>
+      <link>https://junior.guru/podcast/#episode0002</link>
+      <description><![CDATA[<p>Ve druhém díle si Pája povídá s Romanem Hraškou, známým jako yablko, programátorem, youtuberem a tvůrcem kurzů programování. Jak by doporučil začít s programováním těm, kteří ještě tápou? V tomhle díle si přijdou na své hlavně ti, kteří se zajímají o web, ale Roman má spoustu tipů i pro ostatní!</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0002</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0002.mp3" length="44598119" type="audio/mpeg"/>
+      <itunes:duration>53:06</itunes:duration>
+      <pubDate>Tue, 15 Feb 2022 01:42:42 +0100</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode display="#2">3</podcast:episode>
     </item>
   </channel>
 </rss>
