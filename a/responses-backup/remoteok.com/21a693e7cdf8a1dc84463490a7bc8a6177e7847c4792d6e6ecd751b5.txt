@@ -284,7 +284,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($152k/mo)
+🤲&nbsp; Open Startup ($150k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.82%)
@@ -354,7 +354,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#95e6f4f9f0e6d5e7f0f8fae1f0fafebbf6faf8aae6e0f7fff0f6e1a8d4f1e3f0e7e1fce6f0befafbbec7f0f8fae1f0bedadeb3f7faf1eca8c1fdfce6bef0f8f4fcf9bef1faf0e6befbfae1bee2fae7febbb0a5d4b0a5acc5f9f0f4e6f0bee0e6f0bee1fdf0bef0f8f4fcf9bef4f1f1e7f0e6e6bef4f1cae6f4f9f0e6bef4fbf1bee1fdf0fbbeb0a1a5bef4fbf1bee1fdf0fbbee1fdfce6bee6fce1f0b0a7a2e6bef1faf8f4fcfbbefcfbe6e1f0f4f1b0a7d6bee1fabef4e3fafcf1bee6e5f4f8f8f0e7e6bef3f9fafaf1fcfbf2bee1fdfce6bef0f8f4fcf9bbbec2f0b0a7a2e7f0befafbf9ecbef4f6f6f0e5e1fcfbf2bee6e5fafbe6fae7e6fdfce5b0a7d3f4f1bef1f0f4f9e6bef3e7faf8beb0a7a1a6a5feb0a7d3f8fabef4e1bee1fdfce6bef8faf8f0fbe1bef4fbf1bee1fdf0e7f0b0a7a2e6bef4bee2f4fce1fcfbf2bef9fce6e1bbbec2f0bef1fabedbdac1bef1fabed6c5d4b0a7d3f4f3f3fcf9fcf4e1f0b0a7d3e6f4f9f0b8f7f4e6f0f1bef1f0f4f9e6b0a7d6befafbf9ecbef3f9f4e1bef3f0f0bef9e0f8e5bee6e0f8befdf4e7f1bef6f4e6fdbee6e5fafbe6fae7e6fdfce5e6b0a7d3f4f1e6b0a7d6bee5f9f0f4e6f0bee6f4e3f0bef7fae1fdbefaf3bee0e6bee1fcf8f0bef4fbf1bef1fafbb0a7a2e1bef0f8f4fcf9bee0e6bef4f7fae0e1bee1fdf4e1bbbec1fdf4fbfee6b0a7a4">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#ed9e8c81889ead9f88808299888286c38e8280d29e988f87888e99d0ac899b889f99849e88c68283c6bf8880829988c6a2a6cb8f828994d0b985849ec688808c8481c68982889ec6838299c69a829f86c3c8ddacc8ddd4bd81888c9e88c6989e88c6998588c688808c8481c68c89899f889e9ec68c89b29e8c81889ec68c8389c699858883c6c8d9ddc68c8389c699858883c69985849ec69e849988c8dfda9ec68982808c8483c684839e99888c89c8dfaec69982c68c9b828489c69e9d8c8080889f9ec68b8182828984838ac69985849ec688808c8481c3c6ba88c8dfda9f88c682838194c68c8e8e889d9984838ac69e9d82839e829f9e85849dc8dfab8c89c689888c819ec68b9f8280c6c8dfd9dedd86c8dfab8082c68c99c69985849ec6808280888399c68c8389c69985889f88c8dfda9ec68cc69a8c849984838ac681849e99c3c6ba88c68982c6a3a2b9c68982c6aebdacc8dfab8c8b8b8481848c9988c8dfab9e8c8188c08f8c9e8889c689888c819ec8dfaec682838194c68b818c99c68b8888c68198809dc69e9880c6858c9f89c68e8c9e85c69e9d82839e829f9e85849d9ec8dfab8c899ec8dfaec69d81888c9e88c69e8c9b88c68f829985c6828bc6989ec699848088c68c8389c6898283c8dfda99c688808c8481c6989ec68c8f829899c699858c99c3c6b9858c83869ec8dfdc">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -454,8 +454,8 @@ Post a job
 												"currency": "USD",
 												"value": {
 													"@type": "QuantitativeValue",
-																											"minValue":60000,
-														"maxValue":120000,
+																											"minValue":"60000",
+														"maxValue":"120000",
 																										"unitText": "YEAR"
 												}
 											},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Staff Software Engineer Android Consumer","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/22a8397942c16eb857f3e77c05f08b401644892506.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-18T02:35:05+00:00","hiringOrganization":{"@type":"Organization","name":"Reddit","url":"https:\/\/remoteok.com\/reddit","sameAs":"https:\/\/remoteok.com\/reddit","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/22a8397942c16eb857f3e77c05f08b401644892506.png"}}</script>
@@ -472,6 +472,7 @@ Reddit </h3>
 <h2 itemprop="title">
 Senior Staff Software Engineer Android Consumer
 </h2>
+
 </a>
 <br /><div class="location tooltip" title="">Vancouver</div>&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Developer, Senior, Android, Engineer and Digital Nomad">💰 $60k - $120k*</div> </td>
 <td class="tags" style="background-color:#ff4500;">
@@ -526,10 +527,10 @@ Reddit </h2>
 Apply now
 </a>
 <p>
-👀 497 views
+👀 532 views
 </p>
 <p>
-✅ 21 applied
+✅ 23 applied
 (4%)
 </p>
 <p>
@@ -763,184 +764,184 @@ Hire remote worker
 <footer style="">
 <div class="container">
 <div class="tag">
-🤓<a href="/remote-dev-jobs">
+🤓&nbsp;<a href="/remote-dev-jobs">
 Remote Developer Jobs
 </a> </div><div class="tag">
-🤓<a href="/remote-engineer-jobs">
+🤓&nbsp;<a href="/remote-engineer-jobs">
 Remote Engineer Jobs
 </a> </div><div class="tag">
-☕️<a href="/remote-javascript-jobs">
+☕️&nbsp;<a href="/remote-javascript-jobs">
 Remote JavaScript Jobs
 </a> </div><div class="tag">
-👵<a href="/remote-senior-jobs">
+👵&nbsp;<a href="/remote-senior-jobs">
 Remote Senior Jobs
 </a> </div><div class="tag">
-💼<a href="/remote-exec-jobs">
+💼&nbsp;<a href="/remote-exec-jobs">
 Remote Executive Jobs
 </a> </div><div class="tag">
-🐀<a href="/remote-golang-jobs">
+🐀&nbsp;<a href="/remote-golang-jobs">
 Remote Golang Jobs
 </a> </div><div class="tag">
-🍑<a href="/remote-backend-jobs">
+🍑&nbsp;<a href="/remote-backend-jobs">
 Remote Backend Jobs
 </a> </div><div class="tag">
-💎<a href="/remote-ruby-jobs">
+💎&nbsp;<a href="/remote-ruby-jobs">
 Remote Ruby Jobs
 </a> </div><div class="tag">
-⚛️<a href="/remote-react-jobs">
+⚛️&nbsp;<a href="/remote-react-jobs">
 Remote React Jobs
 </a> </div><div class="tag">
-🥞<a href="/remote-full-stack-jobs">
+🥞&nbsp;<a href="/remote-full-stack-jobs">
 Remote Full Stack Jobs
 </a> </div><div class="tag">
-🎨<a href="/remote-front-end-jobs">
+🎨&nbsp;<a href="/remote-front-end-jobs">
 Remote frontend Jobs
 </a> </div><div class="tag">
-☄️<a href="/remote-meteor-jobs">
+☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
 </a> </div><div class="tag">
-♾️<a href="/remote-devops-jobs">
+♾️&nbsp;<a href="/remote-devops-jobs">
 Remote DevOps Jobs
 </a> </div><div class="tag">
-🎨<a href="/remote-design-jobs">
+🎨&nbsp;<a href="/remote-design-jobs">
 Remote Design Jobs
 </a> </div><div class="tag">
-🐘<a href="/remote-php-jobs">
+🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-🚥<a href="/remote-marketing-jobs">
+🚥&nbsp;<a href="/remote-marketing-jobs">
 Remote Marketing Jobs
 </a> </div><div class="tag">
-🔌<a href="/remote-non-tech-jobs">
+🔌&nbsp;<a href="/remote-non-tech-jobs">
 Remote Non Tech Jobs
 </a> </div><div class="tag">
-🔗<a href="/remote-node-jobs">
+🔗&nbsp;<a href="/remote-node-jobs">
 Remote Node Jobs
 </a> </div><div class="tag">
-🎨<a href="/remote-css-jobs">
+🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
 </a> </div><div class="tag">
-🔷<a href="/remote-c-jobs">
+🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
 </a> </div><div class="tag">
-🐍<a href="/remote-python-jobs">
+🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
 </a> </div><div class="tag">
-🤓<a href="/remote-web-dev-jobs">
+🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
 </a> </div><div class="tag">
-🔡<a href="/remote-html-jobs">
+🔡&nbsp;<a href="/remote-html-jobs">
 Remote HTML Jobs
 </a> </div><div class="tag">
-🍎<a href="/remote-ios-jobs">
+🍎&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
 </a> </div><div class="tag">
-🎧<a href="/remote-customer-support-jobs">
+🎧&nbsp;<a href="/remote-customer-support-jobs">
 Remote Customer Support Jobs
 </a> </div><div class="tag">
-📦<a href="/remote-product-manager-jobs">
+📦&nbsp;<a href="/remote-product-manager-jobs">
 Remote Product Manager Jobs
 </a> </div><div class="tag">
-📱<a href="/remote-mobile-jobs">
+📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-☁️<a href="/remote-aws-jobs">
+☁️&nbsp;<a href="/remote-aws-jobs">
 Remote AWS Jobs
 </a> </div><div class="tag">
-🐬<a href="/remote-sql-jobs">
+🐬&nbsp;<a href="/remote-sql-jobs">
 Remote SQL Jobs
 </a> </div><div class="tag">
-☕️<a href="/remote-js-jobs">
+☕️&nbsp;<a href="/remote-js-jobs">
 Remote JavaScript Jobs
 </a> </div><div class="tag">
-♾️<a href="/remote-admin-jobs">
+♾️&nbsp;<a href="/remote-admin-jobs">
 Remote Admin Jobs
 </a> </div><div class="tag">
-🟦<a href="/remote-typescript-jobs">
+🟦&nbsp;<a href="/remote-typescript-jobs">
 Remote Typescript Jobs
 </a> </div><div class="tag">
-📦<a href="/remote-saas-jobs">
+📦&nbsp;<a href="/remote-saas-jobs">
 Remote SaaS Jobs
 </a> </div><div class="tag">
-⏰<a href="/remote-full-time-jobs">
+⏰&nbsp;<a href="/remote-full-time-jobs">
 Remote Full Time Jobs
 </a> </div><div class="tag">
-☕️<a href="/remote-java-jobs">
+☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
 </a> </div><div class="tag">
-💼<a href="/remote-sales-jobs">
+💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
 </a> </div><div class="tag">
-🤖<a href="/remote-api-jobs">
+🤖&nbsp;<a href="/remote-api-jobs">
 Remote API Jobs
 </a> </div><div class="tag">
-♾️<a href="/remote-sys-admin-jobs">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
 Remote Sys Admin Jobs
 </a> </div><div class="tag">
-🅰️<a href="/remote-angular-jobs">
+🅰️&nbsp;<a href="/remote-angular-jobs">
 Remote Angular Jobs
 </a> </div><div class="tag">
-☁️<a href="/remote-cloud-jobs">
+☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
 </a> </div><div class="tag">
-🤖<a href="/remote-android-jobs">
+🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
 </a> </div><div class="tag">
-➕<a href="/remote-c-plus-plus-jobs">
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-⚛️<a href="/remote-react-native-jobs">
+⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
 </a> </div><div class="tag">
-🧪<a href="/remote-testing-jobs">
+🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
-🎨<a href="/remote-user-interface-jobs">
+🎨&nbsp;<a href="/remote-user-interface-jobs">
 Remote User Interface Jobs
 </a> </div><div class="tag">
-🎨<a href="/remote-user-experience-jobs">
+🎨&nbsp;<a href="/remote-user-experience-jobs">
 Remote User Experience Jobs
 </a> </div><div class="tag">
-🔑<a href="/remote-infosec-jobs">
+🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-🐳<a href="/remote-docker-jobs">
+🐳&nbsp;<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-🔬<a href="/remote-quality-assurance-jobs">
+🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
-✍️<a href="/remote-wordpress-jobs">
+✍️&nbsp;<a href="/remote-wordpress-jobs">
 Remote Wordpress Jobs
 </a> </div><div class="tag">
-🤓<a href="/remote-developer-jobs">
+🤓&nbsp;<a href="/remote-developer-jobs">
 Remote Developer Jobs
 </a> </div><div class="tag">
-💚<a href="/remote-vue-jobs">
+💚&nbsp;<a href="/remote-vue-jobs">
 Remote Vue Jobs
 </a> </div><div class="tag">
-🛍<a href="/remote-ecommerce-jobs">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-👩‍🔬<a href="/remote-data-science-jobs">
+👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-🍃<a href="/remote-mongo-jobs">
+🍃&nbsp;<a href="/remote-mongo-jobs">
 Remote Mongo Jobs
 </a> </div><div class="tag">
-💰<a href="/remote-finance-jobs">
+💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🐬<a href="/remote-postgres-jobs">
+🐬&nbsp;<a href="/remote-postgres-jobs">
 Remote Postgres Jobs
 </a> </div><div class="tag">
-🐧<a href="/remote-linux-jobs">
+🐧&nbsp;<a href="/remote-linux-jobs">
 Remote Linux Jobs
 </a> </div><div class="tag">
-🦑<a href="/remote-kubernetes-jobs">
+🦑&nbsp;<a href="/remote-kubernetes-jobs">
 Remote Kubernetes Jobs
 </a> </div><div class="tag">
-🍃<a href="/remote-mongodb-jobs">
+🍃&nbsp;<a href="/remote-mongodb-jobs">
 Remote Mongo Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
@@ -1431,6 +1432,6 @@ Thanks for the message! We will get back to you soon.
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-165ms
+144ms
 </div>
 <div class="END-OF-FILE"></div>
