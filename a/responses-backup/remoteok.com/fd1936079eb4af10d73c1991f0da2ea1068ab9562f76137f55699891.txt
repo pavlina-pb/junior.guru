@@ -79,14 +79,14 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (905)","senior":"\ud83d\udc75 Senior (693)","dev":"\ud83e\udd13 Developer (591)","exec":"\ud83d\udcbc Executive (493)","golang":"\ud83d\udc00 Golang (335)","backend":"\ud83c\udf51 Backend (265)","full stack":"\ud83e\udd5e Full Stack (152)","front end":"\ud83c\udfa8 Front End (122)","product designer":"\ud83d\udce6 Product Designer (110)","marketing":"\ud83d\udea5 Marketing (109)","javascript":"\u2615\ufe0f JavaScript (93)","design":"\ud83c\udfa8 Design (87)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (65)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","sys admin":"\u267e\ufe0f Sys Admin (51)","cloud":"\u2601\ufe0f Cloud (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","infosec":"\ud83d\udd11 InfoSec (47)","react":"\u269b\ufe0f React (46)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (32)","ops":"\u267e\ufe0f Ops (26)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","machine learning":"\ud83e\udd16 Machine Learning (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","finance":"\ud83d\udcb0 Finance (15)","blockchain":"\u26d3 Blockchain (15)","web3":"\ud83d\udc8e Web3 (15)","social media":"\u270d\ufe0f Social Media (15)","crypto":"\ud83c\udfc5 Crypto (15)","meteor":"\u2604\ufe0f Meteor (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","api":"\ud83e\udd16 API (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","php":"\ud83d\udc18 PHP (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","bus dev":"\ud83d\udcbc Bus Developer (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","copywriting":"\u270d\ufe0f Copywriting (8)","c plus plus":"\u2795 C Plus Plus (8)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","react native":"\u269b\ufe0f React Native (6)","internship":" Internship (6)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (6)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (903)","senior":"\ud83d\udc75 Senior (690)","dev":"\ud83e\udd13 Developer (590)","exec":"\ud83d\udcbc Executive (497)","golang":"\ud83d\udc00 Golang (339)","backend":"\ud83c\udf51 Backend (266)","full stack":"\ud83e\udd5e Full Stack (151)","front end":"\ud83c\udfa8 Front End (121)","product designer":"\ud83d\udce6 Product Designer (111)","marketing":"\ud83d\udea5 Marketing (110)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (88)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (63)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","cloud":"\u2601\ufe0f Cloud (51)","sys admin":"\u267e\ufe0f Sys Admin (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","react":"\u269b\ufe0f React (47)","infosec":"\ud83d\udd11 InfoSec (47)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (33)","ops":"\u267e\ufe0f Ops (27)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","crypto":"\ud83c\udfc5 Crypto (16)","blockchain":"\u26d3 Blockchain (16)","web3":"\ud83d\udc8e Web3 (16)","social media":"\u270d\ufe0f Social Media (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","finance":"\ud83d\udcb0 Finance (14)","meteor":"\u2604\ufe0f Meteor (14)","api":"\ud83e\udd16 API (13)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","php":"\ud83d\udc18 PHP (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","c plus plus":"\u2795 C Plus Plus (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","bus dev":"\ud83d\udcbc Bus Developer (8)","copywriting":"\u270d\ufe0f Copywriting (8)","react native":"\u269b\ufe0f React Native (7)","medical":"\ud83d\ude91 Medical (7)","graphql":"\u269b\ufe0f GraphQL (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","solidity":"\u26d3 Solidity (7)","ads":"\ud83d\udea5 Ads (6)","internship":" Internship (6)","recruiter":"\ud83c\udfaf Recruiter (6)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
 <link rel='alternate' type='application/json' title='JSON' href='/remote-jobs.json'>
 <meta name="twitter:widgets:csp" content="on">
 <script>
-			var worldwide=false;			var basicPrice=699;
+			var worldwide=false;			var basicPrice=599;
 			var priceForHighlightedExtra=49;
 			var stripePublicKey='pk_live_thn9fkM3p9yV25rj8HwkXVJq';
 		</script>
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($147k/mo)
+🤲&nbsp; Open Startup ($144k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.82%)
@@ -291,6 +291,9 @@ Other
 </a>
 <a title="" alt="" href="/remote-work-statistics">
 <i>📊</i> Remote work stats <span class="badge">new</span>
+</a>
+<a title="" alt="" href="https://buffer.com/state-of-remote-work/2022?ref=remoteok">
+<i>🧪</i> State of Remote Work <span class="badge">new</span>
 </a>
 <div class="a">
 <i>🌍&nbsp;</i> <a rel="noopener follow" href="https://nomadlist.com/?ref=remoteok">Become a digital nomad</a>
@@ -351,7 +354,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#f58694999086b58790989a81909a9edb969a98ca8680979f909681c8b491839087819c8690de9a9bdea790989a8190debabed3979a918cc8a19d9c86de9098949c99de919a9086de9b9a81de829a879edbd0c5b4d0c5cca59990948690de808690de819d90de9098949c99de94919187908686de9491aa8694999086de949b91de819d909bded0c1c5de949b91de819d909bde819d9c86de869c8190d0c7c286de919a98949c9bde9c9b8681909491d0c7b6de819ade94839a9c91de8685949898908786de93999a9a919c9b92de819d9c86de9098949c99dbdea290d0c7c28790de9a9b998cde9496969085819c9b92de86859a9b869a87869d9c85d0c7b39491de9190949986de93879a98ded0c7c1c6c59ed0c7b3989ade9481de819d9c86de989a98909b81de949b91de819d908790d0c7c286de94de82949c819c9b92de999c8681dbdea290de919adebbbaa1de919adeb6a5b4d0c7b39493939c999c948190d0c7b386949990d89794869091de9190949986d0c7b6de9a9b998cde93999481de939090de99809885de868098de9d948791de9694869dde86859a9b869a87869d9c8586d0c7b3949186d0c7b6de859990948690de86948390de979a819dde9a93de8086de819c9890de949b91de919a9bd0c7c281de9098949c99de8086de94979a8081de819d9481dbdea19d949b9e86d0c7c4">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#7704161b12043705121a180312181c5914181a480402151d1214034a3613011205031e04125c18195c25121a1803125c383c511518130e4a231f1e045c121a161e1b5c131812045c1918035c0018051c5952473652474e271b121604125c0204125c031f125c121a161e1b5c161313051204045c16132804161b12045c1619135c031f12195c5243475c1619135c031f12195c031f1e045c041e0312524540045c13181a161e195c1e1904031216135245345c03185c1601181e135c0407161a1a1205045c111b1818131e19105c031f1e045c121a161e1b595c201252454005125c18191b0e5c1614141207031e19105c04071819041805041f1e0752453116135c1312161b045c1105181a5c52454344471c5245311a185c16035c031f1e045c1a181a1219035c1619135c031f120512524540045c165c00161e031e19105c1b1e0403595c20125c13185c3938235c13185c3427365245311611111e1b1e16031252453104161b125a15160412135c1312161b045245345c18191b0e5c111b16035c1112125c1b021a075c04021a5c1f1605135c1416041f5c04071819041805041f1e07045245311613045245345c071b121604125c041601125c1518031f5c18115c02045c031e1a125c1619135c131819524540035c121a161e1b5c02045c16151802035c031f1603595c231f16191c04524546">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -440,7 +443,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-13 new jobs posted today
+41 new jobs posted today
 </span>
 </div>
 </td>
@@ -454,7 +457,7 @@ Post a job
 												"currency": "USD",
 												"value": {
 													"@type": "QuantitativeValue",
-																											"minValue":60000,
+																											"minValue":61250,
 														"maxValue":120000,
 																										"unitText": "YEAR"
 												}
@@ -476,7 +479,7 @@ Zuva </h3>
 Senior Software Engineer
 </h2>
 </a>
-<br /><div class="location tooltip" title="">Toronto</div>&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Developer and Digital Nomad">💰 $60k - $120k*</div> </td>
+<br /><div class="location tooltip" title="">Toronto</div>&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Developer and Digital Nomad">💰 $61k - $120k*</div> </td>
 <td class="tags" style="">
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-senior-jobs" aria-label="Remote Senior Jobs" alt="Remote Senior Jobs">
 <div rel="follow" class="tag tag- action-add-tag">
@@ -496,7 +499,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-08T20:00:02+00:00">
-14d </time>
+15d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/108658">
@@ -516,7 +519,7 @@ Apply
 <span style="font-weight: 400;">Zuva is hiring a </span><br />Remote Senior Software Engineer </h1>
 <div class="markdown">We’re Zuva. We’ve built machine learning software that helps businesses make better decisions by understanding the details of their documents. We’re accelerating this opportunity by making our machine learning available to developers and software vendors, helping them build new and better solutions for their customers. \n \nZuva is a unique early-stage company. We’ve been building, refining and selling our technology for 10+ years, and now as a newly formed spin-out company, venturing into the business document intelligence space. \n \nOur team is primarily based in Toronto, with plans to become a global workforce. From building trusted partnerships with our clients to delivering an employee experience that is second to none, our people are at the center of all that we do.\n\nZuva is hiring an experienced Full stack/Backend Developer with experience in using Go to be a key member for one of our cross-functional product teams. You'll be joining a small but nimble team of empowered developers in a supportive environment that values experimentation. We work in small and focused cross-functional teams, usually made up of a Product Manager, Designer(s), and a mix of Frontend and Backend Engineers. \n \nWhat you will be doing\nAt Zuva you will have the opportunity to design, develop and deploy backend cloud-native services within a containerised microservices architecture. The work is cutting edge, constantly changing and focused on building and operating critical, highly available, low latency, scalable solutions. You will play an active role in introducing new technologies, applying machine learning solutions, and collaborating on technical and architectural decisions. Participate in greenfield projects and enjoy end-to-end ownership from concept to deployment, including building and operating infrastructure, toolset and deployment pipelines. \n\nHere are a few of the tools and methodologies we utilize:\n \nInfrastructure: Azure, Kubernetes\nTools: Argo, Hasura, Terraform, Tilt, GitHub\nStorage: PostgreSQL, Blob Storage \nCode: Go, containerised microservices \nWays of working: Pair Programming, 100% remote, DevSecOps \n\n(Don't worry if you don't have all the experience - we are really looking for capability)\n\nWhat you bring \n-Experience in designing and building systems\n-Familiarity with cloud and containerisation technologies, test automation tools and CI/CD pipelines\n-Interest in owning projects end-to-end and supporting them as they go live in production \n-Appreciation of clean code and software engineering best-practice \n-Great communication skills who enjoy sharing knowledge and collaborating with others \n-Go experience is a must\n\nWhy Join Zuva?\n\nWe’ve got a dream team. Zuva is filled with smart, curious, independent, and self-motivated people. Together, we make up a culture that values diversity of thought, creative thinking and fun.\n\nThere is room to grow. We work on challenging problems. It’s hard (in a good way) and it gives ample opportunities for growth. We also believe in the power of learning. We provide an annual learning budget to all Zuvans, as well as regular learning sessions hosted by internal and external experts. \n\nThe future is flexible. While we’re all remote right now, we have a number of fully remote team members around the world. Covid-19 has reminded us that our health and well-being come before anything, which means you have flexibility when it comes to designing your work day. It also means that we have a flexible vacation policy that allows you to take time off when you need it. \n\nWe’ve always got your back. Literally. Got a knot in your back? We have a comprehensive health and benefits plan for you and your family, as well as access to Employee Assistance Programs. We’ve also implemented and are continuing with “company shut-down days” that we started since last year. These provide an opportunity for everyone to step back and recharge at the same time.\n\nProven Technology and Design. Machine learning is driving a new industrial revolution, and we have a product with proven technology and clients who are excited about our product! Moreover, we care about great design and a great customer experience.\n\nAdditional Notes\nZuva believes that at the foundation of our success are the people who work here. We are an equal opportunity employer and believe our diversity is a driver of success at our company. Any race, religion, colour, national origin, gender, sexual orientation or identity, age, marital status, veteran status, or disability status are welcome here. Accommodations are available on request for all aspects of the selection process.\n\nPlease be aware that due to the nature of our business all successful candidates must clear a background check before beginning employment. \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Developer and Digital Nomad jobs that are similar:\n\n
-$60,000 &mdash; $120,000/year\n
+$61,250 &mdash; $120,000/year\n
 \n\n#Location\nToronto<br />
 </div>
 <br />
@@ -740,20 +743,20 @@ Remote Admin Jobs
 ♾️&nbsp;<a href="/remote-devops-jobs">
 Remote DevOps Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-🔑&nbsp;<a href="/remote-infosec-jobs">
-Remote InfoSec Jobs
-</a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-jobs">
 Remote React Jobs
+</a> </div><div class="tag">
+🔑&nbsp;<a href="/remote-infosec-jobs">
+Remote InfoSec Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
@@ -782,14 +785,14 @@ Remote Web Dev Jobs
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-machine-learning-jobs">
-Remote Machine Learning Jobs
-</a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-machine-learning-jobs">
+Remote Machine Learning Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -800,8 +803,8 @@ Remote SaaS Jobs
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
 </a> </div><div class="tag">
-💰&nbsp;<a href="/remote-finance-jobs">
-Remote Finance Jobs
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
 </a> </div><div class="tag">
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
@@ -812,23 +815,23 @@ Remote Web3 Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
+</a> </div><div class="tag">
+💰&nbsp;<a href="/remote-finance-jobs">
+Remote Finance Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
 </a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
-</a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -839,11 +842,11 @@ Remote Content Writing Jobs
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
-</a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
@@ -863,8 +866,8 @@ Remote Linux Jobs
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-💼&nbsp;<a href="/remote-bus-dev-jobs">
-Remote Biz Dev Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -948,12 +951,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1008,12 +1011,12 @@ Hire GraphQL Developers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1064,12 +1067,12 @@ Hire Swift Developers Remotely
 Hire Product Management Developers Remotely
 </a>
 </div><div class="tag">
-💼 &nbsp;<a href="/hire/sales">
-Hire Sales Developers Remotely
-</a>
-</div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+💼 &nbsp;<a href="/hire/sales">
+Hire Sales Developers Remotely
 </a>
 </div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
@@ -1080,12 +1083,12 @@ Hire Excel Developers Remotely
 Hire Express Developers Remotely
 </a>
 </div><div class="tag">
-🔡 &nbsp;<a href="/hire/html5">
-Hire HTML5 Developers Remotely
-</a>
-</div><div class="tag">
 🍏 &nbsp;<a href="/hire/ios">
 Hire IOS Developers Remotely
+</a>
+</div><div class="tag">
+🔡 &nbsp;<a href="/hire/html5">
+Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
 🦩 &nbsp;<a href="/hire/flutter">
@@ -1122,6 +1125,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-149ms
+148ms
 </div>
 <div class="END-OF-FILE"></div>

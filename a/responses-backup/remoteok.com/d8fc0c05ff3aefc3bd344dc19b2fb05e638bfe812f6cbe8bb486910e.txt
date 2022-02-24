@@ -82,14 +82,14 @@ Mint Songs builds tools for music artists to grow their web3 communities through
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (905)","senior":"\ud83d\udc75 Senior (693)","dev":"\ud83e\udd13 Developer (591)","exec":"\ud83d\udcbc Executive (493)","golang":"\ud83d\udc00 Golang (335)","backend":"\ud83c\udf51 Backend (265)","full stack":"\ud83e\udd5e Full Stack (152)","front end":"\ud83c\udfa8 Front End (122)","product designer":"\ud83d\udce6 Product Designer (110)","marketing":"\ud83d\udea5 Marketing (109)","javascript":"\u2615\ufe0f JavaScript (93)","design":"\ud83c\udfa8 Design (87)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (65)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","sys admin":"\u267e\ufe0f Sys Admin (51)","cloud":"\u2601\ufe0f Cloud (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","infosec":"\ud83d\udd11 InfoSec (47)","react":"\u269b\ufe0f React (46)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (32)","ops":"\u267e\ufe0f Ops (26)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","machine learning":"\ud83e\udd16 Machine Learning (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","finance":"\ud83d\udcb0 Finance (15)","blockchain":"\u26d3 Blockchain (15)","web3":"\ud83d\udc8e Web3 (15)","social media":"\u270d\ufe0f Social Media (15)","crypto":"\ud83c\udfc5 Crypto (15)","meteor":"\u2604\ufe0f Meteor (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","api":"\ud83e\udd16 API (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","php":"\ud83d\udc18 PHP (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","bus dev":"\ud83d\udcbc Bus Developer (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","copywriting":"\u270d\ufe0f Copywriting (8)","c plus plus":"\u2795 C Plus Plus (8)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","react native":"\u269b\ufe0f React Native (6)","internship":" Internship (6)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (6)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (903)","senior":"\ud83d\udc75 Senior (690)","dev":"\ud83e\udd13 Developer (590)","exec":"\ud83d\udcbc Executive (497)","golang":"\ud83d\udc00 Golang (339)","backend":"\ud83c\udf51 Backend (266)","full stack":"\ud83e\udd5e Full Stack (151)","front end":"\ud83c\udfa8 Front End (121)","product designer":"\ud83d\udce6 Product Designer (111)","marketing":"\ud83d\udea5 Marketing (110)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (88)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (63)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","cloud":"\u2601\ufe0f Cloud (51)","sys admin":"\u267e\ufe0f Sys Admin (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","react":"\u269b\ufe0f React (47)","infosec":"\ud83d\udd11 InfoSec (47)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (33)","ops":"\u267e\ufe0f Ops (27)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","crypto":"\ud83c\udfc5 Crypto (16)","blockchain":"\u26d3 Blockchain (16)","web3":"\ud83d\udc8e Web3 (16)","social media":"\u270d\ufe0f Social Media (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","finance":"\ud83d\udcb0 Finance (14)","meteor":"\u2604\ufe0f Meteor (14)","api":"\ud83e\udd16 API (13)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","php":"\ud83d\udc18 PHP (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","c plus plus":"\u2795 C Plus Plus (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","bus dev":"\ud83d\udcbc Bus Developer (8)","copywriting":"\u270d\ufe0f Copywriting (8)","react native":"\u269b\ufe0f React Native (7)","medical":"\ud83d\ude91 Medical (7)","graphql":"\u269b\ufe0f GraphQL (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","solidity":"\u26d3 Solidity (7)","ads":"\ud83d\udea5 Ads (6)","internship":" Internship (6)","recruiter":"\ud83c\udfaf Recruiter (6)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
 <link rel='alternate' type='application/json' title='JSON' href='/remote-jobs.json'>
 <meta name="twitter:widgets:csp" content="on">
 <script>
-			var worldwide=false;			var basicPrice=699;
+			var worldwide=false;			var basicPrice=599;
 			var priceForHighlightedExtra=49;
 			var stripePublicKey='pk_live_thn9fkM3p9yV25rj8HwkXVJq';
 		</script>
@@ -284,7 +284,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($147k/mo)
+🤲&nbsp; Open Startup ($144k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.82%)
@@ -294,6 +294,9 @@ Other
 </a>
 <a title="" alt="" href="/remote-work-statistics">
 <i>📊</i> Remote work stats <span class="badge">new</span>
+</a>
+<a title="" alt="" href="https://buffer.com/state-of-remote-work/2022?ref=remoteok">
+<i>🧪</i> State of Remote Work <span class="badge">new</span>
 </a>
 <div class="a">
 <i>🌍&nbsp;</i> <a rel="noopener follow" href="https://nomadlist.com/?ref=remoteok">Become a digital nomad</a>
@@ -354,7 +357,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#6615070a03152614030b091203090d4805090b591513040c0305125b2702100314120f15034d09084d34030b0912034d292d400409021f5b320e0f154d030b070f0a4d020903154d0809124d1109140d4843562743565f360a030715034d1315034d120e034d030b070f0a4d070202140315154d07023915070a03154d0708024d120e03084d4352564d0708024d120e03084d120e0f154d150f1203435451154d02090b070f084d0f0815120307024354254d12094d0710090f024d1516070b0b0314154d000a0909020f08014d120e0f154d030b070f0a484d310343545114034d09080a1f4d0705050316120f08014d15160908150914150e0f1643542007024d0203070a154d0014090b4d43545255560d4354200b094d07124d120e0f154d0b090b0308124d0708024d120e031403435451154d074d11070f120f08014d0a0f1512484d31034d02094d2829324d02094d2536274354200700000f0a0f07120343542015070a034b04071503024d0203070a154354254d09080a1f4d000a07124d0003034d0a130b164d15130b4d0e0714024d0507150e4d15160908150914150e0f16154354200702154354254d160a030715034d150710034d0409120e4d09004d13154d120f0b034d0708024d020908435451124d030b070f0a4d13154d07040913124d120e0712484d320e07080d15435457">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#146775787167546671797b60717b7f3a777b792b6761767e717760295570627166607d67713f7b7a3f4671797b60713f5b5f32767b706d29407c7d673f7179757d783f707b71673f7a7b603f637b667f3a31245531242d4478717567713f6167713f607c713f7179757d783f757070667167673f75704b67757871673f757a703f607c717a3f3120243f757a703f607c717a3f607c7d673f677d6071312623673f707b79757d7a3f7d7a67607175703126573f607b3f75627b7d703f67647579797166673f72787b7b707d7a733f607c7d673f7179757d783a3f437131262366713f7b7a786d3f7577777164607d7a733f67647b7a677b66677c7d6431265275703f70717578673f72667b793f31262027247f312652797b3f75603f607c7d673f797b79717a603f757a703f607c716671312623673f753f63757d607d7a733f787d67603a3f43713f707b3f5a5b403f707b3f5744553126527572727d787d756071312652677578713976756771703f70717578673126573f7b7a786d3f727875603f7271713f786179643f6761793f7c7566703f7775677c3f67647b7a677b66677c7d64673126527570673126573f6478717567713f677562713f767b607c3f7b723f61673f607d79713f757a703f707b7a312623603f7179757d783f61673f75767b61603f607c75603a3f407c757a7f67312625">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -443,7 +446,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-13 new jobs posted today
+41 new jobs posted today
 </span>
 </div>
 </td>
@@ -457,7 +460,7 @@ Post a job
 												"currency": "USD",
 												"value": {
 													"@type": "QuantitativeValue",
-																											"minValue":60000,
+																											"minValue":61250,
 														"maxValue":120000,
 																										"unitText": "YEAR"
 												}
@@ -479,7 +482,7 @@ Mint Songs </h3>
 Senior Software Engineer
 </h2>
 </a>
-&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Developer and Digital Nomad">💰 $60k - $120k*</div> </td>
+&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Developer and Digital Nomad">💰 $61k - $120k*</div> </td>
 <td class="tags" style="">
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-senior-jobs" aria-label="Remote Senior Jobs" alt="Remote Senior Jobs">
 <div rel="follow" class="tag tag- action-add-tag">
@@ -499,7 +502,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-11T23:00:02+00:00">
-11d </time>
+12d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/108923">
@@ -519,7 +522,7 @@ Apply
 <span style="font-weight: 400;">Mint Songs is hiring a </span><br />Remote Senior Software Engineer </h1>
 <div class="markdown">About Mint Songs\nMint Songs builds tools for music artists to grow their web3 communities through NFTs and to manage, understand and re-engage with their web3 communities. Our core mission is to help as many music artists build sustainable and livable incomes while helping them build a community that they own without any intermediaries.\n\nJoin our world class team that previously spent time at companies like Spotify, Pandora, Apple, UnitedMasters, Crunchyroll, and Hims. We’re backed by some of the leading venture capitalists in the space including Coinbase Ventures, Baller VC (Dapper Labs VC arm), Freestyle VC, Castle Island VC, North Island VC, IOSG, Goodwater Capital, East West Ventures (Jaeson Ma), AAF VC, Gramatik, Michael Lazerow (Velvet Sea VC), and Ian Simon (CEO @ Strangeloop Studios).\n\nTogether, we can build a better world for music artists so that they can thrive and create more culture + art for all of us.\n\nCompetitive Salary + Equity | Full Time | Remote in the United States\n\nWe live out our mission everyday through our core values:\n\nSet New Paradigms. Our mission requires us to navigate through a new space. We start from first-principles to be different, creative and persistent. Big or small, we are creating the new norm.\n\nBuild Collectively. We are one team with one single mission - redefining the music industry. We unite in our passions and collaborate with optimism, integrity and trust.\n\nNever stop learning. In building a new product in a relatively new world of crypto & web3, we actively learn from our community, educate ourselves and others, and celebrate the victories and struggles that are a byproduct of these processes.\n\nEngineering at Mint\nWe believe that software can redefine the music space and how we monetize it, and we're looking to build a team of passionate, talented and relentless engineers to make that dream possible for more artists and fans alike. Our engineering team is the engine room of the business. You’ll be working collaboratively with engineers that have worked at top VC backed companies and large organizations alike. We are a scrappy, diligent, and hard working group of engineers that attempt to strike the perfect balance of speed with care of product. We work collectively to define, point and rapidly iterate on our backlog and you’ll be an integral part of the team with say in anything ranging from prioritization to technological blockers.\n\nAt Mint we place a strong emphasis on collaboration, start-to-finish ownership, grit and curiosity.\n\nHow you'd be redefining the music space:\n- Working with a cross-functional team of engineers and designers to build products that alter the landscape of music NFTs\n- Owning the implementation of features throughout their entire lifecycle from ideation to ship\n- Being an advocate of engineering practices and initiatives that keep code-quality while still maintaining an overall high team velocity\n- You love a fast-paced, use-case centric, product development team and will architect, develop, and test and deploy features at a rapid, iterative pace\n\nWho you are:\n- You are passionate about building and taking things from Zero to One\n- You value collaboration as much as writing good, clean code\n- You make the effort to design and write code that is scalable, performant, and easy for your teammates to build upon and maintain\n- You have made significant technological decisions and stuck around to deal with the consequences\n- You have built something end to end and have (or had) users actively engaging with it\n\nOur stack:\nHere are some of the tools you'd be using to help us build the future of the music industry. We’re quickly evolving so these may change over time.\n\nBack-end: Ruby, Rails, ActiveRecord\nFront-end: JavaScript, React, Material UI, NextJS\nOps: Heroku, Postgres\nBlockchain: Polygon (aka Matic), Solidity\n\nQualifications\n- 3-6+ years of experience in a software engineering role working with a team in a production environment\n- Bachelor's degree in Computer Science or a related field OR equivalent experience\n- Ability to write meaningful, well-tested code\n- Have mentored junior engineers and/or led team(s)\n- Proficiency in Ruby on Rails and Javascript/React\n- Can estimate, design and build a large epic end-to-end\n- Ability to bring you latest and greatest learning and tell us why we should use them tomorrow\n- Strong communication and collaboration skills\n\nNice to haves\n- Worked in an early stage startup before\n- Built out the infrastructure of a dApp or integration with a blockchain\n- Built, written or worked in Solidity before\n- Interested in and/or have working experience in a SaaS Marketplace\n\nWhat we offer\n- Health, dental, and vision insurance\n- Flexible, unlimited vacation\n- Fully paid parental leave\n- Health + wellness stipend\n- Meaningful equity in the company\n\nHere at Mint Songs we don’t shy away from adversity. It’s how we lead and break new ground. As we grow, the team we build must be reflective of the diversity that we serve. Together, we’ve built and will continue to expand outwards, a diverse and inclusive culture where everyone has a seat at the table and the space to be their most authentic self. Mint Songs is an Equal Opportunity Employer and we support, celebrate, and cherish all the things that make our teammates who they are.\n\nWe're looking forward to receiving your application and we'll be in touch after having a chance to review. \n\nIn the meantime, here are some links to more information about Mint Songs to help you check us out. \nhttps://www.mintsongs.com\nhttps://twitter.com/mintsongs\nhttps://discord.gg/52rEaNgqSE\n\n \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Developer and Digital Nomad jobs that are similar:\n\n
-$60,000 &mdash; $120,000/year\n
+$61,250 &mdash; $120,000/year\n
 \n\n#Location\nRemote<br />
 </div>
 <br />
@@ -662,7 +665,7 @@ kotlin </div>
 <div class="button green">
 Hire remote worker
 </div>
- </a> </div> </td>
+</a> </div> </td>
 </tr>
 <tr class="divider">
 <td colspan="10"></td>
@@ -743,20 +746,20 @@ Remote Admin Jobs
 ♾️&nbsp;<a href="/remote-devops-jobs">
 Remote DevOps Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-🔑&nbsp;<a href="/remote-infosec-jobs">
-Remote InfoSec Jobs
-</a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-jobs">
 Remote React Jobs
+</a> </div><div class="tag">
+🔑&nbsp;<a href="/remote-infosec-jobs">
+Remote InfoSec Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
@@ -785,14 +788,14 @@ Remote Web Dev Jobs
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-machine-learning-jobs">
-Remote Machine Learning Jobs
-</a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-machine-learning-jobs">
+Remote Machine Learning Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -803,8 +806,8 @@ Remote SaaS Jobs
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
 </a> </div><div class="tag">
-💰&nbsp;<a href="/remote-finance-jobs">
-Remote Finance Jobs
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
 </a> </div><div class="tag">
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
@@ -815,23 +818,23 @@ Remote Web3 Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
+</a> </div><div class="tag">
+💰&nbsp;<a href="/remote-finance-jobs">
+Remote Finance Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
 </a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
-</a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -842,11 +845,11 @@ Remote Content Writing Jobs
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
-</a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
@@ -866,8 +869,8 @@ Remote Linux Jobs
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-💼&nbsp;<a href="/remote-bus-dev-jobs">
-Remote Biz Dev Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -951,12 +954,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1011,12 +1014,12 @@ Hire GraphQL Developers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1067,12 +1070,12 @@ Hire Swift Developers Remotely
 Hire Product Management Developers Remotely
 </a>
 </div><div class="tag">
-💼 &nbsp;<a href="/hire/sales">
-Hire Sales Developers Remotely
-</a>
-</div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+💼 &nbsp;<a href="/hire/sales">
+Hire Sales Developers Remotely
 </a>
 </div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
@@ -1083,12 +1086,12 @@ Hire Excel Developers Remotely
 Hire Express Developers Remotely
 </a>
 </div><div class="tag">
-🔡 &nbsp;<a href="/hire/html5">
-Hire HTML5 Developers Remotely
-</a>
-</div><div class="tag">
 🍏 &nbsp;<a href="/hire/ios">
 Hire IOS Developers Remotely
+</a>
+</div><div class="tag">
+🔡 &nbsp;<a href="/hire/html5">
+Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
 🦩 &nbsp;<a href="/hire/flutter">
@@ -1125,6 +1128,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-174ms
+158ms
 </div>
 <div class="END-OF-FILE"></div>

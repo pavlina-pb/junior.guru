@@ -79,14 +79,14 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (905)","senior":"\ud83d\udc75 Senior (693)","dev":"\ud83e\udd13 Developer (591)","exec":"\ud83d\udcbc Executive (493)","golang":"\ud83d\udc00 Golang (335)","backend":"\ud83c\udf51 Backend (265)","full stack":"\ud83e\udd5e Full Stack (152)","front end":"\ud83c\udfa8 Front End (122)","product designer":"\ud83d\udce6 Product Designer (110)","marketing":"\ud83d\udea5 Marketing (109)","javascript":"\u2615\ufe0f JavaScript (93)","design":"\ud83c\udfa8 Design (87)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (65)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","sys admin":"\u267e\ufe0f Sys Admin (51)","cloud":"\u2601\ufe0f Cloud (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","infosec":"\ud83d\udd11 InfoSec (47)","react":"\u269b\ufe0f React (46)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (32)","ops":"\u267e\ufe0f Ops (26)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","machine learning":"\ud83e\udd16 Machine Learning (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","finance":"\ud83d\udcb0 Finance (15)","blockchain":"\u26d3 Blockchain (15)","web3":"\ud83d\udc8e Web3 (15)","social media":"\u270d\ufe0f Social Media (15)","crypto":"\ud83c\udfc5 Crypto (15)","meteor":"\u2604\ufe0f Meteor (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","api":"\ud83e\udd16 API (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","php":"\ud83d\udc18 PHP (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","bus dev":"\ud83d\udcbc Bus Developer (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","copywriting":"\u270d\ufe0f Copywriting (8)","c plus plus":"\u2795 C Plus Plus (8)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","react native":"\u269b\ufe0f React Native (6)","internship":" Internship (6)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (6)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (903)","senior":"\ud83d\udc75 Senior (690)","dev":"\ud83e\udd13 Developer (590)","exec":"\ud83d\udcbc Executive (497)","golang":"\ud83d\udc00 Golang (339)","backend":"\ud83c\udf51 Backend (266)","full stack":"\ud83e\udd5e Full Stack (151)","front end":"\ud83c\udfa8 Front End (121)","product designer":"\ud83d\udce6 Product Designer (111)","marketing":"\ud83d\udea5 Marketing (110)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (88)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (63)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","cloud":"\u2601\ufe0f Cloud (51)","sys admin":"\u267e\ufe0f Sys Admin (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","react":"\u269b\ufe0f React (47)","infosec":"\ud83d\udd11 InfoSec (47)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (33)","ops":"\u267e\ufe0f Ops (27)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","crypto":"\ud83c\udfc5 Crypto (16)","blockchain":"\u26d3 Blockchain (16)","web3":"\ud83d\udc8e Web3 (16)","social media":"\u270d\ufe0f Social Media (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","finance":"\ud83d\udcb0 Finance (14)","meteor":"\u2604\ufe0f Meteor (14)","api":"\ud83e\udd16 API (13)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","php":"\ud83d\udc18 PHP (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","c plus plus":"\u2795 C Plus Plus (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","bus dev":"\ud83d\udcbc Bus Developer (8)","copywriting":"\u270d\ufe0f Copywriting (8)","react native":"\u269b\ufe0f React Native (7)","medical":"\ud83d\ude91 Medical (7)","graphql":"\u269b\ufe0f GraphQL (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","solidity":"\u26d3 Solidity (7)","ads":"\ud83d\udea5 Ads (6)","internship":" Internship (6)","recruiter":"\ud83c\udfaf Recruiter (6)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
 <link rel='alternate' type='application/json' title='JSON' href='/remote-jobs.json'>
 <meta name="twitter:widgets:csp" content="on">
 <script>
-			var worldwide=false;			var basicPrice=699;
+			var worldwide=false;			var basicPrice=599;
 			var priceForHighlightedExtra=49;
 			var stripePublicKey='pk_live_thn9fkM3p9yV25rj8HwkXVJq';
 		</script>
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($147k/mo)
+🤲&nbsp; Open Startup ($144k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.82%)
@@ -291,6 +291,9 @@ Other
 </a>
 <a title="" alt="" href="/remote-work-statistics">
 <i>📊</i> Remote work stats <span class="badge">new</span>
+</a>
+<a title="" alt="" href="https://buffer.com/state-of-remote-work/2022?ref=remoteok">
+<i>🧪</i> State of Remote Work <span class="badge">new</span>
 </a>
 <div class="a">
 <i>🌍&nbsp;</i> <a rel="noopener follow" href="https://nomadlist.com/?ref=remoteok">Become a digital nomad</a>
@@ -349,9 +352,9 @@ Post a job
 <td style="background-color:#343477;" class="time"></td>
 <td style="background-color:#343477;" class="source"><a target="_blank" href="https://remoteOK.com/nomad-health" rel="follow noopener"><div class="apply_button no-logo" style="background-color:#5bc6c6;border-color:#5bc6c6 !important;"><p style="opacity:1;color:#fff;">Save 15%</p></div></a></td>
 </tr>
-<tr class="advertise-here">
+ <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#e093818c8593a092858d8f94858f8bce838f8ddf9395828a858394dda18496859294899385cb8f8ecbb2858d8f9485cbafabc6828f8499ddb4888993cb858d81898ccb848f8593cb8e8f94cb978f928bcec5d0a1c5d0d9b08c85819385cb959385cb948885cb858d81898ccb81848492859393cb8184bf93818c8593cb818e84cb9488858ecbc5d4d0cb818e84cb9488858ecb94888993cb93899485c5d2d793cb848f8d81898ecb898e9394858184c5d2a3cb948fcb81968f8984cb9390818d8d859293cb868c8f8f84898e87cb94888993cb858d81898ccecbb785c5d2d79285cb8f8e8c99cb818383859094898e87cb93908f8e938f9293888990c5d2a68184cb8485818c93cb86928f8dcbc5d2d4d3d08bc5d2a68d8fcb8194cb94888993cb8d8f8d858e94cb818e84cb9488859285c5d2d793cb81cb97818994898e87cb8c899394cecbb785cb848fcbaeafb4cb848fcba3b0a1c5d2a6818686898c89819485c5d2a693818c85cd8281938584cb8485818c93c5d2a3cb8f8e8c99cb868c8194cb868585cb8c958d90cb93958dcb88819284cb83819388cb93908f8e938f929388899093c5d2a6818493c5d2a3cb908c85819385cb93819685cb828f9488cb8f86cb9593cb94898d85cb818e84cb848f8ec5d2d794cb858d81898ccb9593cb81828f9594cb94888194cecbb488818e8b93c5d2d1">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#6c1f0d00091f2c1e09010318090307420f0301531f190e06090f18512d081a091e18051f09470302473e09010318094723274a0e030815513804051f4709010d0500470803091f47020318471b031e0742495c2d495c553c00090d1f0947191f09471804094709010d0500470d08081e091f1f470d08331f0d00091f470d020847180409024749585c470d02084718040902471804051f471f051809495e5b1f470803010d05024705021f18090d08495e2f471803470d1a030508471f1c0d0101091e1f470a0003030805020b471804051f4709010d050042473b09495e5b1e094703020015470d0f0f091c1805020b471f1c03021f031e1f04051c495e2a0d084708090d001f470a1e030147495e585f5c07495e2a0103470d18471804051f47010301090218470d0208471804091e09495e5b1f470d471b0d051805020b4700051f1842473b0947080347222338470803472f3c2d495e2a0d0a0a0500050d1809495e2a1f0d0009410e0d1f09084708090d001f495e2f4703020015470a000d18470a0909470019011c471f190147040d1e08470f0d1f04471f1c03021f031e1f04051c1f495e2a0d081f495e2f471c00090d1f09471f0d1a09470e03180447030a47191f4718050109470d020847080302495e5b184709010d050047191f470d0e0319184718040d18424738040d02071f495e5d">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -440,7 +443,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-13 new jobs posted today
+41 new jobs posted today
 </span>
 </div>
 </td>
@@ -498,7 +501,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-15T16:50:38+00:00">
-7d </time>
+8d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109011">
@@ -530,11 +533,11 @@ pesto.app </a>
 Apply now
 </a>
 <p>
-👀 1,296 views
+👀 1,382 views
 </p>
 <p>
-✅ 111 applied
-(9%)
+✅ 114 applied
+(8%)
 </p>
 <p>
 <strong>
@@ -547,7 +550,7 @@ Share this job:
 </div>
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">Pesto is hiring a </span><br />Remote Software Engineer </h1>
-<div class="markdown">Pesto is a digital workplace that promotes intuitive and authentic communication and collaboration. Employees customize their avatar in the workplace, which takes the place of video to be less fatiguing and more personable. Then, they create a variety of rooms – organized spaces for audio-first collaboration that include video, screenshare, games, or spatial features. Together, avatars and rooms empower employees to work together in ways that are more organic and immersive. \n\n### 📈 Status\n\nWe raised a $1M pre-seed round in April 2020 and recently raised a [$5M seed round](https://techcrunch.com/2022/02/01/pesto-spices-up-digital-workplaces-so-remote-work-isnt-soremote/). We now have significant early traction and growth with thousands of remote/hybrid workers using us daily.\n\n### ❓ Our interview process\nOur interview process is simple:\n\n- We have a quick initial 15-30 min call to establish mutual interest\n- Then, for certain levels and roles of experience, we may conduct a technical 1 hour interview\n- Then, we conduct a 2-3 hour interview consisting of cultural interviews with co-founding CEO, Doug Safreno, and co-founding CTO, Vivek Nair + 1 technical screen, typically conducted by the hiring manager\n- Finally, we conduct a "work trial" - where we pay you to work with us for a few (typically 3-5) days.\n\n### 🏖️ Benefits of working with us\n- Fully remote team (within US)\n- $5K budget for your home remote work setup\n- Healthcare, dental and vision insurance\n- Unlimited PTO\n- Team "onsites" (e.g. [Honolulu](https://pesto.app/blog/budgeting-logistics-remote-team-trip-hawaii), [Boulder](https://pesto.app/blog/onsite-boulder-colorado))\n\n\n### ✅ What we're looking for\n\nWe are actively hiring two full stack software engineers with:\n\n- Over 1 year of professional experience\n- Familiarity with React and JavaScript\n- Remote, based in US timezones\n\n### 💻 In this role, you will\n\n- Operate across the stack, from our avatar creator to our A/V media infrastructure to our real-time sync engine. \n- Heavily use what you build. Pesto is the most important tool we use to build Pesto.\n- Tackle challenging technical and UX problems, from video conferencing to group chat to social signals around availability\n- Ship critical features as part of a small team of generalists\n- Use a modern tech stack, including a Typescript, GraphQL, PostgreSQL backend deployed on Kubernetes on GKE and React (+Electron) and React Native clients all wired together with [our real-time sync engine](https://pesto.app/blog/real-time-data-engine) and WebRTC\n\n### What's next?\nTo apply or learn more about any role, please reach out to [<span class="__cf_email__" data-cfemail="5b313439281b2b3e282f34753a2b2b">[email&#160;protected]</span>](mailto://<span class="__cf_email__" data-cfemail="73191c110033031600071c5d120303">[email&#160;protected]</span>). \n\nBe sure to mention the word **DOTE** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\n \n\n#Salary and compensation\n
+<div class="markdown">Pesto is a digital workplace that promotes intuitive and authentic communication and collaboration. Employees customize their avatar in the workplace, which takes the place of video to be less fatiguing and more personable. Then, they create a variety of rooms – organized spaces for audio-first collaboration that include video, screenshare, games, or spatial features. Together, avatars and rooms empower employees to work together in ways that are more organic and immersive. \n\n### 📈 Status\n\nWe raised a $1M pre-seed round in April 2020 and recently raised a [$5M seed round](https://techcrunch.com/2022/02/01/pesto-spices-up-digital-workplaces-so-remote-work-isnt-soremote/). We now have significant early traction and growth with thousands of remote/hybrid workers using us daily.\n\n### ❓ Our interview process\nOur interview process is simple:\n\n- We have a quick initial 15-30 min call to establish mutual interest\n- Then, for certain levels and roles of experience, we may conduct a technical 1 hour interview\n- Then, we conduct a 2-3 hour interview consisting of cultural interviews with co-founding CEO, Doug Safreno, and co-founding CTO, Vivek Nair + 1 technical screen, typically conducted by the hiring manager\n- Finally, we conduct a "work trial" - where we pay you to work with us for a few (typically 3-5) days.\n\n### 🏖️ Benefits of working with us\n- Fully remote team (within US)\n- $5K budget for your home remote work setup\n- Healthcare, dental and vision insurance\n- Unlimited PTO\n- Team "onsites" (e.g. [Honolulu](https://pesto.app/blog/budgeting-logistics-remote-team-trip-hawaii), [Boulder](https://pesto.app/blog/onsite-boulder-colorado))\n\n\n### ✅ What we're looking for\n\nWe are actively hiring two full stack software engineers with:\n\n- Over 1 year of professional experience\n- Familiarity with React and JavaScript\n- Remote, based in US timezones\n\n### 💻 In this role, you will\n\n- Operate across the stack, from our avatar creator to our A/V media infrastructure to our real-time sync engine. \n- Heavily use what you build. Pesto is the most important tool we use to build Pesto.\n- Tackle challenging technical and UX problems, from video conferencing to group chat to social signals around availability\n- Ship critical features as part of a small team of generalists\n- Use a modern tech stack, including a Typescript, GraphQL, PostgreSQL backend deployed on Kubernetes on GKE and React (+Electron) and React Native clients all wired together with [our real-time sync engine](https://pesto.app/blog/real-time-data-engine) and WebRTC\n\n### What's next?\nTo apply or learn more about any role, please reach out to [<span class="__cf_email__" data-cfemail="7b111419083b0b1e080f14551a0b0b">[email&#160;protected]</span>](mailto://<span class="__cf_email__" data-cfemail="96fcf9f4e5d6e6f3e5e2f9b8f7e6e6">[email&#160;protected]</span>). \n\nBe sure to mention the word **DOTE** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\n \n\n#Salary and compensation\n
 $120,000 &mdash; $160,000/year\n
 \n\n#Location\n🇺🇸 US<br />
 </div>
@@ -561,12 +564,12 @@ Visit <a href="https://pesto.app">Pesto</a>'s website
 </p>
 </div>
 <div class="instructions">
-<div class="markdown"># How do you apply?\n\nTo apply or learn more about any role, please reach out to [<span class="__cf_email__" data-cfemail="caa0a5a8b98abaafb9bea5e4abbaba">[email&#160;protected]</span>](mailto://<span class="__cf_email__" data-cfemail="8ee4e1ecfdcefeebfdfae1a0effefe">[email&#160;protected]</span>).</div>
+<div class="markdown"># How do you apply?\n\nTo apply or learn more about any role, please reach out to [<span class="__cf_email__" data-cfemail="5d37323f2e1d2d382e2932733c2d2d">[email&#160;protected]</span>](mailto://<span class="__cf_email__" data-cfemail="63090c011023130610170c4d021313">[email&#160;protected]</span>).</div>
 <a class="button action-apply apply_109011" data-job-id="109011" href="/l/109011" target="_blank" rel="nofollow">
 Apply for this job
 </a>
 <div style="font-size:12px;margin-top:-14px;font-weight:bold;">
-or email to <span class="__cf_email__" data-cfemail="4c26232e3f0c3c293f3823622d3c3c">[email&#160;protected]</span> </div>
+or email to <span class="__cf_email__" data-cfemail="02686d607142726771766d2c637272">[email&#160;protected]</span> </div>
 <p style="font-size:0.85em">
 <strong>👉 Please reference you found the job on Remote OK, this helps us get more companies to post here, thanks!</strong><br /><br />
 When applying for jobs, you should NEVER have to pay to apply. You should also NEVER have to pay to buy equipment which they then pay you back for later. Also never pay for trainings you have to do. Those are scams! NEVER PAY FOR ANYTHING! Posts that link to pages with "how to work online" are also scams. Don't use them or pay for them. Also always verify you're actually talking to the company in the job post and not an imposter. A good idea is to check the domain name for the site/email and see if it's the actual company's main domain name. Scams in remote work are rampant, be careful! <a href="https://twitter.com/levelsio/status/1300443073562980353?s=20" style="font-weight:800;">Read more to avoid scams</a>. When clicking on the button to apply above, you will leave Remote OK and go to the job application page for that company outside this site. Remote OK accepts no liability or responsibility as a consequence of any reliance upon information on there (external sites) or here.
@@ -654,20 +657,20 @@ Remote Admin Jobs
 ♾️&nbsp;<a href="/remote-devops-jobs">
 Remote DevOps Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-🔑&nbsp;<a href="/remote-infosec-jobs">
-Remote InfoSec Jobs
-</a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-jobs">
 Remote React Jobs
+</a> </div><div class="tag">
+🔑&nbsp;<a href="/remote-infosec-jobs">
+Remote InfoSec Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
@@ -696,14 +699,14 @@ Remote Web Dev Jobs
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-machine-learning-jobs">
-Remote Machine Learning Jobs
-</a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-machine-learning-jobs">
+Remote Machine Learning Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -714,8 +717,8 @@ Remote SaaS Jobs
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
 </a> </div><div class="tag">
-💰&nbsp;<a href="/remote-finance-jobs">
-Remote Finance Jobs
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
 </a> </div><div class="tag">
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
@@ -726,23 +729,23 @@ Remote Web3 Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
+</a> </div><div class="tag">
+💰&nbsp;<a href="/remote-finance-jobs">
+Remote Finance Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
 </a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
-</a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -753,11 +756,11 @@ Remote Content Writing Jobs
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
-</a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
@@ -777,8 +780,8 @@ Remote Linux Jobs
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-💼&nbsp;<a href="/remote-bus-dev-jobs">
-Remote Biz Dev Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -862,12 +865,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -922,12 +925,12 @@ Hire GraphQL Developers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -978,12 +981,12 @@ Hire Swift Developers Remotely
 Hire Product Management Developers Remotely
 </a>
 </div><div class="tag">
-💼 &nbsp;<a href="/hire/sales">
-Hire Sales Developers Remotely
-</a>
-</div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+💼 &nbsp;<a href="/hire/sales">
+Hire Sales Developers Remotely
 </a>
 </div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
@@ -994,12 +997,12 @@ Hire Excel Developers Remotely
 Hire Express Developers Remotely
 </a>
 </div><div class="tag">
-🔡 &nbsp;<a href="/hire/html5">
-Hire HTML5 Developers Remotely
-</a>
-</div><div class="tag">
 🍏 &nbsp;<a href="/hire/ios">
 Hire IOS Developers Remotely
+</a>
+</div><div class="tag">
+🔡 &nbsp;<a href="/hire/html5">
+Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
 🦩 &nbsp;<a href="/hire/flutter">
@@ -1036,6 +1039,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-179ms
+149ms
 </div>
 <div class="END-OF-FILE"></div>

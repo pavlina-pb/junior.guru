@@ -79,14 +79,14 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (905)","senior":"\ud83d\udc75 Senior (693)","dev":"\ud83e\udd13 Developer (591)","exec":"\ud83d\udcbc Executive (493)","golang":"\ud83d\udc00 Golang (335)","backend":"\ud83c\udf51 Backend (265)","full stack":"\ud83e\udd5e Full Stack (152)","front end":"\ud83c\udfa8 Front End (122)","product designer":"\ud83d\udce6 Product Designer (110)","marketing":"\ud83d\udea5 Marketing (109)","javascript":"\u2615\ufe0f JavaScript (93)","design":"\ud83c\udfa8 Design (87)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (65)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","sys admin":"\u267e\ufe0f Sys Admin (51)","cloud":"\u2601\ufe0f Cloud (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","infosec":"\ud83d\udd11 InfoSec (47)","react":"\u269b\ufe0f React (46)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (32)","ops":"\u267e\ufe0f Ops (26)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","machine learning":"\ud83e\udd16 Machine Learning (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","finance":"\ud83d\udcb0 Finance (15)","blockchain":"\u26d3 Blockchain (15)","web3":"\ud83d\udc8e Web3 (15)","social media":"\u270d\ufe0f Social Media (15)","crypto":"\ud83c\udfc5 Crypto (15)","meteor":"\u2604\ufe0f Meteor (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","api":"\ud83e\udd16 API (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","php":"\ud83d\udc18 PHP (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","bus dev":"\ud83d\udcbc Bus Developer (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","copywriting":"\u270d\ufe0f Copywriting (8)","c plus plus":"\u2795 C Plus Plus (8)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","react native":"\u269b\ufe0f React Native (6)","internship":" Internship (6)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (6)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (903)","senior":"\ud83d\udc75 Senior (690)","dev":"\ud83e\udd13 Developer (590)","exec":"\ud83d\udcbc Executive (497)","golang":"\ud83d\udc00 Golang (339)","backend":"\ud83c\udf51 Backend (266)","full stack":"\ud83e\udd5e Full Stack (151)","front end":"\ud83c\udfa8 Front End (121)","product designer":"\ud83d\udce6 Product Designer (111)","marketing":"\ud83d\udea5 Marketing (110)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (88)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (63)","admin":"\u267e\ufe0f Admin (59)","devops":"\u267e\ufe0f DevOps (56)","cloud":"\u2601\ufe0f Cloud (51)","sys admin":"\u267e\ufe0f Sys Admin (51)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (47)","react":"\u269b\ufe0f React (47)","infosec":"\ud83d\udd11 InfoSec (47)","sales":"\ud83d\udcbc Sales (43)","ruby":"\ud83d\udc8e Ruby (41)","analyst":"\ud83e\udd14 Analyst (33)","ops":"\u267e\ufe0f Ops (27)","node":"\ud83d\udd17 Node (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","python":"\ud83d\udc0d Python (22)","web dev":"\ud83e\udd13 Web Developer (21)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","testing":"\ud83e\uddea Testing (19)","saas":"\ud83d\udce6 SaaS (18)","android":"\ud83e\udd16 Android (17)","crypto":"\ud83c\udfc5 Crypto (16)","blockchain":"\u26d3 Blockchain (16)","web3":"\ud83d\udc8e Web3 (16)","social media":"\u270d\ufe0f Social Media (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","finance":"\ud83d\udcb0 Finance (14)","meteor":"\u2604\ufe0f Meteor (14)","api":"\ud83e\udd16 API (13)","mobile":"\ud83d\udcf1 Mobile (13)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (12)","content writing":"\u270d\ufe0f Content Writing (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","php":"\ud83d\udc18 PHP (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (11)","junior":"\ud83d\udc76 Junior (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","seo":"\ud83d\udd0e SEO (9)","linux":"\ud83d\udc27 Linux (9)","game dev":"\ud83d\udd79 Game Developer (9)","c plus plus":"\u2795 C Plus Plus (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","bus dev":"\ud83d\udcbc Bus Developer (8)","copywriting":"\u270d\ufe0f Copywriting (8)","react native":"\u269b\ufe0f React Native (7)","medical":"\ud83d\ude91 Medical (7)","graphql":"\u269b\ufe0f GraphQL (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","solidity":"\u26d3 Solidity (7)","ads":"\ud83d\udea5 Ads (6)","internship":" Internship (6)","recruiter":"\ud83c\udfaf Recruiter (6)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
 <link rel='alternate' type='application/json' title='JSON' href='/remote-jobs.json'>
 <meta name="twitter:widgets:csp" content="on">
 <script>
-			var worldwide=false;			var basicPrice=699;
+			var worldwide=false;			var basicPrice=599;
 			var priceForHighlightedExtra=49;
 			var stripePublicKey='pk_live_thn9fkM3p9yV25rj8HwkXVJq';
 		</script>
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($147k/mo)
+🤲&nbsp; Open Startup ($144k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.82%)
@@ -291,6 +291,9 @@ Other
 </a>
 <a title="" alt="" href="/remote-work-statistics">
 <i>📊</i> Remote work stats <span class="badge">new</span>
+</a>
+<a title="" alt="" href="https://buffer.com/state-of-remote-work/2022?ref=remoteok">
+<i>🧪</i> State of Remote Work <span class="badge">new</span>
 </a>
 <div class="a">
 <i>🌍&nbsp;</i> <a rel="noopener follow" href="https://nomadlist.com/?ref=remoteok">Become a digital nomad</a>
@@ -351,7 +354,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#85f6e4e9e0f6c5f7e0e8eaf1e0eaeeabe6eae8baf6f0e7efe0e6f1b8c4e1f3e0f7f1ecf6e0aeeaebaed7e0e8eaf1e0aecacea3e7eae1fcb8d1edecf6aee0e8e4ece9aee1eae0f6aeebeaf1aef2eaf7eeaba0b5c4a0b5bcd5e9e0e4f6e0aef0f6e0aef1ede0aee0e8e4ece9aee4e1e1f7e0f6f6aee4e1daf6e4e9e0f6aee4ebe1aef1ede0ebaea0b1b5aee4ebe1aef1ede0ebaef1edecf6aef6ecf1e0a0b7b2f6aee1eae8e4ecebaeecebf6f1e0e4e1a0b7c6aef1eaaee4f3eaece1aef6f5e4e8e8e0f7f6aee3e9eaeae1ecebe2aef1edecf6aee0e8e4ece9abaed2e0a0b7b2f7e0aeeaebe9fcaee4e6e6e0f5f1ecebe2aef6f5eaebf6eaf7f6edecf5a0b7c3e4e1aee1e0e4e9f6aee3f7eae8aea0b7b1b6b5eea0b7c3e8eaaee4f1aef1edecf6aee8eae8e0ebf1aee4ebe1aef1ede0f7e0a0b7b2f6aee4aef2e4ecf1ecebe2aee9ecf6f1abaed2e0aee1eaaecbcad1aee1eaaec6d5c4a0b7c3e4e3e3ece9ece4f1e0a0b7c3f6e4e9e0a8e7e4f6e0e1aee1e0e4e9f6a0b7c6aeeaebe9fcaee3e9e4f1aee3e0e0aee9f0e8f5aef6f0e8aeede4f7e1aee6e4f6edaef6f5eaebf6eaf7f6edecf5f6a0b7c3e4e1f6a0b7c6aef5e9e0e4f6e0aef6e4f3e0aee7eaf1edaeeae3aef0f6aef1ece8e0aee4ebe1aee1eaeba0b7b2f1aee0e8e4ece9aef0f6aee4e7eaf0f1aef1ede4f1abaed1ede4ebeef6a0b7b4">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#f58694999086b58790989a81909a9edb969a98ca8680979f909681c8b491839087819c8690de9a9bdea790989a8190debabed3979a918cc8a19d9c86de9098949c99de919a9086de9b9a81de829a879edbd0c5b4d0c5cca59990948690de808690de819d90de9098949c99de94919187908686de9491aa8694999086de949b91de819d909bded0c1c5de949b91de819d909bde819d9c86de869c8190d0c7c286de919a98949c9bde9c9b8681909491d0c7b6de819ade94839a9c91de8685949898908786de93999a9a919c9b92de819d9c86de9098949c99dbdea290d0c7c28790de9a9b998cde9496969085819c9b92de86859a9b869a87869d9c85d0c7b39491de9190949986de93879a98ded0c7c1c6c59ed0c7b3989ade9481de819d9c86de989a98909b81de949b91de819d908790d0c7c286de94de82949c819c9b92de999c8681dbdea290de919adebbbaa1de919adeb6a5b4d0c7b39493939c999c948190d0c7b386949990d89794869091de9190949986d0c7b6de9a9b998cde93999481de939090de99809885de868098de9d948791de9694869dde86859a9b869a87869d9c8586d0c7b3949186d0c7b6de859990948690de86948390de979a819dde9a93de8086de819c9890de949b91de919a9bd0c7c281de9098949c99de8086de94979a8081de819d9481dbdea19d949b9e86d0c7c4">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -440,7 +443,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-13 new jobs posted today
+41 new jobs posted today
 </span>
 </div>
 </td>
@@ -496,7 +499,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-10T17:00:03+00:00">
-12d </time>
+13d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/108796">
@@ -514,7 +517,7 @@ Apply
 <div class="description" itemprop="description">
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">Noyo is hiring a </span><br />Remote Software Engineer Front End </h1>
-<div class="markdown">Noyo is the leading benefits infrastructure company, enabling seamless data connectivity across the benefits ecosystem. We believe every person should have access to great benefits that are easy to understand, easy to use, and have them covered when they need it most. \n\nIn service of that mission, we provide modern infrastructure to power the next generation of consumer health and benefits experiences. Like Stripe in payments and Plaid in financial services, Noyo makes it possible for developers to embed benefits into any app.\n\nWe are a rapidly-growing technology company backed by the best investors in Silicon Valley, and we are building a team of ambitious and creative people looking to change the face of benefits. \n\nNoyo is a distributed company with teammates all across the United States. We have offices in San Francisco and Raleigh-Durham.\n\nAbout The Role\n\nNoyo makes it simple for any software company to embed benefits into their offering through a combination of powerful APIs, robust dashboards, and out-of-the-box tooling. Front end engineers are often working on modeling, designing, and building software to address problems that don’t have existing solutions today. Working with our design and product management specialists, we challenge engineers to create clear UI/UX representations of complicated concepts and services that aren’t provided elsewhere. We’re not pushing the boundaries of what we can do with an individual technology or framework; we’re pushing the boundaries of what our customers can expect from a product.\n\nWe’re looking for engineers who can collaborate effectively with other engineers as well as cross-functionally. We also value engineers who can reason with complex systems and business logic and communicate those concepts to our customers and other team members.\n\nVisa sponsorship is available for this position\n\n\nWhat we value\n1. Judgment to experiment quickly without sacrificing quality\n2. Combination of ambition and creativity to solve hard problems\n3. Collaborative approach and focus on finding the best ideas, wherever they may be\n\nWhat we offer\nCompetitive salary and equity packages - You'll be an owner of the company \nMedical, Dental, and Vision Insurance - Noyo pays 100% of employee premiums and 50% of dependents premiums\nLong-Term Disability, Short-Term Disability, and Life Insurance - Company paid life and disability coverage\nHealth and Dependent Care FSAs - Pre-tax flexible spending accounts for out-of-pocket expenses \n401k Account - 401k program through Guideline\nCommuter Benefits - Tax-advantaged commuter benefits account\nHome Office Stipend - Noyo offers each team member a $500 stipend to spend on home office related equipment\nParental Support - 12 weeks of paid leave for new parents \nPaid Time Off - Uncapped vacation days & paid holidays \nHolidays Off - Noyo observes 14 holidays including Juneteenth, Indigenous People’s Day, Election Day, & Veterans day \n\nHow we work together\nNo Meeting Wednesdays - Wednesdays are used for deep work, so we try to avoid meetings being scheduled this day unless it's client sensitive. \nTech Stack - We primarily use Slack, Google Suite, and Notion.\nCore Hours - To maintain our flexible, self-directed work schedules without leading people to feel they need to be constantly connected, we've implemented core meeting hours where cross-time zone meetings happen.\n\nNoyo products serve everyone, and we believe the best products are built by teams that represent their users. We value unique contributions and actively welcome people of all backgrounds, experiences, and perspectives to join us at Noyo. We are committed to working with and providing access and reasonable accommodation to applicants. If you think you may require accommodation for any part of the recruitment process, please send a request to: <span class="__cf_email__" data-cfemail="93fffae9d3fdfceafcbdf0fcfebd">[email&#160;protected]</span> All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.\n\nNoyo participates in E-Verify. E-Verify is a web-based system that allows enrolled employers to confirm the eligibility of their employees to work in the United States. E-Verify employers verify the identity and employment eligibility of newly hired employees by electronically matching the information provided by employees on the Form I-9, Employment Eligibility Verification, against records available to the Social Security Administration (SSA) and the Department of Homeland Security (DHS). Here you will find links to the Participation Poster as well as the Right to Work notices in English and Spanish.\n\n#LI-Remote \n\n#Salary and compensation\n
+<div class="markdown">Noyo is the leading benefits infrastructure company, enabling seamless data connectivity across the benefits ecosystem. We believe every person should have access to great benefits that are easy to understand, easy to use, and have them covered when they need it most. \n\nIn service of that mission, we provide modern infrastructure to power the next generation of consumer health and benefits experiences. Like Stripe in payments and Plaid in financial services, Noyo makes it possible for developers to embed benefits into any app.\n\nWe are a rapidly-growing technology company backed by the best investors in Silicon Valley, and we are building a team of ambitious and creative people looking to change the face of benefits. \n\nNoyo is a distributed company with teammates all across the United States. We have offices in San Francisco and Raleigh-Durham.\n\nAbout The Role\n\nNoyo makes it simple for any software company to embed benefits into their offering through a combination of powerful APIs, robust dashboards, and out-of-the-box tooling. Front end engineers are often working on modeling, designing, and building software to address problems that don’t have existing solutions today. Working with our design and product management specialists, we challenge engineers to create clear UI/UX representations of complicated concepts and services that aren’t provided elsewhere. We’re not pushing the boundaries of what we can do with an individual technology or framework; we’re pushing the boundaries of what our customers can expect from a product.\n\nWe’re looking for engineers who can collaborate effectively with other engineers as well as cross-functionally. We also value engineers who can reason with complex systems and business logic and communicate those concepts to our customers and other team members.\n\nVisa sponsorship is available for this position\n\n\nWhat we value\n1. Judgment to experiment quickly without sacrificing quality\n2. Combination of ambition and creativity to solve hard problems\n3. Collaborative approach and focus on finding the best ideas, wherever they may be\n\nWhat we offer\nCompetitive salary and equity packages - You'll be an owner of the company \nMedical, Dental, and Vision Insurance - Noyo pays 100% of employee premiums and 50% of dependents premiums\nLong-Term Disability, Short-Term Disability, and Life Insurance - Company paid life and disability coverage\nHealth and Dependent Care FSAs - Pre-tax flexible spending accounts for out-of-pocket expenses \n401k Account - 401k program through Guideline\nCommuter Benefits - Tax-advantaged commuter benefits account\nHome Office Stipend - Noyo offers each team member a $500 stipend to spend on home office related equipment\nParental Support - 12 weeks of paid leave for new parents \nPaid Time Off - Uncapped vacation days & paid holidays \nHolidays Off - Noyo observes 14 holidays including Juneteenth, Indigenous People’s Day, Election Day, & Veterans day \n\nHow we work together\nNo Meeting Wednesdays - Wednesdays are used for deep work, so we try to avoid meetings being scheduled this day unless it's client sensitive. \nTech Stack - We primarily use Slack, Google Suite, and Notion.\nCore Hours - To maintain our flexible, self-directed work schedules without leading people to feel they need to be constantly connected, we've implemented core meeting hours where cross-time zone meetings happen.\n\nNoyo products serve everyone, and we believe the best products are built by teams that represent their users. We value unique contributions and actively welcome people of all backgrounds, experiences, and perspectives to join us at Noyo. We are committed to working with and providing access and reasonable accommodation to applicants. If you think you may require accommodation for any part of the recruitment process, please send a request to: <span class="__cf_email__" data-cfemail="d9b5b0a399b7b6a0b6f7bab6b4f7">[email&#160;protected]</span> All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.\n\nNoyo participates in E-Verify. E-Verify is a web-based system that allows enrolled employers to confirm the eligibility of their employees to work in the United States. E-Verify employers verify the identity and employment eligibility of newly hired employees by electronically matching the information provided by employees on the Form I-9, Employment Eligibility Verification, against records available to the Social Security Administration (SSA) and the Department of Homeland Security (DHS). Here you will find links to the Participation Poster as well as the Right to Work notices in English and Spanish.\n\n#LI-Remote \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to Engineer, Front End, Developer and Digital Nomad jobs that are similar:\n\n
 $60,000 &mdash; $115,000/year\n
 \n\n#Location\nUs-Remote<br />
@@ -658,7 +661,7 @@ laravel </div>
 </div>
 <div class="button green">
 Hire remote worker
- </div>
+</div>
 </a><a href="/@celeste" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/0e9aecb39a1021a94e2ac556e3e398a0.jpg?1618072575"><br />
 <div class="bio">
@@ -771,20 +774,20 @@ Remote Admin Jobs
 ♾️&nbsp;<a href="/remote-devops-jobs">
 Remote DevOps Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-🔑&nbsp;<a href="/remote-infosec-jobs">
-Remote InfoSec Jobs
-</a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-jobs">
 Remote React Jobs
+</a> </div><div class="tag">
+🔑&nbsp;<a href="/remote-infosec-jobs">
+Remote InfoSec Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
@@ -813,14 +816,14 @@ Remote Web Dev Jobs
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-machine-learning-jobs">
-Remote Machine Learning Jobs
-</a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-machine-learning-jobs">
+Remote Machine Learning Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -831,8 +834,8 @@ Remote SaaS Jobs
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
 </a> </div><div class="tag">
-💰&nbsp;<a href="/remote-finance-jobs">
-Remote Finance Jobs
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
 </a> </div><div class="tag">
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
@@ -843,23 +846,23 @@ Remote Web3 Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
+</a> </div><div class="tag">
+💰&nbsp;<a href="/remote-finance-jobs">
+Remote Finance Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
 </a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
-</a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -870,11 +873,11 @@ Remote Content Writing Jobs
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
-</a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
@@ -894,8 +897,8 @@ Remote Linux Jobs
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-💼&nbsp;<a href="/remote-bus-dev-jobs">
-Remote Biz Dev Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -979,12 +982,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1039,12 +1042,12 @@ Hire GraphQL Developers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1095,12 +1098,12 @@ Hire Swift Developers Remotely
 Hire Product Management Developers Remotely
 </a>
 </div><div class="tag">
-💼 &nbsp;<a href="/hire/sales">
-Hire Sales Developers Remotely
-</a>
-</div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+💼 &nbsp;<a href="/hire/sales">
+Hire Sales Developers Remotely
 </a>
 </div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
@@ -1111,12 +1114,12 @@ Hire Excel Developers Remotely
 Hire Express Developers Remotely
 </a>
 </div><div class="tag">
-🔡 &nbsp;<a href="/hire/html5">
-Hire HTML5 Developers Remotely
-</a>
-</div><div class="tag">
 🍏 &nbsp;<a href="/hire/ios">
 Hire IOS Developers Remotely
+</a>
+</div><div class="tag">
+🔡 &nbsp;<a href="/hire/html5">
+Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
 🦩 &nbsp;<a href="/hire/flutter">
@@ -1153,6 +1156,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-155ms
+136ms
 </div>
 <div class="END-OF-FILE"></div>
