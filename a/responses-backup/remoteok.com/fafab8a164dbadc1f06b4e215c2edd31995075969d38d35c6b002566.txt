@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (855)","senior":"\ud83d\udc75 Senior (659)","dev":"\ud83e\udd13 Developer (572)","exec":"\ud83d\udcbc Executive (479)","golang":"\ud83d\udc00 Golang (338)","backend":"\ud83c\udf51 Backend (257)","full stack":"\ud83e\udd5e Full Stack (150)","front end":"\ud83c\udfa8 Front End (113)","product designer":"\ud83d\udce6 Product Designer (108)","marketing":"\ud83d\udea5 Marketing (106)","javascript":"\u2615\ufe0f JavaScript (93)","design":"\ud83c\udfa8 Design (84)","customer support":"\ud83c\udfa7 Customer Support (62)","non tech":"\ud83d\udd0c Non Tech (59)","devops":"\u267e\ufe0f DevOps (58)","admin":"\u267e\ufe0f Admin (54)","infosec":"\ud83d\udd11 InfoSec (47)","react":"\u269b\ufe0f React (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (45)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (41)","sales":"\ud83d\udcbc Sales (41)","ops":"\u267e\ufe0f Ops (28)","analyst":"\ud83e\udd14 Analyst (28)","node":"\ud83d\udd17 Node (23)","architecture":"\ud83d\udce6 Architecture (22)","quality assurance":"\ud83d\udd2c Quality Assurance (21)","python":"\ud83d\udc0d Python (21)","web dev":"\ud83e\udd13 Web Developer (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (19)","saas":"\ud83d\udce6 SaaS (18)","ios":"\ud83c\udf4f iOS (17)","crypto":"\ud83c\udfc5 Crypto (16)","web3":"\ud83d\udc8e Web3 (16)","blockchain":"\u26d3 Blockchain (16)","social media":"\u270d\ufe0f Social Media (15)","testing":"\ud83e\uddea Testing (15)","meteor":"\u2604\ufe0f Meteor (14)","finance":"\ud83d\udcb0 Finance (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","android":"\ud83e\udd16 Android (13)","hr":"\ud83d\udc4b HR (13)","mobile":"\ud83d\udcf1 Mobile (13)","php":"\ud83d\udc18 PHP (12)","consulting":"\ud83d\udcbc Consulting (12)","api":"\ud83e\udd16 API (12)","content writing":"\u270d\ufe0f Content Writing (12)","junior":"\ud83d\udc76 Junior (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","game dev":"\ud83d\udd79 Game Developer (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","linux":"\ud83d\udc27 Linux (8)","c plus plus":"\u2795 C Plus Plus (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c":"\ud83d\udd37 C (8)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","docker":"\ud83d\udc33 Docker (7)","graphql":"\u269b\ufe0f GraphQL (7)","solidity":"\u26d3 Solidity (7)","bus dev":"\ud83d\udcbc Bus Developer (7)","react native":"\u269b\ufe0f React Native (7)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","internship":" Internship (5)","wordpress":"\u270d\ufe0f Wordpress (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (862)","senior":"\ud83d\udc75 Senior (660)","dev":"\ud83e\udd13 Developer (573)","exec":"\ud83d\udcbc Executive (482)","golang":"\ud83d\udc00 Golang (339)","backend":"\ud83c\udf51 Backend (258)","full stack":"\ud83e\udd5e Full Stack (150)","front end":"\ud83c\udfa8 Front End (112)","product designer":"\ud83d\udce6 Product Designer (109)","marketing":"\ud83d\udea5 Marketing (106)","javascript":"\u2615\ufe0f JavaScript (89)","design":"\ud83c\udfa8 Design (84)","customer support":"\ud83c\udfa7 Customer Support (62)","non tech":"\ud83d\udd0c Non Tech (60)","devops":"\u267e\ufe0f DevOps (58)","admin":"\u267e\ufe0f Admin (54)","infosec":"\ud83d\udd11 InfoSec (48)","sys admin":"\u267e\ufe0f Sys Admin (46)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (45)","react":"\u269b\ufe0f React (43)","cloud":"\u2601\ufe0f Cloud (43)","sales":"\ud83d\udcbc Sales (42)","ruby":"\ud83d\udc8e Ruby (38)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (28)","web dev":"\ud83e\udd13 Web Developer (22)","node":"\ud83d\udd17 Node (22)","architecture":"\ud83d\udce6 Architecture (22)","quality assurance":"\ud83d\udd2c Quality Assurance (21)","java":"\u2615\ufe0f Java (20)","ios":"\ud83c\udf4f iOS (19)","python":"\ud83d\udc0d Python (19)","machine learning":"\ud83e\udd16 Machine Learning (19)","saas":"\ud83d\udce6 SaaS (18)","finance":"\ud83d\udcb0 Finance (17)","web3":"\ud83d\udc8e Web3 (16)","blockchain":"\u26d3 Blockchain (16)","crypto":"\ud83c\udfc5 Crypto (16)","social media":"\u270d\ufe0f Social Media (15)","testing":"\ud83e\uddea Testing (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","seo":"\ud83d\udd0e SEO (14)","meteor":"\u2604\ufe0f Meteor (14)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (13)","android":"\ud83e\udd16 Android (13)","mobile":"\ud83d\udcf1 Mobile (13)","php":"\ud83d\udc18 PHP (12)","content writing":"\u270d\ufe0f Content Writing (12)","junior":"\ud83d\udc76 Junior (11)","api":"\ud83e\udd16 API (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","game dev":"\ud83d\udd79 Game Developer (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","c plus plus":"\u2795 C Plus Plus (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","linux":"\ud83d\udc27 Linux (8)","c":"\ud83d\udd37 C (8)","solidity":"\u26d3 Solidity (7)","react native":"\u269b\ufe0f React Native (7)","bus dev":"\ud83d\udcbc Bus Developer (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","graphql":"\u269b\ufe0f GraphQL (7)","medical":"\ud83d\ude91 Medical (7)","copywriting":"\u270d\ufe0f Copywriting (7)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","internship":" Internship (5)","wordpress":"\u270d\ufe0f Wordpress (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,11 +281,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($140k/mo)
+🤲&nbsp; Open Startup ($137k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.82%)
-</a>
+🟢&nbsp; Uptime (%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -293,7 +292,7 @@ Other
 <i>📊</i> Remote work stats <span class="badge">new</span>
 </a>
 <a title="" alt="" href="https://buffer.com/state-of-remote-work/2022?ref=remoteok">
-<i>🧪</i> State of Remote Work <span class="badge">new</span>
+<i>🧪</i> State of remote work <span class="badge">new</span>
 </a>
 <div class="a">
 <i>🌍&nbsp;</i> <a rel="noopener follow" href="https://nomadlist.com/?ref=remoteok">Become a digital nomad</a>
@@ -354,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#7d0e1c11180e3d0f18101209181216531e1210420e081f17181e09403c190b180f09140e18561213562f18101209185632365b1f121904402915140e5618101c1411561912180e56131209560a120f1653584d3c584d442d11181c0e1856080e18560915185618101c1411561c19190f180e0e561c19220e1c11180e561c131956091518135658494d561c13195609151813560915140e560e140918584f4a0e561912101c14135614130e09181c19584f3e560912561c0b121419560e0d1c1010180f0e561b1112121914131a560915140e5618101c141153562a18584f4a0f185612131104561c1e1e180d0914131a560e0d12130e120f0e15140d584f3b1c195619181c110e561b0f121056584f494e4d16584f3b1012561c09560915140e56101210181309561c1319560915180f18584f4a0e561c560a1c140914131a5611140e0953562a1856191256333229561912563e2d3c584f3b1c1b1b1411141c0918584f3b0e1c1118501f1c0e18195619181c110e584f3e5612131104561b111c09561b1818561108100d560e081056151c0f19561e1c0e15560e0d12130e120f0e15140d0e584f3b1c190e584f3e560d11181c0e18560e1c0b18561f12091556121b56080e5609141018561c131956191213584f4a095618101c141156080e561c1f1208095609151c09535629151c13160e584f4c">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#b9cad8d5dccaf9cbdcd4d6cddcd6d297dad6d486caccdbd3dcdacd84f8ddcfdccbcdd0cadc92d6d792ebdcd4d6cddc92f6f29fdbd6ddc084edd1d0ca92dcd4d8d0d592ddd6dcca92d7d6cd92ced6cbd2979c89f89c8980e9d5dcd8cadc92cccadc92cdd1dc92dcd4d8d0d592d8ddddcbdccaca92d8dde6cad8d5dcca92d8d7dd92cdd1dcd7929c8d8992d8d7dd92cdd1dcd792cdd1d0ca92cad0cddc9c8b8eca92ddd6d4d8d0d792d0d7cacddcd8dd9c8bfa92cdd692d8cfd6d0dd92cac9d8d4d4dccbca92dfd5d6d6ddd0d7de92cdd1d0ca92dcd4d8d0d59792eedc9c8b8ecbdc92d6d7d5c092d8dadadcc9cdd0d7de92cac9d6d7cad6cbcad1d0c99c8bffd8dd92dddcd8d5ca92dfcbd6d4929c8b8d8a89d29c8bffd4d692d8cd92cdd1d0ca92d4d6d4dcd7cd92d8d7dd92cdd1dccbdc9c8b8eca92d892ced8d0cdd0d7de92d5d0cacd9792eedc92ddd692f7f6ed92ddd692fae9f89c8bffd8dfdfd0d5d0d8cddc9c8bffcad8d5dc94dbd8cadcdd92dddcd8d5ca9c8bfa92d6d7d5c092dfd5d8cd92dfdcdc92d5ccd4c992caccd492d1d8cbdd92dad8cad192cac9d6d7cad6cbcad1d0c9ca9c8bffd8ddca9c8bfa92c9d5dcd8cadc92cad8cfdc92dbd6cdd192d6df92ccca92cdd0d4dc92d8d7dd92ddd6d79c8b8ecd92dcd4d8d0d592ccca92d8dbd6cccd92cdd1d8cd9792edd1d8d7d2ca9c8b88">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -443,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-16 new jobs posted today
+32 new jobs posted today
 </span>
 </div>
 </td>
@@ -491,7 +490,7 @@ architecture </h3>
 </td>
 <td class="time" style="background-color:;">
 <time datetime="2022-02-24T00:00:02+00:00">
-1d </time>
+2d </time>
 </td>
 <td class="source" style="background-color:;">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109160">
@@ -519,7 +518,7 @@ Icertis </h2>
 Apply now
 </a>
 <p>
-👀 231 views
+👀 318 views
 </p>
 <p>
 ✅ 8 applied
@@ -536,7 +535,7 @@ Share this job:
 </div>
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">Icertis is hiring a </span><br />Remote DevOps Architect </h1>
-<div class="markdown">With unmatched technology and category-defining innovation, Icertis pushes the boundaries of what’s possible with contract lifecycle management (CLM). The AI-powered, analyst-validated Icertis Contract Intelligence (ICI) platform turns contracts from static documents into strategic advantage by structuring and connecting the critical contract information that defines how an organization runs. Today, the world’s most iconic brands and disruptive innovators trust Icertis to fully realize the intent of their combined 7.5 million+ contracts worth more than $1 trillion, in 40+ languages and 90+ countries.\n\nWho we are:  Icertis is the only contract intelligence platform companies trust to keep them out in front, now and in the future. Our unwavering commitment to contract intelligence is grounded in our FORTE values—Fairness, Openness, Respect, Teamwork and Execution—which guide all our interactions with employees, customers, partners and stakeholders. Because in our mission to be the contract intelligence platform of the world, we believe how we get there is as important as the destination\n\nAbout the US-Cloud Operations Team:\nCloud Operations at Icertis is responsible for Availability, Reliability, Performance, Monitoring, Emergency Response, and Capacity Planning of Icertis SaaS application & related services. Cloud Ops also executes Infra & Access Provisioning, Upgrades, Deployments & Change management to drive faster time to market. This department plays a critical role in building & executing the cloud strategy as part of overall service delivery for the company. \n\nIn addition, Icertis is continuing to generate significant demand in the US public sector and the US-Cloud Ops team is at the forefront of defining, implementing and continuously monitoring cloud security strategies to meet the rigorous federal security compliance requirements, protect our customer’s assets, reduce risk, and to empower Icertis’ federal sales team. This position can work remotely within the US. #Remote-LI. \n\n#LI-Remote\n#U.S.\n\n*This is U.S. based role with U.S. citizenship requirement. Applicant must reside in and work from the U.S..\n\n*Ability to meet Icertis, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Icertis Federal Cloud Background Check: This position will be required to pass the Icertis Federal Cloud Background Check upon hire/transfer and every two years thereafter.\n\n\nIcertis, Inc. provides Equal Employment Opportunity to all employees and applicants for employment without regard to race, color, religion, gender identity or expression, sex, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. Icertis, Inc. complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities. \n\nIcertis is not open to third party solicitation or resumes for our posted FTE positions. Resumes received from third party agencies that are unsolicited will be considered complimentary. \n\nIf you are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to <span class="__cf_email__" data-cfemail="2d4e4c5f48485f5e6d444e485f59445e034e4240">[email&#160;protected]</span>\n \nBy submitting your application you acknowledge that you have read Icertis’s Privacy Policy (https://www.icertis.com/privacy-statement/) \n\n#Salary and compensation\n
+<div class="markdown">With unmatched technology and category-defining innovation, Icertis pushes the boundaries of what’s possible with contract lifecycle management (CLM). The AI-powered, analyst-validated Icertis Contract Intelligence (ICI) platform turns contracts from static documents into strategic advantage by structuring and connecting the critical contract information that defines how an organization runs. Today, the world’s most iconic brands and disruptive innovators trust Icertis to fully realize the intent of their combined 7.5 million+ contracts worth more than $1 trillion, in 40+ languages and 90+ countries.\n\nWho we are:  Icertis is the only contract intelligence platform companies trust to keep them out in front, now and in the future. Our unwavering commitment to contract intelligence is grounded in our FORTE values—Fairness, Openness, Respect, Teamwork and Execution—which guide all our interactions with employees, customers, partners and stakeholders. Because in our mission to be the contract intelligence platform of the world, we believe how we get there is as important as the destination\n\nAbout the US-Cloud Operations Team:\nCloud Operations at Icertis is responsible for Availability, Reliability, Performance, Monitoring, Emergency Response, and Capacity Planning of Icertis SaaS application & related services. Cloud Ops also executes Infra & Access Provisioning, Upgrades, Deployments & Change management to drive faster time to market. This department plays a critical role in building & executing the cloud strategy as part of overall service delivery for the company. \n\nIn addition, Icertis is continuing to generate significant demand in the US public sector and the US-Cloud Ops team is at the forefront of defining, implementing and continuously monitoring cloud security strategies to meet the rigorous federal security compliance requirements, protect our customer’s assets, reduce risk, and to empower Icertis’ federal sales team. This position can work remotely within the US. #Remote-LI. \n\n#LI-Remote\n#U.S.\n\n*This is U.S. based role with U.S. citizenship requirement. Applicant must reside in and work from the U.S..\n\n*Ability to meet Icertis, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Icertis Federal Cloud Background Check: This position will be required to pass the Icertis Federal Cloud Background Check upon hire/transfer and every two years thereafter.\n\n\nIcertis, Inc. provides Equal Employment Opportunity to all employees and applicants for employment without regard to race, color, religion, gender identity or expression, sex, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. Icertis, Inc. complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities. \n\nIcertis is not open to third party solicitation or resumes for our posted FTE positions. Resumes received from third party agencies that are unsolicited will be considered complimentary. \n\nIf you are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to <span class="__cf_email__" data-cfemail="1a797b687f7f68695a73797f686e736934797577">[email&#160;protected]</span>\n \nBy submitting your application you acknowledge that you have read Icertis’s Privacy Policy (https://www.icertis.com/privacy-statement/) \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to DevOps and Architecture jobs that are similar:\n\n
 $75,000 &mdash; $115,750/year\n
 \n\n#Location\nUS Western Region<br />
@@ -653,7 +652,7 @@ Recommended remote workers for this job
 <a href="/@faa5f7f31480e071ef2faff089f0b2ed" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/faa5f7f31480e071ef2faff089f0b2ed.jpg?1615043043"><br />
 <div class="bio">
-I'm a full-stack software developer, architector and designer 15+(CTO). Help teams and companies bui...  </div>
+I'm a full-stack software developer, architector and designer 15+(CTO). Help teams and companies bui... </div>
 <div class="tags">
 <div class="tag">
 devops </div>
@@ -794,29 +793,32 @@ Remote Admin Jobs
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-jobs">
-Remote React Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-sys-admin-jobs">
 Remote Sys Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
+ </a> </div><div class="tag">
+⚛️&nbsp;<a href="/remote-react-jobs">
+Remote React Jobs
 </a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
 </a> </div><div class="tag">
+💼&nbsp;<a href="/remote-sales-jobs">
+Remote Sales Jobs
+</a> </div><div class="tag">
 💎&nbsp;<a href="/remote-ruby-jobs">
 Remote Ruby Jobs
 </a> </div><div class="tag">
-💼&nbsp;<a href="/remote-sales-jobs">
-Remote Sales Jobs
+🤔&nbsp;<a href="/remote-analyst-jobs">
+Remote Analyst Jobs
 </a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🤔&nbsp;<a href="/remote-analyst-jobs">
-Remote Analyst Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🔗&nbsp;<a href="/remote-node-jobs">
 Remote Node Jobs
@@ -827,14 +829,14 @@ Remote Architecture Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
-🐍&nbsp;<a href="/remote-python-jobs">
-Remote Python Jobs
-</a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
+</a> </div><div class="tag">
+🐍&nbsp;<a href="/remote-python-jobs">
+Remote Python Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
@@ -842,11 +844,8 @@ Remote Machine Learning Jobs
 📦&nbsp;<a href="/remote-saas-jobs">
 Remote SaaS Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
+💰&nbsp;<a href="/remote-finance-jobs">
+Remote Finance Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
@@ -854,29 +853,32 @@ Remote Web3 Jobs
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
 </a> </div><div class="tag">
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
+</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
-☄️&nbsp;<a href="/remote-meteor-jobs">
-Remote Meteor Jobs
-</a> </div><div class="tag">
-💰&nbsp;<a href="/remote-finance-jobs">
-Remote Finance Jobs
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 🔎&nbsp;<a href="/remote-seo-jobs">
 Remote SEO Jobs
 </a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
+☄️&nbsp;<a href="/remote-meteor-jobs">
+Remote Meteor Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
+💼&nbsp;<a href="/remote-consulting-jobs">
+Remote Consulting Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
 </a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
@@ -884,26 +886,23 @@ Remote Mobile Jobs
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-💼&nbsp;<a href="/remote-consulting-jobs">
-Remote Consulting Jobs
-</a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
 </a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
+</a> </div><div class="tag">
 👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
 Remote Legal Jobs
 </a> </div><div class="tag">
-🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
-Remote English Teacher Jobs
-</a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-stats-jobs">
 Remote Stats Jobs
+</a> </div><div class="tag">
+🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
+Remote English Teacher Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
@@ -911,14 +910,14 @@ Remote Game Developer Jobs
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
-</a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -979,12 +978,12 @@ Hire SQL Developers Remotely
 Hire Java Developers Remotely
 </a>
 </div><div class="tag">
-☁️ &nbsp;<a href="/hire/aws">
-Hire AWS Developers Remotely
-</a>
-</div><div class="tag">
 🟦 &nbsp;<a href="/hire/typescript">
 Hire Typescript Developers Remotely
+</a>
+</div><div class="tag">
+☁️ &nbsp;<a href="/hire/aws">
+Hire AWS Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/wordpress">
@@ -1043,16 +1042,20 @@ Hire JQuery Developers Remotely
 Hire Bootstrap Developers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
 </a>
 </div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
+</a>
+</div><div class="tag">
 ⚛️ &nbsp;<a href="/hire/graphql">
 Hire GraphQL Developers Remotely
+</a>
+</div><div class="tag">
+🎧 &nbsp;<a href="/hire/customer-service">
+Hire Customer Service Freelancers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/photoshop">
@@ -1061,10 +1064,6 @@ Hire Photoshop Freelancers Remotely
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
 Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
-🎧 &nbsp;<a href="/hire/customer-service">
-Hire Customer Service Freelancers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1099,12 +1098,12 @@ Hire Redux Developers Remotely
 Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
-♾️ &nbsp;<a href="/hire/devops">
-Hire DevOps Freelancers Remotely
-</a>
-</div><div class="tag">
 🐇 &nbsp;<a href="/hire/agile">
 Hire Agile Developers Remotely
+</a>
+</div><div class="tag">
+♾️ &nbsp;<a href="/hire/devops">
+Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
@@ -1143,12 +1142,12 @@ Hire IOS Developers Remotely
 Hire Flutter Developers Remotely
 </a>
 </div><div class="tag">
-🤖 &nbsp;<a href="/hire/android">
-Hire Android Developers Remotely
-</a>
-</div><div class="tag">
 ➕ &nbsp;<a href="/hire/c-plus-plus">
 Hire C++ Developers Remotely
+</a>
+</div><div class="tag">
+🤖 &nbsp;<a href="/hire/android">
+Hire Android Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/product-design">
@@ -1173,6 +1172,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-149ms
+151ms
 </div>
 <div class="END-OF-FILE"></div>

@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (855)","senior":"\ud83d\udc75 Senior (659)","dev":"\ud83e\udd13 Developer (572)","exec":"\ud83d\udcbc Executive (479)","golang":"\ud83d\udc00 Golang (338)","backend":"\ud83c\udf51 Backend (257)","full stack":"\ud83e\udd5e Full Stack (150)","front end":"\ud83c\udfa8 Front End (113)","product designer":"\ud83d\udce6 Product Designer (108)","marketing":"\ud83d\udea5 Marketing (106)","javascript":"\u2615\ufe0f JavaScript (93)","design":"\ud83c\udfa8 Design (84)","customer support":"\ud83c\udfa7 Customer Support (62)","non tech":"\ud83d\udd0c Non Tech (59)","devops":"\u267e\ufe0f DevOps (58)","admin":"\u267e\ufe0f Admin (54)","infosec":"\ud83d\udd11 InfoSec (47)","react":"\u269b\ufe0f React (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (45)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (41)","sales":"\ud83d\udcbc Sales (41)","ops":"\u267e\ufe0f Ops (28)","analyst":"\ud83e\udd14 Analyst (28)","node":"\ud83d\udd17 Node (23)","architecture":"\ud83d\udce6 Architecture (22)","quality assurance":"\ud83d\udd2c Quality Assurance (21)","python":"\ud83d\udc0d Python (21)","web dev":"\ud83e\udd13 Web Developer (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (19)","saas":"\ud83d\udce6 SaaS (18)","ios":"\ud83c\udf4f iOS (17)","crypto":"\ud83c\udfc5 Crypto (16)","web3":"\ud83d\udc8e Web3 (16)","blockchain":"\u26d3 Blockchain (16)","social media":"\u270d\ufe0f Social Media (15)","testing":"\ud83e\uddea Testing (15)","meteor":"\u2604\ufe0f Meteor (14)","finance":"\ud83d\udcb0 Finance (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","android":"\ud83e\udd16 Android (13)","hr":"\ud83d\udc4b HR (13)","mobile":"\ud83d\udcf1 Mobile (13)","php":"\ud83d\udc18 PHP (12)","consulting":"\ud83d\udcbc Consulting (12)","api":"\ud83e\udd16 API (12)","content writing":"\u270d\ufe0f Content Writing (12)","junior":"\ud83d\udc76 Junior (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","game dev":"\ud83d\udd79 Game Developer (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","linux":"\ud83d\udc27 Linux (8)","c plus plus":"\u2795 C Plus Plus (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c":"\ud83d\udd37 C (8)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","docker":"\ud83d\udc33 Docker (7)","graphql":"\u269b\ufe0f GraphQL (7)","solidity":"\u26d3 Solidity (7)","bus dev":"\ud83d\udcbc Bus Developer (7)","react native":"\u269b\ufe0f React Native (7)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","internship":" Internship (5)","wordpress":"\u270d\ufe0f Wordpress (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (862)","senior":"\ud83d\udc75 Senior (660)","dev":"\ud83e\udd13 Developer (573)","exec":"\ud83d\udcbc Executive (482)","golang":"\ud83d\udc00 Golang (339)","backend":"\ud83c\udf51 Backend (258)","full stack":"\ud83e\udd5e Full Stack (150)","front end":"\ud83c\udfa8 Front End (112)","product designer":"\ud83d\udce6 Product Designer (109)","marketing":"\ud83d\udea5 Marketing (106)","javascript":"\u2615\ufe0f JavaScript (89)","design":"\ud83c\udfa8 Design (84)","customer support":"\ud83c\udfa7 Customer Support (62)","non tech":"\ud83d\udd0c Non Tech (60)","devops":"\u267e\ufe0f DevOps (58)","admin":"\u267e\ufe0f Admin (54)","infosec":"\ud83d\udd11 InfoSec (48)","sys admin":"\u267e\ufe0f Sys Admin (46)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (45)","react":"\u269b\ufe0f React (43)","cloud":"\u2601\ufe0f Cloud (43)","sales":"\ud83d\udcbc Sales (42)","ruby":"\ud83d\udc8e Ruby (38)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (28)","web dev":"\ud83e\udd13 Web Developer (22)","node":"\ud83d\udd17 Node (22)","architecture":"\ud83d\udce6 Architecture (22)","quality assurance":"\ud83d\udd2c Quality Assurance (21)","java":"\u2615\ufe0f Java (20)","ios":"\ud83c\udf4f iOS (19)","python":"\ud83d\udc0d Python (19)","machine learning":"\ud83e\udd16 Machine Learning (19)","saas":"\ud83d\udce6 SaaS (18)","finance":"\ud83d\udcb0 Finance (17)","web3":"\ud83d\udc8e Web3 (16)","blockchain":"\u26d3 Blockchain (16)","crypto":"\ud83c\udfc5 Crypto (16)","social media":"\u270d\ufe0f Social Media (15)","testing":"\ud83e\uddea Testing (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","seo":"\ud83d\udd0e SEO (14)","meteor":"\u2604\ufe0f Meteor (14)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (13)","android":"\ud83e\udd16 Android (13)","mobile":"\ud83d\udcf1 Mobile (13)","php":"\ud83d\udc18 PHP (12)","content writing":"\u270d\ufe0f Content Writing (12)","junior":"\ud83d\udc76 Junior (11)","api":"\ud83e\udd16 API (11)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (10)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","game dev":"\ud83d\udd79 Game Developer (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","c plus plus":"\u2795 C Plus Plus (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","linux":"\ud83d\udc27 Linux (8)","c":"\ud83d\udd37 C (8)","solidity":"\u26d3 Solidity (7)","react native":"\u269b\ufe0f React Native (7)","bus dev":"\ud83d\udcbc Bus Developer (7)","accounting":"\ud83d\udcbc Accounting (7)","docker":"\ud83d\udc33 Docker (7)","graphql":"\u269b\ufe0f GraphQL (7)","medical":"\ud83d\ude91 Medical (7)","copywriting":"\u270d\ufe0f Copywriting (7)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","internship":" Internship (5)","wordpress":"\u270d\ufe0f Wordpress (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -157,7 +157,6 @@ work anywhere, live anywhere #OpenSalaries
 Loading
 </div>
 </div>
-
 <script>
 
 	function windowSize() {
@@ -282,11 +281,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($140k/mo)
+🤲&nbsp; Open Startup ($137k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.82%)
-</a>
+🟢&nbsp; Uptime (%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -294,7 +292,7 @@ Other
 <i>📊</i> Remote work stats <span class="badge">new</span>
 </a>
 <a title="" alt="" href="https://buffer.com/state-of-remote-work/2022?ref=remoteok">
-<i>🧪</i> State of Remote Work <span class="badge">new</span>
+<i>🧪</i> State of remote work <span class="badge">new</span>
 </a>
 <div class="a">
 <i>🌍&nbsp;</i> <a rel="noopener follow" href="https://nomadlist.com/?ref=remoteok">Become a digital nomad</a>
@@ -355,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#bccfddd0d9cffcced9d1d3c8d9d3d792dfd3d183cfc9ded6d9dfc881fdd8cad9cec8d5cfd997d3d297eed9d1d3c8d997f3f79aded3d8c581e8d4d5cf97d9d1ddd5d097d8d3d9cf97d2d3c897cbd3ced792998cfd998c85ecd0d9ddcfd997c9cfd997c8d4d997d9d1ddd5d097ddd8d8ced9cfcf97ddd8e3cfddd0d9cf97ddd2d897c8d4d9d29799888c97ddd2d897c8d4d9d297c8d4d5cf97cfd5c8d9998e8bcf97d8d3d1ddd5d297d5d2cfc8d9ddd8998eff97c8d397ddcad3d5d897cfccddd1d1d9cecf97dad0d3d3d8d5d2db97c8d4d5cf97d9d1ddd5d09297ebd9998e8bced997d3d2d0c597dddfdfd9ccc8d5d2db97cfccd3d2cfd3cecfd4d5cc998efaddd897d8d9ddd0cf97daced3d197998e888f8cd7998efad1d397ddc897c8d4d5cf97d1d3d1d9d2c897ddd2d897c8d4d9ced9998e8bcf97dd97cbddd5c8d5d2db97d0d5cfc89297ebd997d8d397f2f3e897d8d397ffecfd998efadddadad5d0d5ddc8d9998efacfddd0d991deddcfd9d897d8d9ddd0cf998eff97d3d2d0c597dad0ddc897dad9d997d0c9d1cc97cfc9d197d4ddced897dfddcfd497cfccd3d2cfd3cecfd4d5cccf998efaddd8cf998eff97ccd0d9ddcfd997cfddcad997ded3c8d497d3da97c9cf97c8d5d1d997ddd2d897d8d3d2998e8bc897d9d1ddd5d097c9cf97ddded3c9c897c8d4ddc89297e8d4ddd2d7cf998e8d">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#aad9cbc6cfd9ead8cfc7c5decfc5c184c9c5c795d9dfc8c0cfc9de97ebcedccfd8dec3d9cf81c5c481f8cfc7c5decf81e5e18cc8c5ced397fec2c3d981cfc7cbc3c681cec5cfd981c4c5de81ddc5d8c1848f9aeb8f9a93fac6cfcbd9cf81dfd9cf81dec2cf81cfc7cbc3c681cbceced8cfd9d981cbcef5d9cbc6cfd981cbc4ce81dec2cfc4818f9e9a81cbc4ce81dec2cfc481dec2c3d981d9c3decf8f989dd981cec5c7cbc3c481c3c4d9decfcbce8f98e981dec581cbdcc5c3ce81d9dacbc7c7cfd8d981ccc6c5c5cec3c4cd81dec2c3d981cfc7cbc3c68481fdcf8f989dd8cf81c5c4c6d381cbc9c9cfdadec3c4cd81d9dac5c4d9c5d8d9c2c3da8f98eccbce81cecfcbc6d981ccd8c5c7818f989e999ac18f98ecc7c581cbde81dec2c3d981c7c5c7cfc4de81cbc4ce81dec2cfd8cf8f989dd981cb81ddcbc3dec3c4cd81c6c3d9de8481fdcf81cec581e4e5fe81cec581e9faeb8f98eccbccccc3c6c3cbdecf8f98ecd9cbc6cf87c8cbd9cfce81cecfcbc6d98f98e981c5c4c6d381ccc6cbde81cccfcf81c6dfc7da81d9dfc781c2cbd8ce81c9cbd9c281d9dac5c4d9c5d8d9c2c3dad98f98eccbced98f98e981dac6cfcbd9cf81d9cbdccf81c8c5dec281c5cc81dfd981dec3c7cf81cbc4ce81cec5c48f989dde81cfc7cbc3c681dfd981cbc8c5dfde81dec2cbde8481fec2cbc4c1d98f989b">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -444,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-16 new jobs posted today
+32 new jobs posted today
 </span>
 </div>
 </td>
@@ -503,7 +501,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-16T10:33:26+00:00">
-9d </time>
+10d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109029">
@@ -535,13 +533,13 @@ toggl.com </a>
 Apply now
 </a>
 <p>
-👀 1,646 views
+👀 1,734 views
 </p>
 <p>
-✅ 186 applied
+✅ 189 applied
 (11%)
 </p>
- <p>
+<p>
 <strong>
 Share this job:
 </strong>
@@ -808,7 +806,7 @@ Remote JavaScript Jobs
 Remote Design Jobs
 </a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-customer-support-jobs">
- Remote Customer Support Jobs
+Remote Customer Support Jobs
 </a> </div><div class="tag">
 🔌&nbsp;<a href="/remote-non-tech-jobs">
 Remote Non Tech Jobs
@@ -822,29 +820,32 @@ Remote Admin Jobs
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-jobs">
-Remote React Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-sys-admin-jobs">
 Remote Sys Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
+⚛️&nbsp;<a href="/remote-react-jobs">
+Remote React Jobs
+</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
-</a> </div><div class="tag">
-💎&nbsp;<a href="/remote-ruby-jobs">
-Remote Ruby Jobs
 </a> </div><div class="tag">
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-ops-jobs">
-Remote Ops Jobs
+💎&nbsp;<a href="/remote-ruby-jobs">
+Remote Ruby Jobs
 </a> </div><div class="tag">
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-ops-jobs">
+Remote Ops Jobs
+</a> </div><div class="tag">
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🔗&nbsp;<a href="/remote-node-jobs">
 Remote Node Jobs
@@ -855,14 +856,14 @@ Remote Architecture Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
-🐍&nbsp;<a href="/remote-python-jobs">
-Remote Python Jobs
-</a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
+</a> </div><div class="tag">
+🐍&nbsp;<a href="/remote-python-jobs">
+Remote Python Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
@@ -870,11 +871,8 @@ Remote Machine Learning Jobs
 📦&nbsp;<a href="/remote-saas-jobs">
 Remote SaaS Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
+💰&nbsp;<a href="/remote-finance-jobs">
+Remote Finance Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
@@ -882,29 +880,32 @@ Remote Web3 Jobs
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
 </a> </div><div class="tag">
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
+</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
-☄️&nbsp;<a href="/remote-meteor-jobs">
-Remote Meteor Jobs
-</a> </div><div class="tag">
-💰&nbsp;<a href="/remote-finance-jobs">
-Remote Finance Jobs
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 🔎&nbsp;<a href="/remote-seo-jobs">
 Remote SEO Jobs
 </a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
+☄️&nbsp;<a href="/remote-meteor-jobs">
+Remote Meteor Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
+💼&nbsp;<a href="/remote-consulting-jobs">
+Remote Consulting Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
 </a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
@@ -912,26 +913,23 @@ Remote Mobile Jobs
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-💼&nbsp;<a href="/remote-consulting-jobs">
-Remote Consulting Jobs
-</a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
 </a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
+</a> </div><div class="tag">
 👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
 Remote Legal Jobs
 </a> </div><div class="tag">
-🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
-Remote English Teacher Jobs
-</a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-stats-jobs">
 Remote Stats Jobs
+</a> </div><div class="tag">
+🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
+Remote English Teacher Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
@@ -939,14 +937,14 @@ Remote Game Developer Jobs
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
-</a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -1007,12 +1005,12 @@ Hire SQL Developers Remotely
 Hire Java Developers Remotely
 </a>
 </div><div class="tag">
-☁️ &nbsp;<a href="/hire/aws">
-Hire AWS Developers Remotely
-</a>
-</div><div class="tag">
 🟦 &nbsp;<a href="/hire/typescript">
 Hire Typescript Developers Remotely
+</a>
+</div><div class="tag">
+☁️ &nbsp;<a href="/hire/aws">
+Hire AWS Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/wordpress">
@@ -1071,16 +1069,20 @@ Hire JQuery Developers Remotely
 Hire Bootstrap Developers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
 </a>
 </div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
+</a>
+</div><div class="tag">
 ⚛️ &nbsp;<a href="/hire/graphql">
 Hire GraphQL Developers Remotely
+</a>
+</div><div class="tag">
+🎧 &nbsp;<a href="/hire/customer-service">
+Hire Customer Service Freelancers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/photoshop">
@@ -1089,10 +1091,6 @@ Hire Photoshop Freelancers Remotely
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
 Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
-🎧 &nbsp;<a href="/hire/customer-service">
-Hire Customer Service Freelancers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1127,12 +1125,12 @@ Hire Redux Developers Remotely
 Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
-♾️ &nbsp;<a href="/hire/devops">
-Hire DevOps Freelancers Remotely
-</a>
-</div><div class="tag">
 🐇 &nbsp;<a href="/hire/agile">
 Hire Agile Developers Remotely
+</a>
+</div><div class="tag">
+♾️ &nbsp;<a href="/hire/devops">
+Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
@@ -1171,12 +1169,12 @@ Hire IOS Developers Remotely
 Hire Flutter Developers Remotely
 </a>
 </div><div class="tag">
-🤖 &nbsp;<a href="/hire/android">
-Hire Android Developers Remotely
-</a>
-</div><div class="tag">
 ➕ &nbsp;<a href="/hire/c-plus-plus">
 Hire C++ Developers Remotely
+</a>
+</div><div class="tag">
+🤖 &nbsp;<a href="/hire/android">
+Hire Android Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/product-design">
@@ -1201,6 +1199,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-167ms
+163ms
 </div>
 <div class="END-OF-FILE"></div>
