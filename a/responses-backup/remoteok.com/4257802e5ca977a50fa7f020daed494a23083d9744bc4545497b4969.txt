@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (928)","senior":"\ud83d\udc75 Senior (692)","dev":"\ud83e\udd13 Developer (604)","exec":"\ud83d\udcbc Executive (517)","golang":"\ud83d\udc00 Golang (341)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (135)","product designer":"\ud83d\udce6 Product Designer (123)","marketing":"\ud83d\udea5 Marketing (122)","javascript":"\u2615\ufe0f JavaScript (88)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (56)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","sys admin":"\u267e\ufe0f Sys Admin (46)","infosec":"\ud83d\udd11 InfoSec (46)","react":"\u269b\ufe0f React (44)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (23)","python":"\ud83d\udc0d Python (23)","mobile":"\ud83d\udcf1 Mobile (23)","quality assurance":"\ud83d\udd2c Quality Assurance (22)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (17)","social media":"\u270d\ufe0f Social Media (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","content writing":"\u270d\ufe0f Content Writing (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","c plus plus":"\u2795 C Plus Plus (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","linux":"\ud83d\udc27 Linux (7)","docker":"\ud83d\udc33 Docker (7)","bus dev":"\ud83d\udcbc Bus Developer (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","react native":"\u269b\ufe0f React Native (7)","solidity":"\u26d3 Solidity (7)","medical":"\ud83d\ude91 Medical (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,10 +281,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($138k/mo)
+🤲&nbsp; Open Startup ($141k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.82%) </a>
+🟢&nbsp; Uptime (99.91%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#b2c1d3ded7c1f2c0d7dfddc6d7ddd99cd1dddf8dc1c7d0d8d7d1c68ff3d6c4d7c0c6dbc1d799dddc99e0d7dfddc6d799fdf994d0ddd6cb8fe6dadbc199d7dfd3dbde99d6ddd7c199dcddc699c5ddc0d99c9782f397828be2ded7d3c1d799c7c1d799c6dad799d7dfd3dbde99d3d6d6c0d7c1c199d3d6edc1d3ded7c199d3dcd699c6dad7dc9997868299d3dcd699c6dad7dc99c6dadbc199c1dbc6d7978085c199d6dddfd3dbdc99dbdcc1c6d7d3d69780f199c6dd99d3c4dddbd699c1c2d3dfdfd7c0c199d4deddddd6dbdcd599c6dadbc199d7dfd3dbde9c99e5d7978085c0d799dddcdecb99d3d1d1d7c2c6dbdcd599c1c2dddcc1ddc0c1dadbc29780f4d3d699d6d7d3dec199d4c0dddf999780868182d99780f4dfdd99d3c699c6dadbc199dfdddfd7dcc699d3dcd699c6dad7c0d7978085c199d399c5d3dbc6dbdcd599dedbc1c69c99e5d799d6dd99fcfde699d6dd99f1e2f39780f4d3d4d4dbdedbd3c6d79780f4c1d3ded79fd0d3c1d7d699d6d7d3dec19780f199dddcdecb99d4ded3c699d4d7d799dec7dfc299c1c7df99dad3c0d699d1d3c1da99c1c2dddcc1ddc0c1dadbc2c19780f4d3d6c19780f199c2ded7d3c1d799c1d3c4d799d0ddc6da99ddd499c7c199c6dbdfd799d3dcd699d6dddc978085c699d7dfd3dbde99c7c199d3d0ddc7c699c6dad3c69c99e6dad3dcd9c1978083">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#e695878a8395a694838b899283898dc885898bd99593848c838592dba782908394928f9583cd8988cdb4838b899283cda9adc08489829fdbb28e8f95cd838b878f8acd82898395cd888992cd9189948dc8c3d6a7c3d6dfb68a83879583cd939583cd928e83cd838b878f8acd87828294839595cd8782b995878a8395cd878882cd928e8388cdc3d2d6cd878882cd928e8388cd928e8f95cd958f9283c3d4d195cd82898b878f88cd8f889592838782c3d4a5cd9289cd8790898f82cd9596878b8b839495cd808a8989828f8881cd928e8f95cd838b878f8ac8cdb183c3d4d19483cd89888a9fcd8785858396928f8881cd95968988958994958e8f96c3d4a08782cd8283878a95cd8094898bcdc3d4d2d5d68dc3d4a08b89cd8792cd928e8f95cd8b898b838892cd878882cd928e839483c3d4d195cd87cd91878f928f8881cd8a8f9592c8cdb183cd8289cda8a9b2cd8289cda5b6a7c3d4a08780808f8a8f879283c3d4a095878a83cb8487958382cd8283878a95c3d4a5cd89888a9fcd808a8792cd808383cd8a938b96cd95938bcd8e879482cd8587958ecd95968988958994958e8f9695c3d4a0878295c3d4a5cd968a83879583cd95879083cd8489928ecd8980cd9395cd928f8b83cd878882cd828988c3d4d192cd838b878f8acd9395cd8784899392cd928e8792c8cdb28e87888d95c3d4d7">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-56 new jobs posted today
+15 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109103-remote-senior-ruby-on-rails-developer-sedition-art" data-epoch="1645463145" data-search="Sedition Art Senior Ruby on Rails Developer ruby senior backend dev digital nomad" data-company="Sedition Art" data-stack="" id="job-109103" data-id="109103" data-href="/remote-jobs/109103-remote-senior-ruby-on-rails-developer-sedition-art" class="job job-109103 verified    active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-21T17:05:45+00:00","description":"We started Sedition with a mission to create a platform for digital art collecting. Since 2011 more than a thousand artists have published their work on Sedition. Including names like Tracey Emin, Bill Viola, Mat Collishaw, Yoko Ono, Universal Everything. More than 100,000 art lovers have joined the site to enjoy the works of their favourite artists.\n\nWe're on a great start but this is only the beginning. The advent of NFTs in 2014 provided a tangible solution for digital ownership. For the first time collectors could own a digital asset without relying on a 3rd party. This new technology is the missing piece for our vision and we can't wait to put it in place for our community. The opportunity ahead is staggering, but so is the amount of work. We'd like your help.\n\n## Working at Sedition\n\n-&nbsp;**We're small and focused on getting things done.**&nbsp;You'll work alongside 4 senior engineers. We keep meetings to a minimum. We organise our work into 6 week cycles and focus on delivery.\n-&nbsp;**We're a remote team with flexible working hours.**&nbsp;Work whenever you\u2019re the most productive. While we\u2019re all currently based in timezones within 2 hours of the UK, we are open to expanding it further.\n-&nbsp;**Meaningful and impactful work.**&nbsp;We're established, but still small. Your contributions will be immediately visible. NFTs integration is a multi-phase effort where every team member is able to shape it.\n-&nbsp;**Healthy work-life balance.**&nbsp;No overtime. 40 hours work week. Take a holiday whenever you need one.\n-&nbsp;**Competitive base salary.**&nbsp;Crypto bonuses after we step into the NFT market.\n\n## Our hiring process\n-&nbsp;**No live coding.**&nbsp;It's stressful and we hate it. We're more interested in what you have done in the past and your cultural fit.\n-&nbsp;**We stick to 3 interviews.**&nbsp;Introductory, assessment and proposal. You will also meet the whole team during the interviews.\n-&nbsp;**Fast decision making.**&nbsp;We aim to finalise the proposal within one week of initial interview.\n\n\n## What will you do\n\n- Develop, test and release solid code in Ruby\n- Work together with our engineers to develop API services\n- Involve with development of Blockchain integration\n- Help migrate the codebase to Rails 6\n- Revamp our automated payments system for artists\n- Perform QA tasks for every release along with the team\n- Plan iterations periodically and consult new product features\n\n## Skills required\n- Ruby on Rails design patterns and best practices\n- Have worked with Ruby on Rails extensively in the last few years\n- Experience with REST, MySQL, AWS, CI\n- TDD\/BDD\n- Rails application security, scalability and performance\n- Good communication skills\n- Bonus: Knowledge of other technologies we use: React, React Native, Blockchain \/ Solidity\n\n\n\n Apply now and work remotely at Sedition Art","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":90000,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Ruby on Rails Developer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/2dcee708a887650099e81c414fb2d4b51645463145.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-24T17:05:45+00:00","hiringOrganization":{"@type":"Organization","name":"Sedition Art","url":"https:\/\/remoteok.com\/sedition-art","sameAs":"https:\/\/remoteok.com\/sedition-art","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/2dcee708a887650099e81c414fb2d4b51645463145.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-21T17:05:45+00:00","description":"We started Sedition with a mission to create a platform for digital art collecting. Since 2011 more than a thousand artists have published their work on Sedition. Including names like Tracey Emin, Bill Viola, Mat Collishaw, Yoko Ono, Universal Everything. More than 100,000 art lovers have joined the site to enjoy the works of their favourite artists.\n\nWe're on a great start but this is only the beginning. The advent of NFTs in 2014 provided a tangible solution for digital ownership. For the first time collectors could own a digital asset without relying on a 3rd party. This new technology is the missing piece for our vision and we can't wait to put it in place for our community. The opportunity ahead is staggering, but so is the amount of work. We'd like your help.\n\n\n## Working at Sedition\n\n-&nbsp;**We're small and focused on getting things done.**&nbsp;You'll work alongside 4 senior engineers. We keep meetings to a minimum. We organise our work into 6 week cycles and focus on delivery.\n\n-&nbsp;**We're a remote team with flexible working hours.**&nbsp;Work whenever you\u2019re the most productive. While we\u2019re all currently based in timezones within 2 hours of the UK, we are open to expanding it further.\n\n-&nbsp;**Meaningful and impactful work.**&nbsp;We're established, but still small. Your contributions will be immediately visible. NFTs integration is a multi-phase effort where every team member is able to shape it.\n\n-&nbsp;**Healthy work-life balance.**&nbsp;No overtime. 40 hours work week. Take a holiday whenever you need one.\n\n-&nbsp;**Competitive base salary.**&nbsp;Crypto bonuses after we step into the NFT market.\n\n\n## Our hiring process\n-&nbsp;**No live coding.**&nbsp;It's stressful and we hate it. We're more interested in what you have done in the past and your cultural fit.\n\n-&nbsp;**We stick to 3 interviews.**&nbsp;Introductory, assessment and proposal. You will also meet the whole team during the interviews.\n\n-&nbsp;**Fast decision making.**&nbsp;We aim to finalise the proposal within one week of initial interview.\n\n\n## What will you do\n\n- Develop, test and release solid code in Ruby\n- Work together with our engineers to develop API services\n- Involve with development of Blockchain integration\n- Help migrate the codebase to Rails 6\n- Revamp our automated payments system for artists\n- Perform QA tasks for every release along with the team\n- Plan iterations periodically and consult new product features\n\n\n## Skills required\n- Ruby on Rails design patterns and best practices\n- Have worked with Ruby on Rails extensively in the last few years\n- Experience with REST, MySQL, AWS, CI\n- TDD\/BDD\n- Rails application security, scalability and performance\n- Good communication skills\n- Bonus: Knowledge of other technologies we use: React, React Native, Blockchain \/ Solidity\n\n\n\n Apply now and work remotely at Sedition Art","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":90000,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Ruby on Rails Developer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/2dcee708a887650099e81c414fb2d4b51645463145.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-24T17:05:45+00:00","hiringOrganization":{"@type":"Organization","name":"Sedition Art","url":"https:\/\/remoteok.com\/sedition-art","sameAs":"https:\/\/remoteok.com\/sedition-art","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/2dcee708a887650099e81c414fb2d4b51645463145.png"}}</script>
 <a alt="Sedition Art" class="preventLink" href="/remote-jobs/109103-remote-senior-ruby-on-rails-developer-sedition-art">
 <img alt="Sedition Art" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteOK.com/assets/img/jobs/2dcee708a887650099e81c414fb2d4b51645463145.png?1645463145" class="logo" />
 </a>
@@ -490,7 +490,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-21T17:05:45+00:00">
-7d </time>
+8d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109103">
@@ -522,11 +522,11 @@ seditionart.com </a>
 Apply now
 </a>
 <p>
-👀 881 views
+👀 929 views
 </p>
 <p>
-✅ 67 applied
-(8%)
+✅ 70 applied
+ (8%)
 </p>
 <p>
 <strong>
@@ -539,7 +539,7 @@ Share this job:
 </div>
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">Sedition Art is hiring a </span><br />Remote Senior Ruby on Rails Developer </h1>
-<div class="markdown">We started Sedition with a mission to create a platform for digital art collecting. Since 2011 more than a thousand artists have published their work on Sedition. Including names like Tracey Emin, Bill Viola, Mat Collishaw, Yoko Ono, Universal Everything. More than 100,000 art lovers have joined the site to enjoy the works of their favourite artists.\n\nWe're on a great start but this is only the beginning. The advent of NFTs in 2014 provided a tangible solution for digital ownership. For the first time collectors could own a digital asset without relying on a 3rd party. This new technology is the missing piece for our vision and we can't wait to put it in place for our community. The opportunity ahead is staggering, but so is the amount of work. We'd like your help.\n\n## Working at Sedition\n\n-&nbsp;**We're small and focused on getting things done.**&nbsp;You'll work alongside 4 senior engineers. We keep meetings to a minimum. We organise our work into 6 week cycles and focus on delivery.\n-&nbsp;**We're a remote team with flexible working hours.**&nbsp;Work whenever you’re the most productive. While we’re all currently based in timezones within 2 hours of the UK, we are open to expanding it further.\n-&nbsp;**Meaningful and impactful work.**&nbsp;We're established, but still small. Your contributions will be immediately visible. NFTs integration is a multi-phase effort where every team member is able to shape it.\n-&nbsp;**Healthy work-life balance.**&nbsp;No overtime. 40 hours work week. Take a holiday whenever you need one.\n-&nbsp;**Competitive base salary.**&nbsp;Crypto bonuses after we step into the NFT market.\n\n## Our hiring process\n-&nbsp;**No live coding.**&nbsp;It's stressful and we hate it. We're more interested in what you have done in the past and your cultural fit.\n-&nbsp;**We stick to 3 interviews.**&nbsp;Introductory, assessment and proposal. You will also meet the whole team during the interviews.\n-&nbsp;**Fast decision making.**&nbsp;We aim to finalise the proposal within one week of initial interview.\n\n\n## What will you do\n\n- Develop, test and release solid code in Ruby\n- Work together with our engineers to develop API services\n- Involve with development of Blockchain integration\n- Help migrate the codebase to Rails 6\n- Revamp our automated payments system for artists\n- Perform QA tasks for every release along with the team\n- Plan iterations periodically and consult new product features\n\n## Skills required\n- Ruby on Rails design patterns and best practices\n- Have worked with Ruby on Rails extensively in the last few years\n- Experience with REST, MySQL, AWS, CI\n- TDD/BDD\n- Rails application security, scalability and performance\n- Good communication skills\n- Bonus: Knowledge of other technologies we use: React, React Native, Blockchain / Solidity\n\n\n \n\nBe sure to mention the word **REDEMPTION** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\n \n\n#Salary and compensation\n
+<div class="markdown">We started Sedition with a mission to create a platform for digital art collecting. Since 2011 more than a thousand artists have published their work on Sedition. Including names like Tracey Emin, Bill Viola, Mat Collishaw, Yoko Ono, Universal Everything. More than 100,000 art lovers have joined the site to enjoy the works of their favourite artists.\n\nWe're on a great start but this is only the beginning. The advent of NFTs in 2014 provided a tangible solution for digital ownership. For the first time collectors could own a digital asset without relying on a 3rd party. This new technology is the missing piece for our vision and we can't wait to put it in place for our community. The opportunity ahead is staggering, but so is the amount of work. We'd like your help.\n\n\n## Working at Sedition\n\n-&nbsp;**We're small and focused on getting things done.**&nbsp;You'll work alongside 4 senior engineers. We keep meetings to a minimum. We organise our work into 6 week cycles and focus on delivery.\n\n-&nbsp;**We're a remote team with flexible working hours.**&nbsp;Work whenever you’re the most productive. While we’re all currently based in timezones within 2 hours of the UK, we are open to expanding it further.\n\n-&nbsp;**Meaningful and impactful work.**&nbsp;We're established, but still small. Your contributions will be immediately visible. NFTs integration is a multi-phase effort where every team member is able to shape it.\n\n-&nbsp;**Healthy work-life balance.**&nbsp;No overtime. 40 hours work week. Take a holiday whenever you need one.\n\n-&nbsp;**Competitive base salary.**&nbsp;Crypto bonuses after we step into the NFT market.\n\n\n## Our hiring process\n-&nbsp;**No live coding.**&nbsp;It's stressful and we hate it. We're more interested in what you have done in the past and your cultural fit.\n\n-&nbsp;**We stick to 3 interviews.**&nbsp;Introductory, assessment and proposal. You will also meet the whole team during the interviews.\n\n-&nbsp;**Fast decision making.**&nbsp;We aim to finalise the proposal within one week of initial interview.\n\n\n## What will you do\n\n- Develop, test and release solid code in Ruby\n- Work together with our engineers to develop API services\n- Involve with development of Blockchain integration\n- Help migrate the codebase to Rails 6\n- Revamp our automated payments system for artists\n- Perform QA tasks for every release along with the team\n- Plan iterations periodically and consult new product features\n\n\n## Skills required\n- Ruby on Rails design patterns and best practices\n- Have worked with Ruby on Rails extensively in the last few years\n- Experience with REST, MySQL, AWS, CI\n- TDD/BDD\n- Rails application security, scalability and performance\n- Good communication skills\n- Bonus: Knowledge of other technologies we use: React, React Native, Blockchain / Solidity\n\n\n \n\nBe sure to mention the word **REDEMPTION** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\n \n\n#Salary and compensation\n
 $90,000 &mdash; $120,000/year\n
 \n\n#Location\n🌏 Worldwide<br />
 </div>
@@ -558,7 +558,7 @@ Visit <a href="https://seditionart.com">Sedition Art</a>'s website
 Apply for this job
 </a>
 <div style="font-size:12px;margin-top:-14px;font-weight:bold;">
-or email to <span class="__cf_email__" data-cfemail="076d686574477462636e736e68696675732964686a">[email&#160;protected]</span> </div>
+or email to <span class="__cf_email__" data-cfemail="22484d4051625147464b564b4d4c4350560c414d4f">[email&#160;protected]</span> </div>
 <p style="font-size:0.85em">
 <strong>👉 Please reference you found the job on Remote OK, this helps us get more companies to post here, thanks!</strong><br /><br />
 When applying for jobs, you should NEVER have to pay to apply. You should also NEVER have to pay to buy equipment which they then pay you back for later. Also never pay for trainings you have to do. Those are scams! NEVER PAY FOR ANYTHING! Posts that link to pages with "how to work online" are also scams. Don't use them or pay for them. Also always verify you're actually talking to the company in the job post and not an imposter. A good idea is to check the domain name for the site/email and see if it's the actual company's main domain name. Scams in remote work are rampant, be careful! <a href="https://twitter.com/levelsio/status/1300443073562980353?s=20" style="font-weight:800;">Read more to avoid scams</a>. When clicking on the button to apply above, you will leave Remote OK and go to the job application page for that company outside this site. Remote OK accepts no liability or responsibility as a consequence of any reliance upon information on there (external sites) or here.
@@ -703,7 +703,7 @@ css </div>
 </div>
 <div class="button green">
 Hire remote worker
-</div>
+ </div>
 </a><a href="/@gabriel" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/7caa2aba6dc43df9c6a293f99f8c19ce.jpg?1614213270"><br />
 <div class="bio">
@@ -806,14 +806,14 @@ Remote Admin Jobs
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
+⚛️&nbsp;<a href="/remote-react-jobs">
+Remote React Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-jobs">
-Remote React Jobs
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
@@ -836,11 +836,11 @@ Remote Node Jobs
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
 </a> </div><div class="tag">
-📱&nbsp;<a href="/remote-mobile-jobs">
-Remote Mobile Jobs
-</a> </div><div class="tag">
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
+</a> </div><div class="tag">
+📱&nbsp;<a href="/remote-mobile-jobs">
+Remote Mobile Jobs
 </a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
@@ -857,8 +857,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-social-media-jobs">
-Remote Social Media Jobs
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -869,17 +869,14 @@ Remote Web3 Jobs
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
 </a> </div><div class="tag">
-☄️&nbsp;<a href="/remote-meteor-jobs">
-Remote Meteor Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+✍️&nbsp;<a href="/remote-social-media-jobs">
+Remote Social Media Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
 </a> </div><div class="tag">
 👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
 Remote Teaching Jobs
@@ -890,14 +887,17 @@ Remote SaaS Jobs
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
+☄️&nbsp;<a href="/remote-meteor-jobs">
+Remote Meteor Jobs
+</a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
 </a> </div><div class="tag">
-👩‍🔬&nbsp;<a href="/remote-stats-jobs">
-Remote Stats Jobs
-</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
+</a> </div><div class="tag">
+👩‍🔬&nbsp;<a href="/remote-stats-jobs">
+Remote Stats Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
@@ -920,8 +920,8 @@ Remote Game Developer Jobs
 👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
 Remote Legal Jobs
 </a> </div><div class="tag">
-➕&nbsp;<a href="/remote-c-plus-plus-jobs">
-Remote C++ Jobs
+⚛️&nbsp;<a href="/remote-react-native-jobs">
+Remote React Native Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -929,8 +929,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🐳&nbsp;<a href="/remote-docker-jobs">
+Remote Docker Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -1008,12 +1008,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-🍃 &nbsp;<a href="/hire/mongo">
-Hire Mongo Developers Remotely
-</a>
-</div><div class="tag">
 📦 &nbsp;<a href="/hire/git">
 Hire Git Developers Remotely
+</a>
+</div><div class="tag">
+🍃 &nbsp;<a href="/hire/mongo">
+Hire Mongo Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1112,36 +1112,36 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-♾️ &nbsp;<a href="/hire/devops">
-Hire DevOps Freelancers Remotely
-</a>
-</div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
 Hire Excel Developers Remotely
+</a>
+</div><div class="tag">
+♾️ &nbsp;<a href="/hire/devops">
+Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
-💼 &nbsp;<a href="/hire/product-management">
-Hire Product Management Developers Remotely
-</a>
-</div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+💼 &nbsp;<a href="/hire/product-management">
+Hire Product Management Developers Remotely
 </a>
 </div><div class="tag">
 🐇 &nbsp;<a href="/hire/swift">
 Hire Swift Developers Remotely
 </a>
 </div><div class="tag">
-🧩 &nbsp;<a href="/hire/express">
-Hire Express Developers Remotely
-</a>
-</div><div class="tag">
 🔡 &nbsp;<a href="/hire/html5">
 Hire HTML5 Developers Remotely
+</a>
+</div><div class="tag">
+🧩 &nbsp;<a href="/hire/express">
+Hire Express Developers Remotely
 </a>
 </div><div class="tag">
 🍏 &nbsp;<a href="/hire/ios">
@@ -1158,7 +1158,7 @@ Hire Flutter Developers Remotely
 </div><div class="tag">
 🤖 &nbsp;<a href="/hire/android">
 Hire Android Developers Remotely
-</a>
+ </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/product-design">
 Hire Product Design Freelancers Remotely
@@ -1182,6 +1182,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-162ms
+190ms
 </div>
 <div class="END-OF-FILE"></div>

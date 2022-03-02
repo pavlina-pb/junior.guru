@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (928)","senior":"\ud83d\udc75 Senior (692)","dev":"\ud83e\udd13 Developer (604)","exec":"\ud83d\udcbc Executive (517)","golang":"\ud83d\udc00 Golang (341)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (135)","product designer":"\ud83d\udce6 Product Designer (123)","marketing":"\ud83d\udea5 Marketing (122)","javascript":"\u2615\ufe0f JavaScript (88)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (56)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","sys admin":"\u267e\ufe0f Sys Admin (46)","infosec":"\ud83d\udd11 InfoSec (46)","react":"\u269b\ufe0f React (44)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (23)","python":"\ud83d\udc0d Python (23)","mobile":"\ud83d\udcf1 Mobile (23)","quality assurance":"\ud83d\udd2c Quality Assurance (22)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (17)","social media":"\u270d\ufe0f Social Media (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (13)","hr":"\ud83d\udc4b HR (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","content writing":"\u270d\ufe0f Content Writing (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","c plus plus":"\u2795 C Plus Plus (8)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","linux":"\ud83d\udc27 Linux (7)","docker":"\ud83d\udc33 Docker (7)","bus dev":"\ud83d\udcbc Bus Developer (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","react native":"\u269b\ufe0f React Native (7)","solidity":"\u26d3 Solidity (7)","medical":"\ud83d\ude91 Medical (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,10 +281,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($138k/mo)
+🤲&nbsp; Open Startup ($141k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.82%) </a>
+🟢&nbsp; Uptime (99.91%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#f685979a9385b684939b998293999dd895999bc98583949c939582cbb792809384829f8593dd9998dda4939b998293ddb9bdd09499928fcba29e9f85dd939b979f9add92999385dd989982dd8199849dd8d3c6b7d3c6cfa69a93978593dd838593dd829e93dd939b979f9add97929284938585dd9792a985979a9385dd979892dd829e9398ddd3c2c6dd979892dd829e9398dd829e9f85dd859f8293d3c4c185dd92999b979f98dd9f988582939792d3c4b5dd8299dd9780999f92dd8586979b9b938485dd909a9999929f9891dd829e9f85dd939b979f9ad8dda193d3c4c18493dd99989a8fdd9795959386829f9891dd85869998859984859e9f86d3c4b09792dd9293979a85dd9084999bddd3c4c2c5c69dd3c4b09b99dd9782dd829e9f85dd9b999b939882dd979892dd829e938493d3c4c185dd97dd81979f829f9891dd9a9f8582d8dda193dd9299ddb8b9a2dd9299ddb5a6b7d3c4b09790909f9a9f978293d3c4b085979a93db9497859392dd9293979a85d3c4b5dd99989a8fdd909a9782dd909393dd9a839b86dd85839bdd9e978492dd9597859edd85869998859984859e9f8685d3c4b0979285d3c4b5dd869a93978593dd85978093dd9499829edd9990dd8385dd829f9b93dd979892dd929998d3c4c182dd939b979f9add8385dd9794998382dd829e9782d8dda29e97989d85d3c4c7">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#e192808d8492a193848c8e95848e8acf828e8cde9294838b848295dca08597849395889284ca8e8fcab3848c8e9584caaeaac7838e8598dcb5898892ca848c80888dca858e8492ca8f8e95ca968e938acfc4d1a0c4d1d8b18d84809284ca949284ca958984ca848c80888dca80858593849292ca8085be92808d8492ca808f85ca9589848fcac4d5d1ca808f85ca9589848fca95898892ca92889584c4d3d692ca858e8c80888fca888f9295848085c4d3a2ca958eca80978e8885ca9291808c8c849392ca878d8e8e85888f86ca95898892ca848c80888dcfcab684c4d3d69384ca8e8f8d98ca808282849195888f86ca92918e8f928e9392898891c4d3a78085ca8584808d92ca87938e8ccac4d3d5d2d18ac4d3a78c8eca8095ca95898892ca8c8e8c848f95ca808f85ca9589849384c4d3d692ca80ca96808895888f86ca8d889295cfcab684ca858ecaafaeb5ca858ecaa2b1a0c4d3a7808787888d88809584c4d3a792808d84cc8380928485ca8584808d92c4d3a2ca8e8f8d98ca878d8095ca878484ca8d948c91ca92948cca89809385ca82809289ca92918e8f928e939289889192c4d3a7808592c4d3a2ca918d84809284ca92809784ca838e9589ca8e87ca9492ca95888c84ca808f85ca858e8fc4d3d695ca848c80888dca9492ca80838e9495ca95898095cfcab589808f8a92c4d3d0">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-56 new jobs posted today
+15 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109211-remote-senior-software-engineer-python-bold-penguin" data-epoch="1645873202" data-search="Bold Penguin Senior Software Engineer Python python senior engineer dev digital nomad" data-company="Bold Penguin" data-stack="" id="job-109211" data-id="109211" data-href="/remote-jobs/109211-remote-senior-software-engineer-python-bold-penguin" class="job job-109211     active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T11:00:02+00:00","description":"We didn\u2019t create Bold Penguin because commercial insurance is broken. It isn\u2019t. But as the world has gotten more connected and digitized, commercial insurance lags \u2014 creating a fragmented landscape where businesses, agents, and insurance companies struggle to interact in a smooth and easy way. That\u2019s why we\u2019ve built a highly efficient exchange that cuts the friction out of commercial insurance by connecting everyone to the right quote in record time.\n\nPowering the world of insurance is no small feat, so we\u2019ve built a team that's incredibly talented and passionate about our potential to upgrade the entire industry. As more and more companies, big and small, depend on our technology to operate in the commercial insurance space, we\u2019ll need the best talent all around to support our growth. That\u2019s why we\u2019re looking at you (yes, you!) to make a bold move and join our adventure.\n\nYOUR ROLE\nIn your role as a senior software engineer, you will be an expert in modern-day application development. You will have familiarity with the practices of high-performing engineering organizations such as Git-Flow, pull requests, unit testing, cloud architecture & design, and SCRUM. You will be an excellent hands-on contributor and you\u2019ll be a mentor for other software engineers.\u00a0Specifically, you would join our insurance intelligence division which works on cool problems ranging from AI-driven portfolio risk management to NLP-driven document intelligence.\n\nWHAT YOU'LL DO\nBuild and maintain powerful APIs that will be used by product managers to analyze risks in real-time, by underwriters to extract data from policies submitted, and by attorneys to interpret language in policy forms.\nBuild onto a UI that our users utilize to perform document intelligence on a variety of insurance-specific documents\u00a0Write clean, well-tested code and automated unit tests using Python\/ Flask. \nParticipate in agile ceremonies such as iteration planning, retrospective, and daily stand-ups.\nWork with product managers, designers, site-reliability engineers, and customers to build powerful, impactful products.\nParticipate in the full lifecycle of the software development life cycle from ideation to delivery.\nCreate more senior engineers by mentoring other engineers in areas such as unit testing, continuous integration, DRY\/SOLID principles, and SDLC.\n\nSKILLS AND QUALIFICATIONS\n5+ years of professional experience with at least 3 years of Python preferably with Flask or other python framework experience with Postgres DB\u00a0Ideally experience with Prefect, Airflow, or equivalent products.\u00a0\nExperience with JavaScript frameworks such as Angular and React.\nPrevious working experience in high-growth technology companies and\/or startups.\nUnderstanding of scrum, unit testing, continuous integration, continuous delivery, and DevOps. \nKnowledge of microservice architectures and RESTful APIs, especially in Python.\nPrevious work experience in insurance and\/or experience with data science and software combined platforms is very desirable.\nFull-stack expertise in multiple tiers of modern web applications (e.g. front end, back end, infrastructure, etc.)Bonus points for open source contributions and\/or speaking experience. \nPrevious experience working in a remote role is a plus!\n\nBenefits\nWe offer competitive wages and annual bonus opportunities! Benefits include:\nMedical, Dental, and Vision\nLong Term Disability and Life Insurance\n401K with a company match\nEmployee Assistance Program\nPaid Holidays\nPTO\n\nRemote Culture.  Here at Bold Penguin our remote employees are top of mind, and we have created an inclusive, engaging remote environment. \n\nChoose-your-own gear. Whether you prefer Mac, PC, or Linux, one screen or three, we\u2019ll set you up for success. \n\nStay connected to the Glacier. We slack. A lot. We also like to video conference regularly. We even have all- hands  \"Waddles\" held Tuesday - Friday 12:00PM EST. \n\nPenguin bling.\u00a0Like swag themed after a certain antarctic bird? Just. You. Wait.\n\nBold Penguin believes in inclusion. That\u2019s why we\u2019re proud to be an equal opportunity employer that considers all qualified applicants regardless of race, color, religion, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, beak size, or inability to fly.\n\nTo learn more about our results-focused culture and employee-focused perks, read more on our\u00a0careers page.\n Apply now and work remotely at Bold Penguin","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer Python","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/dcb244d4b61949fc7413fd8aca8c0f841645873203.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T11:00:02+00:00","hiringOrganization":{"@type":"Organization","name":"Bold Penguin","url":"https:\/\/remoteok.com\/bold-penguin","sameAs":"https:\/\/remoteok.com\/bold-penguin","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/dcb244d4b61949fc7413fd8aca8c0f841645873203.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T11:00:02+00:00","description":"We didn\u2019t create Bold Penguin because commercial insurance is broken. It isn\u2019t. But as the world has gotten more connected and digitized, commercial insurance lags \u2014 creating a fragmented landscape where businesses, agents, and insurance companies struggle to interact in a smooth and easy way. That\u2019s why we\u2019ve built a highly efficient exchange that cuts the friction out of commercial insurance by connecting everyone to the right quote in record time.\n\nPowering the world of insurance is no small feat, so we\u2019ve built a team that's incredibly talented and passionate about our potential to upgrade the entire industry. As more and more companies, big and small, depend on our technology to operate in the commercial insurance space, we\u2019ll need the best talent all around to support our growth. That\u2019s why we\u2019re looking at you (yes, you!) to make a bold move and join our adventure.\n\nYOUR ROLE\nIn your role as a senior software engineer, you will be an expert in modern-day application development. You will have familiarity with the practices of high-performing engineering organizations such as Git-Flow, pull requests, unit testing, cloud architecture & design, and SCRUM. You will be an excellent hands-on contributor and you\u2019ll be a mentor for other software engineers.\u00a0Specifically, you would join our insurance intelligence division which works on cool problems ranging from AI-driven portfolio risk management to NLP-driven document intelligence.\n\nWHAT YOU'LL DO\nBuild and maintain powerful APIs that will be used by product managers to analyze risks in real-time, by underwriters to extract data from policies submitted, and by attorneys to interpret language in policy forms.\nBuild onto a UI that our users utilize to perform document intelligence on a variety of insurance-specific documents\u00a0Write clean, well-tested code and automated unit tests using Python\/ Flask. \nParticipate in agile ceremonies such as iteration planning, retrospective, and daily stand-ups.\nWork with product managers, designers, site-reliability engineers, and customers to build powerful, impactful products.\nParticipate in the full lifecycle of the software development life cycle from ideation to delivery.\nCreate more senior engineers by mentoring other engineers in areas such as unit testing, continuous integration, DRY\/SOLID principles, and SDLC.\n\nSKILLS AND QUALIFICATIONS\n5+ years of professional experience with at least 3 years of Python preferably with Flask or other python framework experience with Postgres DB\u00a0Ideally experience with Prefect, Airflow, or equivalent products.\u00a0\nExperience with JavaScript frameworks such as Angular and React.\nPrevious working experience in high-growth technology companies and\/or startups.\nUnderstanding of scrum, unit testing, continuous integration, continuous delivery, and DevOps. \nKnowledge of microservice architectures and RESTful APIs, especially in Python.\nPrevious work experience in insurance and\/or experience with data science and software combined platforms is very desirable.\nFull-stack expertise in multiple tiers of modern web applications (e.g. front end, back end, infrastructure, etc.)Bonus points for open source contributions and\/or speaking experience. \nPrevious experience working in a remote role is a plus!\n\nBenefits\nWe offer competitive wages and annual bonus opportunities! Benefits include:\nMedical, Dental, and Vision\nLong Term Disability and Life Insurance\n401K with a company match\nEmployee Assistance Program\nPaid Holidays\nPTO\n\nRemote Culture.  Here at Bold Penguin our remote employees are top of mind, and we have created an inclusive, engaging remote environment. \n\nChoose-your-own gear. Whether you prefer Mac, PC, or Linux, one screen or three, we\u2019ll set you up for success. \n\nStay connected to the Glacier. We slack. A lot. We also like to video conference regularly. We even have all- hands  \"Waddles\" held Tuesday - Friday 12:00PM EST. \n\nPenguin bling.\u00a0Like swag themed after a certain antarctic bird? Just. You. Wait.\n\nBold Penguin believes in inclusion. That\u2019s why we\u2019re proud to be an equal opportunity employer that considers all qualified applicants regardless of race, color, religion, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, beak size, or inability to fly.\n\nTo learn more about our results-focused culture and employee-focused perks, read more on our\u00a0careers page.\n Apply now and work remotely at Bold Penguin","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer Python","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/dcb244d4b61949fc7413fd8aca8c0f841645873203.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T11:00:02+00:00","hiringOrganization":{"@type":"Organization","name":"Bold Penguin","url":"https:\/\/remoteok.com\/bold-penguin","sameAs":"https:\/\/remoteok.com\/bold-penguin","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/dcb244d4b61949fc7413fd8aca8c0f841645873203.png"}}</script>
 <a alt="Bold Penguin" class="preventLink" href="/remote-jobs/109211-remote-senior-software-engineer-python-bold-penguin">
 <img alt="Bold Penguin" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteok.com/assets/img/jobs/dcb244d4b61949fc7413fd8aca8c0f841645873203.png?1645873203" class="logo" />
 </a>
@@ -490,7 +490,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-26T11:00:02+00:00">
-3d </time>
+4d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109211">
@@ -518,10 +518,10 @@ Bold Penguin </h2>
 Apply now
 </a>
 <p>
-👀 361 views
+👀 417 views
 </p>
 <p>
-✅ 36 applied
+✅ 41 applied
 (10%)
 </p>
 <p>
@@ -661,7 +661,7 @@ html </div>
 <div class="tag">
 css </div>
 </div>
-<div class="button green">
+ <div class="button green">
 Hire remote worker
 </div>
 </a><a href="/@colivetree" class="matching_user_card">
@@ -672,7 +672,7 @@ Principal Product Manager at Farfetch, Skyscanner. Head of Product at gpact.eu a
 <div class="tag">
 python </div>
 <div class="tag">
-product management  </div>
+product management </div>
 <div class="tag">
 ux design </div>
 </div>
@@ -796,14 +796,14 @@ Remote Admin Jobs
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
+⚛️&nbsp;<a href="/remote-react-jobs">
+Remote React Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-jobs">
-Remote React Jobs
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
@@ -826,11 +826,11 @@ Remote Node Jobs
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
 </a> </div><div class="tag">
-📱&nbsp;<a href="/remote-mobile-jobs">
-Remote Mobile Jobs
-</a> </div><div class="tag">
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
+</a> </div><div class="tag">
+📱&nbsp;<a href="/remote-mobile-jobs">
+Remote Mobile Jobs
 </a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
@@ -847,8 +847,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-social-media-jobs">
-Remote Social Media Jobs
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -859,17 +859,14 @@ Remote Web3 Jobs
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
 </a> </div><div class="tag">
-☄️&nbsp;<a href="/remote-meteor-jobs">
-Remote Meteor Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+✍️&nbsp;<a href="/remote-social-media-jobs">
+Remote Social Media Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
 </a> </div><div class="tag">
 👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
 Remote Teaching Jobs
@@ -880,14 +877,17 @@ Remote SaaS Jobs
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
+☄️&nbsp;<a href="/remote-meteor-jobs">
+Remote Meteor Jobs
+</a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
 </a> </div><div class="tag">
-👩‍🔬&nbsp;<a href="/remote-stats-jobs">
-Remote Stats Jobs
-</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
+</a> </div><div class="tag">
+👩‍🔬&nbsp;<a href="/remote-stats-jobs">
+Remote Stats Jobs
 </a> </div><div class="tag">
 👶&nbsp;<a href="/remote-junior-jobs">
 Remote Junior Jobs
@@ -910,8 +910,8 @@ Remote Game Developer Jobs
 👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
 Remote Legal Jobs
 </a> </div><div class="tag">
-➕&nbsp;<a href="/remote-c-plus-plus-jobs">
-Remote C++ Jobs
+⚛️&nbsp;<a href="/remote-react-native-jobs">
+Remote React Native Jobs
 </a> </div><div class="tag">
 🔷&nbsp;<a href="/remote-c-jobs">
 Remote C Jobs
@@ -919,8 +919,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🐳&nbsp;<a href="/remote-docker-jobs">
+Remote Docker Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -998,12 +998,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-🍃 &nbsp;<a href="/hire/mongo">
-Hire Mongo Developers Remotely
-</a>
-</div><div class="tag">
 📦 &nbsp;<a href="/hire/git">
 Hire Git Developers Remotely
+</a>
+</div><div class="tag">
+🍃 &nbsp;<a href="/hire/mongo">
+Hire Mongo Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1102,36 +1102,36 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-♾️ &nbsp;<a href="/hire/devops">
-Hire DevOps Freelancers Remotely
-</a>
-</div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
 Hire Excel Developers Remotely
+</a>
+</div><div class="tag">
+♾️ &nbsp;<a href="/hire/devops">
+Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
-💼 &nbsp;<a href="/hire/product-management">
-Hire Product Management Developers Remotely
-</a>
-</div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+💼 &nbsp;<a href="/hire/product-management">
+Hire Product Management Developers Remotely
 </a>
 </div><div class="tag">
 🐇 &nbsp;<a href="/hire/swift">
 Hire Swift Developers Remotely
 </a>
 </div><div class="tag">
-🧩 &nbsp;<a href="/hire/express">
-Hire Express Developers Remotely
-</a>
-</div><div class="tag">
 🔡 &nbsp;<a href="/hire/html5">
 Hire HTML5 Developers Remotely
+</a>
+</div><div class="tag">
+🧩 &nbsp;<a href="/hire/express">
+Hire Express Developers Remotely
 </a>
 </div><div class="tag">
 🍏 &nbsp;<a href="/hire/ios">
@@ -1172,6 +1172,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-174ms
+193ms
 </div>
 <div class="END-OF-FILE"></div>
