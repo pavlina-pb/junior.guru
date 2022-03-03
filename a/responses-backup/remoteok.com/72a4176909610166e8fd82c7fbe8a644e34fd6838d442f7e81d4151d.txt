@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,10 +281,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($141k/mo)
+🤲&nbsp; Open Startup ($129k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.91%) </a>
+🟢&nbsp; Uptime (99.96%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#2053414c45536052454d4f54454f4b0e434f4d1f5355424a4543541d6144564552544953450b4f4e0b72454d4f54450b6f6b06424f44591d744849530b454d41494c0b444f45530b4e4f540b574f524b0e051061051019704c454153450b5553450b5448450b454d41494c0b414444524553530b41447f53414c45530b414e440b5448454e0b0514100b414e440b5448454e0b544849530b53495445051217530b444f4d41494e0b494e53544541440512630b544f0b41564f49440b5350414d4d4552530b464c4f4f44494e470b544849530b454d41494c0e0b774505121752450b4f4e4c590b414343455054494e470b53504f4e534f525348495005126641440b4445414c530b46524f4d0b05121413104b0512664d4f0b41540b544849530b4d4f4d454e540b414e440b5448455245051217530b410b57414954494e470b4c4953540e0b77450b444f0b6e6f740b444f0b637061051266414646494c4941544505126653414c450d42415345440b4445414c530512630b4f4e4c590b464c41540b4645450b4c554d500b53554d0b484152440b434153480b53504f4e534f5253484950530512664144530512630b504c454153450b534156450b424f54480b4f460b55530b54494d450b414e440b444f4e051217540b454d41494c0b55530b41424f55540b544841540e0b7448414e4b53051211">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#bfccded3daccffcddad2d0cbdad0d491dcd0d280cccaddd5dadccb82fedbc9dacdcbd6ccda94d0d194eddad2d0cbda94f0f499ddd0dbc682ebd7d6cc94dad2ded6d394dbd0dacc94d1d0cb94c8d0cdd4919a8ffe9a8f86efd3dadeccda94caccda94cbd7da94dad2ded6d394dedbdbcddacccc94dedbe0ccded3dacc94ded1db94cbd7dad1949a8b8f94ded1db94cbd7dad194cbd7d6cc94ccd6cbda9a8d88cc94dbd0d2ded6d194d6d1cccbdadedb9a8dfc94cbd094dec9d0d6db94cccfded2d2dacdcc94d9d3d0d0dbd6d1d894cbd7d6cc94dad2ded6d39194e8da9a8d88cdda94d0d1d3c694dedcdcdacfcbd6d1d894cccfd0d1ccd0cdccd7d6cf9a8df9dedb94dbdaded3cc94d9cdd0d2949a8d8b8c8fd49a8df9d2d094decb94cbd7d6cc94d2d0d2dad1cb94ded1db94cbd7dacdda9a8d88cc94de94c8ded6cbd6d1d894d3d6cccb9194e8da94dbd094f1f0eb94dbd094fceffe9a8df9ded9d9d6d3d6decbda9a8df9ccded3da92dddeccdadb94dbdaded3cc9a8dfc94d0d1d3c694d9d3decb94d9dada94d3cad2cf94cccad294d7decddb94dcdeccd794cccfd0d1ccd0cdccd7d6cfcc9a8df9dedbcc9a8dfc94cfd3dadeccda94ccdec9da94ddd0cbd794d0d994cacc94cbd6d2da94ded1db94dbd0d19a8d88cb94dad2ded6d394cacc94deddd0cacb94cbd7decb9194ebd7ded1d4cc9a8d8e">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-15 new jobs posted today
+22 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109243-remote-software-engineer-ii-industry-dive" data-epoch="1645956010" data-search="Industry Dive Software Engineer II senior sales engineer product designer exec dev digital nomad" data-company="Industry Dive" data-stack="" id="job-109243" data-id="109243" data-href="/remote-jobs/109243-remote-software-engineer-ii-industry-dive" class="job job-109243     active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-27T10:00:10+00:00","description":"Industry Dive is looking for a full-stack engineer who is curious and motivated to join our engineering team. We use a variety of open-source technology, and our core application is written in Python\/Django. Our development stack includes Git\/GitLab and Google Cloud Platform. We spend most of our time building Industry Dive's main product \u2014 a series of consumer-facing, mobile-optimized news sites with an internal content management system. Typical work includes building new features, fixing bugs and improving performance. We are cross-functional, so you'll have the opportunity to work on many other projects, including data products, email communication tools, and Developer Operations. This role reports to the scrum team\u2019s Software Development Manager.\n\nIndustry Dive strives to provide an inclusive and welcoming environment. We emphasize continuous learning and knowledge sharing as a department and rely on agile methodologies to support self governing scrum teams. Your voice and the work you\u2019ll do here matters to your teammates, other teams within the company and our customers and readers. For more information on Industry Dive\u2019s Engineering Team benefits, please visit https:\/\/industrydive.tech\/.\n\nApplicants who belong to traditionally underrepresented groups are strongly encouraged to apply. We have an engineering group focused on Diversity, Inclusion and Belonging (DIB) \u2014 an effort inspired by our company-wide DIB group \u2014 to make sure everyone is supported and set up for success. \n\n\n\n#LI-Remote, #LI-WM1\n\n\nNot all candidates will check all of the requirements listed above, and that\u2019s OK \u2014 we still want to hear from you.\u00a0Industry Dive strives to provide an inclusive and welcoming environment, and applicants who belong to traditionally underrepresented groups are strongly encouraged to apply.\u00a0\n\nIndustry Dive is an equal opportunity employer and we strongly encourage people of color, LGBTQIA individuals, veterans, parents, and individuals with disabilities to apply.  \n\nIf you feel comfortable doing so please feel free to note which pronouns you use in your application (for example - she\/her\/hers, he\/him\/his, they\/them\/theirs, ze\/zir\/zirs, etc.)\n\nIndustry Dive will not be able to sponsor applicants for work visas.\n\nAbout Industry Dive\n\nIndustry Dive is a leading business journalism company. More than 11 million decision-makers across 20 competitive industries rely on its exclusive insight and analysis delivered through 23 publications. Industry Dive was founded in 2012 to provide business leaders with the information they need to move industries forward. Our team of reporters, editors, designers, and marketers delivers insights and programs that spark innovation, fuel growth and shape agendas in every industry we cover.\n Apply now and work remotely at Industry Dive","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer II","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/f79722211c5f6e4f6860a30b90383dd01645956010.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-30T10:00:10+00:00","hiringOrganization":{"@type":"Organization","name":"Industry Dive","url":"https:\/\/remoteok.com\/industry-dive","sameAs":"https:\/\/remoteok.com\/industry-dive","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/f79722211c5f6e4f6860a30b90383dd01645956010.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-27T10:00:10+00:00","description":"Industry Dive is looking for a full-stack engineer who is curious and motivated to join our engineering team. We use a variety of open-source technology, and our core application is written in Python\/Django. Our development stack includes Git\/GitLab and Google Cloud Platform. We spend most of our time building Industry Dive's main product \u2014 a series of consumer-facing, mobile-optimized news sites with an internal content management system. Typical work includes building new features, fixing bugs and improving performance. We are cross-functional, so you'll have the opportunity to work on many other projects, including data products, email communication tools, and Developer Operations. This role reports to the scrum team\u2019s Software Development Manager.\n\nIndustry Dive strives to provide an inclusive and welcoming environment. We emphasize continuous learning and knowledge sharing as a department and rely on agile methodologies to support self governing scrum teams. Your voice and the work you\u2019ll do here matters to your teammates, other teams within the company and our customers and readers. For more information on Industry Dive\u2019s Engineering Team benefits, please visit https:\/\/industrydive.tech\/.\n\nApplicants who belong to traditionally underrepresented groups are strongly encouraged to apply. We have an engineering group focused on Diversity, Inclusion and Belonging (DIB) \u2014 an effort inspired by our company-wide DIB group \u2014 to make sure everyone is supported and set up for success. \n\n\n\n#LI-Remote, #LI-WM1\n\n\nNot all candidates will check all of the requirements listed above, and that\u2019s OK \u2014 we still want to hear from you.\u00a0Industry Dive strives to provide an inclusive and welcoming environment, and applicants who belong to traditionally underrepresented groups are strongly encouraged to apply.\u00a0\n\nIndustry Dive is an equal opportunity employer and we strongly encourage people of color, LGBTQIA individuals, veterans, parents, and individuals with disabilities to apply.  \n\nIf you feel comfortable doing so please feel free to note which pronouns you use in your application (for example - she\/her\/hers, he\/him\/his, they\/them\/theirs, ze\/zir\/zirs, etc.)\n\nIndustry Dive will not be able to sponsor applicants for work visas.\n\nAbout Industry Dive\n\nIndustry Dive is a leading business journalism company. More than 11 million decision-makers across 20 competitive industries rely on its exclusive insight and analysis delivered through 23 publications. Industry Dive was founded in 2012 to provide business leaders with the information they need to move industries forward. Our team of reporters, editors, designers, and marketers delivers insights and programs that spark innovation, fuel growth and shape agendas in every industry we cover.\n Apply now and work remotely at Industry Dive","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":62500,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer II","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/f79722211c5f6e4f6860a30b90383dd01645956010.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-30T10:00:10+00:00","hiringOrganization":{"@type":"Organization","name":"Industry Dive","url":"https:\/\/remoteok.com\/industry-dive","sameAs":"https:\/\/remoteok.com\/industry-dive","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/f79722211c5f6e4f6860a30b90383dd01645956010.png"}}</script>
 <a alt="Industry Dive" class="preventLink" href="/remote-jobs/109243-remote-software-engineer-ii-industry-dive">
 <img alt="Industry Dive" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteok.com/assets/img/jobs/f79722211c5f6e4f6860a30b90383dd01645956010.png?1645956010" class="logo" />
 </a>
@@ -465,7 +465,7 @@ Industry Dive </h3>
 Software Engineer II
 </h2>
 </a>
-<br /><div class="location tooltip" title="Washington, District Of Columbia">Washington, District Of Columbia</div>&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Sales, Engineer, Product Designer, Executive, Developer and Digital Nomad">💰 $60k - $120k*</div> </td>
+<br /><div class="location tooltip" title="Washington, District Of Columbia">Washington, District Of Columbia</div>&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Sales, Engineer, Product Designer, Executive, Developer and Digital Nomad">💰 $63k - $120k*</div> </td>
 <td class="tags" style="">
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-senior-jobs" aria-label="Remote Senior Jobs" alt="Remote Senior Jobs">
 <div rel="follow" class="tag tag- action-add-tag">
@@ -475,7 +475,7 @@ senior </h3>
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-sales-jobs" aria-label="Remote Sales Jobs" alt="Remote Sales Jobs">
 <div rel="follow" class="tag tag- action-add-tag">
 <h3>
- sales </h3>
+sales </h3>
 </div>&nbsp; </a>
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-engineer-jobs" aria-label="Remote Engineer Jobs" alt="Remote Engineer Jobs">
 <div rel="follow" class="tag tag- action-add-tag">
@@ -490,7 +490,7 @@ product designer </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-27T10:00:10+00:00">
-3d </time>
+4d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109243">
@@ -518,17 +518,17 @@ Industry Dive </h2>
 Apply now
 </a>
 <p>
-👀 346 views
+👀 408 views
 </p>
 <p>
-✅ 17 applied
+✅ 21 applied
 (5%)
 </p>
 <p>
 <strong>
 Share this job:
 </strong>
-<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs109243-remote-software-engineer-ii-industry-dive?ref=sh" />
+<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs/109243-remote-software-engineer-ii-industry-dive?ref=sh" />
 <br />
 <span style="font-size:12px;margin-top:-7px;display:block;">Get a <a href="https://rok.co">rok.co</a> short link</span>
 </p>
@@ -537,7 +537,7 @@ Share this job:
 <span style="font-weight: 400;">Industry Dive is hiring a </span><br />Remote Software Engineer II </h1>
 <div class="markdown">Industry Dive is looking for a full-stack engineer who is curious and motivated to join our engineering team. We use a variety of open-source technology, and our core application is written in Python/Django. Our development stack includes Git/GitLab and Google Cloud Platform. We spend most of our time building Industry Dive's main product — a series of consumer-facing, mobile-optimized news sites with an internal content management system. Typical work includes building new features, fixing bugs and improving performance. We are cross-functional, so you'll have the opportunity to work on many other projects, including data products, email communication tools, and Developer Operations. This role reports to the scrum team’s Software Development Manager.\n\nIndustry Dive strives to provide an inclusive and welcoming environment. We emphasize continuous learning and knowledge sharing as a department and rely on agile methodologies to support self governing scrum teams. Your voice and the work you’ll do here matters to your teammates, other teams within the company and our customers and readers. For more information on Industry Dive’s Engineering Team benefits, please visit https://industrydive.tech/.\n\nApplicants who belong to traditionally underrepresented groups are strongly encouraged to apply. We have an engineering group focused on Diversity, Inclusion and Belonging (DIB) — an effort inspired by our company-wide DIB group — to make sure everyone is supported and set up for success. \n\n\n\n#LI-Remote, #LI-WM1\n\n\nNot all candidates will check all of the requirements listed above, and that’s OK — we still want to hear from you. Industry Dive strives to provide an inclusive and welcoming environment, and applicants who belong to traditionally underrepresented groups are strongly encouraged to apply. \n\nIndustry Dive is an equal opportunity employer and we strongly encourage people of color, LGBTQIA individuals, veterans, parents, and individuals with disabilities to apply. \n\nIf you feel comfortable doing so please feel free to note which pronouns you use in your application (for example - she/her/hers, he/him/his, they/them/theirs, ze/zir/zirs, etc.)\n\nIndustry Dive will not be able to sponsor applicants for work visas.\n\nAbout Industry Dive\n\nIndustry Dive is a leading business journalism company. More than 11 million decision-makers across 20 competitive industries rely on its exclusive insight and analysis delivered through 23 publications. Industry Dive was founded in 2012 to provide business leaders with the information they need to move industries forward. Our team of reporters, editors, designers, and marketers delivers insights and programs that spark innovation, fuel growth and shape agendas in every industry we cover. \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to Senior, Sales, Engineer, Product Designer, Executive, Developer and Digital Nomad jobs that are similar:\n\n
-$60,000 &mdash; $120,000/year\n
+$62,500 &mdash; $120,000/year\n
 \n\n#Location\nWashington, District Of Columbia<br />
 </div>
 <br />
@@ -785,14 +785,11 @@ Remote Ruby Jobs
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
 </a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
@@ -800,14 +797,17 @@ Remote Python Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
+</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
@@ -818,8 +818,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -833,23 +833,23 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
+</a> </div><div class="tag">
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -869,17 +869,17 @@ Remote PHP Jobs
 🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
 Remote English Teacher Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -890,8 +890,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐳&nbsp;<a href="/remote-docker-jobs">
-Remote Docker Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -969,12 +969,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1025,12 +1025,12 @@ Hire Django Developers Remotely
 Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/photoshop">
-Hire Photoshop Freelancers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/photoshop">
+Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
@@ -1073,16 +1073,16 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1143,6 +1143,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-197ms
+198ms
 </div>
 <div class="END-OF-FILE"></div>

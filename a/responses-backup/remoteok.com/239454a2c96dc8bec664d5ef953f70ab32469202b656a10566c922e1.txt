@@ -85,7 +85,7 @@ Have you ever found yourself or a loved one waiting hours and hours in a hospita
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -287,10 +287,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($141k/mo)
+🤲&nbsp; Open Startup ($129k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.91%) </a>
+🟢&nbsp; Uptime (99.96%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -359,7 +359,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#bccfddd0d9cffcced9d1d3c8d9d3d792dfd3d183cfc9ded6d9dfc881fdd8cad9cec8d5cfd997d3d297eed9d1d3c8d997f3f79aded3d8c581e8d4d5cf97d9d1ddd5d097d8d3d9cf97d2d3c897cbd3ced792998cfd998c85ecd0d9ddcfd997c9cfd997c8d4d997d9d1ddd5d097ddd8d8ced9cfcf97ddd8e3cfddd0d9cf97ddd2d897c8d4d9d29799888c97ddd2d897c8d4d9d297c8d4d5cf97cfd5c8d9998e8bcf97d8d3d1ddd5d297d5d2cfc8d9ddd8998eff97c8d397ddcad3d5d897cfccddd1d1d9cecf97dad0d3d3d8d5d2db97c8d4d5cf97d9d1ddd5d09297ebd9998e8bced997d3d2d0c597dddfdfd9ccc8d5d2db97cfccd3d2cfd3cecfd4d5cc998efaddd897d8d9ddd0cf97daced3d197998e888f8cd7998efad1d397ddc897c8d4d5cf97d1d3d1d9d2c897ddd2d897c8d4d9ced9998e8bcf97dd97cbddd5c8d5d2db97d0d5cfc89297ebd997d8d397f2f3e897d8d397ffecfd998efadddadad5d0d5ddc8d9998efacfddd0d991deddcfd9d897d8d9ddd0cf998eff97d3d2d0c597dad0ddc897dad9d997d0c9d1cc97cfc9d197d4ddced897dfddcfd497cfccd3d2cfd3cecfd4d5cccf998efaddd8cf998eff97ccd0d9ddcfd997cfddcad997ded3c8d497d3da97c9cf97c8d5d1d997ddd2d897d8d3d2998e8bc897d9d1ddd5d097c9cf97ddded3c9c897c8d4ddc89297e8d4ddd2d7cf998e8d">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#addeccc1c8deeddfc8c0c2d9c8c2c683cec2c092ded8cfc7c8ced990ecc9dbc8dfd9c4dec886c2c386ffc8c0c2d9c886e2e68bcfc2c9d490f9c5c4de86c8c0ccc4c186c9c2c8de86c3c2d986dac2dfc683889dec889d94fdc1c8ccdec886d8dec886d9c5c886c8c0ccc4c186ccc9c9dfc8dede86ccc9f2deccc1c8de86ccc3c986d9c5c8c38688999d86ccc3c986d9c5c8c386d9c5c4de86dec4d9c8889f9ade86c9c2c0ccc4c386c4c3ded9c8ccc9889fee86d9c286ccdbc2c4c986deddccc0c0c8dfde86cbc1c2c2c9c4c3ca86d9c5c4de86c8c0ccc4c18386fac8889f9adfc886c2c3c1d486cccecec8ddd9c4c3ca86deddc2c3dec2dfdec5c4dd889febccc986c9c8ccc1de86cbdfc2c086889f999e9dc6889febc0c286ccd986d9c5c4de86c0c2c0c8c3d986ccc3c986d9c5c8dfc8889f9ade86cc86daccc4d9c4c3ca86c1c4ded98386fac886c9c286e3e2f986c9c286eefdec889febcccbcbc4c1c4ccd9c8889febdeccc1c880cfccdec8c986c9c8ccc1de889fee86c2c3c1d486cbc1ccd986cbc8c886c1d8c0dd86ded8c086c5ccdfc986ceccdec586deddc2c3dec2dfdec5c4ddde889febccc9de889fee86ddc1c8ccdec886deccdbc886cfc2d9c586c2cb86d8de86d9c4c0c886ccc3c986c9c2c3889f9ad986c8c0ccc4c186d8de86cccfc2d8d986d9c5ccd98386f9c5ccc3c6de889f9c">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -448,7 +448,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-15 new jobs posted today
+22 new jobs posted today
 </span>
 </div>
 </td>
@@ -456,7 +456,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109215-remote-senior-software-engineer-data-platform-qventus" data-epoch="1645876805" data-search="Qventus Senior Software Engineer Data Platform senior engineer customer support exec dev digital nomad" data-company="Qventus" data-stack="" id="job-109215" data-id="109215" data-href="/remote-jobs/109215-remote-senior-software-engineer-data-platform-qventus" class="job job-109215     active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T12:00:05+00:00","description":"The Company\n\u00a0\nHave you ever found yourself or a loved one waiting hours and hours in a hospital Emergency Room to get care? Or have you ever had a surgery scheduled for months in the future that needed to happen sooner? Unfortunately, our healthcare system is full of these types of operational problems. Our work saves lives and helps hospitals cut tens of millions of dollars in operational costs, while improving the quality of care they\u2019re able to deliver.\n\u00a0\nQventus is a real-time decision making platform for hospital operations. Our mission is to simplify how healthcare operates, so that hospitals and caregivers can focus on delivering the best possible care to patients. We use artificial intelligence and machine learning to create products that help nurses, doctors, and hospital staff anticipate issues and make operational decisions proactively.\n\u00a0\nQventus works with leading public, academic and community hospitals across the United States. The company was recognized by the 2019 Black Book Awards in healthcare for patient flow and by CB Insights as a 2019 top 100 Most Promising Company in Artificial Intelligence. Recently, Qventus won the Robert Wood Johnson Foundation Emergency Response for the Healthcare System Innovation Challenge through its work helping health systems across the country plan for and operate in the COVID pandemic.\n\nThe Role\n\nQventus is looking for Senior Data Platform Engineers to help build the next generation of our data platform. The Data Platform team acts as stewards for Qventus\u2019 data. We stream hospital EMR to our core warehouses in real-time, build out curated data layers to power our Healthcare AI, design and build patterns to ensure the security of patient (HIPAA) data and overall ensure Qventus data users have the tools they need to explore and power the Qventus product at scale and cost to improve the lives of patients and doctors across the country.\n\u00a0\nAs a Senior Data Platform Engineer, you will build and own significant components of the Qventus data platform. You will be comfortable designing, building, and leading cross-functional initiatives with technical and non-technical partners - from database tuning, to pipeline design, to scaling services to support company expansion within the healthcare space (and HIPAA restrictions). You will be motivated and excited to have an impact on the team and in the company and to improve the quality of healthcare operations.\n\n\nQventus is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.\u00a0\n\n Apply now and work remotely at Qventus","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":115000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer Data Platform","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/0dc257bdeb5399c04bd7caa4200046741645876806.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T12:00:05+00:00","hiringOrganization":{"@type":"Organization","name":"Qventus","url":"https:\/\/remoteok.com\/qventus","sameAs":"https:\/\/remoteok.com\/qventus","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/0dc257bdeb5399c04bd7caa4200046741645876806.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T12:00:05+00:00","description":"The Company\n\u00a0\nHave you ever found yourself or a loved one waiting hours and hours in a hospital Emergency Room to get care? Or have you ever had a surgery scheduled for months in the future that needed to happen sooner? Unfortunately, our healthcare system is full of these types of operational problems. Our work saves lives and helps hospitals cut tens of millions of dollars in operational costs, while improving the quality of care they\u2019re able to deliver.\n\u00a0\nQventus is a real-time decision making platform for hospital operations. Our mission is to simplify how healthcare operates, so that hospitals and caregivers can focus on delivering the best possible care to patients. We use artificial intelligence and machine learning to create products that help nurses, doctors, and hospital staff anticipate issues and make operational decisions proactively.\n\u00a0\nQventus works with leading public, academic and community hospitals across the United States. The company was recognized by the 2019 Black Book Awards in healthcare for patient flow and by CB Insights as a 2019 top 100 Most Promising Company in Artificial Intelligence. Recently, Qventus won the Robert Wood Johnson Foundation Emergency Response for the Healthcare System Innovation Challenge through its work helping health systems across the country plan for and operate in the COVID pandemic.\n\nThe Role\n\nQventus is looking for Senior Data Platform Engineers to help build the next generation of our data platform. The Data Platform team acts as stewards for Qventus\u2019 data. We stream hospital EMR to our core warehouses in real-time, build out curated data layers to power our Healthcare AI, design and build patterns to ensure the security of patient (HIPAA) data and overall ensure Qventus data users have the tools they need to explore and power the Qventus product at scale and cost to improve the lives of patients and doctors across the country.\n\u00a0\nAs a Senior Data Platform Engineer, you will build and own significant components of the Qventus data platform. You will be comfortable designing, building, and leading cross-functional initiatives with technical and non-technical partners - from database tuning, to pipeline design, to scaling services to support company expansion within the healthcare space (and HIPAA restrictions). You will be motivated and excited to have an impact on the team and in the company and to improve the quality of healthcare operations.\n\n\nQventus is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.\u00a0\n\n Apply now and work remotely at Qventus","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":61250,"maxValue":115000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer Data Platform","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/0dc257bdeb5399c04bd7caa4200046741645876806.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T12:00:05+00:00","hiringOrganization":{"@type":"Organization","name":"Qventus","url":"https:\/\/remoteok.com\/qventus","sameAs":"https:\/\/remoteok.com\/qventus","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/0dc257bdeb5399c04bd7caa4200046741645876806.png"}}</script>
 <a alt="Qventus" class="preventLink" href="/remote-jobs/109215-remote-senior-software-engineer-data-platform-qventus">
 <img alt="Qventus" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteok.com/assets/img/jobs/0dc257bdeb5399c04bd7caa4200046741645876806.png?1645876806" class="logo" />
 </a>
@@ -471,7 +471,7 @@ Qventus </h3>
 Senior Software Engineer Data Platform
 </h2>
 </a>
-&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Customer Support, Executive, Developer and Digital Nomad">💰 $60k - $115k*</div> </td>
+&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Customer Support, Executive, Developer and Digital Nomad">💰 $61k - $115k*</div> </td>
 <td class="tags" style="">
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-senior-jobs" aria-label="Remote Senior Jobs" alt="Remote Senior Jobs">
 <div rel="follow" class="tag tag- action-add-tag">
@@ -496,7 +496,7 @@ exec </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-26T12:00:05+00:00">
-4d </time>
+5d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109215">
@@ -524,7 +524,7 @@ Qventus </h2>
 Apply now
 </a>
 <p>
-👀 341 views
+👀 376 views
 </p>
 <p>
 ✅ 17 applied
@@ -534,7 +534,7 @@ Apply now
 <strong>
 Share this job:
 </strong>
-<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs109215-remote-senior-software-engineer-data-platform-qventus?ref=sh" />
+<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs/109215-remote-senior-software-engineer-data-platform-qventus?ref=sh" />
 <br />
 <span style="font-size:12px;margin-top:-7px;display:block;">Get a <a href="https://rok.co">rok.co</a> short link</span>
 </p>
@@ -543,7 +543,7 @@ Share this job:
 <span style="font-weight: 400;">Qventus is hiring a </span><br />Remote Senior Software Engineer Data Platform </h1>
 <div class="markdown">The Company\n \nHave you ever found yourself or a loved one waiting hours and hours in a hospital Emergency Room to get care? Or have you ever had a surgery scheduled for months in the future that needed to happen sooner? Unfortunately, our healthcare system is full of these types of operational problems. Our work saves lives and helps hospitals cut tens of millions of dollars in operational costs, while improving the quality of care they’re able to deliver.\n \nQventus is a real-time decision making platform for hospital operations. Our mission is to simplify how healthcare operates, so that hospitals and caregivers can focus on delivering the best possible care to patients. We use artificial intelligence and machine learning to create products that help nurses, doctors, and hospital staff anticipate issues and make operational decisions proactively.\n \nQventus works with leading public, academic and community hospitals across the United States. The company was recognized by the 2019 Black Book Awards in healthcare for patient flow and by CB Insights as a 2019 top 100 Most Promising Company in Artificial Intelligence. Recently, Qventus won the Robert Wood Johnson Foundation Emergency Response for the Healthcare System Innovation Challenge through its work helping health systems across the country plan for and operate in the COVID pandemic.\n\nThe Role\n\nQventus is looking for Senior Data Platform Engineers to help build the next generation of our data platform. The Data Platform team acts as stewards for Qventus’ data. We stream hospital EMR to our core warehouses in real-time, build out curated data layers to power our Healthcare AI, design and build patterns to ensure the security of patient (HIPAA) data and overall ensure Qventus data users have the tools they need to explore and power the Qventus product at scale and cost to improve the lives of patients and doctors across the country.\n \nAs a Senior Data Platform Engineer, you will build and own significant components of the Qventus data platform. You will be comfortable designing, building, and leading cross-functional initiatives with technical and non-technical partners - from database tuning, to pipeline design, to scaling services to support company expansion within the healthcare space (and HIPAA restrictions). You will be motivated and excited to have an impact on the team and in the company and to improve the quality of healthcare operations.\n\n\nQventus is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. \n \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to Senior, Engineer, Customer Support, Executive, Developer and Digital Nomad jobs that are similar:\n\n
-$60,000 &mdash; $115,000/year\n
+$61,250 &mdash; $115,000/year\n
 \n\n#Location\nRemote<br />
 </div>
 <br />
@@ -791,14 +791,11 @@ Remote Ruby Jobs
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
 </a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
@@ -806,14 +803,17 @@ Remote Python Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
+</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
@@ -824,8 +824,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -839,23 +839,23 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
+</a> </div><div class="tag">
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -875,17 +875,17 @@ Remote PHP Jobs
 🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
 Remote English Teacher Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -896,8 +896,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐳&nbsp;<a href="/remote-docker-jobs">
-Remote Docker Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -975,12 +975,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1031,12 +1031,12 @@ Hire Django Developers Remotely
 Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/photoshop">
-Hire Photoshop Freelancers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/photoshop">
+Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
@@ -1079,16 +1079,16 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1131,7 +1131,7 @@ Hire Android Developers Remotely
 Hire Product Design Freelancers Remotely
 </a>
 </div><div class="tag">
-🔷 &nbsp;<a href="/hire/c">
+ 🔷 &nbsp;<a href="/hire/c">
 Hire C Developers Remotely
 </a>
 </div><div class="tag">
@@ -1149,6 +1149,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-174ms
+203ms
 </div>
 <div class="END-OF-FILE"></div>

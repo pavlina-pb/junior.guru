@@ -58,7 +58,6 @@
 <link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-icon-144x144.png?2">
 <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-icon-152x152.png?2">
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-icon-180x180.png?2">
-
 <script src="/functions.js?1640951054"></script>
 <script src="/jquery.js?1607999783"></script>
 <link rel="stylesheet" href="/index.css?1645975236">
@@ -80,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -282,10 +281,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($141k/mo)
+🤲&nbsp; Open Startup ($129k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.91%) </a>
+🟢&nbsp; Uptime (99.96%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -354,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#e093818c8593a092858d8f94858f8bce838f8ddf9395828a858394dda18496859294899385cb8f8ecbb2858d8f9485cbafabc6828f8499ddb4888993cb858d81898ccb848f8593cb8e8f94cb978f928bcec5d0a1c5d0d9b08c85819385cb959385cb948885cb858d81898ccb81848492859393cb8184bf93818c8593cb818e84cb9488858ecbc5d4d0cb818e84cb9488858ecb94888993cb93899485c5d2d793cb848f8d81898ecb898e9394858184c5d2a3cb948fcb81968f8984cb9390818d8d859293cb868c8f8f84898e87cb94888993cb858d81898ccecbb785c5d2d79285cb8f8e8c99cb818383859094898e87cb93908f8e938f9293888990c5d2a68184cb8485818c93cb86928f8dcbc5d2d4d3d08bc5d2a68d8fcb8194cb94888993cb8d8f8d858e94cb818e84cb9488859285c5d2d793cb81cb97818994898e87cb8c899394cecbb785cb848fcbaeafb4cb848fcba3b0a1c5d2a6818686898c89819485c5d2a693818c85cd8281938584cb8485818c93c5d2a3cb8f8e8c99cb868c8194cb868585cb8c958d90cb93958dcb88819284cb83819388cb93908f8e938f929388899093c5d2a6818493c5d2a3cb908c85819385cb93819685cb828f9488cb8f86cb9593cb94898d85cb818e84cb848f8ec5d2d794cb858d81898ccb9593cb81828f9594cb94888194cecbb488818e8b93c5d2d1">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#6b180a070e182b190e06041f0e04004508040654181e09010e081f562a0f1d0e191f02180e40040540390e06041f0e4024204d09040f12563f030218400e060a0207400f040e184005041f401c041900454e5b2a4e5b523b070e0a180e401e180e401f030e400e060a0207400a0f0f190e1818400a0f34180a070e18400a050f401f030e05404e5f5b400a050f401f030e05401f0302184018021f0e4e595c18400f04060a0205400205181f0e0a0f4e5928401f04400a1d04020f40181b0a06060e1918400d0704040f02050c401f030218400e060a020745403c0e4e595c190e4004050712400a08080e1b1f02050c40181b04051804191803021b4e592d0a0f400f0e0a0718400d190406404e595f585b004e592d0604400a1f401f030218400604060e051f400a050f401f030e190e4e595c18400a401c0a021f02050c400702181f45403c0e400f044025243f400f0440283b2a4e592d0a0d0d0207020a1f0e4e592d180a070e46090a180e0f400f0e0a07184e59284004050712400d070a1f400d0e0e40071e061b40181e0640030a190f40080a180340181b04051804191803021b184e592d0a0f184e5928401b070e0a180e40180a1d0e4009041f0340040d401e18401f02060e400a050f400f04054e595c1f400e060a0207401e18400a09041e1f401f030a1f45403f030a0500184e595a">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -443,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-15 new jobs posted today
+22 new jobs posted today
 </span>
 </div>
 </td>
@@ -451,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109222-remote-software-engineer-iron-fish" data-epoch="1645887607" data-search="Iron Fish Software Engineer devops engineer full stack dev digital nomad" data-company="Iron Fish" data-stack="" id="job-109222" data-id="109222" data-href="/remote-jobs/109222-remote-software-engineer-iron-fish" class="job job-109222     active   active  ==    												" title="">
 <td class="image " style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T15:00:07+00:00","description":"Iron Fish is a new cryptocurrency that takes no shortcuts on privacy and usability. Privacy isn\u2019t just important, it\u2019s essential to crypto\u2019s success. Our vision is for Iron Fish to become a shielded layer for many more assets, even ones on different chains, and provide a platform for true digital cash.\n\nA core belief at Iron Fish is that privacy and ease-of-use are not in opposition. Users and developers deserve both. Our codebase is TypeScript + Rust, so the world's 1M+ JavaScript developers can contribute. The current implementation is even compatible to run a full Iron Fish node directly in the browser in future iterations.\n\nWe are looking for a Software Engineer to work on the core Iron Fish protocol and supporting tools. You will work collaboratively with our team members on developing new protocol features and focus on optimization, scale, and performance of a purely decentralized peer to peer (p2p) system.\n\nThe Iron Fish team is made up of curious, passionate, kind individuals who deeply care about making a product that's a pleasure to use. If that sounds like you, we'd love to hear from you :)\n\nResponsibilities\nAs an engineer in a fast growing company, the day-to-day may vary. But here is some of what you can expect to do:\n\n- Build, document and maintain tests, features, and infrastructure\n- Communicate and document architectural designs and requirements\n- Write high quality, well-tested code\n\nWhat we are looking for\nBelow are just some examples of what your background may look like\u2014go ahead and apply even if your experience is a little different.\n\n- Written production-level code in Node, React, JavaScript, TypeScript, or Rust\n- Worked in at least one of our focus areas:\n- Cryptocurrency architecture development\n- Web and\/or Electron application development\n- P2P application development\n- Security\n\nNice to haves\n- You have experience with blockchains (e.g. Bitcoin, Ethereum and other implementations)\n- Interested in cryptography (e.g. zero-knowledge proofs)\n\n\n Apply now and work remotely at Iron Fish","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T15:00:07+00:00","hiringOrganization":{"@type":"Organization","name":"Iron Fish","url":"https:\/\/remoteok.com\/iron-fish","sameAs":"https:\/\/remoteok.com\/iron-fish","logo":null}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T15:00:07+00:00","description":"Iron Fish is a new cryptocurrency that takes no shortcuts on privacy and usability. Privacy isn\u2019t just important, it\u2019s essential to crypto\u2019s success. Our vision is for Iron Fish to become a shielded layer for many more assets, even ones on different chains, and provide a platform for true digital cash.\n\nA core belief at Iron Fish is that privacy and ease-of-use are not in opposition. Users and developers deserve both. Our codebase is TypeScript + Rust, so the world's 1M+ JavaScript developers can contribute. The current implementation is even compatible to run a full Iron Fish node directly in the browser in future iterations.\n\nWe are looking for a Software Engineer to work on the core Iron Fish protocol and supporting tools. You will work collaboratively with our team members on developing new protocol features and focus on optimization, scale, and performance of a purely decentralized peer to peer (p2p) system.\n\nThe Iron Fish team is made up of curious, passionate, kind individuals who deeply care about making a product that's a pleasure to use. If that sounds like you, we'd love to hear from you :)\n\nResponsibilities\nAs an engineer in a fast growing company, the day-to-day may vary. But here is some of what you can expect to do:\n\n- Build, document and maintain tests, features, and infrastructure\n- Communicate and document architectural designs and requirements\n- Write high quality, well-tested code\n\nWhat we are looking for\nBelow are just some examples of what your background may look like\u2014go ahead and apply even if your experience is a little different.\n\n- Written production-level code in Node, React, JavaScript, TypeScript, or Rust\n- Worked in at least one of our focus areas:\n- Cryptocurrency architecture development\n- Web and\/or Electron application development\n- P2P application development\n- Security\n\nNice to haves\n- You have experience with blockchains (e.g. Bitcoin, Ethereum and other implementations)\n- Interested in cryptography (e.g. zero-knowledge proofs)\n\n\n Apply now and work remotely at Iron Fish","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T15:00:07+00:00","hiringOrganization":{"@type":"Organization","name":"Iron Fish","url":"https:\/\/remoteok.com\/iron-fish","sameAs":"https:\/\/remoteok.com\/iron-fish","logo":null}}</script>
 <a class="preventLink" href="/remote-jobs/109222-remote-software-engineer-iron-fish">
 <div data-z="1" class="logo">
 <p>
@@ -494,7 +493,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-26T15:00:07+00:00">
-4d </time>
+5d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109222">
@@ -718,7 +717,7 @@ Hire remote worker
 </body>
 <footer style="">
 <div class="container">
-<div class="tag">
+ <div class="tag">
 🤓&nbsp;<a href="/remote-engineer-jobs">
 Remote Engineer Jobs
 </a> </div><div class="tag">
@@ -791,14 +790,11 @@ Remote Ruby Jobs
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
 </a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
@@ -806,14 +802,17 @@ Remote Python Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
+</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
@@ -824,8 +823,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -839,23 +838,23 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
+</a> </div><div class="tag">
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -875,17 +874,17 @@ Remote PHP Jobs
 🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
 Remote English Teacher Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -896,8 +895,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐳&nbsp;<a href="/remote-docker-jobs">
-Remote Docker Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -975,12 +974,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1031,12 +1030,12 @@ Hire Django Developers Remotely
 Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/photoshop">
-Hire Photoshop Freelancers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/photoshop">
+Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
@@ -1079,16 +1078,16 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1136,7 +1135,7 @@ Hire C Developers Remotely
 </a>
 </div><div class="tag">
 🐀 &nbsp;<a href="/hire/golang">
-Hire Golang Developers Remotely
+ Hire Golang Developers Remotely
 </a>
 </div> </div>
 <br />
@@ -1149,6 +1148,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-159ms
+170ms
 </div>
 <div class="END-OF-FILE"></div>

@@ -88,7 +88,7 @@ Tiny builds the software that helps support some of the world’s most innovativ
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -290,10 +290,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($141k/mo)
+🤲&nbsp; Open Startup ($129k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.91%) </a>
+🟢&nbsp; Uptime (99.96%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -362,7 +362,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#542735383127142631393b20313b3f7a373b396b2721363e313720691530223126203d27317f3b3a7f0631393b20317f1b1f72363b302d69003c3d277f3139353d387f303b31277f3a3b207f233b263f7a71641571646d0438313527317f2127317f203c317f3139353d387f353030263127277f35300b27353831277f353a307f203c313a7f7160647f353a307f203c313a7f203c3d277f273d2031716663277f303b39353d3a7f3d3a27203135307166177f203b7f35223b3d307f27243539393126277f32383b3b303d3a337f203c3d277f3139353d387a7f033171666326317f3b3a382d7f3537373124203d3a337f27243b3a273b26273c3d2471661235307f30313538277f32263b397f71666067643f716612393b7f35207f203c3d277f393b39313a207f353a307f203c312631716663277f357f23353d203d3a337f383d27207a7f03317f303b7f1a1b007f303b7f1704157166123532323d383d352031716612273538317936352731307f30313538277166177f3b3a382d7f323835207f3231317f382139247f2721397f3c3526307f3735273c7f27243b3a273b26273c3d24277166123530277166177f2438313527317f273522317f363b203c7f3b327f21277f203d39317f353a307f303b3a716663207f3139353d387f21277f35363b21207f203c35207a7f003c353a3f27716665">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#87f4e6ebe2f4c7f5e2eae8f3e2e8eca9e4e8eab8f4f2e5ede2e4f3bac6e3f1e2f5f3eef4e2ace8e9acd5e2eae8f3e2acc8cca1e5e8e3febad3efeef4ace2eae6eeebace3e8e2f4ace9e8f3acf0e8f5eca9a2b7c6a2b7bed7ebe2e6f4e2acf2f4e2acf3efe2ace2eae6eeebace6e3e3f5e2f4f4ace6e3d8f4e6ebe2f4ace6e9e3acf3efe2e9aca2b3b7ace6e9e3acf3efe2e9acf3efeef4acf4eef3e2a2b5b0f4ace3e8eae6eee9aceee9f4f3e2e6e3a2b5c4acf3e8ace6f1e8eee3acf4f7e6eaeae2f5f4ace1ebe8e8e3eee9e0acf3efeef4ace2eae6eeeba9acd0e2a2b5b0f5e2ace8e9ebfeace6e4e4e2f7f3eee9e0acf4f7e8e9f4e8f5f4efeef7a2b5c1e6e3ace3e2e6ebf4ace1f5e8eaaca2b5b3b4b7eca2b5c1eae8ace6f3acf3efeef4aceae8eae2e9f3ace6e9e3acf3efe2f5e2a2b5b0f4ace6acf0e6eef3eee9e0acebeef4f3a9acd0e2ace3e8acc9c8d3ace3e8acc4d7c6a2b5c1e6e1e1eeebeee6f3e2a2b5c1f4e6ebe2aae5e6f4e2e3ace3e2e6ebf4a2b5c4ace8e9ebfeace1ebe6f3ace1e2e2acebf2eaf7acf4f2eaacefe6f5e3ace4e6f4efacf4f7e8e9f4e8f5f4efeef7f4a2b5c1e6e3f4a2b5c4acf7ebe2e6f4e2acf4e6f1e2ace5e8f3eface8e1acf2f4acf3eeeae2ace6e9e3ace3e8e9a2b5b0f3ace2eae6eeebacf2f4ace6e5e8f2f3acf3efe6f3a9acd3efe6e9ecf4a2b5b6">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -451,7 +451,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-15 new jobs posted today
+22 new jobs posted today
 </span>
 </div>
 </td>
@@ -459,11 +459,11 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109027-remote-front-end-developer-tiny" data-epoch="1644984936" data-search="Tiny Front End Developer javascript react front end dev digital nomad" data-company="Tiny" data-stack="" id="job-109027" data-id="109027" data-href="/remote-jobs/109027-remote-front-end-developer-tiny" class="job job-109027 verified  hot  active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-16T04:15:36+00:00","description":"**Why Join Tiny**\nWith software used by millions of developers, and thousands of products worldwide, Tiny creates some of the world's most popular open source software.\n\nTiny builds the software that helps support some of the world\u2019s most innovative start-ups and established enterprises; we create developer tools for the modern world. Most developers would be familiar with TinyMCE, the flexible open source rich text editor used by companies such as Atlassian, Accelo, Drift and more.\n\nScaling up our remote team, Tiny is evolving and growing our team globally as we continue to expand our product offerings, and create even better developer experiences.\n\nBig problems are solved with Tiny solutions.\n\n**Your New Role**\nTiny is seeking a talented Frontend Developer to join our Digital Experience team. In this role, you will have the opportunity to influence the way people create content on the web. You will be a key member of the team responsible for developing and maintaining our online presence, spanning across websites.\n\nThe frontend developer we are looking for will join a team that brings new ideas to the market via our web assets. The role will require flexibility, creativity, and a willingness to experiment and test out ideas. You will work closely with product development, design and marketing, and have a strong focus on creating maintainable and scalable digital properties. We are a friendly, fun and creative bunch of folks who, like you, are passionate about making the world a tiny bit better than when we found it.\n\n**Key Responsibilities**\n* Maintain and develop the main TinyMCE website\n* Help the marketing department with experiments\n* Translate the UI\/UX design wireframes to actual code\n* Optimize application for maximum Core Web Vitals scores\n* Drive team success through contributions to sprint planning, code reviews, project post-mortems and commitment to continuous learning\n\n**About You**\n* A degree in Engineering, Computer Science or a related field or equivalent experience\n* Good knowledge of Typescript, Javascript and Frameworks (React, Gatsby)\n* Solid HTML\/CSS development experience\n* Web design experience would be an asset\n* Familiarity with UX\/UI concepts\n* Understanding of REST API Architecture\n* Comfortable with Continuous Integration (CI) and Continuous Deployment (CD) best practices (experience with GitHub Actions is a plus)\n* Basic experience with Amazon Web Services (AWS)\n* Basic knowledge of Search Engine Optimisation (SEO) processes\n* Aggressive problem diagnosis and creative problem-solving skills\n* Solid understanding of how web applications work including security and best development practices\n\n**What you can expect from this role**\n* We move fast and are always cooking up new things, so no two days are alike, however, you can generally expect to:\n* Work with people who are committed to helping you develop skills as a programmer\n* Work with senior management who will help you to develop your presentation, communication, teamwork and collaboration skills\n* Work with fun, hard-working and competent people who value ideas and creativity\n* Create wireframes, and develop these into fully deployed web assets\n* Write code to keep our 100,000 monthly web visitors happy, and coming back for more\n\nThis is a remote role and can be worked from anywhere in Europe or CIS region.\n\n\n Apply now and work remotely at Tiny","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Front End Developer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1de56874cc5aa2df4876f6f06aa3dbad1644985026.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-19T04:15:36+00:00","hiringOrganization":{"@type":"Organization","name":"Tiny","url":"https:\/\/remoteok.com\/tiny","sameAs":"https:\/\/remoteok.com\/tiny","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1de56874cc5aa2df4876f6f06aa3dbad1644985026.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-16T04:15:36+00:00","description":"**Why Join Tiny**\nWith software used by millions of developers, and thousands of products worldwide, Tiny creates some of the world's most popular open source software.\n\nTiny builds the software that helps support some of the world\u2019s most innovative start-ups and established enterprises; we create developer tools for the modern world. Most developers would be familiar with TinyMCE, the flexible open source rich text editor used by companies such as Atlassian, Accelo, Drift and more.\n\nScaling up our remote team, Tiny is evolving and growing our team globally as we continue to expand our product offerings, and create even better developer experiences.\n\nBig problems are solved with Tiny solutions.\n\n**Your New Role**\nTiny is seeking a talented Frontend Developer to join our Digital Experience team. In this role, you will have the opportunity to influence the way people create content on the web. You will be a key member of the team responsible for developing and maintaining our online presence, spanning across websites.\n\nThe frontend developer we are looking for will join a team that brings new ideas to the market via our web assets. The role will require flexibility, creativity, and a willingness to experiment and test out ideas. You will work closely with product development, design and marketing, and have a strong focus on creating maintainable and scalable digital properties. We are a friendly, fun and creative bunch of folks who, like you, are passionate about making the world a tiny bit better than when we found it.\n\n**Key Responsibilities**\n* Maintain and develop the main TinyMCE website\n* Help the marketing department with experiments\n* Translate the UI\/UX design wireframes to actual code\n* Optimize application for maximum Core Web Vitals scores\n* Drive team success through contributions to sprint planning, code reviews, project post-mortems and commitment to continuous learning\n\n**About You**\n* A degree in Engineering, Computer Science or a related field or equivalent experience\n* Good knowledge of Typescript, Javascript and Frameworks (React, Gatsby)\n* Solid HTML\/CSS development experience\n* Web design experience would be an asset\n* Familiarity with UX\/UI concepts\n* Understanding of REST API Architecture\n* Comfortable with Continuous Integration (CI) and Continuous Deployment (CD) best practices (experience with GitHub Actions is a plus)\n* Basic experience with Amazon Web Services (AWS)\n* Basic knowledge of Search Engine Optimisation (SEO) processes\n* Aggressive problem diagnosis and creative problem-solving skills\n* Solid understanding of how web applications work including security and best development practices\n\n**What you can expect from this role**\n* We move fast and are always cooking up new things, so no two days are alike, however, you can generally expect to:\n* Work with people who are committed to helping you develop skills as a programmer\n* Work with senior management who will help you to develop your presentation, communication, teamwork and collaboration skills\n* Work with fun, hard-working and competent people who value ideas and creativity\n* Create wireframes, and develop these into fully deployed web assets\n* Write code to keep our 100,000 monthly web visitors happy, and coming back for more\n\nThis is a remote role and can be worked from anywhere in Europe or CIS region.\n\n\n Apply now and work remotely at Tiny","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"110000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Front End Developer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1de56874cc5aa2df4876f6f06aa3dbad1644985026.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-19T04:15:36+00:00","hiringOrganization":{"@type":"Organization","name":"Tiny","url":"https:\/\/remoteok.com\/tiny","sameAs":"https:\/\/remoteok.com\/tiny","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1de56874cc5aa2df4876f6f06aa3dbad1644985026.png"}}</script>
 <a alt="Tiny" class="preventLink" href="/remote-jobs/109027-remote-front-end-developer-tiny">
 <img alt="Tiny" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteOK.com/assets/img/jobs/1de56874cc5aa2df4876f6f06aa3dbad1644985026.png?1644985026" class="logo" />
 </a>
- </td>
+</td>
 <td class="company position company_and_position" style="">
 <span itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization" class="companyLink" href="/tiny">
 <h3 itemprop="name">
@@ -500,7 +500,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-16T04:15:36+00:00">
-14d </time>
+15d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109027">
@@ -527,22 +527,22 @@ Tiny </h2>
 <p>
 <a rel="nofollow noopener" href="https://tiny.cloud">
 tiny.cloud </a>
-  </p>
+</p>
 <a target="_blank" class="button action-apply" data-job-id="109027" href="/l/109027" style="">
 Apply now
 </a>
 <p>
-👀 2,590 views
+👀 2,644 views
 </p>
 <p>
-✅ 319 applied
+✅ 327 applied
 (12%)
 </p>
 <p>
 <strong>
 Share this job:
 </strong>
-<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs109027-remote-front-end-developer-tiny?ref=sh" />
+<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs/109027-remote-front-end-developer-tiny?ref=sh" />
 <br />
 <span style="font-size:12px;margin-top:-7px;display:block;">Get a <a href="https://rok.co">rok.co</a> short link</span>
 </p>
@@ -558,7 +558,7 @@ Front End Developer </a><br /> </div>
 <span style="font-weight: 400;">Tiny is hiring a </span><br />Remote Front End Developer </h1>
 <div class="markdown">**Why Join Tiny**\nWith software used by millions of developers, and thousands of products worldwide, Tiny creates some of the world's most popular open source software.\n\nTiny builds the software that helps support some of the world’s most innovative start-ups and established enterprises; we create developer tools for the modern world. Most developers would be familiar with TinyMCE, the flexible open source rich text editor used by companies such as Atlassian, Accelo, Drift and more.\n\nScaling up our remote team, Tiny is evolving and growing our team globally as we continue to expand our product offerings, and create even better developer experiences.\n\nBig problems are solved with Tiny solutions.\n\n**Your New Role**\nTiny is seeking a talented Frontend Developer to join our Digital Experience team. In this role, you will have the opportunity to influence the way people create content on the web. You will be a key member of the team responsible for developing and maintaining our online presence, spanning across websites.\n\nThe frontend developer we are looking for will join a team that brings new ideas to the market via our web assets. The role will require flexibility, creativity, and a willingness to experiment and test out ideas. You will work closely with product development, design and marketing, and have a strong focus on creating maintainable and scalable digital properties. We are a friendly, fun and creative bunch of folks who, like you, are passionate about making the world a tiny bit better than when we found it.\n\n**Key Responsibilities**\n* Maintain and develop the main TinyMCE website\n* Help the marketing department with experiments\n* Translate the UI/UX design wireframes to actual code\n* Optimize application for maximum Core Web Vitals scores\n* Drive team success through contributions to sprint planning, code reviews, project post-mortems and commitment to continuous learning\n\n**About You**\n* A degree in Engineering, Computer Science or a related field or equivalent experience\n* Good knowledge of Typescript, Javascript and Frameworks (React, Gatsby)\n* Solid HTML/CSS development experience\n* Web design experience would be an asset\n* Familiarity with UX/UI concepts\n* Understanding of REST API Architecture\n* Comfortable with Continuous Integration (CI) and Continuous Deployment (CD) best practices (experience with GitHub Actions is a plus)\n* Basic experience with Amazon Web Services (AWS)\n* Basic knowledge of Search Engine Optimisation (SEO) processes\n* Aggressive problem diagnosis and creative problem-solving skills\n* Solid understanding of how web applications work including security and best development practices\n\n**What you can expect from this role**\n* We move fast and are always cooking up new things, so no two days are alike, however, you can generally expect to:\n* Work with people who are committed to helping you develop skills as a programmer\n* Work with senior management who will help you to develop your presentation, communication, teamwork and collaboration skills\n* Work with fun, hard-working and competent people who value ideas and creativity\n* Create wireframes, and develop these into fully deployed web assets\n* Write code to keep our 100,000 monthly web visitors happy, and coming back for more\n\nThis is a remote role and can be worked from anywhere in Europe or CIS region.\n\n \n\nBe sure to mention the word **FANTASTICALLY** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\n \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to JavaScript, React, Front End, Developer and Digital Nomad jobs that are similar:\n\n
- $60,000 &mdash; $110,000/year\n
+$60,000 &mdash; $110,000/year\n
 \n\n#Location\nEu & Cis<br />
 </div>
 <br />
@@ -601,7 +601,6 @@ When applying for jobs, you should NEVER have to pay to apply. You should also N
 </div>
 <div class="backdrop"></div>
 <div class="spinner sign-up"></div>
-
 <div class="loading_spinner loading_spinner_medium">
 <svg class="loading_spinner_spinner loading_spinner_fast" viewBox="0 0 100 100">
 <circle class="loading_spinner_bg" cx="50%" cy="50%" r="35"></circle>
@@ -687,14 +686,11 @@ Remote Ruby Jobs
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
 </a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
@@ -702,14 +698,17 @@ Remote Python Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
+</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
@@ -720,8 +719,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -735,23 +734,23 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
+</a> </div><div class="tag">
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -771,17 +770,17 @@ Remote PHP Jobs
 🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
 Remote English Teacher Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -792,8 +791,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐳&nbsp;<a href="/remote-docker-jobs">
-Remote Docker Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -803,7 +802,7 @@ Hire JavaScript Developers Remotely
 Hire HTML Developers Remotely
 </a>
 </div><div class="tag">
-⚛️  &nbsp;<a href="/hire/react">
+⚛️ &nbsp;<a href="/hire/react">
 Hire React Developers Remotely
 </a>
 </div><div class="tag">
@@ -871,12 +870,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -927,12 +926,12 @@ Hire Django Developers Remotely
 Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/photoshop">
-Hire Photoshop Freelancers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/photoshop">
+Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
@@ -975,16 +974,16 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1045,6 +1044,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-177ms
+156ms
 </div>
 <div class="END-OF-FILE"></div>

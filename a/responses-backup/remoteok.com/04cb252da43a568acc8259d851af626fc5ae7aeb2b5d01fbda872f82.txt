@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,10 +281,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($141k/mo)
+🤲&nbsp; Open Startup ($129k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.91%) </a>
+🟢&nbsp; Uptime (99.96%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#740715181107340611191b00111b1f5a171b194b0701161e111700493510021106001d07115f1b1a5f2611191b00115f3b3f52161b100d49201c1d075f1119151d185f101b11075f1a1b005f031b061f5a51443551444d2418111507115f0107115f001c115f1119151d185f151010061107075f15102b07151811075f151a105f001c111a5f5140445f151a105f001c111a5f001c1d075f071d0011514643075f101b19151d1a5f1d1a07001115105146375f001b5f15021b1d105f07041519191106075f12181b1b101d1a135f001c1d075f1119151d185a5f231151464306115f1b1a180d5f1517171104001d1a135f07041b1a071b06071c1d0451463215105f10111518075f12061b195f51464047441f514632191b5f15005f001c1d075f191b19111a005f151a105f001c110611514643075f155f03151d001d1a135f181d07005a5f23115f101b5f3a3b205f101b5f3724355146321512121d181d150011514632071518115916150711105f10111518075146375f1b1a180d5f121815005f1211115f180119045f0701195f1c1506105f1715071c5f07041b1a071b06071c1d04075146321510075146375f0418111507115f071502115f161b001c5f1b125f01075f001d19115f151a105f101b1a514643005f1119151d185f01075f15161b01005f001c15005a5f201c151a1f07514645">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#3a495b565f497a485f57554e5f55511459555705494f58505f594e077b5e4c5f484e53495f11555411685f57554e5f1175711c58555e43076e525349115f575b5356115e555f491154554e114d554851141f0a7b1f0a036a565f5b495f114f495f114e525f115f575b5356115b5e5e485f4949115b5e65495b565f49115b545e114e525f54111f0e0a115b545e114e525f54114e5253491149534e5f1f080d49115e55575b5354115354494e5f5b5e1f0879114e55115b4c55535e11494a5b57575f4849115c5655555e53545d114e525349115f575b535614116d5f1f080d485f1155545643115b59595f4a4e53545d11494a55544955484952534a1f087c5b5e115e5f5b5649115c485557111f080e090a511f087c5755115b4e114e525349115755575f544e115b545e114e525f485f1f080d49115b114d5b534e53545d115653494e14116d5f115e551174756e115e5511796a7b1f087c5b5c5c5356535b4e5f1f087c495b565f17585b495f5e115e5f5b56491f08791155545643115c565b4e115c5f5f11564f574a11494f5711525b485e11595b495211494a55544955484952534a491f087c5b5e491f0879114a565f5b495f11495b4c5f1158554e5211555c114f49114e53575f115b545e115e55541f080d4e115f575b5356114f49115b58554f4e114e525b4e14116e525b5451491f080b">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-15 new jobs posted today
+22 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109245-remote-android-software-engineer-contentsquare" data-epoch="1645959603" data-search="Contentsquare Android Software Engineer android engineer ios dev digital nomad" data-company="Contentsquare" data-stack="" id="job-109245" data-id="109245" data-href="/remote-jobs/109245-remote-android-software-engineer-contentsquare" class="job job-109245    has-highlight-color active   active dark =#1a1a1a=    												" title="">
 <td class="image has-logo" style="background-color:#1a1a1a;">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-27T11:00:03+00:00","description":"Contentsquare is a global SaaS technology company that empowers brands to build better digital experiences for all. We have been recognized by Gartner as one of the four most innovative ecommerce companies in the world, and have featured in Wired Magazine as one of Europe\u2019s hottest startups.\u00a0\u00a0\n\nContentsquare has 10 main offices across the world ( New York, London, Paris, Munich, San Francisco, Barcelona, Amsterdam, Tel Aviv, Tokyo, and Singapore) with 750+ clients globally including Fortune 100 companies like HSBC, Sainsbury\u2019s, Spotify, Asos and Microsoft. We\u2019ve been experiencing tremendous growth as our team has grown from ~300 to 1000+ employees globally, and raised a $500M Series E funding in May 2021.\n\nAs our growth accelerates further we are looking to hire 1,500 positions globally in the next\u00a0 3 years. We are looking for talented people like you to join us and help us continue to innovate and improve online experiences for all. We want the most ambitious, unique and enthusiastic people to join us and help us in this mission. Come join the #CSquad family!\n\n\n\ud83d\ude80 Our mission\nAt Contentsquare, all employees share one goal: to help brands create exceptional online experiences with our industry-leading digital experience analytics platform.\nIn the mobile data collection team, we are on a mission to build the industry leading digital experience analytics SDK.\nWith a stellar growth, billions of users, a complex but rewarding business environment and the need for us to have a very high level of quality, performance and privacy, you\u2019ll find an engaging and supportive work environment at Contentsquare.\nWe are looking for developers who understand that development is a team effort, who are proud of a job well done and know how to implement simple and efficient solutions to solve challenging and unique problems.\n\n\ud83d\udcbb Our stack\nOn the data collection side, our SDK works on native iOS applications (implemented in Swift) and native Android applications (SDK is in Java, Unit Tests and Sample App in Kotlin). We also support various multi-platform frameworks (React Native, Flutter, Capacitor\/Ionic, Cordova) with specific bridges. Finally, the Web Team implements the Tag\/SDK that collects data on websites (implemented in Typescript).\nOur APIs are mostly designed with our specific constraints in mind. For example, the most data intensive ones use Protocol Buffers.\nOur frontend is a micro-frontend SPA developed mainly in Angular\/Vue.js and Node.js.\nOur backend uses a combination of technologies such as Kafka, Spark, Akka, ClickHouse and languages such as Scala, Golang, Python, C++.\nOur monitoring and deployment are handled through Kibana, Grafana, Terraform, Datadog and finally, everything is hosted on AWS and Azure.\n\n\ud83e\udde0 Our challenges\nOur first challenge is to navigate through uncharted territories, native APIs and poorly documented features to make sure we collect all the relevant data we need to compute our insights.\nIn addition we obviously must ensure a very high level of performance (as well as the least impact on user experience), stability and be very mindful about data and CPU consumption.\nOur rapid growth requires a strong focus on software architecture, code sharing and automation to sustain our delivery capacity while increasing our teams' size.\nFinally, we are not a tracking company, so collecting PII (Personal Identifiable Information) is an absolute no-go for us and we take it very seriously!\n\n\ud83e\udd17 Skills & Mindset\nIf you have already worked on any kind of software SDK your experience will be of great interest to us.\nIn the same way, if you have notable experience in high performance code, automated non-regression and performance testing, software bridges (between technologies, native and non-native), or if you enjoy testing new technologies or frameworks such as Flutter\/Dart, Swift UI, Compose, React Native\/Typescript, we would love to hear from you.\nAs a team we are really involved in producing a high quality SDK. We expect our developers to know how to unit test their code, to write easy to read & maintain code and documentation as well as being comfortable doing pair programming with their team members.\n\n\ud83c\udfdd What we offer\nAn healthy working environment with supportive team members, a place to grow both technically and as an individual\nAutonomy, responsibilities and opportunities\nAn Engineering Career Path (with clear defined progression steps and opportunities to mentor and be mentored) to make sure you always learn something new\nPlenty of opportunities for training and development\nAttractive salary and stock options\nFlexible working conditions (full remote, 100% in office or any hybrid setup of your choice)\nA dynamic and multi-cultural company with +50 nationalities\nGood health insurance\nMany benefits such as reductions on gym membership and leisure activities\n\u00a0\nWhile we are offering fully remote opportunities, employees need to be fiscally based in one of our main countries to be hired by one of our office. Please ask your recruiter for more information.\n\n-\n\n\nWhy Should You Apply to Contentsquare?\n\u2705 Our mission is focused on empowering everyone to create better experiences for all in the digital world.\n\u2705 We invest in our employees through career development & opportunities, social events, philanthropic activities, and competitive benefits.\n\u2705 You get to collaborate with and learn from smart and creative people around the globe.\n\u2705 We are in this together #TeamSpirit.\n\u00a0\nTo keep our employees happy and motivated, we are always assessing the benefits\/perks we offer to ensure we are competitive. Here are some we\u2019d like to highlight:\n- Virtual onboarding, Hackathon, and our annual kickoff trip on a global basis! You have the opportunity to interact   with our global colleagues.\n- Generous paid time-off policy (every location is different)\n- Immediate eligibility for birthing and non-birthing parental leave\n- Wellbeing allowance\n- Home Office Allowance \n- We offer many benefits in various countries -- ask your recruiter for more information!\n- Fun office culture with a big opportunity to make an impact on our growing global team, culture, including a Culture Crew for every country to organize regular outings such as game nights, movie nights, and happy hours\n\n#Uniqueness is embedded in our DNA as one of our core values, and we welcome everyone to apply to our positions.\n\nContentsquare is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.\n\nYour personal data are used by Contentsquare for recruitment purposes only.\u00a0Read our\u00a0Job Candidate Privacy Notice\u00a0to find out more about data protection at Contentsquare and your rights.\n Apply now and work remotely at Contentsquare","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Android Software Engineer","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/52fa290010dffd501fa4213125f89f4c1645959605.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-30T11:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"Contentsquare","url":"https:\/\/remoteok.com\/contentsquare","sameAs":"https:\/\/remoteok.com\/contentsquare","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/52fa290010dffd501fa4213125f89f4c1645959605.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-27T11:00:03+00:00","description":"Contentsquare is a global SaaS technology company that empowers brands to build better digital experiences for all. We have been recognized by Gartner as one of the four most innovative ecommerce companies in the world, and have featured in Wired Magazine as one of Europe\u2019s hottest startups.\u00a0\u00a0\n\nContentsquare has 10 main offices across the world ( New York, London, Paris, Munich, San Francisco, Barcelona, Amsterdam, Tel Aviv, Tokyo, and Singapore) with 750+ clients globally including Fortune 100 companies like HSBC, Sainsbury\u2019s, Spotify, Asos and Microsoft. We\u2019ve been experiencing tremendous growth as our team has grown from ~300 to 1000+ employees globally, and raised a $500M Series E funding in May 2021.\n\nAs our growth accelerates further we are looking to hire 1,500 positions globally in the next\u00a0 3 years. We are looking for talented people like you to join us and help us continue to innovate and improve online experiences for all. We want the most ambitious, unique and enthusiastic people to join us and help us in this mission. Come join the #CSquad family!\n\n\n\ud83d\ude80 Our mission\nAt Contentsquare, all employees share one goal: to help brands create exceptional online experiences with our industry-leading digital experience analytics platform.\nIn the mobile data collection team, we are on a mission to build the industry leading digital experience analytics SDK.\nWith a stellar growth, billions of users, a complex but rewarding business environment and the need for us to have a very high level of quality, performance and privacy, you\u2019ll find an engaging and supportive work environment at Contentsquare.\nWe are looking for developers who understand that development is a team effort, who are proud of a job well done and know how to implement simple and efficient solutions to solve challenging and unique problems.\n\n\ud83d\udcbb Our stack\nOn the data collection side, our SDK works on native iOS applications (implemented in Swift) and native Android applications (SDK is in Java, Unit Tests and Sample App in Kotlin). We also support various multi-platform frameworks (React Native, Flutter, Capacitor\/Ionic, Cordova) with specific bridges. Finally, the Web Team implements the Tag\/SDK that collects data on websites (implemented in Typescript).\nOur APIs are mostly designed with our specific constraints in mind. For example, the most data intensive ones use Protocol Buffers.\nOur frontend is a micro-frontend SPA developed mainly in Angular\/Vue.js and Node.js.\nOur backend uses a combination of technologies such as Kafka, Spark, Akka, ClickHouse and languages such as Scala, Golang, Python, C++.\nOur monitoring and deployment are handled through Kibana, Grafana, Terraform, Datadog and finally, everything is hosted on AWS and Azure.\n\n\ud83e\udde0 Our challenges\nOur first challenge is to navigate through uncharted territories, native APIs and poorly documented features to make sure we collect all the relevant data we need to compute our insights.\nIn addition we obviously must ensure a very high level of performance (as well as the least impact on user experience), stability and be very mindful about data and CPU consumption.\nOur rapid growth requires a strong focus on software architecture, code sharing and automation to sustain our delivery capacity while increasing our teams' size.\nFinally, we are not a tracking company, so collecting PII (Personal Identifiable Information) is an absolute no-go for us and we take it very seriously!\n\n\ud83e\udd17 Skills & Mindset\nIf you have already worked on any kind of software SDK your experience will be of great interest to us.\nIn the same way, if you have notable experience in high performance code, automated non-regression and performance testing, software bridges (between technologies, native and non-native), or if you enjoy testing new technologies or frameworks such as Flutter\/Dart, Swift UI, Compose, React Native\/Typescript, we would love to hear from you.\nAs a team we are really involved in producing a high quality SDK. We expect our developers to know how to unit test their code, to write easy to read & maintain code and documentation as well as being comfortable doing pair programming with their team members.\n\n\ud83c\udfdd What we offer\nAn healthy working environment with supportive team members, a place to grow both technically and as an individual\nAutonomy, responsibilities and opportunities\nAn Engineering Career Path (with clear defined progression steps and opportunities to mentor and be mentored) to make sure you always learn something new\nPlenty of opportunities for training and development\nAttractive salary and stock options\nFlexible working conditions (full remote, 100% in office or any hybrid setup of your choice)\nA dynamic and multi-cultural company with +50 nationalities\nGood health insurance\nMany benefits such as reductions on gym membership and leisure activities\n\u00a0\nWhile we are offering fully remote opportunities, employees need to be fiscally based in one of our main countries to be hired by one of our office. Please ask your recruiter for more information.\n\n-\n\n\nWhy Should You Apply to Contentsquare?\n\u2705 Our mission is focused on empowering everyone to create better experiences for all in the digital world.\n\u2705 We invest in our employees through career development & opportunities, social events, philanthropic activities, and competitive benefits.\n\u2705 You get to collaborate with and learn from smart and creative people around the globe.\n\u2705 We are in this together #TeamSpirit.\n\u00a0\nTo keep our employees happy and motivated, we are always assessing the benefits\/perks we offer to ensure we are competitive. Here are some we\u2019d like to highlight:\n- Virtual onboarding, Hackathon, and our annual kickoff trip on a global basis! You have the opportunity to interact   with our global colleagues.\n- Generous paid time-off policy (every location is different)\n- Immediate eligibility for birthing and non-birthing parental leave\n- Wellbeing allowance\n- Home Office Allowance \n- We offer many benefits in various countries -- ask your recruiter for more information!\n- Fun office culture with a big opportunity to make an impact on our growing global team, culture, including a Culture Crew for every country to organize regular outings such as game nights, movie nights, and happy hours\n\n#Uniqueness is embedded in our DNA as one of our core values, and we welcome everyone to apply to our positions.\n\nContentsquare is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.\n\nYour personal data are used by Contentsquare for recruitment purposes only.\u00a0Read our\u00a0Job Candidate Privacy Notice\u00a0to find out more about data protection at Contentsquare and your rights.\n Apply now and work remotely at Contentsquare","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"110000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Android Software Engineer","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/52fa290010dffd501fa4213125f89f4c1645959605.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-30T11:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"Contentsquare","url":"https:\/\/remoteok.com\/contentsquare","sameAs":"https:\/\/remoteok.com\/contentsquare","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/52fa290010dffd501fa4213125f89f4c1645959605.png"}}</script>
 <a alt="Contentsquare" class="preventLink" href="/remote-jobs/109245-remote-android-software-engineer-contentsquare">
 <img alt="Contentsquare" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteok.com/assets/img/jobs/52fa290010dffd501fa4213125f89f4c1645959605.png?1645959605" class="logo" />
 </a>
@@ -490,7 +490,7 @@ dev </h3>
 </td>
 <td class="time" style="background-color:#1a1a1a;">
 <time datetime="2022-02-27T11:00:03+00:00">
-3d </time>
+4d </time>
 </td>
 <td class="source" style="background-color:#1a1a1a;">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109245">
@@ -518,17 +518,17 @@ Contentsquare </h2>
 Apply now
 </a>
 <p>
-👀 400 views
+👀 477 views
 </p>
 <p>
-✅ 25 applied
-(6%)
+✅ 33 applied
+(7%)
 </p>
 <p>
 <strong>
 Share this job:
 </strong>
-<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs109245-remote-android-software-engineer-contentsquare?ref=sh" />
+<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs/109245-remote-android-software-engineer-contentsquare?ref=sh" />
 <br />
 <span style="font-size:12px;margin-top:-7px;display:block;">Get a <a href="https://rok.co">rok.co</a> short link</span>
 </p>
@@ -704,7 +704,7 @@ ui </div>
 </div>
 <div class="button green">
 Hire remote worker
- </div>
+</div>
 </a><a href="/@alistairholmes" class="matching_user_card">
 <img class="avatar lazyload" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=500,height=500,quality=50/https://remoteok.com/assets/img/users/128feb8a2ac44e46af6ccf4dbeb0a49d.jpg?1614213264"><br />
 <div class="bio">
@@ -825,29 +825,29 @@ Remote Ruby Jobs
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
 </a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🐍&nbsp;<a href="/remote-python-jobs">
-Remote Python Jobs
+ Remote Python Jobs
 </a> </div><div class="tag">
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
+</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
@@ -858,8 +858,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -873,23 +873,23 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
+</a> </div><div class="tag">
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -909,17 +909,17 @@ Remote PHP Jobs
 🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
 Remote English Teacher Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -930,8 +930,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐳&nbsp;<a href="/remote-docker-jobs">
-Remote Docker Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -1009,12 +1009,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1065,12 +1065,12 @@ Hire Django Developers Remotely
 Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/photoshop">
-Hire Photoshop Freelancers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/photoshop">
+Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
@@ -1113,16 +1113,16 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1183,6 +1183,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-224ms
+165ms
 </div>
 <div class="END-OF-FILE"></div>

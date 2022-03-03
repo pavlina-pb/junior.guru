@@ -85,7 +85,7 @@ The FullStory mobile team has a passion for building privacy-sensitive, exceptio
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -123,7 +123,7 @@ Post <span class="hide-before-600px">a </span>job
 <a class="no-border" href="/">
 <span class="pacifico">
 Remote
- </span>
+  </span>
 </a>
 <a class="no-border" href="/">
 <span class="ok">OK<span class="trademark">&reg;</span></span>
@@ -287,10 +287,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($141k/mo)
+🤲&nbsp; Open Startup ($129k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.91%) </a>
+🟢&nbsp; Uptime (99.96%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -359,7 +359,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#047765686177447661696b70616b6f2a676b693b7771666e616770394560726176706d77612f6b6a2f5661696b70612f4b4f22666b607d39506c6d772f6169656d682f606b61772f6a6b702f736b766f2a21344521343d5468616577612f7177612f706c612f6169656d682f656060766177772f65605b77656861772f656a602f706c616a2f2130342f656a602f706c616a2f706c6d772f776d7061213633772f606b69656d6a2f6d6a77706165602136472f706b2f65726b6d602f77746569696176772f62686b6b606d6a632f706c6d772f6169656d682a2f536121363376612f6b6a687d2f6567676174706d6a632f77746b6a776b76776c6d7421364265602f60616568772f62766b692f21363037346f213642696b2f65702f706c6d772f696b69616a702f656a602f706c617661213633772f652f73656d706d6a632f686d77702a2f53612f606b2f4a4b502f606b2f4754452136426562626d686d657061213642776568612966657761602f60616568772136472f6b6a687d2f626865702f6261612f687169742f7771692f6c6576602f6765776c2f77746b6a776b76776c6d74772136426560772136472f7468616577612f776572612f666b706c2f6b622f71772f706d69612f656a602f606b6a213633702f6169656d682f71772f65666b71702f706c65702a2f506c656a6f77213635">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#f58694999086b58790989a81909a9edb969a98ca8680979f909681c8b491839087819c8690de9a9bdea790989a8190debabed3979a918cc8a19d9c86de9098949c99de919a9086de9b9a81de829a879edbd0c5b4d0c5cca59990948690de808690de819d90de9098949c99de94919187908686de9491aa8694999086de949b91de819d909bded0c1c5de949b91de819d909bde819d9c86de869c8190d0c7c286de919a98949c9bde9c9b8681909491d0c7b6de819ade94839a9c91de8685949898908786de93999a9a919c9b92de819d9c86de9098949c99dbdea290d0c7c28790de9a9b998cde9496969085819c9b92de86859a9b869a87869d9c85d0c7b39491de9190949986de93879a98ded0c7c1c6c59ed0c7b3989ade9481de819d9c86de989a98909b81de949b91de819d908790d0c7c286de94de82949c819c9b92de999c8681dbdea290de919adebbbaa1de919adeb6a5b4d0c7b39493939c999c948190d0c7b386949990d89794869091de9190949986d0c7b6de9a9b998cde93999481de939090de99809885de868098de9d948791de9694869dde86859a9b869a87869d9c8586d0c7b3949186d0c7b6de859990948690de86948390de979a819dde9a93de8086de819c9890de949b91de919a9bd0c7c281de9098949c99de8086de94979a8081de819d9481dbdea19d949b9e86d0c7c4">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -448,7 +448,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-15 new jobs posted today
+22 new jobs posted today
 </span>
 </div>
 </td>
@@ -456,7 +456,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109135-remote-senior-software-engineer-react-native-fullstory" data-epoch="1645613105" data-search="FullStory Senior Software Engineer React Native javascript react senior engineer react native dev digital nomad" data-company="FullStory" data-stack="" id="job-109135" data-id="109135" data-href="/remote-jobs/109135-remote-senior-software-engineer-react-native-fullstory" class="job job-109135     active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-23T10:45:05+00:00","description":"This role can be performed remotely anywhere within the United States and Canada.\n\n&nbsp;\n\nThe FullStory mobile team has a passion for building privacy-sensitive, exceptionally crafted, and intuitive native libraries to help app developers make their iOS and Android apps \u201csuck less\u201d and their users happier. With a remote-first team working throughout North America, we are looking for an empathetic and effective communicator with React Native expertise to help build a best-in-class digital experience intelligence platform.&nbsp;&nbsp;&nbsp;\n\nAs a Senior Engineer on the FullStory Mobile team, you will design solutions to help React Native developers understand all facets of how customers use their apps.\n\nDay to day, you'll:\n\n\nReverse engineer, disassemble, decompile, and debug what other developers have built to recreate representations of end-user sessions of our customers\u2019 apps, with privacy as a chief concern.\n\nMaintain our open source React Native plugin and Babel plugin, ensuring proper coding standards, test coverage, documentation, and general organization.&nbsp;\n\nWork with iOS and Android developers to add support in React Native for new features currently being rolled out within the core native SDKs.\n\nUnderstand our React Native customers\u2019 needs and add features to support their development workflows, such as Expo and Metro Server support.&nbsp;\n\nWork alongside specialists in our Go APIs and canvas-based TypeScript frontend to ensure impeccably low performance overhead on the device and high fidelity replay of sessions on our site.\n\nAnticipate and engineer support for new React Native platform-specific features. Develop support for other web-technology-based multi-platform frameworks like Cordova\/Ionic.&nbsp;&nbsp;\n\n\n\n\nWe're looking for someone who:\n\n\n* Has 5+ years of Software Engineering experience\n\nHas 1+ years of experience with React Native\n\nHas experience building custom React Native bridging and packages\n\nHas experience with two or more of the following: Java, Objective-C, Swift, and TypeScript\n\n\n\n\nIt would be amazing if:\n\n\n* You have deep systems programming experience, working in C\\C++ and Rust\n\nYou have experience working on customer facing apps on iOS, Android, and React Native\n\nYou have maintained popular open source React Native libraries\n\n\n\nAbout FullStory\n\nFounded in 2014 on the belief that everyone benefits from a more perfect digital experience, FullStory\u2019s digital experience intelligence platform empowers businesses to continuously improve the digital customer experience across sites and apps. FullStory is backed by world-class investors and has 400+ employees around the world, with offices in Atlanta and London. We are proud to have been named to Forbes\u2019 List of America\u2019s Top Startup Employers, Wealthfront\u2019s Career Launching Companies List, and LinkedIn\u2019s Top US Startups List. Our company values, in four words: empathy, clarity, bionics, and trust. \nBenefits\n\n\n* Have a life. FullStorians enjoy autonomy and flexibility. From a remote-first work environment to untracked paid time off, we don\u2019t believe in micromanaging your time. After all, smart, driven people are their own best bosses.\n\n* Stay healthy. For our US-based FullStorians, we cover 99% of your premiums and 75% of your dependents\u2019\u2014same goes for dental and vision coverage.&nbsp;\n\n* Save for retirement. For our US-based FullStorians, we offer a 401k retirement plan through Vanguard and match employee contributions 2:1 up to $7200 USD per calendar year.\n\n* Paid parental leave. We want FullStorians to have the flexibility to balance the needs of their growing families without the added stress of figuring out work and finances.\n\n* Keep learning. FullStory provides professional development opportunities through training programs, career coaching sessions, and an annual learning subsidy.\n\n\n\n\nFullStory is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. We want candidates of all human varieties, backgrounds, and lifestyles. There\u2019s no problem that can\u2019t be made better by bringing together people with a broader set of perspectives. If you love technology but aren\u2019t sure if you\u2019d fit in, please apply anyway.&nbsp;\n\n\nFullStorians are committed to building something better\u2014from how we approach our product, to how we care for our customers and for each other. And we know better is only possible when we can bring our full selves to work. If you may require reasonable accommodations to participate in our job application or interview process, please contact accommodations@fullstory.com. Requests for accommodations will be treated confidentially.\n&nbsp; #LI-Remote #LI-RM1\n Apply now and work remotely at FullStory","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer React Native","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/18cdf7342e249ec7e43f672f94020fcc1645613105.jpg","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-26T10:45:05+00:00","hiringOrganization":{"@type":"Organization","name":"FullStory","url":"https:\/\/remoteok.com\/fullstory","sameAs":"https:\/\/remoteok.com\/fullstory","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/18cdf7342e249ec7e43f672f94020fcc1645613105.jpg"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-23T10:45:05+00:00","description":"This role can be performed remotely anywhere within the United States and Canada.\n\n&nbsp;\n\nThe FullStory mobile team has a passion for building privacy-sensitive, exceptionally crafted, and intuitive native libraries to help app developers make their iOS and Android apps \u201csuck less\u201d and their users happier. With a remote-first team working throughout North America, we are looking for an empathetic and effective communicator with React Native expertise to help build a best-in-class digital experience intelligence platform.&nbsp;&nbsp;&nbsp;\n\nAs a Senior Engineer on the FullStory Mobile team, you will design solutions to help React Native developers understand all facets of how customers use their apps.\n\nDay to day, you'll:\n\n\nReverse engineer, disassemble, decompile, and debug what other developers have built to recreate representations of end-user sessions of our customers\u2019 apps, with privacy as a chief concern.\n\nMaintain our open source React Native plugin and Babel plugin, ensuring proper coding standards, test coverage, documentation, and general organization.&nbsp;\n\nWork with iOS and Android developers to add support in React Native for new features currently being rolled out within the core native SDKs.\n\nUnderstand our React Native customers\u2019 needs and add features to support their development workflows, such as Expo and Metro Server support.&nbsp;\n\nWork alongside specialists in our Go APIs and canvas-based TypeScript frontend to ensure impeccably low performance overhead on the device and high fidelity replay of sessions on our site.\n\nAnticipate and engineer support for new React Native platform-specific features. Develop support for other web-technology-based multi-platform frameworks like Cordova\/Ionic.&nbsp;&nbsp;\n\n\n\n\nWe're looking for someone who:\n\n\n* Has 5+ years of Software Engineering experience\n\nHas 1+ years of experience with React Native\n\nHas experience building custom React Native bridging and packages\n\nHas experience with two or more of the following: Java, Objective-C, Swift, and TypeScript\n\n\n\n\nIt would be amazing if:\n\n\n* You have deep systems programming experience, working in C\\C++ and Rust\n\nYou have experience working on customer facing apps on iOS, Android, and React Native\n\nYou have maintained popular open source React Native libraries\n\n\n\nAbout FullStory\n\nFounded in 2014 on the belief that everyone benefits from a more perfect digital experience, FullStory\u2019s digital experience intelligence platform empowers businesses to continuously improve the digital customer experience across sites and apps. FullStory is backed by world-class investors and has 400+ employees around the world, with offices in Atlanta and London. We are proud to have been named to Forbes\u2019 List of America\u2019s Top Startup Employers, Wealthfront\u2019s Career Launching Companies List, and LinkedIn\u2019s Top US Startups List. Our company values, in four words: empathy, clarity, bionics, and trust. \nBenefits\n\n\n* Have a life. FullStorians enjoy autonomy and flexibility. From a remote-first work environment to untracked paid time off, we don\u2019t believe in micromanaging your time. After all, smart, driven people are their own best bosses.\n\n* Stay healthy. For our US-based FullStorians, we cover 99% of your premiums and 75% of your dependents\u2019\u2014same goes for dental and vision coverage.&nbsp;\n\n* Save for retirement. For our US-based FullStorians, we offer a 401k retirement plan through Vanguard and match employee contributions 2:1 up to $7200 USD per calendar year.\n\n* Paid parental leave. We want FullStorians to have the flexibility to balance the needs of their growing families without the added stress of figuring out work and finances.\n\n* Keep learning. FullStory provides professional development opportunities through training programs, career coaching sessions, and an annual learning subsidy.\n\n\n\n\nFullStory is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. We want candidates of all human varieties, backgrounds, and lifestyles. There\u2019s no problem that can\u2019t be made better by bringing together people with a broader set of perspectives. If you love technology but aren\u2019t sure if you\u2019d fit in, please apply anyway.&nbsp;\n\n\nFullStorians are committed to building something better\u2014from how we approach our product, to how we care for our customers and for each other. And we know better is only possible when we can bring our full selves to work. If you may require reasonable accommodations to participate in our job application or interview process, please contact accommodations@fullstory.com. Requests for accommodations will be treated confidentially.\n&nbsp; #LI-Remote #LI-RM1\n Apply now and work remotely at FullStory","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer React Native","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/18cdf7342e249ec7e43f672f94020fcc1645613105.jpg","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-26T10:45:05+00:00","hiringOrganization":{"@type":"Organization","name":"FullStory","url":"https:\/\/remoteok.com\/fullstory","sameAs":"https:\/\/remoteok.com\/fullstory","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/18cdf7342e249ec7e43f672f94020fcc1645613105.jpg"}}</script>
 <a alt="FullStory" class="preventLink" href="/remote-jobs/109135-remote-senior-software-engineer-react-native-fullstory">
 <img alt="FullStory" data-z="1" data-extension="jpg" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteok.com/assets/img/jobs/18cdf7342e249ec7e43f672f94020fcc1645613105.jpg?1645613105" class="logo" />
 </a>
@@ -496,7 +496,7 @@ engineer </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-23T10:45:05+00:00">
-7d </time>
+8d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109135">
@@ -524,24 +524,24 @@ FullStory </h2>
 Apply now
 </a>
 <p>
-👀 635 views
+👀 697 views
 </p>
 <p>
-✅ 30 applied
+✅ 33 applied
 (5%)
 </p>
 <p>
 <strong>
 Share this job:
 </strong>
-<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs109135-remote-senior-software-engineer-react-native-fullstory?ref=sh" />
+<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs/109135-remote-senior-software-engineer-react-native-fullstory?ref=sh" />
 <br />
 <span style="font-size:12px;margin-top:-7px;display:block;">Get a <a href="https://rok.co">rok.co</a> short link</span>
 </p>
 </div>
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">FullStory is hiring a </span><br />Remote Senior Software Engineer React Native </h1>
-<div class="markdown">This role can be performed remotely anywhere within the United States and Canada.\n\n&nbsp;\n\nThe FullStory mobile team has a passion for building privacy-sensitive, exceptionally crafted, and intuitive native libraries to help app developers make their iOS and Android apps “suck less” and their users happier. With a remote-first team working throughout North America, we are looking for an empathetic and effective communicator with React Native expertise to help build a best-in-class digital experience intelligence platform.&nbsp;&nbsp;&nbsp;\n\nAs a Senior Engineer on the FullStory Mobile team, you will design solutions to help React Native developers understand all facets of how customers use their apps.\n\nDay to day, you'll:\n\n\nReverse engineer, disassemble, decompile, and debug what other developers have built to recreate representations of end-user sessions of our customers’ apps, with privacy as a chief concern.\n\nMaintain our open source React Native plugin and Babel plugin, ensuring proper coding standards, test coverage, documentation, and general organization.&nbsp;\n\nWork with iOS and Android developers to add support in React Native for new features currently being rolled out within the core native SDKs.\n\nUnderstand our React Native customers’ needs and add features to support their development workflows, such as Expo and Metro Server support.&nbsp;\n\nWork alongside specialists in our Go APIs and canvas-based TypeScript frontend to ensure impeccably low performance overhead on the device and high fidelity replay of sessions on our site.\n\nAnticipate and engineer support for new React Native platform-specific features. Develop support for other web-technology-based multi-platform frameworks like Cordova/Ionic.&nbsp;&nbsp;\n\n\n\n\nWe're looking for someone who:\n\n\n* Has 5+ years of Software Engineering experience\n\nHas 1+ years of experience with React Native\n\nHas experience building custom React Native bridging and packages\n\nHas experience with two or more of the following: Java, Objective-C, Swift, and TypeScript\n\n\n\n\nIt would be amazing if:\n\n\n* You have deep systems programming experience, working in C\C++ and Rust\n\nYou have experience working on customer facing apps on iOS, Android, and React Native\n\nYou have maintained popular open source React Native libraries\n\n\n\nAbout FullStory\n\nFounded in 2014 on the belief that everyone benefits from a more perfect digital experience, FullStory’s digital experience intelligence platform empowers businesses to continuously improve the digital customer experience across sites and apps. FullStory is backed by world-class investors and has 400+ employees around the world, with offices in Atlanta and London. We are proud to have been named to Forbes’ List of America’s Top Startup Employers, Wealthfront’s Career Launching Companies List, and LinkedIn’s Top US Startups List. Our company values, in four words: empathy, clarity, bionics, and trust. \nBenefits\n\n\n* Have a life. FullStorians enjoy autonomy and flexibility. From a remote-first work environment to untracked paid time off, we don’t believe in micromanaging your time. After all, smart, driven people are their own best bosses.\n\n* Stay healthy. For our US-based FullStorians, we cover 99% of your premiums and 75% of your dependents’—same goes for dental and vision coverage.&nbsp;\n\n* Save for retirement. For our US-based FullStorians, we offer a 401k retirement plan through Vanguard and match employee contributions 2:1 up to $7200 USD per calendar year.\n\n* Paid parental leave. We want FullStorians to have the flexibility to balance the needs of their growing families without the added stress of figuring out work and finances.\n\n* Keep learning. FullStory provides professional development opportunities through training programs, career coaching sessions, and an annual learning subsidy.\n\n\n\n\nFullStory is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. We want candidates of all human varieties, backgrounds, and lifestyles. There’s no problem that can’t be made better by bringing together people with a broader set of perspectives. If you love technology but aren’t sure if you’d fit in, please apply anyway.&nbsp;\n\n\nFullStorians are committed to building something better—from how we approach our product, to how we care for our customers and for each other. And we know better is only possible when we can bring our full selves to work. If you may require reasonable accommodations to participate in our job application or interview process, please contact <span class="__cf_email__" data-cfemail="abcac8c8c4c6c6c4cfcadfc2c4c5d8ebcddec7c7d8dfc4d9d285c8c4c685">[email&#160;protected]</span> Requests for accommodations will be treated confidentially.\n&nbsp; #LI-Remote #LI-RM1 \n\n#Salary and compensation\n
+<div class="markdown">This role can be performed remotely anywhere within the United States and Canada.\n\n&nbsp;\n\nThe FullStory mobile team has a passion for building privacy-sensitive, exceptionally crafted, and intuitive native libraries to help app developers make their iOS and Android apps “suck less” and their users happier. With a remote-first team working throughout North America, we are looking for an empathetic and effective communicator with React Native expertise to help build a best-in-class digital experience intelligence platform.&nbsp;&nbsp;&nbsp;\n\nAs a Senior Engineer on the FullStory Mobile team, you will design solutions to help React Native developers understand all facets of how customers use their apps.\n\nDay to day, you'll:\n\n\nReverse engineer, disassemble, decompile, and debug what other developers have built to recreate representations of end-user sessions of our customers’ apps, with privacy as a chief concern.\n\nMaintain our open source React Native plugin and Babel plugin, ensuring proper coding standards, test coverage, documentation, and general organization.&nbsp;\n\nWork with iOS and Android developers to add support in React Native for new features currently being rolled out within the core native SDKs.\n\nUnderstand our React Native customers’ needs and add features to support their development workflows, such as Expo and Metro Server support.&nbsp;\n\nWork alongside specialists in our Go APIs and canvas-based TypeScript frontend to ensure impeccably low performance overhead on the device and high fidelity replay of sessions on our site.\n\nAnticipate and engineer support for new React Native platform-specific features. Develop support for other web-technology-based multi-platform frameworks like Cordova/Ionic.&nbsp;&nbsp;\n\n\n\n\nWe're looking for someone who:\n\n\n* Has 5+ years of Software Engineering experience\n\nHas 1+ years of experience with React Native\n\nHas experience building custom React Native bridging and packages\n\nHas experience with two or more of the following: Java, Objective-C, Swift, and TypeScript\n\n\n\n\nIt would be amazing if:\n\n\n* You have deep systems programming experience, working in C\C++ and Rust\n\nYou have experience working on customer facing apps on iOS, Android, and React Native\n\nYou have maintained popular open source React Native libraries\n\n\n\nAbout FullStory\n\nFounded in 2014 on the belief that everyone benefits from a more perfect digital experience, FullStory’s digital experience intelligence platform empowers businesses to continuously improve the digital customer experience across sites and apps. FullStory is backed by world-class investors and has 400+ employees around the world, with offices in Atlanta and London. We are proud to have been named to Forbes’ List of America’s Top Startup Employers, Wealthfront’s Career Launching Companies List, and LinkedIn’s Top US Startups List. Our company values, in four words: empathy, clarity, bionics, and trust. \nBenefits\n\n\n* Have a life. FullStorians enjoy autonomy and flexibility. From a remote-first work environment to untracked paid time off, we don’t believe in micromanaging your time. After all, smart, driven people are their own best bosses.\n\n* Stay healthy. For our US-based FullStorians, we cover 99% of your premiums and 75% of your dependents’—same goes for dental and vision coverage.&nbsp;\n\n* Save for retirement. For our US-based FullStorians, we offer a 401k retirement plan through Vanguard and match employee contributions 2:1 up to $7200 USD per calendar year.\n\n* Paid parental leave. We want FullStorians to have the flexibility to balance the needs of their growing families without the added stress of figuring out work and finances.\n\n* Keep learning. FullStory provides professional development opportunities through training programs, career coaching sessions, and an annual learning subsidy.\n\n\n\n\nFullStory is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. We want candidates of all human varieties, backgrounds, and lifestyles. There’s no problem that can’t be made better by bringing together people with a broader set of perspectives. If you love technology but aren’t sure if you’d fit in, please apply anyway.&nbsp;\n\n\nFullStorians are committed to building something better—from how we approach our product, to how we care for our customers and for each other. And we know better is only possible when we can bring our full selves to work. If you may require reasonable accommodations to participate in our job application or interview process, please contact <span class="__cf_email__" data-cfemail="721311111d1f1f1d1613061b1d1c013214071e1e01061d000b5c111d1f5c">[email&#160;protected]</span> Requests for accommodations will be treated confidentially.\n&nbsp; #LI-Remote #LI-RM1 \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to JavaScript, React, Senior, Engineer, React Native, Developer and Digital Nomad jobs that are similar:\n\n
 $60,000 &mdash; $120,000/year\n
 \n\n#Location\nSeattle, Washington, United States<br />
@@ -667,14 +667,11 @@ Remote Ruby Jobs
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
 </a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
@@ -682,14 +679,17 @@ Remote Python Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
+</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
@@ -700,8 +700,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -715,27 +715,27 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
 </a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
+</a> </div><div class="tag">
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
+</a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
- </a> </div><div class="tag">
+</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
 </a> </div><div class="tag">
@@ -751,17 +751,17 @@ Remote PHP Jobs
 🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
 Remote English Teacher Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -772,8 +772,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐳&nbsp;<a href="/remote-docker-jobs">
-Remote Docker Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -851,12 +851,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -907,12 +907,12 @@ Hire Django Developers Remotely
 Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/photoshop">
-Hire Photoshop Freelancers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/photoshop">
+Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
@@ -955,16 +955,16 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1025,6 +1025,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-169ms
+185ms
 </div>
 <div class="END-OF-FILE"></div>

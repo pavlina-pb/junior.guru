@@ -82,7 +82,7 @@ You will support the engineering team and implement automation to fortify and ex
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (698)","dev":"\ud83e\udd13 Developer (606)","exec":"\ud83d\udcbc Executive (522)","golang":"\ud83d\udc00 Golang (343)","backend":"\ud83c\udf51 Backend (269)","full stack":"\ud83e\udd5e Full Stack (163)","front end":"\ud83c\udfa8 Front End (137)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (94)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (66)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (46)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","ruby":"\ud83d\udc8e Ruby (36)","analyst":"\ud83e\udd14 Analyst (31)","web dev":"\ud83e\udd13 Web Developer (30)","ops":"\u267e\ufe0f Ops (29)","node":"\ud83d\udd17 Node (24)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","mobile":"\ud83d\udcf1 Mobile (23)","ios":"\ud83c\udf4f iOS (21)","architecture":"\ud83d\udce6 Architecture (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","testing":"\ud83e\uddea Testing (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","android":"\ud83e\udd16 Android (14)","seo":"\ud83d\udd0e SEO (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","saas":"\ud83d\udce6 SaaS (14)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (11)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","game dev":"\ud83d\udd79 Game Developer (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","docker":"\ud83d\udc33 Docker (8)","c plus plus":"\u2795 C Plus Plus (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","medical":"\ud83d\ude91 Medical (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","copywriting":"\u270d\ufe0f Copywriting (7)","linux":"\ud83d\udc27 Linux (7)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","ads":"\ud83d\udea5 Ads (6)","graphql":"\u269b\ufe0f GraphQL (5)","internship":" Internship (5)","video":"\ud83d\udcfc Video (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -284,10 +284,10 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($141k/mo)
+🤲&nbsp; Open Startup ($129k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
-🟢&nbsp; Uptime (99.91%) </a>
+🟢&nbsp; Uptime (99.96%) </a>
 <a href="https://simpleanalytics.com/remoteok.com" class="nav-item">
 📈&nbsp; Pageviews (1.12M/mo)
 </a>
@@ -356,7 +356,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#c3b0a2afa6b083b1a6aeacb7a6aca8eda0acaefcb0b6a1a9a6a0b7fe82a7b5a6b1b7aab0a6e8acade891a6aeacb7a6e88c88e5a1aca7bafe97abaab0e8a6aea2aaafe8a7aca6b0e8adacb7e8b4acb1a8ede6f382e6f3fa93afa6a2b0a6e8b6b0a6e8b7aba6e8a6aea2aaafe8a2a7a7b1a6b0b0e8a2a79cb0a2afa6b0e8a2ada7e8b7aba6ade8e6f7f3e8a2ada7e8b7aba6ade8b7abaab0e8b0aab7a6e6f1f4b0e8a7acaea2aaade8aaadb0b7a6a2a7e6f180e8b7ace8a2b5acaaa7e8b0b3a2aeaea6b1b0e8a5afacaca7aaada4e8b7abaab0e8a6aea2aaafede894a6e6f1f4b1a6e8acadafbae8a2a0a0a6b3b7aaada4e8b0b3acadb0acb1b0abaab3e6f185a2a7e8a7a6a2afb0e8a5b1acaee8e6f1f7f0f3a8e6f185aeace8a2b7e8b7abaab0e8aeacaea6adb7e8a2ada7e8b7aba6b1a6e6f1f4b0e8a2e8b4a2aab7aaada4e8afaab0b7ede894a6e8a7ace88d8c97e8a7ace8809382e6f185a2a5a5aaafaaa2b7a6e6f185b0a2afa6eea1a2b0a6a7e8a7a6a2afb0e6f180e8acadafbae8a5afa2b7e8a5a6a6e8afb6aeb3e8b0b6aee8aba2b1a7e8a0a2b0abe8b0b3acadb0acb1b0abaab3b0e6f185a2a7b0e6f180e8b3afa6a2b0a6e8b0a2b5a6e8a1acb7abe8aca5e8b6b0e8b7aaaea6e8a2ada7e8a7acade6f1f4b7e8a6aea2aaafe8b6b0e8a2a1acb6b7e8b7aba2b7ede897aba2ada8b0e6f1f2">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#cbb8aaa7aeb88bb9aea6a4bfaea4a0e5a8a4a6f4b8bea9a1aea8bff68aafbdaeb9bfa2b8aee0a4a5e099aea6a4bfaee08480eda9a4afb2f69fa3a2b8e0aea6aaa2a7e0afa4aeb8e0a5a4bfe0bca4b9a0e5eefb8aeefbf29ba7aeaab8aee0beb8aee0bfa3aee0aea6aaa2a7e0aaafafb9aeb8b8e0aaaf94b8aaa7aeb8e0aaa5afe0bfa3aea5e0eefffbe0aaa5afe0bfa3aea5e0bfa3a2b8e0b8a2bfaeeef9fcb8e0afa4a6aaa2a5e0a2a5b8bfaeaaafeef988e0bfa4e0aabda4a2afe0b8bbaaa6a6aeb9b8e0ada7a4a4afa2a5ace0bfa3a2b8e0aea6aaa2a7e5e09caeeef9fcb9aee0a4a5a7b2e0aaa8a8aebbbfa2a5ace0b8bba4a5b8a4b9b8a3a2bbeef98daaafe0afaeaaa7b8e0adb9a4a6e0eef9fff8fba0eef98da6a4e0aabfe0bfa3a2b8e0a6a4a6aea5bfe0aaa5afe0bfa3aeb9aeeef9fcb8e0aae0bcaaa2bfa2a5ace0a7a2b8bfe5e09caee0afa4e085849fe0afa4e0889b8aeef98daaadada2a7a2aabfaeeef98db8aaa7aee6a9aab8aeafe0afaeaaa7b8eef988e0a4a5a7b2e0ada7aabfe0adaeaee0a7bea6bbe0b8bea6e0a3aab9afe0a8aab8a3e0b8bba4a5b8a4b9b8a3a2bbb8eef98daaafb8eef988e0bba7aeaab8aee0b8aabdaee0a9a4bfa3e0a4ade0beb8e0bfa2a6aee0aaa5afe0afa4a5eef9fcbfe0aea6aaa2a7e0beb8e0aaa9a4bebfe0bfa3aabfe5e09fa3aaa5a0b8eef9fa">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -445,7 +445,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-15 new jobs posted today
+22 new jobs posted today
 </span>
 </div>
 </td>
@@ -453,7 +453,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109300-remote-senior-software-engineer-healthverity" data-epoch="1646056806" data-search="HealthVerity Senior Software Engineer devops senior engineer dev digital nomad" data-company="HealthVerity" data-stack="" id="job-109300" data-id="109300" data-href="/remote-jobs/109300-remote-senior-software-engineer-healthverity" class="job job-109300     active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-28T14:00:06+00:00","description":"How you will help\nYou will support the engineering team and implement automation to fortify and expand our current technical processes. You will develop a strong technical understanding of the components of our system and work with internal resources to solve any challenges that may arise. \n\nWhat you will do\n\u2022 Design and develop software across our full product stack (React on the frontend, powered by a robust backend microservice architecture)\n\u2022 Contribute to our product direction by translating customer requirements into functional, scalable code, consulting with product and design resources to guide our engineering choices and workflow\n\u2022 Devise and implement improvements to our automated testing and deployment processes\n\u2022 Manage the operation and automation of production environments\n\u2022 Triage technical support requests as needed \n\nDesired skills and experience\n\u2022 5+ years of experience making full stack contributions to production web applications\u00a0\u00a0\n\u2022 Strong development-tools fundamentals (git\/GitHub, npm\/yarn dependency management, etc.)\n\u2022 Proficient, working knowledge of AWS (bonus: Lambda\/Serverless)\n\u2022 DevOps experience with complex, microservice-driven production systems\n\u2022 Comfortable with ES6 JavaScript \/ TypeScript\n\nAbout you\n\u2022 Motivated to automate processes efficiently and effectively\n\u2022 Understand best technical practices\n\u2022 Take initiative and always look for ways to grow your skill set\n\n\n\nAbout HealthVerity\nPharmaceutical manufacturers, payers and government organizations have partnered with HealthVerity to solve some of their most complicated use cases through transformative technologies and real-world data infrastructure. The HealthVerity IPGE platform, based on the foundational elements of Identity, Privacy, Governance and Exchange, enables the discovery of RWD across the broadest healthcare data ecosystem, the building of more complete and accurate patient journeys and the ability to power best-in-class analytics and applications with flexibility and ease. Together with our partners, HealthVerity has built the modern way to data for the health insights economy. To learn more about the HealthVerity IPGE platform, visit www.healthverity.com.\n\nOur company challenges\n\u2022 Empowering clients with highly rewarding data discovery and licensing tools\n\u2022 Ingesting and managing billions of healthcare records from a wide variety of partners\n\u2022 Standardizing on common data models across data types\n\u2022 Orchestrating an industry-leading HIPAA privacy layer\n\u2022 Innovating our proprietary de-identification and data science algorithms\n\u2022 Building a culture that supports rapid iteration and new possibilities\n\nWe have big plans\nThe infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We\u2019ve created a platform that will scale to support an ever-growing array of data providers and innovative products and services. You must be able to think big while still delivering on near-term requirements.\n\nWe pride ourselves on ensuring that each team member at HealthVerity feels connected, validated and heard. From\u00a0Philadelphia to Manhattan Beach, our success is driven by recognizing that a team is made up of individuals. We offer a robust set of benefits and perks to everyone. View details on our careers page.\n\nHealthVerity is an equal opportunity employer devoted to inclusion in the workplace. We believe incorporating different ideas, perspectives and backgrounds make us stronger and encourages an environment where ageism, racism, sexism, ableism, homophobia, transphobia or any other form of discrimination are not tolerated. At HealthVerity, we\u2019re working towards an innovative and connected future for healthcare data and believe the future is better together. We can only do that if everyone has a seat at the table. Read our Equity Inclusion and Diversity Statement.\n\nIf you require a reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to careers@healthverity.com\n\nHealthVerity offers in-office and remote options, so you can work from anywhere within the US!\u00a0#LI-Remote\n Apply now and work remotely at HealthVerity","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/d72aac042618bc15f69ac4bd3b3859a01646056807.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-31T14:00:06+00:00","hiringOrganization":{"@type":"Organization","name":"HealthVerity","url":"https:\/\/remoteok.com\/healthverity","sameAs":"https:\/\/remoteok.com\/healthverity","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/d72aac042618bc15f69ac4bd3b3859a01646056807.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-28T14:00:06+00:00","description":"How you will help\nYou will support the engineering team and implement automation to fortify and expand our current technical processes. You will develop a strong technical understanding of the components of our system and work with internal resources to solve any challenges that may arise. \n\nWhat you will do\n\u2022 Design and develop software across our full product stack (React on the frontend, powered by a robust backend microservice architecture)\n\u2022 Contribute to our product direction by translating customer requirements into functional, scalable code, consulting with product and design resources to guide our engineering choices and workflow\n\u2022 Devise and implement improvements to our automated testing and deployment processes\n\u2022 Manage the operation and automation of production environments\n\u2022 Triage technical support requests as needed \n\nDesired skills and experience\n\u2022 5+ years of experience making full stack contributions to production web applications\u00a0\u00a0\n\u2022 Strong development-tools fundamentals (git\/GitHub, npm\/yarn dependency management, etc.)\n\u2022 Proficient, working knowledge of AWS (bonus: Lambda\/Serverless)\n\u2022 DevOps experience with complex, microservice-driven production systems\n\u2022 Comfortable with ES6 JavaScript \/ TypeScript\n\nAbout you\n\u2022 Motivated to automate processes efficiently and effectively\n\u2022 Understand best technical practices\n\u2022 Take initiative and always look for ways to grow your skill set\n\n\n\nAbout HealthVerity\nPharmaceutical manufacturers, payers and government organizations have partnered with HealthVerity to solve some of their most complicated use cases through transformative technologies and real-world data infrastructure. The HealthVerity IPGE platform, based on the foundational elements of Identity, Privacy, Governance and Exchange, enables the discovery of RWD across the broadest healthcare data ecosystem, the building of more complete and accurate patient journeys and the ability to power best-in-class analytics and applications with flexibility and ease. Together with our partners, HealthVerity has built the modern way to data for the health insights economy. To learn more about the HealthVerity IPGE platform, visit www.healthverity.com.\n\nOur company challenges\n\u2022 Empowering clients with highly rewarding data discovery and licensing tools\n\u2022 Ingesting and managing billions of healthcare records from a wide variety of partners\n\u2022 Standardizing on common data models across data types\n\u2022 Orchestrating an industry-leading HIPAA privacy layer\n\u2022 Innovating our proprietary de-identification and data science algorithms\n\u2022 Building a culture that supports rapid iteration and new possibilities\n\nWe have big plans\nThe infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We\u2019ve created a platform that will scale to support an ever-growing array of data providers and innovative products and services. You must be able to think big while still delivering on near-term requirements.\n\nWe pride ourselves on ensuring that each team member at HealthVerity feels connected, validated and heard. From\u00a0Philadelphia to Manhattan Beach, our success is driven by recognizing that a team is made up of individuals. We offer a robust set of benefits and perks to everyone. View details on our careers page.\n\nHealthVerity is an equal opportunity employer devoted to inclusion in the workplace. We believe incorporating different ideas, perspectives and backgrounds make us stronger and encourages an environment where ageism, racism, sexism, ableism, homophobia, transphobia or any other form of discrimination are not tolerated. At HealthVerity, we\u2019re working towards an innovative and connected future for healthcare data and believe the future is better together. We can only do that if everyone has a seat at the table. Read our Equity Inclusion and Diversity Statement.\n\nIf you require a reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to careers@healthverity.com\n\nHealthVerity offers in-office and remote options, so you can work from anywhere within the US!\u00a0#LI-Remote\n Apply now and work remotely at HealthVerity","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":62500,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/d72aac042618bc15f69ac4bd3b3859a01646056807.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-31T14:00:06+00:00","hiringOrganization":{"@type":"Organization","name":"HealthVerity","url":"https:\/\/remoteok.com\/healthverity","sameAs":"https:\/\/remoteok.com\/healthverity","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/d72aac042618bc15f69ac4bd3b3859a01646056807.png"}}</script>
 <a alt="HealthVerity" class="preventLink" href="/remote-jobs/109300-remote-senior-software-engineer-healthverity">
 <img alt="HealthVerity" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteok.com/assets/img/jobs/d72aac042618bc15f69ac4bd3b3859a01646056807.png?1646056807" class="logo" />
 </a>
@@ -468,7 +468,7 @@ HealthVerity </h3>
 Senior Software Engineer
 </h2>
 </a>
-&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to DevOps, Senior, Engineer, Developer and Digital Nomad">💰 $60k - $120k*</div> </td>
+&nbsp;<div class="location tooltip" title="No salary data published by company so we estimated salary based on similar jobs related to DevOps, Senior, Engineer, Developer and Digital Nomad">💰 $63k - $120k*</div> </td>
 <td class="tags" style="">
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-devops-jobs" aria-label="Remote DevOps Jobs" alt="Remote DevOps Jobs">
 <div rel="follow" class="tag tag- action-add-tag">
@@ -493,7 +493,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-28T14:00:06+00:00">
-2d </time>
+3d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109300">
@@ -521,26 +521,26 @@ HealthVerity </h2>
 Apply now
 </a>
 <p>
-👀 290 views
+👀 368 views
 </p>
 <p>
-✅ 19 applied
-(7%)
+✅ 21 applied
+(6%)
 </p>
 <p>
 <strong>
 Share this job:
 </strong>
-<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs109300-remote-senior-software-engineer-healthverity?ref=sh" />
+<input readonly class="share-job-copy-paste" type="text" value="https://remoteok.com/remote-jobs/109300-remote-senior-software-engineer-healthverity?ref=sh" />
 <br />
 <span style="font-size:12px;margin-top:-7px;display:block;">Get a <a href="https://rok.co">rok.co</a> short link</span>
 </p>
 </div>
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">HealthVerity is hiring a </span><br />Remote Senior Software Engineer </h1>
-<div class="markdown">How you will help\nYou will support the engineering team and implement automation to fortify and expand our current technical processes. You will develop a strong technical understanding of the components of our system and work with internal resources to solve any challenges that may arise. \n\nWhat you will do\n• Design and develop software across our full product stack (React on the frontend, powered by a robust backend microservice architecture)\n• Contribute to our product direction by translating customer requirements into functional, scalable code, consulting with product and design resources to guide our engineering choices and workflow\n• Devise and implement improvements to our automated testing and deployment processes\n• Manage the operation and automation of production environments\n• Triage technical support requests as needed \n\nDesired skills and experience\n• 5+ years of experience making full stack contributions to production web applications  \n• Strong development-tools fundamentals (git/GitHub, npm/yarn dependency management, etc.)\n• Proficient, working knowledge of AWS (bonus: Lambda/Serverless)\n• DevOps experience with complex, microservice-driven production systems\n• Comfortable with ES6 JavaScript / TypeScript\n\nAbout you\n• Motivated to automate processes efficiently and effectively\n• Understand best technical practices\n• Take initiative and always look for ways to grow your skill set\n\n\n\nAbout HealthVerity\nPharmaceutical manufacturers, payers and government organizations have partnered with HealthVerity to solve some of their most complicated use cases through transformative technologies and real-world data infrastructure. The HealthVerity IPGE platform, based on the foundational elements of Identity, Privacy, Governance and Exchange, enables the discovery of RWD across the broadest healthcare data ecosystem, the building of more complete and accurate patient journeys and the ability to power best-in-class analytics and applications with flexibility and ease. Together with our partners, HealthVerity has built the modern way to data for the health insights economy. To learn more about the HealthVerity IPGE platform, visit www.healthverity.com.\n\nOur company challenges\n• Empowering clients with highly rewarding data discovery and licensing tools\n• Ingesting and managing billions of healthcare records from a wide variety of partners\n• Standardizing on common data models across data types\n• Orchestrating an industry-leading HIPAA privacy layer\n• Innovating our proprietary de-identification and data science algorithms\n• Building a culture that supports rapid iteration and new possibilities\n\nWe have big plans\nThe infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We’ve created a platform that will scale to support an ever-growing array of data providers and innovative products and services. You must be able to think big while still delivering on near-term requirements.\n\nWe pride ourselves on ensuring that each team member at HealthVerity feels connected, validated and heard. From Philadelphia to Manhattan Beach, our success is driven by recognizing that a team is made up of individuals. We offer a robust set of benefits and perks to everyone. View details on our careers page.\n\nHealthVerity is an equal opportunity employer devoted to inclusion in the workplace. We believe incorporating different ideas, perspectives and backgrounds make us stronger and encourages an environment where ageism, racism, sexism, ableism, homophobia, transphobia or any other form of discrimination are not tolerated. At HealthVerity, we’re working towards an innovative and connected future for healthcare data and believe the future is better together. We can only do that if everyone has a seat at the table. Read our Equity Inclusion and Diversity Statement.\n\nIf you require a reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to <span class="__cf_email__" data-cfemail="dbb8baa9bebea9a89bb3bebab7afb3adbea9b2afa2f5b8b4b6">[email&#160;protected]</span>\n\nHealthVerity offers in-office and remote options, so you can work from anywhere within the US! #LI-Remote \n\n#Salary and compensation\n
+<div class="markdown">How you will help\nYou will support the engineering team and implement automation to fortify and expand our current technical processes. You will develop a strong technical understanding of the components of our system and work with internal resources to solve any challenges that may arise. \n\nWhat you will do\n• Design and develop software across our full product stack (React on the frontend, powered by a robust backend microservice architecture)\n• Contribute to our product direction by translating customer requirements into functional, scalable code, consulting with product and design resources to guide our engineering choices and workflow\n• Devise and implement improvements to our automated testing and deployment processes\n• Manage the operation and automation of production environments\n• Triage technical support requests as needed \n\nDesired skills and experience\n• 5+ years of experience making full stack contributions to production web applications  \n• Strong development-tools fundamentals (git/GitHub, npm/yarn dependency management, etc.)\n• Proficient, working knowledge of AWS (bonus: Lambda/Serverless)\n• DevOps experience with complex, microservice-driven production systems\n• Comfortable with ES6 JavaScript / TypeScript\n\nAbout you\n• Motivated to automate processes efficiently and effectively\n• Understand best technical practices\n• Take initiative and always look for ways to grow your skill set\n\n\n\nAbout HealthVerity\nPharmaceutical manufacturers, payers and government organizations have partnered with HealthVerity to solve some of their most complicated use cases through transformative technologies and real-world data infrastructure. The HealthVerity IPGE platform, based on the foundational elements of Identity, Privacy, Governance and Exchange, enables the discovery of RWD across the broadest healthcare data ecosystem, the building of more complete and accurate patient journeys and the ability to power best-in-class analytics and applications with flexibility and ease. Together with our partners, HealthVerity has built the modern way to data for the health insights economy. To learn more about the HealthVerity IPGE platform, visit www.healthverity.com.\n\nOur company challenges\n• Empowering clients with highly rewarding data discovery and licensing tools\n• Ingesting and managing billions of healthcare records from a wide variety of partners\n• Standardizing on common data models across data types\n• Orchestrating an industry-leading HIPAA privacy layer\n• Innovating our proprietary de-identification and data science algorithms\n• Building a culture that supports rapid iteration and new possibilities\n\nWe have big plans\nThe infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We’ve created a platform that will scale to support an ever-growing array of data providers and innovative products and services. You must be able to think big while still delivering on near-term requirements.\n\nWe pride ourselves on ensuring that each team member at HealthVerity feels connected, validated and heard. From Philadelphia to Manhattan Beach, our success is driven by recognizing that a team is made up of individuals. We offer a robust set of benefits and perks to everyone. View details on our careers page.\n\nHealthVerity is an equal opportunity employer devoted to inclusion in the workplace. We believe incorporating different ideas, perspectives and backgrounds make us stronger and encourages an environment where ageism, racism, sexism, ableism, homophobia, transphobia or any other form of discrimination are not tolerated. At HealthVerity, we’re working towards an innovative and connected future for healthcare data and believe the future is better together. We can only do that if everyone has a seat at the table. Read our Equity Inclusion and Diversity Statement.\n\nIf you require a reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to <span class="__cf_email__" data-cfemail="5c3f3d2e39392e2f1c34393d3028342a392e352825723f3331">[email&#160;protected]</span>\n\nHealthVerity offers in-office and remote options, so you can work from anywhere within the US! #LI-Remote \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to DevOps, Senior, Engineer, Developer and Digital Nomad jobs that are similar:\n\n
-$60,000 &mdash; $120,000/year\n
+$62,500 &mdash; $120,000/year\n
 \n\n#Location\nRemote<br />
 </div>
 <br />
@@ -817,14 +817,11 @@ Remote Ruby Jobs
 🤔&nbsp;<a href="/remote-analyst-jobs">
 Remote Analyst Jobs
 </a> </div><div class="tag">
-🤓&nbsp;<a href="/remote-web-dev-jobs">
-Remote Web Dev Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
+🤓&nbsp;<a href="/remote-web-dev-jobs">
+Remote Web Dev Jobs
 </a> </div><div class="tag">
 🐍&nbsp;<a href="/remote-python-jobs">
 Remote Python Jobs
@@ -832,14 +829,17 @@ Remote Python Jobs
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
+</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
-🍏&nbsp;<a href="/remote-ios-jobs">
-Remote IOS Jobs
-</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+🍏&nbsp;<a href="/remote-ios-jobs">
+Remote IOS Jobs
 </a> </div><div class="tag">
 ☕️&nbsp;<a href="/remote-java-jobs">
 Remote Java Jobs
@@ -850,8 +850,8 @@ Remote Machine Learning Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🧪&nbsp;<a href="/remote-testing-jobs">
-Remote Testing Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -865,23 +865,23 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-android-jobs">
-Remote Android Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
-Remote Teaching Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
 </a> </div><div class="tag">
 ☄️&nbsp;<a href="/remote-meteor-jobs">
 Remote Meteor Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
+🧪&nbsp;<a href="/remote-testing-jobs">
+Remote Testing Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-android-jobs">
+Remote Android Jobs
+</a> </div><div class="tag">
+👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
+Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
@@ -901,17 +901,17 @@ Remote PHP Jobs
 🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
 Remote English Teacher Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
 Remote Virtual Assistant Jobs
+</a> </div><div class="tag">
+👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
+Remote Legal Jobs
 </a> </div><div class="tag">
 🕹&nbsp;<a href="/remote-game-dev-jobs">
 Remote Game Developer Jobs
 </a> </div><div class="tag">
-👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
-Remote Legal Jobs
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -922,8 +922,8 @@ Remote C Jobs
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-🐳&nbsp;<a href="/remote-docker-jobs">
-Remote Docker Jobs
+➕&nbsp;<a href="/remote-c-plus-plus-jobs">
+Remote C++ Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -1001,12 +1001,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1057,12 +1057,12 @@ Hire Django Developers Remotely
 Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/photoshop">
-Hire Photoshop Freelancers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/photoshop">
+Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
 💎 &nbsp;<a href="/hire/ruby">
@@ -1105,16 +1105,16 @@ Hire Figma Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1175,6 +1175,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-154ms
+227ms
 </div>
 <div class="END-OF-FILE"></div>
