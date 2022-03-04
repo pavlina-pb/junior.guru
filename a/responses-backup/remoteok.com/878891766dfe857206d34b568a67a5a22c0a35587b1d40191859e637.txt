@@ -78,7 +78,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (928)","senior":"\ud83d\udc75 Senior (692)","dev":"\ud83e\udd13 Developer (594)","exec":"\ud83d\udcbc Executive (527)","golang":"\ud83d\udc00 Golang (345)","backend":"\ud83c\udf51 Backend (265)","full stack":"\ud83e\udd5e Full Stack (159)","front end":"\ud83c\udfa8 Front End (135)","product designer":"\ud83d\udce6 Product Designer (130)","marketing":"\ud83d\udea5 Marketing (123)","design":"\ud83c\udfa8 Design (89)","javascript":"\u2615\ufe0f JavaScript (87)","devops":"\u267e\ufe0f DevOps (71)","customer support":"\ud83c\udfa7 Customer Support (68)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (50)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","react":"\u269b\ufe0f React (44)","ruby":"\ud83d\udc8e Ruby (34)","analyst":"\ud83e\udd14 Analyst (32)","ops":"\u267e\ufe0f Ops (30)","web dev":"\ud83e\udd13 Web Developer (29)","quality assurance":"\ud83d\udd2c Quality Assurance (24)","mobile":"\ud83d\udcf1 Mobile (23)","node":"\ud83d\udd17 Node (22)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","python":"\ud83d\udc0d Python (19)","finance":"\ud83d\udcb0 Finance (18)","crypto":"\ud83c\udfc5 Crypto (16)","web3":"\ud83d\udc8e Web3 (16)","saas":"\ud83d\udce6 SaaS (15)","social media":"\u270d\ufe0f Social Media (15)","blockchain":"\u26d3 Blockchain (15)","consulting":"\ud83d\udcbc Consulting (14)","testing":"\ud83e\uddea Testing (14)","content writing":"\u270d\ufe0f Content Writing (14)","seo":"\ud83d\udd0e SEO (14)","android":"\ud83e\udd16 Android (14)","meteor":"\u2604\ufe0f Meteor (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (13)","hr":"\ud83d\udc4b HR (12)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (10)","php":"\ud83d\udc18 PHP (10)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (9)","ecommerce":"\ud83d\udecd Ecommerce (8)","game dev":"\ud83d\udd79 Game Developer (8)","react native":"\u269b\ufe0f React Native (8)","linux":"\ud83d\udc27 Linux (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","copywriting":"\u270d\ufe0f Copywriting (7)","c plus plus":"\u2795 C Plus Plus (7)","docker":"\ud83d\udc33 Docker (7)","medical":"\ud83d\ude91 Medical (7)","c":"\ud83d\udd37 C (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","flutter":"\ud83e\udda9 Flutter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -280,7 +280,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($129k/mo)
+🤲&nbsp; Open Startup ($134k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.96%) </a>
@@ -352,7 +352,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#8dfeece1e8fecdffe8e0e2f9e8e2e6a3eee2e0b2fef8efe7e8eef9b0cce9fbe8fff9e4fee8a6e2e3a6dfe8e0e2f9e8a6c2c6abefe2e9f4b0d9e5e4fea6e8e0ece4e1a6e9e2e8fea6e3e2f9a6fae2ffe6a3a8bdcca8bdb4dde1e8ecfee8a6f8fee8a6f9e5e8a6e8e0ece4e1a6ece9e9ffe8fefea6ece9d2feece1e8fea6ece3e9a6f9e5e8e3a6a8b9bda6ece3e9a6f9e5e8e3a6f9e5e4fea6fee4f9e8a8bfbafea6e9e2e0ece4e3a6e4e3fef9e8ece9a8bfcea6f9e2a6ecfbe2e4e9a6fefdece0e0e8fffea6ebe1e2e2e9e4e3eaa6f9e5e4fea6e8e0ece4e1a3a6dae8a8bfbaffe8a6e2e3e1f4a6eceeeee8fdf9e4e3eaa6fefde2e3fee2fffee5e4fda8bfcbece9a6e9e8ece1fea6ebffe2e0a6a8bfb9bebde6a8bfcbe0e2a6ecf9a6f9e5e4fea6e0e2e0e8e3f9a6ece3e9a6f9e5e8ffe8a8bfbafea6eca6faece4f9e4e3eaa6e1e4fef9a3a6dae8a6e9e2a6c3c2d9a6e9e2a6ceddcca8bfcbecebebe4e1e4ecf9e8a8bfcbfeece1e8a0efecfee8e9a6e9e8ece1fea8bfcea6e2e3e1f4a6ebe1ecf9a6ebe8e8a6e1f8e0fda6fef8e0a6e5ecffe9a6eeecfee5a6fefde2e3fee2fffee5e4fdfea8bfcbece9fea8bfcea6fde1e8ecfee8a6feecfbe8a6efe2f9e5a6e2eba6f8fea6f9e4e0e8a6ece3e9a6e9e2e3a8bfbaf9a6e8e0ece4e1a6f8fea6ecefe2f8f9a6f9e5ecf9a3a6d9e5ece3e6fea8bfbc">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#0271636e67714270676f6d76676d692c616d6f3d717760686761763f4366746770766b7167296d6c2950676f6d7667294d4924606d667b3f566a6b7129676f636b6e29666d6771296c6d7629756d70692c27324327323b526e676371672977716729766a6729676f636b6e29636666706771712963665d71636e677129636c6629766a676c2927363229636c6629766a676c29766a6b7129716b76672730357129666d6f636b6c296b6c717667636627304129766d2963746d6b66297172636f6f67707129646e6d6d666b6c6529766a6b7129676f636b6e2c2955672730357067296d6c6e7b296361616772766b6c652971726d6c716d70716a6b722730446366296667636e712964706d6f292730363132692730446f6d29637629766a6b71296f6d6f676c7629636c6629766a6770672730357129632975636b766b6c65296e6b71762c29556729666d294c4d5629666d294152432730446364646b6e6b63766727304471636e672f6063716766296667636e71273041296d6c6e7b29646e637629646767296e776f722971776f296a637066296163716a2971726d6c716d70716a6b727127304463667127304129726e67637167297163746729606d766a296d6429777129766b6f6729636c6629666d6c2730357629676f636b6e2977712963606d777629766a63762c29566a636c6971273033">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -441,7 +441,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-22 new jobs posted today
+25 new jobs posted today
 </span>
 </div>
 </td>
@@ -449,7 +449,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109098-remote-full-stack-entwickler-devops-web-developer-stellenonline-de-aktiengesellschaft" data-epoch="1645449971" data-search="stellenonline.de Aktiengesellschaft Full Stack Entwickler DevOps Web Developer devops full stack web dev dev digital nomad" data-company="stellenonline.de Aktiengesellschaft" data-stack="" id="job-109098" data-id="109098" data-href="/remote-jobs/109098-remote-full-stack-entwickler-devops-web-developer-stellenonline-de-aktiengesellschaft" class="job job-109098     active   active  ==    												" title="">
 <td class="image " style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-21T13:26:11+00:00","description":"Dein Web-Know-how f&uuml;r modernes Recruiting und Traffic-Management! \n\n\nstellenonline.de ist einer der f&uuml;hrenden Performance-Marktpl&auml;tze f&uuml;r digitale Stellen&shy;anzeigen. Um unsere Inhouse-IT-Kompetenz zu sch&auml;rfen und stellenonline.de dauerhaft weiterzuentwickeln, suchen wir ab sofort Dich als\n\n\n\n\nFull Stack Entwickler \/ DevOps \/ Web Developer (m\/w\/d)\n\nVollzeit, mit 100&thinsp;% Homeoffice-M&ouml;glichkeit\n\nDein Job:\n\n\n\n* Entwicklung: Du konzipierst und realisierst mit Deiner Expertise neue Features, die unsere Recruiting-Plattform noch userfreundlicher und performanter machen &ndash; gemeinsam mit unserem IT-Dienstleister.\n\n* Teambuilding: Du unterst&uuml;tzt mittelfristig beim Aufbau eines Inhouse-IT-Teams.\n\n* Kommunikation: Du stimmst Dich eng mit dem Projektmanagement ab, pr&auml;sentierst Deine Ergebnisse und holst Dir selbstst&auml;ndig Feedback ein.\n\n\n\n\n\nDein Profil:\n\n\n\n* Technisches Skillset: Sicherheit im Object Oriented Programming sowie im Umgang mit Webservice&shy;technologien, modernen Container&shy;infrastrukturen und Datenbanksystemen\n\n* Mehrj&auml;hrige Berufserfahrung als Developer:in in der Entwicklung, Architektur und Gestaltung moderner Web-Anwendungen, idealerweise im E-Commerce-Bereich\n\n* Fl&uuml;ssiges Deutsch oder Englisch in Wort und Schrift\n\n* Kreativit&auml;t, hohe Eigenmotivation, Neugier und Spa&szlig; an kontinuierlicher Weiterentwicklung \n\n\n\n\n\nDeine Vorteile bei uns:\n\n\n\n* Perspektive: Du hast es buchst&auml;blich in der Hand bzw. in den Fingern, unsere Plattform technisch und funktional mit uns zusammen weiterzuentwickeln. \n\n* Echt agil: Wir haben unseren Startup-Charakter bewahrt, sind offen f&uuml;r Deine Ideen, sorgen f&uuml;r kurze Entscheidungswege und tun alles, um Deine Wissbegierde zu f&ouml;rdern.\n\n* Flexibel: Je nach Wunsch kannst Du bis zu 100&thinsp;% im Homeoffice arbeiten (auch au&szlig;erhalb von Deutschland) oder in unserem modernen B&uuml;ro in Karlsruhe.\n\n* Ausgeglichen: 30 Tage Urlaub pro Jahr und geregelte, flexibel abstimmbare Arbeitszeiten erm&ouml;glichen es Dir, Beruf und Privatleben zu vereinbaren. \n\n* Gut ausgestattet: F&uuml;r die Arbeit mit unserem Tech-Stack stellen wir Dir ein leistungsstarkes Hardware-Setup und ein kostenloses Firmen-Smartphone zur Verf&uuml;gung.\n\n* Respektvoll &amp; sicher: Freue Dich auf wirklich nette Kolleg:innen, einen sicheren Arbeitsplatz sowie eine betriebliche Altersvorsorge ab einem Jahr Betriebszugeh&ouml;rigkeit.\n\n\n\n\n\n\n\nBewirb Dich jetzt! Wir freuen uns auf Dich.\n\n\nDu findest Dich in unserer Jobbeschreibung wieder und willst Teil unseres Teams werden? Dann schick uns jetzt Deine Bewerbung mit Angabe Deiner Gehaltsvorstellung und Deines fr&uuml;hestm&ouml;glichen Eintrittstermins an die von uns beauftragte Raven51 AG: direkt online oder per E-Mail.\n\nDu hast noch Fragen?  \n\nSusanne Beyer, Head of Operations bei stellenonline.de, hilft Dir gerne weiter:\n+49 721 92055-33.\n\n\n\n&Uuml;ber stellenonline.de\n\nSeit 1999 ist die stellenonline.de AG eine feste Gr&ouml;&szlig;e f&uuml;r digitale Stellen&shy;anzeigen und modernes Online-Recruiting. Unsere gemein&shy;same Vision: Wir wollen der Job-Perfor&shy;mance-Marktplatz f&uuml;r Profis werden. Dank unseres starken Partner-Netzwerks sind wir in s&auml;mt&shy;lichen Branchen und Ziel&shy;gruppen beliebt: Bereits mehr&shy;fach wurden wir als eine der besten Jobb&ouml;rsen in Deutschland ausge&shy;zeichnet. Mit unse&shy;rem Know-how und modern&shy;sten Techno&shy;logien machen wir Vakanzen sichtbar &ndash; und helfen, Unter&shy;nehmen und Bewer&shy;ber:innen zusam&shy;men&shy;zubrin&shy;gen. Begleite uns auf unserem Wachstums&shy;kurs!\n\n\n\n\nstellenonline.de Aktiengesellschaft\nReinhold-Frank-Stra&szlig;e 63 \n76133 Karlsruhe\nwww.stellenonline.de\n Apply now and work remotely at stellenonline.de Aktiengesellschaft","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"110000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Full Stack Entwickler DevOps Web Developer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-24T13:26:11+00:00","hiringOrganization":{"@type":"Organization","name":"stellenonline.de Aktiengesellschaft","url":"https:\/\/remoteok.com\/stellenonline-de-aktiengesellschaft","sameAs":"https:\/\/remoteok.com\/stellenonline-de-aktiengesellschaft","logo":null}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-21T13:26:11+00:00","description":"Dein Web-Know-how f&uuml;r modernes Recruiting und Traffic-Management! \n\n\nstellenonline.de ist einer der f&uuml;hrenden Performance-Marktpl&auml;tze f&uuml;r digitale Stellen&shy;anzeigen. Um unsere Inhouse-IT-Kompetenz zu sch&auml;rfen und stellenonline.de dauerhaft weiterzuentwickeln, suchen wir ab sofort Dich als\n\n\n\n\nFull Stack Entwickler \/ DevOps \/ Web Developer (m\/w\/d)\n\nVollzeit, mit 100&thinsp;% Homeoffice-M&ouml;glichkeit\n\nDein Job:\n\n\n\n* Entwicklung: Du konzipierst und realisierst mit Deiner Expertise neue Features, die unsere Recruiting-Plattform noch userfreundlicher und performanter machen &ndash; gemeinsam mit unserem IT-Dienstleister.\n\n* Teambuilding: Du unterst&uuml;tzt mittelfristig beim Aufbau eines Inhouse-IT-Teams.\n\n* Kommunikation: Du stimmst Dich eng mit dem Projektmanagement ab, pr&auml;sentierst Deine Ergebnisse und holst Dir selbstst&auml;ndig Feedback ein.\n\n\n\n\n\nDein Profil:\n\n\n\n* Technisches Skillset: Sicherheit im Object Oriented Programming sowie im Umgang mit Webservice&shy;technologien, modernen Container&shy;infrastrukturen und Datenbanksystemen\n\n* Mehrj&auml;hrige Berufserfahrung als Developer:in in der Entwicklung, Architektur und Gestaltung moderner Web-Anwendungen, idealerweise im E-Commerce-Bereich\n\n* Fl&uuml;ssiges Deutsch oder Englisch in Wort und Schrift\n\n* Kreativit&auml;t, hohe Eigenmotivation, Neugier und Spa&szlig; an kontinuierlicher Weiterentwicklung \n\n\n\n\n\nDeine Vorteile bei uns:\n\n\n\n* Perspektive: Du hast es buchst&auml;blich in der Hand bzw. in den Fingern, unsere Plattform technisch und funktional mit uns zusammen weiterzuentwickeln. \n\n* Echt agil: Wir haben unseren Startup-Charakter bewahrt, sind offen f&uuml;r Deine Ideen, sorgen f&uuml;r kurze Entscheidungswege und tun alles, um Deine Wissbegierde zu f&ouml;rdern.\n\n* Flexibel: Je nach Wunsch kannst Du bis zu 100&thinsp;% im Homeoffice arbeiten (auch au&szlig;erhalb von Deutschland) oder in unserem modernen B&uuml;ro in Karlsruhe.\n\n* Ausgeglichen: 30 Tage Urlaub pro Jahr und geregelte, flexibel abstimmbare Arbeitszeiten erm&ouml;glichen es Dir, Beruf und Privatleben zu vereinbaren. \n\n* Gut ausgestattet: F&uuml;r die Arbeit mit unserem Tech-Stack stellen wir Dir ein leistungsstarkes Hardware-Setup und ein kostenloses Firmen-Smartphone zur Verf&uuml;gung.\n\n* Respektvoll &amp; sicher: Freue Dich auf wirklich nette Kolleg:innen, einen sicheren Arbeitsplatz sowie eine betriebliche Altersvorsorge ab einem Jahr Betriebszugeh&ouml;rigkeit.\n\n\n\n\n\n\n\nBewirb Dich jetzt! Wir freuen uns auf Dich.\n\n\nDu findest Dich in unserer Jobbeschreibung wieder und willst Teil unseres Teams werden? Dann schick uns jetzt Deine Bewerbung mit Angabe Deiner Gehaltsvorstellung und Deines fr&uuml;hestm&ouml;glichen Eintrittstermins an die von uns beauftragte Raven51 AG: direkt online oder per E-Mail.\n\nDu hast noch Fragen?  \n\nSusanne Beyer, Head of Operations bei stellenonline.de, hilft Dir gerne weiter:\n+49 721 92055-33.\n\n\n\n&Uuml;ber stellenonline.de\n\nSeit 1999 ist die stellenonline.de AG eine feste Gr&ouml;&szlig;e f&uuml;r digitale Stellen&shy;anzeigen und modernes Online-Recruiting. Unsere gemein&shy;same Vision: Wir wollen der Job-Perfor&shy;mance-Marktplatz f&uuml;r Profis werden. Dank unseres starken Partner-Netzwerks sind wir in s&auml;mt&shy;lichen Branchen und Ziel&shy;gruppen beliebt: Bereits mehr&shy;fach wurden wir als eine der besten Jobb&ouml;rsen in Deutschland ausge&shy;zeichnet. Mit unse&shy;rem Know-how und modern&shy;sten Techno&shy;logien machen wir Vakanzen sichtbar &ndash; und helfen, Unter&shy;nehmen und Bewer&shy;ber:innen zusam&shy;men&shy;zubrin&shy;gen. Begleite uns auf unserem Wachstums&shy;kurs!\n\n\n\n\nstellenonline.de Aktiengesellschaft\nReinhold-Frank-Stra&szlig;e 63 \n76133 Karlsruhe\nwww.stellenonline.de\n Apply now and work remotely at stellenonline.de Aktiengesellschaft","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Full Stack Entwickler DevOps Web Developer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-24T13:26:11+00:00","hiringOrganization":{"@type":"Organization","name":"stellenonline.de Aktiengesellschaft","url":"https:\/\/remoteok.com\/stellenonline-de-aktiengesellschaft","sameAs":"https:\/\/remoteok.com\/stellenonline-de-aktiengesellschaft","logo":null}}</script>
 <a class="preventLink" href="/remote-jobs/109098-remote-full-stack-entwickler-devops-web-developer-stellenonline-de-aktiengesellschaft">
 <div data-z="1" class="logo">
 <p>
@@ -492,7 +492,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-21T13:26:11+00:00">
-10d </time>
+11d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109098">
@@ -692,7 +692,7 @@ Hire remote worker
 <div class="infinity-scroll loading_spinner_2018 ">
 <div>
 <svg class="loader_spinner_svg" viewBox="25 25 50 50">
- <circle class="loader_spinner_circle" cx="50" cy="50" r="22" fill="none"></circle>
+<circle class="loader_spinner_circle" cx="50" cy="50" r="22" fill="none"></circle>
 <circle class="loader_spinner_circle loader_spinner_circle--spinner" cx="50" cy="50" r="22" fill="none"></circle>
 </svg>
 </div>
@@ -746,11 +746,11 @@ Remote Product Designer Jobs
 🚥&nbsp;<a href="/remote-marketing-jobs">
 Remote Marketing Jobs
 </a> </div><div class="tag">
-☕️&nbsp;<a href="/remote-javascript-jobs">
-Remote JavaScript Jobs
-</a> </div><div class="tag">
 🎨&nbsp;<a href="/remote-design-jobs">
 Remote Design Jobs
+</a> </div><div class="tag">
+☕️&nbsp;<a href="/remote-javascript-jobs">
+Remote JavaScript Jobs
 </a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-devops-jobs">
 Remote DevOps Jobs
@@ -770,9 +770,6 @@ Remote Admin Jobs
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-jobs">
-Remote React Jobs
-</a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
@@ -781,6 +778,9 @@ Remote Sys Admin Jobs
 </a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+⚛️&nbsp;<a href="/remote-react-jobs">
+Remote React Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-ruby-jobs">
 Remote Ruby Jobs
@@ -794,17 +794,14 @@ Remote Ops Jobs
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
 </a> </div><div class="tag">
-🐍&nbsp;<a href="/remote-python-jobs">
-Remote Python Jobs
-</a> </div><div class="tag">
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
-</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
+</a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
@@ -818,11 +815,11 @@ Remote Java Jobs
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
+🐍&nbsp;<a href="/remote-python-jobs">
+Remote Python Jobs
+</a> </div><div class="tag">
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -830,35 +827,38 @@ Remote Crypto Jobs
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
+</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
-</a> </div><div class="tag">
-☄️&nbsp;<a href="/remote-meteor-jobs">
-Remote Meteor Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
+✍️&nbsp;<a href="/remote-content-writing-jobs">
+Remote Content Writing Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
+</a> </div><div class="tag">
+☄️&nbsp;<a href="/remote-meteor-jobs">
+Remote Meteor Jobs
 </a> </div><div class="tag">
 👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
 Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-content-writing-jobs">
-Remote Content Writing Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-stats-jobs">
 Remote Stats Jobs
@@ -869,32 +869,32 @@ Remote Junior Jobs
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
-Remote English Teacher Jobs
-</a> </div><div class="tag">
-🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
-Remote Virtual Assistant Jobs
-</a> </div><div class="tag">
 👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
 Remote Legal Jobs
-</a> </div><div class="tag">
-🕹&nbsp;<a href="/remote-game-dev-jobs">
-Remote Game Developer Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-api-jobs">
 Remote API Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-native-jobs">
-Remote React Native Jobs
+🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
+Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
+Remote English Teacher Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-➕&nbsp;<a href="/remote-c-plus-plus-jobs">
-Remote C++ Jobs
+🕹&nbsp;<a href="/remote-game-dev-jobs">
+Remote Game Developer Jobs
+</a> </div><div class="tag">
+⚛️&nbsp;<a href="/remote-react-native-jobs">
+Remote React Native Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
+</a> </div><div class="tag">
+💼&nbsp;<a href="/remote-bus-dev-jobs">
+Remote Biz Dev Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -972,12 +972,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-🍃 &nbsp;<a href="/hire/mongo">
-Hire Mongo Developers Remotely
-</a>
-</div><div class="tag">
 📦 &nbsp;<a href="/hire/git">
 Hire Git Developers Remotely
+</a>
+</div><div class="tag">
+🍃 &nbsp;<a href="/hire/mongo">
+Hire Mongo Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1020,28 +1020,28 @@ Hire Bootstrap Developers Remotely
 Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
-🤠 &nbsp;<a href="/hire/django">
+ 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
-</a>
-</div><div class="tag">
-⚛️ &nbsp;<a href="/hire/graphql">
-Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
 </a>
 </div><div class="tag">
+⚛️ &nbsp;<a href="/hire/graphql">
+Hire GraphQL Developers Remotely
+</a>
+</div><div class="tag">
 🎨 &nbsp;<a href="/hire/photoshop">
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 🚥 &nbsp;<a href="/hire/digital-marketing">
 Hire Digital Marketing Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1072,6 +1072,10 @@ Hire Sass Developers Remotely
 Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
+</a>
+</div><div class="tag">
 🐇 &nbsp;<a href="/hire/agile">
 Hire Agile Developers Remotely
 </a>
@@ -1082,10 +1086,6 @@ Hire Backend Developers Remotely
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
-</a>
-</div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1146,6 +1146,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-345ms
+159ms
 </div>
 <div class="END-OF-FILE"></div>

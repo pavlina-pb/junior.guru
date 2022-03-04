@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (931)","senior":"\ud83d\udc75 Senior (696)","dev":"\ud83e\udd13 Developer (602)","exec":"\ud83d\udcbc Executive (523)","golang":"\ud83d\udc00 Golang (346)","backend":"\ud83c\udf51 Backend (268)","full stack":"\ud83e\udd5e Full Stack (162)","front end":"\ud83c\udfa8 Front End (136)","product designer":"\ud83d\udce6 Product Designer (126)","marketing":"\ud83d\udea5 Marketing (123)","javascript":"\u2615\ufe0f JavaScript (92)","design":"\ud83c\udfa8 Design (87)","devops":"\u267e\ufe0f DevOps (70)","customer support":"\ud83c\udfa7 Customer Support (67)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (49)","react":"\u269b\ufe0f React (48)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (45)","ruby":"\ud83d\udc8e Ruby (37)","analyst":"\ud83e\udd14 Analyst (31)","ops":"\u267e\ufe0f Ops (29)","web dev":"\ud83e\udd13 Web Developer (29)","python":"\ud83d\udc0d Python (24)","quality assurance":"\ud83d\udd2c Quality Assurance (23)","node":"\ud83d\udd17 Node (23)","mobile":"\ud83d\udcf1 Mobile (23)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (21)","machine learning":"\ud83e\udd16 Machine Learning (20)","finance":"\ud83d\udcb0 Finance (18)","saas":"\ud83d\udce6 SaaS (15)","crypto":"\ud83c\udfc5 Crypto (15)","web3":"\ud83d\udc8e Web3 (15)","blockchain":"\u26d3 Blockchain (15)","social media":"\u270d\ufe0f Social Media (15)","consulting":"\ud83d\udcbc Consulting (14)","meteor":"\u2604\ufe0f Meteor (14)","seo":"\ud83d\udd0e SEO (14)","testing":"\ud83e\uddea Testing (14)","android":"\ud83e\udd16 Android (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","hr":"\ud83d\udc4b HR (13)","content writing":"\u270d\ufe0f Content Writing (13)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (11)","php":"\ud83d\udc18 PHP (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","game dev":"\ud83d\udd79 Game Developer (9)","api":"\ud83e\udd16 API (9)","react native":"\u269b\ufe0f React Native (9)","c":"\ud83d\udd37 C (8)","ecommerce":"\ud83d\udecd Ecommerce (8)","c plus plus":"\u2795 C Plus Plus (8)","linux":"\ud83d\udc27 Linux (8)","docker":"\ud83d\udc33 Docker (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","solidity":"\u26d3 Solidity (7)","copywriting":"\u270d\ufe0f Copywriting (7)","medical":"\ud83d\ude91 Medical (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","flutter":"\ud83e\udda9 Flutter (6)","recruiter":"\ud83c\udfaf Recruiter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)","internship":" Internship (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (928)","senior":"\ud83d\udc75 Senior (692)","dev":"\ud83e\udd13 Developer (594)","exec":"\ud83d\udcbc Executive (527)","golang":"\ud83d\udc00 Golang (345)","backend":"\ud83c\udf51 Backend (265)","full stack":"\ud83e\udd5e Full Stack (159)","front end":"\ud83c\udfa8 Front End (135)","product designer":"\ud83d\udce6 Product Designer (130)","marketing":"\ud83d\udea5 Marketing (123)","design":"\ud83c\udfa8 Design (89)","javascript":"\u2615\ufe0f JavaScript (87)","devops":"\u267e\ufe0f DevOps (71)","customer support":"\ud83c\udfa7 Customer Support (68)","non tech":"\ud83d\udd0c Non Tech (62)","sales":"\ud83d\udcbc Sales (58)","admin":"\u267e\ufe0f Admin (54)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (50)","infosec":"\ud83d\udd11 InfoSec (47)","sys admin":"\u267e\ufe0f Sys Admin (46)","cloud":"\u2601\ufe0f Cloud (44)","react":"\u269b\ufe0f React (44)","ruby":"\ud83d\udc8e Ruby (34)","analyst":"\ud83e\udd14 Analyst (32)","ops":"\u267e\ufe0f Ops (30)","web dev":"\ud83e\udd13 Web Developer (29)","quality assurance":"\ud83d\udd2c Quality Assurance (24)","mobile":"\ud83d\udcf1 Mobile (23)","node":"\ud83d\udd17 Node (22)","architecture":"\ud83d\udce6 Architecture (21)","ios":"\ud83c\udf4f iOS (21)","java":"\u2615\ufe0f Java (20)","machine learning":"\ud83e\udd16 Machine Learning (20)","python":"\ud83d\udc0d Python (19)","finance":"\ud83d\udcb0 Finance (18)","crypto":"\ud83c\udfc5 Crypto (16)","web3":"\ud83d\udc8e Web3 (16)","saas":"\ud83d\udce6 SaaS (15)","social media":"\u270d\ufe0f Social Media (15)","blockchain":"\u26d3 Blockchain (15)","consulting":"\ud83d\udcbc Consulting (14)","testing":"\ud83e\uddea Testing (14)","content writing":"\u270d\ufe0f Content Writing (14)","seo":"\ud83d\udd0e SEO (14)","android":"\ud83e\udd16 Android (14)","meteor":"\u2604\ufe0f Meteor (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (13)","hr":"\ud83d\udc4b HR (12)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (12)","junior":"\ud83d\udc76 Junior (10)","php":"\ud83d\udc18 PHP (10)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","api":"\ud83e\udd16 API (9)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (9)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (9)","ecommerce":"\ud83d\udecd Ecommerce (8)","game dev":"\ud83d\udd79 Game Developer (8)","react native":"\u269b\ufe0f React Native (8)","linux":"\ud83d\udc27 Linux (8)","bus dev":"\ud83d\udcbc Bus Developer (7)","copywriting":"\u270d\ufe0f Copywriting (7)","c plus plus":"\u2795 C Plus Plus (7)","docker":"\ud83d\udc33 Docker (7)","medical":"\ud83d\ude91 Medical (7)","c":"\ud83d\udd37 C (7)","solidity":"\u26d3 Solidity (7)","accounting":"\ud83d\udcbc Accounting (7)","ads":"\ud83d\udea5 Ads (6)","recruiter":"\ud83c\udfaf Recruiter (6)","flutter":"\ud83e\udda9 Flutter (6)","graphql":"\u269b\ufe0f GraphQL (5)","video":"\ud83d\udcfc Video (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($129k/mo)
+🤲&nbsp; Open Startup ($134k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.96%) </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#6013010c05132012050d0f14050f0b4e030f0d5f1315020a0503145d2104160512140913054b0f0e4b32050d0f14054b2f2b46020f04195d340809134b050d01090c4b040f05134b0e0f144b170f120b4e455021455059300c050113054b1513054b1408054b050d01090c4b010404120513134b01043f13010c05134b010e044b1408050e4b4554504b010e044b1408050e4b140809134b13091405455257134b040f0d01090e4b090e13140501044552234b140f4b01160f09044b1310010d0d0512134b060c0f0f04090e074b140809134b050d01090c4e4b370545525712054b0f0e0c194b010303051014090e074b13100f0e130f121308091045522601044b0405010c134b06120f0d4b45525453500b4552260d0f4b01144b140809134b0d0f0d050e144b010e044b1408051205455257134b014b17010914090e074b0c0913144e4b37054b040f4b2e2f344b040f4b233021455226010606090c0901140545522613010c054d02011305044b0405010c134552234b0f0e0c194b060c01144b0605054b0c150d104b13150d4b080112044b030113084b13100f0e130f1213080910134552260104134552234b100c050113054b130116054b020f14084b0f064b15134b14090d054b010e044b040f0e455257144b050d01090c4b15134b01020f15144b140801144e4b3408010e0b13455251">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#fd8e9c91988ebd8f98909289989296d39e9290c28e889f97989e89c0bc998b988f89948e98d69293d6af9890928998d6b2b6db9f929984c0a995948ed698909c9491d69992988ed6939289d68a928f96d3d8cdbcd8cdc4ad91989c8e98d6888e98d6899598d698909c9491d69c99998f988e8ed69c99a28e9c91988ed69c9399d689959893d6d8c9cdd69c9399d689959893d68995948ed68e948998d8cfca8ed69992909c9493d694938e89989c99d8cfbed68992d69c8b929499d68e8d9c9090988f8ed69b9192929994939ad68995948ed698909c9491d3d6aa98d8cfca8f98d692939184d69c9e9e988d8994939ad68e8d92938e928f8e95948dd8cfbb9c99d699989c918ed69b8f9290d6d8cfc9cecd96d8cfbb9092d69c89d68995948ed6909290989389d69c9399d68995988f98d8cfca8ed69cd68a9c948994939ad691948e89d3d6aa98d69992d6b3b2a9d69992d6beadbcd8cfbb9c9b9b9491949c8998d8cfbb8e9c9198d09f9c8e9899d699989c918ed8cfbed692939184d69b919c89d69b9898d69188908dd68e8890d6959c8f99d69e9c8e95d68e8d92938e928f8e95948d8ed8cfbb9c998ed8cfbed68d91989c8e98d68e9c8b98d69f928995d6929bd6888ed689949098d69c9399d6999293d8cfca89d698909c9491d6888ed69c9f928889d689959c89d3d6a9959c93968ed8cfcc">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-22 new jobs posted today
+25 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109073-remote-lead-software-engineer-ne03-terazo" data-epoch="1645235107" data-search="Terazo Lead Software Engineer NE03 virtual assistant engineer exec dev digital nomad" data-company="Terazo" data-stack="" id="job-109073" data-id="109073" data-href="/remote-jobs/109073-remote-lead-software-engineer-ne03-terazo" class="job job-109073     active   active  ==    												" title="">
 <td class="image " style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-19T01:45:07+00:00","description":"Terazo is a software and platform development firm that empowers clients large and small to run more efficiently and unlock new business value through integration and automation. We build and support mission-critical applications, online services, and platforms that enable innovation for customers across a wide spectrum of industries.\n\nAs a Lead Software Engineer, you\u2019ll be responsible for technical decisions on a portfolio of client engagements.  You will utilize current best of breed technologies and have the support of an experienced team with a strong desire to drive growth of APIs. \n\nWe put a real emphasis on professional growth for our people, which will mean you will have the opportunity to hone the technical and professional skills you will need to continue advancing your career. \n\nTerazo provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\n Apply now and work remotely at Terazo","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"110000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Lead Software Engineer NE03","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-22T01:45:07+00:00","hiringOrganization":{"@type":"Organization","name":"Terazo","url":"https:\/\/remoteok.com\/terazo","sameAs":"https:\/\/remoteok.com\/terazo","logo":null}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-19T01:45:07+00:00","description":"Terazo is a software and platform development firm that empowers clients large and small to run more efficiently and unlock new business value through integration and automation. We build and support mission-critical applications, online services, and platforms that enable innovation for customers across a wide spectrum of industries.\n\nAs a Lead Software Engineer, you\u2019ll be responsible for technical decisions on a portfolio of client engagements.  You will utilize current best of breed technologies and have the support of an experienced team with a strong desire to drive growth of APIs. \n\nWe put a real emphasis on professional growth for our people, which will mean you will have the opportunity to hone the technical and professional skills you will need to continue advancing your career. \n\nTerazo provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.\n\n Apply now and work remotely at Terazo","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Lead Software Engineer NE03","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-22T01:45:07+00:00","hiringOrganization":{"@type":"Organization","name":"Terazo","url":"https:\/\/remoteok.com\/terazo","sameAs":"https:\/\/remoteok.com\/terazo","logo":null}}</script>
 <a class="preventLink" href="/remote-jobs/109073-remote-lead-software-engineer-ne03-terazo">
 <div data-z="1" class="logo">
 <p>
@@ -493,7 +493,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-19T01:45:07+00:00">
-12d </time>
+13d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109073">
@@ -520,7 +520,7 @@ $60,000 &mdash; $110,000/year\n
 <br />
 <p style="text-align:center">
 See more jobs at <a target="_blank" href="/terazo">Terazo</a>
-</p>
+ </p>
 </div>
 <div class="instructions">
 <a class="button action-apply apply_109073" data-job-id="109073" href="/l/109073" target="_blank" rel="nofollow">
@@ -748,11 +748,11 @@ Remote Product Designer Jobs
 🚥&nbsp;<a href="/remote-marketing-jobs">
 Remote Marketing Jobs
 </a> </div><div class="tag">
-☕️&nbsp;<a href="/remote-javascript-jobs">
-Remote JavaScript Jobs
-</a> </div><div class="tag">
 🎨&nbsp;<a href="/remote-design-jobs">
 Remote Design Jobs
+</a> </div><div class="tag">
+☕️&nbsp;<a href="/remote-javascript-jobs">
+Remote JavaScript Jobs
 </a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-devops-jobs">
 Remote DevOps Jobs
@@ -772,9 +772,6 @@ Remote Admin Jobs
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-jobs">
-Remote React Jobs
-</a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
@@ -783,6 +780,9 @@ Remote Sys Admin Jobs
 </a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+⚛️&nbsp;<a href="/remote-react-jobs">
+Remote React Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-ruby-jobs">
 Remote Ruby Jobs
@@ -796,17 +796,14 @@ Remote Ops Jobs
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
 </a> </div><div class="tag">
-🐍&nbsp;<a href="/remote-python-jobs">
-Remote Python Jobs
-</a> </div><div class="tag">
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
-🔗&nbsp;<a href="/remote-node-jobs">
-Remote Node Jobs
-</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
+</a> </div><div class="tag">
+🔗&nbsp;<a href="/remote-node-jobs">
+Remote Node Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
@@ -820,11 +817,11 @@ Remote Java Jobs
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
+🐍&nbsp;<a href="/remote-python-jobs">
+Remote Python Jobs
+</a> </div><div class="tag">
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
-</a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
@@ -832,35 +829,38 @@ Remote Crypto Jobs
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
+</a> </div><div class="tag">
 💼&nbsp;<a href="/remote-consulting-jobs">
 Remote Consulting Jobs
-</a> </div><div class="tag">
-☄️&nbsp;<a href="/remote-meteor-jobs">
-Remote Meteor Jobs
-</a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
+✍️&nbsp;<a href="/remote-content-writing-jobs">
+Remote Content Writing Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
+</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
+</a> </div><div class="tag">
+☄️&nbsp;<a href="/remote-meteor-jobs">
+Remote Meteor Jobs
 </a> </div><div class="tag">
 👨‍🏫&nbsp;<a href="/remote-teaching-jobs">
 Remote Teaching Jobs
 </a> </div><div class="tag">
 👋&nbsp;<a href="/remote-hr-jobs">
 Remote HR Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-content-writing-jobs">
-Remote Content Writing Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-stats-jobs">
 Remote Stats Jobs
@@ -871,32 +871,32 @@ Remote Junior Jobs
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
-Remote English Teacher Jobs
-</a> </div><div class="tag">
-🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
-Remote Virtual Assistant Jobs
-</a> </div><div class="tag">
 👩‍⚖️&nbsp;<a href="/remote-legal-jobs">
 Remote Legal Jobs
-</a> </div><div class="tag">
-🕹&nbsp;<a href="/remote-game-dev-jobs">
-Remote Game Developer Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-api-jobs">
 Remote API Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-react-native-jobs">
-Remote React Native Jobs
+🎧&nbsp;<a href="/remote-virtual-assistant-jobs">
+Remote Virtual Assistant Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+🇬🇧&nbsp;<a href="/remote-english-teacher-jobs">
+Remote English Teacher Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-ecommerce-jobs">
 Remote Ecommerce Jobs
 </a> </div><div class="tag">
-➕&nbsp;<a href="/remote-c-plus-plus-jobs">
-Remote C++ Jobs
+🕹&nbsp;<a href="/remote-game-dev-jobs">
+Remote Game Developer Jobs
+</a> </div><div class="tag">
+⚛️&nbsp;<a href="/remote-react-native-jobs">
+Remote React Native Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
+</a> </div><div class="tag">
+💼&nbsp;<a href="/remote-bus-dev-jobs">
+Remote Biz Dev Jobs
 </a> </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/js">
 Hire JavaScript Developers Remotely
@@ -974,12 +974,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-🍃 &nbsp;<a href="/hire/mongo">
-Hire Mongo Developers Remotely
-</a>
-</div><div class="tag">
 📦 &nbsp;<a href="/hire/git">
 Hire Git Developers Remotely
+</a>
+</div><div class="tag">
+🍃 &nbsp;<a href="/hire/mongo">
+Hire Mongo Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1026,24 +1026,24 @@ Hire SEO Developers Remotely
 Hire Django Developers Remotely
 </a>
 </div><div class="tag">
-⚛️ &nbsp;<a href="/hire/graphql">
-Hire GraphQL Developers Remotely
-</a>
-</div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
 Hire Customer Service Freelancers Remotely
+</a>
+</div><div class="tag">
+⚛️ &nbsp;<a href="/hire/graphql">
+Hire GraphQL Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/photoshop">
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 🚥 &nbsp;<a href="/hire/digital-marketing">
 Hire Digital Marketing Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1052,7 +1052,7 @@ Hire Social Media Freelancers Remotely
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
 Hire Front End Developers Remotely
-</a>
+ </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/graphic-design">
 Hire Graphic Design Freelancers Remotely
@@ -1074,6 +1074,10 @@ Hire Sass Developers Remotely
 Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
+📗 &nbsp;<a href="/hire/excel">
+Hire Excel Developers Remotely
+</a>
+</div><div class="tag">
 🐇 &nbsp;<a href="/hire/agile">
 Hire Agile Developers Remotely
 </a>
@@ -1084,10 +1088,6 @@ Hire Backend Developers Remotely
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
-</a>
-</div><div class="tag">
-📗 &nbsp;<a href="/hire/excel">
-Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
@@ -1148,6 +1148,6 @@ Hire Golang Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-173ms
+154ms
 </div>
 <div class="END-OF-FILE"></div>
