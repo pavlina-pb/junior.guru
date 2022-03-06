@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (1,465)","senior":"\ud83d\udc75 Senior (1,150)","dev":"\ud83e\udd13 Developer (1,101)","exec":"\ud83d\udcbc Executive (752)","javascript":"\u2615\ufe0f JavaScript (551)","backend":"\ud83c\udf51 Backend (434)","golang":"\ud83d\udc00 Golang (408)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (350)","front end":"\ud83c\udfa8 Front End (319)","marketing":"\ud83d\udea5 Marketing (199)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (157)","python":"\ud83d\udc0d Python (133)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","saas":"\ud83d\udce6 SaaS (85)","cloud":"\u2601\ufe0f Cloud (85)","php":"\ud83d\udc18 PHP (82)","admin":"\u267e\ufe0f Admin (76)","web dev":"\ud83e\udd13 Web Developer (76)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (66)","sys admin":"\u267e\ufe0f Sys Admin (64)","mobile":"\ud83d\udcf1 Mobile (64)","infosec":"\ud83d\udd11 InfoSec (58)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","ecommerce":"\ud83d\udecd Ecommerce (52)","web3":"\ud83d\udc8e Web3 (51)","blockchain":"\u26d3 Blockchain (51)","crypto":"\ud83c\udfc5 Crypto (51)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (36)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","laravel":"\ud83d\udce6 Laravel (31)","wordpress":"\u270d\ufe0f Wordpress (31)","machine learning":"\ud83e\udd16 Machine Learning (31)","architecture":"\ud83d\udce6 Architecture (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (28)","seo":"\ud83d\udd0e SEO (27)","c":"\ud83d\udd37 C (27)","c plus plus":"\u2795 C Plus Plus (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","copywriting":"\u270d\ufe0f Copywriting (16)","redis":"\ud83e\udde0 Redis (16)","junior":"\ud83d\udc76 Junior (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","recruiter":"\ud83c\udfaf Recruiter (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","nft":"\ud83c\udf81 NFT (10)","bus dev":"\ud83d\udcbc Bus Developer (10)","flutter":"\ud83e\udda9 Flutter (9)","full time":"\u23f0 Full Time (9)","accounting":"\ud83d\udcbc Accounting (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","nosql":"\ud83d\udeab NoSQL (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","internship":" Internship (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","heroku":"\ud83d\udfea Heroku (7)","big data":"\ud83e\udde0 Big Data (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (1,466)","senior":"\ud83d\udc75 Senior (1,152)","dev":"\ud83e\udd13 Developer (1,099)","exec":"\ud83d\udcbc Executive (748)","javascript":"\u2615\ufe0f JavaScript (549)","backend":"\ud83c\udf51 Backend (435)","golang":"\ud83d\udc00 Golang (413)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (349)","front end":"\ud83c\udfa8 Front End (318)","marketing":"\ud83d\udea5 Marketing (197)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (156)","python":"\ud83d\udc0d Python (134)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","cloud":"\u2601\ufe0f Cloud (87)","saas":"\ud83d\udce6 SaaS (85)","php":"\ud83d\udc18 PHP (81)","web dev":"\ud83e\udd13 Web Developer (76)","admin":"\u267e\ufe0f Admin (75)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (65)","mobile":"\ud83d\udcf1 Mobile (63)","sys admin":"\u267e\ufe0f Sys Admin (63)","infosec":"\ud83d\udd11 InfoSec (59)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","blockchain":"\u26d3 Blockchain (52)","web3":"\ud83d\udc8e Web3 (52)","crypto":"\ud83c\udfc5 Crypto (52)","ecommerce":"\ud83d\udecd Ecommerce (52)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (34)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","machine learning":"\ud83e\udd16 Machine Learning (31)","laravel":"\ud83d\udce6 Laravel (31)","architecture":"\ud83d\udce6 Architecture (30)","wordpress":"\u270d\ufe0f Wordpress (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","c plus plus":"\u2795 C Plus Plus (26)","c":"\ud83d\udd37 C (26)","seo":"\ud83d\udd0e SEO (25)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","junior":"\ud83d\udc76 Junior (15)","copywriting":"\u270d\ufe0f Copywriting (15)","redis":"\ud83e\udde0 Redis (15)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","bus dev":"\ud83d\udcbc Bus Developer (10)","accounting":"\ud83d\udcbc Accounting (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","recruiter":"\ud83c\udfaf Recruiter (10)","nft":"\ud83c\udf81 NFT (10)","flutter":"\ud83e\udda9 Flutter (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","full time":"\u23f0 Full Time (9)","nosql":"\ud83d\udeab NoSQL (8)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","internship":" Internship (7)","smart contracts":"\ud83d\udccb Smart Contracts (7)","heroku":"\ud83d\udfea Heroku (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","big data":"\ud83e\udde0 Big Data (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($127k/mo)
+🤲&nbsp; Open Startup ($119k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.96%) </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#7003111c15033002151d1f04151f1b5e131f1d4f0305121a1513044d3114061502041903155b1f1e5b22151d1f04155b3f3b56121f14094d241819035b151d11191c5b141f15035b1e1f045b071f021b5e554031554049201c151103155b0503155b0418155b151d11191c5b111414021503035b11142f03111c15035b111e145b0418151e5b5544405b111e145b0418151e5b041819035b03190415554247035b141f1d11191e5b191e03041511145542335b041f5b11061f19145b0300111d1d1502035b161c1f1f14191e175b041819035b151d11191c5e5b271555424702155b1f1e1c095b111313150004191e175b03001f1e031f020318190055423611145b1415111c035b16021f1d5b55424443401b5542361d1f5b11045b041819035b1d1f1d151e045b111e145b0418150215554247035b115b07111904191e175b1c1903045e5b27155b141f5b3e3f245b141f5b332031554236111616191c1911041555423603111c155d12110315145b1415111c035542335b1f1e1c095b161c11045b1615155b1c051d005b03051d5b181102145b131103185b03001f1e031f0203181900035542361114035542335b001c151103155b031106155b121f04185b1f165b05035b04191d155b111e145b141f1e554247045b151d11191c5b05035b11121f05045b041811045e5b2418111e1b03554241">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#7201131e17013200171f1d06171d195c111d1f4d010710181711064f3316041700061b0117591d1c5920171f1d0617593d3954101d160b4f261a1b0159171f131b1e59161d1701591c1d0659051d00195c57423357424b221e171301175907011759061a1759171f131b1e59131616001701015913162d01131e170159131c1659061a171c5957464259131c1659061a171c59061a1b0159011b06175740450159161d1f131b1c591b1c010617131657403159061d5913041d1b16590102131f1f17000159141e1d1d161b1c1559061a1b0159171f131b1e5c5925175740450017591d1c1e0b591311111702061b1c155901021d1c011d00011a1b025740341316591617131e015914001d1f595740464142195740341f1d59130659061a1b01591f1d1f171c0659131c1659061a1700175740450159135905131b061b1c15591e1b01065c59251759161d593c3d2659161d593122335740341314141b1e1b13061757403401131e175f1013011716591617131e01574031591d1c1e0b59141e130659141717591e071f025901071f591a130016591113011a5901021d1c011d00011a1b020157403413160157403159021e17130117590113041759101d061a591d1459070159061b1f1759131c1659161d1c5740450659171f131b1e5907015913101d070659061a13065c59261a131c1901574043">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-21 new jobs posted today
+12 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109208-remote-software-engineer-hcg-funds" data-epoch="1645844402" data-search="HCG Funds Software Engineer engineer dev digital nomad" data-company="HCG Funds" data-stack="" id="job-109208" data-id="109208" data-href="/remote-jobs/109208-remote-software-engineer-hcg-funds" class="job job-109208     active   active  ==    												" title="">
 <td class="image " style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T03:00:02+00:00","description":"Since 2012, HCG\u2019s founders have been innovating alternative investment programs rooted in Fintech. We invest and work with some of the world's most pioneering companies to create value for our clients, through our private credit and early-stage venture capital strategies. The firm is growing rapidly, and we are looking for individuals passionate about Fintech and alternative investing.\n\nWe are looking for someone to join our growing team who has an  interest in being involved in all phases of projects using a wide range  of technologies. While experience with specific tools we use would be helpful, we are most interested in someone who has an interest in technology, solid foundational skills, and a desire to work in a truly full stack environment. \n\nWith HCG, you have the opportunity to have a direct and meaningful impact on the direction and success of the firm. You will be working with a bright and motivated team to build, deploy, and operate systems which enable HCG to expand the competitive advantage that it has built.\n\nAbout HCG\n\nHCG is an SEC-registered alternative investment manager focused on the digital transformation of financial services. Our mission is to grow client wealth through digital finance solutions. Our products and offerings range from digital private credit to early-stage Fintech venture capital. We are a dynamic, growing firm at the intersection of finance, investing, innovation, and technology.\n\nWe work across teams to achieve our mission. We communicate with each other actively, frequently and openly, and we operate with an \u201call hands-on deck\u201d attitude to get things done. We are also determined to help employees attain their individual goals, as well as to empower you to develop your skills and express your leadership. We are performance-oriented and cherish forward-thinking, so expectations are high, but along with those expectations comes a high level of support from fellow team members and HCG\u2019s founders. If this sounds like your ideal work environment, please join us!\n\nBenefits\n\nHCG offers full-time employees:\n- Competitive salary commensurate with experience plus discretionary bonuses\n- Insurance (medical, dental, vision)\n- 401(k) with company matching \n- Generous PTO and holidays\n- Opportunity to work directly with team leadership\n- Hybrid work plan (remote and in-office) \n- Paid parental leave \n- Learning support \n- Employee referral bonus \n- Office snacks and team lunches\n Apply now and work remotely at HCG Funds","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T03:00:02+00:00","hiringOrganization":{"@type":"Organization","name":"HCG Funds","url":"https:\/\/remoteok.com\/hcg-funds","sameAs":"https:\/\/remoteok.com\/hcg-funds","logo":null}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T03:00:02+00:00","description":"Since 2012, HCG\u2019s founders have been innovating alternative investment programs rooted in Fintech. We invest and work with some of the world's most pioneering companies to create value for our clients, through our private credit and early-stage venture capital strategies. The firm is growing rapidly, and we are looking for individuals passionate about Fintech and alternative investing.\n\nWe are looking for someone to join our growing team who has an  interest in being involved in all phases of projects using a wide range  of technologies. While experience with specific tools we use would be helpful, we are most interested in someone who has an interest in technology, solid foundational skills, and a desire to work in a truly full stack environment. \n\nWith HCG, you have the opportunity to have a direct and meaningful impact on the direction and success of the firm. You will be working with a bright and motivated team to build, deploy, and operate systems which enable HCG to expand the competitive advantage that it has built.\n\nAbout HCG\n\nHCG is an SEC-registered alternative investment manager focused on the digital transformation of financial services. Our mission is to grow client wealth through digital finance solutions. Our products and offerings range from digital private credit to early-stage Fintech venture capital. We are a dynamic, growing firm at the intersection of finance, investing, innovation, and technology.\n\nWe work across teams to achieve our mission. We communicate with each other actively, frequently and openly, and we operate with an \u201call hands-on deck\u201d attitude to get things done. We are also determined to help employees attain their individual goals, as well as to empower you to develop your skills and express your leadership. We are performance-oriented and cherish forward-thinking, so expectations are high, but along with those expectations comes a high level of support from fellow team members and HCG\u2019s founders. If this sounds like your ideal work environment, please join us!\n\nBenefits\n\nHCG offers full-time employees:\n- Competitive salary commensurate with experience plus discretionary bonuses\n- Insurance (medical, dental, vision)\n- 401(k) with company matching \n- Generous PTO and holidays\n- Opportunity to work directly with team leadership\n- Hybrid work plan (remote and in-office) \n- Paid parental leave \n- Learning support \n- Employee referral bonus \n- Office snacks and team lunches\n Apply now and work remotely at HCG Funds","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T03:00:02+00:00","hiringOrganization":{"@type":"Organization","name":"HCG Funds","url":"https:\/\/remoteok.com\/hcg-funds","sameAs":"https:\/\/remoteok.com\/hcg-funds","logo":null}}</script>
 <a class="preventLink" href="/remote-jobs/109208-remote-software-engineer-hcg-funds">
 <div data-z="1" class="logo">
 <p>
@@ -460,7 +460,7 @@ HF </p>
 </td>
 <td class="company position company_and_position" style="">
 <span itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization" class="companyLink" href="/hcg-funds">
- <h3 itemprop="name">
+<h3 itemprop="name">
 HCG Funds </h3>
 </span><br />
 <a itemprop="url" class="preventLink" href="/remote-jobs/109208-remote-software-engineer-hcg-funds">
@@ -483,7 +483,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-26T03:00:02+00:00">
-7d </time>
+8d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109208">
@@ -770,20 +770,20 @@ Remote Customer Support Jobs
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-admin-jobs">
-Remote Admin Jobs
-</a> </div><div class="tag">
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-admin-jobs">
+Remote Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
@@ -791,11 +791,11 @@ Remote Data Science Jobs
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
@@ -812,17 +812,17 @@ Remote Java Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🛍&nbsp;<a href="/remote-ecommerce-jobs">
-Remote Ecommerce Jobs
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
-</a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
+</a> </div><div class="tag">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
+Remote Ecommerce Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -851,17 +851,17 @@ Remote Ops Jobs
 🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-laravel-jobs">
-Remote Laravel Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-wordpress-jobs">
-Remote Wordpress Jobs
-</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
+📦&nbsp;<a href="/remote-laravel-jobs">
+Remote Laravel Jobs
+</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+✍️&nbsp;<a href="/remote-wordpress-jobs">
+Remote Wordpress Jobs
 </a> </div><div class="tag">
 🐧&nbsp;<a href="/remote-linux-jobs">
 Remote Linux Jobs
@@ -869,17 +869,17 @@ Remote Linux Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+🅰️&nbsp;<a href="/remote-angular-jobs">
+Remote Angular Jobs
 </a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🅰️&nbsp;<a href="/remote-angular-jobs">
-Remote Angular Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-shopify-jobs">
 Remote Shopify Jobs
@@ -966,12 +966,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1010,12 +1010,12 @@ Hire JQuery Developers Remotely
 Hire Bootstrap Developers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
@@ -1034,12 +1034,12 @@ Hire Photoshop Freelancers Remotely
 Hire Digital Marketing Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
 Hire Social Media Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
@@ -1062,28 +1062,28 @@ Hire Redux Developers Remotely
 Hire Sass Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/figma">
-Hire Figma Developers Remotely
-</a>
-</div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
 Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
-🐇 &nbsp;<a href="/hire/agile">
-Hire Agile Developers Remotely
+🎨 &nbsp;<a href="/hire/figma">
+Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+🐇 &nbsp;<a href="/hire/agile">
+Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
@@ -1110,12 +1110,12 @@ Hire IOS Developers Remotely
 Hire C++ Developers Remotely
 </a>
 </div><div class="tag">
-🦩 &nbsp;<a href="/hire/flutter">
-Hire Flutter Developers Remotely
-</a>
-</div><div class="tag">
 🤖 &nbsp;<a href="/hire/android">
 Hire Android Developers Remotely
+</a>
+</div><div class="tag">
+🦩 &nbsp;<a href="/hire/flutter">
+Hire Flutter Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/product-design">
@@ -1140,6 +1140,6 @@ Hire Firebase Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-179ms
+160ms
 </div>
 <div class="END-OF-FILE"></div>

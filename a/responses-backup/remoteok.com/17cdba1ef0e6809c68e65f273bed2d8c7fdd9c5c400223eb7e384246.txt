@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (1,465)","senior":"\ud83d\udc75 Senior (1,150)","dev":"\ud83e\udd13 Developer (1,101)","exec":"\ud83d\udcbc Executive (752)","javascript":"\u2615\ufe0f JavaScript (551)","backend":"\ud83c\udf51 Backend (434)","golang":"\ud83d\udc00 Golang (408)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (350)","front end":"\ud83c\udfa8 Front End (319)","marketing":"\ud83d\udea5 Marketing (199)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (157)","python":"\ud83d\udc0d Python (133)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","saas":"\ud83d\udce6 SaaS (85)","cloud":"\u2601\ufe0f Cloud (85)","php":"\ud83d\udc18 PHP (82)","admin":"\u267e\ufe0f Admin (76)","web dev":"\ud83e\udd13 Web Developer (76)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (66)","sys admin":"\u267e\ufe0f Sys Admin (64)","mobile":"\ud83d\udcf1 Mobile (64)","infosec":"\ud83d\udd11 InfoSec (58)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","ecommerce":"\ud83d\udecd Ecommerce (52)","web3":"\ud83d\udc8e Web3 (51)","blockchain":"\u26d3 Blockchain (51)","crypto":"\ud83c\udfc5 Crypto (51)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (36)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","laravel":"\ud83d\udce6 Laravel (31)","wordpress":"\u270d\ufe0f Wordpress (31)","machine learning":"\ud83e\udd16 Machine Learning (31)","architecture":"\ud83d\udce6 Architecture (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (28)","seo":"\ud83d\udd0e SEO (27)","c":"\ud83d\udd37 C (27)","c plus plus":"\u2795 C Plus Plus (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","copywriting":"\u270d\ufe0f Copywriting (16)","redis":"\ud83e\udde0 Redis (16)","junior":"\ud83d\udc76 Junior (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","recruiter":"\ud83c\udfaf Recruiter (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","nft":"\ud83c\udf81 NFT (10)","bus dev":"\ud83d\udcbc Bus Developer (10)","flutter":"\ud83e\udda9 Flutter (9)","full time":"\u23f0 Full Time (9)","accounting":"\ud83d\udcbc Accounting (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","nosql":"\ud83d\udeab NoSQL (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","internship":" Internship (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","heroku":"\ud83d\udfea Heroku (7)","big data":"\ud83e\udde0 Big Data (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (1,466)","senior":"\ud83d\udc75 Senior (1,152)","dev":"\ud83e\udd13 Developer (1,099)","exec":"\ud83d\udcbc Executive (748)","javascript":"\u2615\ufe0f JavaScript (549)","backend":"\ud83c\udf51 Backend (435)","golang":"\ud83d\udc00 Golang (413)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (349)","front end":"\ud83c\udfa8 Front End (318)","marketing":"\ud83d\udea5 Marketing (197)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (156)","python":"\ud83d\udc0d Python (134)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","cloud":"\u2601\ufe0f Cloud (87)","saas":"\ud83d\udce6 SaaS (85)","php":"\ud83d\udc18 PHP (81)","web dev":"\ud83e\udd13 Web Developer (76)","admin":"\u267e\ufe0f Admin (75)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (65)","mobile":"\ud83d\udcf1 Mobile (63)","sys admin":"\u267e\ufe0f Sys Admin (63)","infosec":"\ud83d\udd11 InfoSec (59)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","blockchain":"\u26d3 Blockchain (52)","web3":"\ud83d\udc8e Web3 (52)","crypto":"\ud83c\udfc5 Crypto (52)","ecommerce":"\ud83d\udecd Ecommerce (52)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (34)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","machine learning":"\ud83e\udd16 Machine Learning (31)","laravel":"\ud83d\udce6 Laravel (31)","architecture":"\ud83d\udce6 Architecture (30)","wordpress":"\u270d\ufe0f Wordpress (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","c plus plus":"\u2795 C Plus Plus (26)","c":"\ud83d\udd37 C (26)","seo":"\ud83d\udd0e SEO (25)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","junior":"\ud83d\udc76 Junior (15)","copywriting":"\u270d\ufe0f Copywriting (15)","redis":"\ud83e\udde0 Redis (15)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","bus dev":"\ud83d\udcbc Bus Developer (10)","accounting":"\ud83d\udcbc Accounting (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","recruiter":"\ud83c\udfaf Recruiter (10)","nft":"\ud83c\udf81 NFT (10)","flutter":"\ud83e\udda9 Flutter (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","full time":"\u23f0 Full Time (9)","nosql":"\ud83d\udeab NoSQL (8)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","internship":" Internship (7)","smart contracts":"\ud83d\udccb Smart Contracts (7)","heroku":"\ud83d\udfea Heroku (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","big data":"\ud83e\udde0 Big Data (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -201,7 +201,7 @@ Loading
 👩‍💻&nbsp;Join Remote OK
 </ap>
 <a href="/login">
-👋 &nbsp;Log in
+ 👋 &nbsp;Log in
 </a>
 <div class="top-bar-dropdown-divider">
 <div class="top-bar-dropdown-divider-label">
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($127k/mo)
+🤲&nbsp; Open Startup ($119k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.96%) </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#c4b7a5a8a1b784b6a1a9abb0a1abafeaa7aba9fbb7b1a6aea1a7b0f985a0b2a1b6b0adb7a1efabaaef96a1a9abb0a1ef8b8fe2a6aba0bdf990acadb7efa1a9a5ada8efa0aba1b7efaaabb0efb3abb6afeae1f485e1f4fd94a8a1a5b7a1efb1b7a1efb0aca1efa1a9a5ada8efa5a0a0b6a1b7b7efa5a09bb7a5a8a1b7efa5aaa0efb0aca1aaefe1f0f4efa5aaa0efb0aca1aaefb0acadb7efb7adb0a1e1f6f3b7efa0aba9a5adaaefadaab7b0a1a5a0e1f687efb0abefa5b2abada0efb7b4a5a9a9a1b6b7efa2a8ababa0adaaa3efb0acadb7efa1a9a5ada8eaef93a1e1f6f3b6a1efabaaa8bdefa5a7a7a1b4b0adaaa3efb7b4abaab7abb6b7acadb4e1f682a5a0efa0a1a5a8b7efa2b6aba9efe1f6f0f7f4afe1f682a9abefa5b0efb0acadb7efa9aba9a1aab0efa5aaa0efb0aca1b6a1e1f6f3b7efa5efb3a5adb0adaaa3efa8adb7b0eaef93a1efa0abef8a8b90efa0abef879485e1f682a5a2a2ada8ada5b0a1e1f682b7a5a8a1e9a6a5b7a1a0efa0a1a5a8b7e1f687efabaaa8bdefa2a8a5b0efa2a1a1efa8b1a9b4efb7b1a9efaca5b6a0efa7a5b7acefb7b4abaab7abb6b7acadb4b7e1f682a5a0b7e1f687efb4a8a1a5b7a1efb7a5b2a1efa6abb0acefaba2efb1b7efb0ada9a1efa5aaa0efa0abaae1f6f3b0efa1a9a5ada8efb1b7efa5a6abb1b0efb0aca5b0eaef90aca5aaafb7e1f6f5">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#a7d4c6cbc2d4e7d5c2cac8d3c2c8cc89c4c8ca98d4d2c5cdc2c4d39ae6c3d1c2d5d3ced4c28cc8c98cf5c2cac8d3c28ce8ec81c5c8c3de9af3cfced48cc2cac6cecb8cc3c8c2d48cc9c8d38cd0c8d5cc898297e682979ef7cbc2c6d4c28cd2d4c28cd3cfc28cc2cac6cecb8cc6c3c3d5c2d4d48cc6c3f8d4c6cbc2d48cc6c9c38cd3cfc2c98c8293978cc6c9c38cd3cfc2c98cd3cfced48cd4ced3c2829590d48cc3c8cac6cec98ccec9d4d3c2c6c38295e48cd3c88cc6d1c8cec38cd4d7c6cacac2d5d48cc1cbc8c8c3cec9c08cd3cfced48cc2cac6cecb898cf0c2829590d5c28cc8c9cbde8cc6c4c4c2d7d3cec9c08cd4d7c8c9d4c8d5d4cfced78295e1c6c38cc3c2c6cbd48cc1d5c8ca8c8295939497cc8295e1cac88cc6d38cd3cfced48ccac8cac2c9d38cc6c9c38cd3cfc2d5c2829590d48cc68cd0c6ced3cec9c08ccbced4d3898cf0c28cc3c88ce9e8f38cc3c88ce4f7e68295e1c6c1c1cecbcec6d3c28295e1d4c6cbc28ac5c6d4c2c38cc3c2c6cbd48295e48cc8c9cbde8cc1cbc6d38cc1c2c28ccbd2cad78cd4d2ca8ccfc6d5c38cc4c6d4cf8cd4d7c8c9d4c8d5d4cfced7d48295e1c6c3d48295e48cd7cbc2c6d4c28cd4c6d1c28cc5c8d3cf8cc8c18cd2d48cd3cecac28cc6c9c38cc3c8c9829590d38cc2cac6cecb8cd2d48cc6c5c8d2d38cd3cfc6d3898cf3cfc6c9ccd4829596">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-21 new jobs posted today
+12 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109258-remote-software-engineer-frontend-kikoff" data-epoch="1645984803" data-search="Kikoff Software Engineer Frontend mobile marketing engineer front end exec dev digital nomad" data-company="Kikoff" data-stack="" id="job-109258" data-id="109258" data-href="/remote-jobs/109258-remote-software-engineer-frontend-kikoff" class="job job-109258     active   active  ==    												" title="">
 <td class="image " style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-27T18:00:03+00:00","description":"We\u2019re looking for experienced web\/frontend engineers who are looking to use the latest in web technology to move the company mission forward. Our initial web app was written in ReactJS and served using NextJS on Express application on AWS. Frontend engineers are expected to own the deploy process for the frontend service.\n\nAs a frontend engineer at a growing fintech startup you are going to move the needle, but it will require a split personality: Your Dr. Jekyll leans towards modular code, carefully isolated JS\/SCSS, and writing integration tests to make sure nothing breaks on a deploy; your Hyde-side is one that focuses on managing a chaotic and fast-changing web landscape with multiple contributors deploying several times a day.\n\nOur mission is to create fair, effective, and simple financial pathways to help 100M Americans reach their financial goals. Our investors include Lightspeed, Coatue and GGV. Founders are serial entrepreneurs who co-founded and served as C-suite executives at 3 FinTech unicorns.\n\nDetailed frontend stack:\n- Typescript\n- ReactJS (functional)\n- Framework: NextJS\n- State management: Redux, Redux thunk\n- Styling: SCSS modules\n- Networking: Protobuf.js -> axios\n- Animations: GSAP, Framer Motion, native CSS animations\n- Testing: Cypress\n- Bundler: Webpack\n- Infrastructure: NextJS -> Express -> Elastic Beanstalk -> AWS\n\nRequirements:\n- B.A. \/ B.S. \/ M.S. or strong self-taught fundamentals in computer science\n- Expertise in React, Typescript and NodeJS with experience deploying live code to live traffic\n- A strong understanding of functional programming concepts\n- 4+ years of industry experience, with demonstrated breadth and depth of product impact\n- Ability to analyze data and distill information for business purposes\n- Effectiveness as demonstrated by problem-solving skills in areas outside your expertise\n- Desire to form strong professional bonds with startup-forward coworkers\n\nNice to haves:\n- Experience with NextJS, Protobuf and Webpack\n\nWhat we\u2019re like:\n- Scrappy. We had a product goal and put out the MVP, collecting our first users with steady growth via paid channels in four months. We don\u2019t cut corners when we know we\u2019ll need them but we don\u2019t build things without that need. We don\u2019t like inefficiency but we dislike operationalizing one-off tasks even more.\n- Risk-oriented. Everything has risk, but a mature team knows how to make these tradeoffs. That\u2019s why we built the MVP fast\u2013\u2013because time is your most valuable asset and is practically fungible with money in the startup world.\n- Data-obsessed. We all look at data and pull it, and we believe that understanding the mechanics can yield valuable insights. Complex systems require elegant, not just simple solutions. You absolutely need to be interested in data if you want to leverage your knowledge of systems.\n- Lucky. That\u2019s how we look at this journey so far. From our timing of fundraising, to the circumstances in which we came together, to the initial product traction we\u2019re getting, there\u2019s no other word to describe it. We are grateful you are reading this, and we know that if you\u2019re meant to be with us on this journey, then we will see you soon.\n\nWhy Kikoff:\nThis is a consumer fintech startup, and you will be working with serial entrepreneurs who have built strong consumer brands and innovative products. We are backed by some of Silicon Valley\u2019s top VCs, including GGV capital, Lightspeed Ventures, Female Founders Fund, and others. We value extreme ownership, clear communication, a strong sense of craftsmanship, and the desire to create lasting work and work relationships. Yes, you can build an exciting business AND have real-life real-customer impact.\n\n\ud83d\udcb0 Competitive pay based on experience\n\ud83c\udfe5 Medical, dental, and vision coverage - Kikoff covers the full cost of health insurance for the employee!\n\ud83d\udcc8 Stock Options\n\ud83c\udfdd  Generous unlimited vacation policy to help you recharge\n\nRegular team building events to help you get to know the Kikoff team and soo much more! Our last virtual cooking event had everyone's mouth on fire, but cooled down by home-mixed cocktails.\n\n Apply now and work remotely at Kikoff","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer Frontend","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-30T18:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"Kikoff","url":"https:\/\/remoteok.com\/kikoff","sameAs":"https:\/\/remoteok.com\/kikoff","logo":null}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-27T18:00:03+00:00","description":"We\u2019re looking for experienced web\/frontend engineers who are looking to use the latest in web technology to move the company mission forward. Our initial web app was written in ReactJS and served using NextJS on Express application on AWS. Frontend engineers are expected to own the deploy process for the frontend service.\n\nAs a frontend engineer at a growing fintech startup you are going to move the needle, but it will require a split personality: Your Dr. Jekyll leans towards modular code, carefully isolated JS\/SCSS, and writing integration tests to make sure nothing breaks on a deploy; your Hyde-side is one that focuses on managing a chaotic and fast-changing web landscape with multiple contributors deploying several times a day.\n\nOur mission is to create fair, effective, and simple financial pathways to help 100M Americans reach their financial goals. Our investors include Lightspeed, Coatue and GGV. Founders are serial entrepreneurs who co-founded and served as C-suite executives at 3 FinTech unicorns.\n\nDetailed frontend stack:\n- Typescript\n- ReactJS (functional)\n- Framework: NextJS\n- State management: Redux, Redux thunk\n- Styling: SCSS modules\n- Networking: Protobuf.js -> axios\n- Animations: GSAP, Framer Motion, native CSS animations\n- Testing: Cypress\n- Bundler: Webpack\n- Infrastructure: NextJS -> Express -> Elastic Beanstalk -> AWS\n\nRequirements:\n- B.A. \/ B.S. \/ M.S. or strong self-taught fundamentals in computer science\n- Expertise in React, Typescript and NodeJS with experience deploying live code to live traffic\n- A strong understanding of functional programming concepts\n- 4+ years of industry experience, with demonstrated breadth and depth of product impact\n- Ability to analyze data and distill information for business purposes\n- Effectiveness as demonstrated by problem-solving skills in areas outside your expertise\n- Desire to form strong professional bonds with startup-forward coworkers\n\nNice to haves:\n- Experience with NextJS, Protobuf and Webpack\n\nWhat we\u2019re like:\n- Scrappy. We had a product goal and put out the MVP, collecting our first users with steady growth via paid channels in four months. We don\u2019t cut corners when we know we\u2019ll need them but we don\u2019t build things without that need. We don\u2019t like inefficiency but we dislike operationalizing one-off tasks even more.\n- Risk-oriented. Everything has risk, but a mature team knows how to make these tradeoffs. That\u2019s why we built the MVP fast\u2013\u2013because time is your most valuable asset and is practically fungible with money in the startup world.\n- Data-obsessed. We all look at data and pull it, and we believe that understanding the mechanics can yield valuable insights. Complex systems require elegant, not just simple solutions. You absolutely need to be interested in data if you want to leverage your knowledge of systems.\n- Lucky. That\u2019s how we look at this journey so far. From our timing of fundraising, to the circumstances in which we came together, to the initial product traction we\u2019re getting, there\u2019s no other word to describe it. We are grateful you are reading this, and we know that if you\u2019re meant to be with us on this journey, then we will see you soon.\n\nWhy Kikoff:\nThis is a consumer fintech startup, and you will be working with serial entrepreneurs who have built strong consumer brands and innovative products. We are backed by some of Silicon Valley\u2019s top VCs, including GGV capital, Lightspeed Ventures, Female Founders Fund, and others. We value extreme ownership, clear communication, a strong sense of craftsmanship, and the desire to create lasting work and work relationships. Yes, you can build an exciting business AND have real-life real-customer impact.\n\n\ud83d\udcb0 Competitive pay based on experience\n\ud83c\udfe5 Medical, dental, and vision coverage - Kikoff covers the full cost of health insurance for the employee!\n\ud83d\udcc8 Stock Options\n\ud83c\udfdd  Generous unlimited vacation policy to help you recharge\n\nRegular team building events to help you get to know the Kikoff team and soo much more! Our last virtual cooking event had everyone's mouth on fire, but cooled down by home-mixed cocktails.\n\n Apply now and work remotely at Kikoff","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"110000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer Frontend","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-30T18:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"Kikoff","url":"https:\/\/remoteok.com\/kikoff","sameAs":"https:\/\/remoteok.com\/kikoff","logo":null}}</script>
 <a class="preventLink" href="/remote-jobs/109258-remote-software-engineer-frontend-kikoff">
 <div data-z="1" class="logo">
 <p>
@@ -493,7 +493,7 @@ front end </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-27T18:00:03+00:00">
-5d </time>
+6d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109258">
@@ -513,7 +513,7 @@ Apply
 <span style="font-weight: 400;">Kikoff is hiring a </span><br />Remote Software Engineer Front End </h1>
 <div class="markdown">We’re looking for experienced web/frontend engineers who are looking to use the latest in web technology to move the company mission forward. Our initial web app was written in ReactJS and served using NextJS on Express application on AWS. Frontend engineers are expected to own the deploy process for the frontend service.\n\nAs a frontend engineer at a growing fintech startup you are going to move the needle, but it will require a split personality: Your Dr. Jekyll leans towards modular code, carefully isolated JS/SCSS, and writing integration tests to make sure nothing breaks on a deploy; your Hyde-side is one that focuses on managing a chaotic and fast-changing web landscape with multiple contributors deploying several times a day.\n\nOur mission is to create fair, effective, and simple financial pathways to help 100M Americans reach their financial goals. Our investors include Lightspeed, Coatue and GGV. Founders are serial entrepreneurs who co-founded and served as C-suite executives at 3 FinTech unicorns.\n\nDetailed frontend stack:\n- Typescript\n- ReactJS (functional)\n- Framework: NextJS\n- State management: Redux, Redux thunk\n- Styling: SCSS modules\n- Networking: Protobuf.js -> axios\n- Animations: GSAP, Framer Motion, native CSS animations\n- Testing: Cypress\n- Bundler: Webpack\n- Infrastructure: NextJS -> Express -> Elastic Beanstalk -> AWS\n\nRequirements:\n- B.A. / B.S. / M.S. or strong self-taught fundamentals in computer science\n- Expertise in React, Typescript and NodeJS with experience deploying live code to live traffic\n- A strong understanding of functional programming concepts\n- 4+ years of industry experience, with demonstrated breadth and depth of product impact\n- Ability to analyze data and distill information for business purposes\n- Effectiveness as demonstrated by problem-solving skills in areas outside your expertise\n- Desire to form strong professional bonds with startup-forward coworkers\n\nNice to haves:\n- Experience with NextJS, Protobuf and Webpack\n\nWhat we’re like:\n- Scrappy. We had a product goal and put out the MVP, collecting our first users with steady growth via paid channels in four months. We don’t cut corners when we know we’ll need them but we don’t build things without that need. We don’t like inefficiency but we dislike operationalizing one-off tasks even more.\n- Risk-oriented. Everything has risk, but a mature team knows how to make these tradeoffs. That’s why we built the MVP fast––because time is your most valuable asset and is practically fungible with money in the startup world.\n- Data-obsessed. We all look at data and pull it, and we believe that understanding the mechanics can yield valuable insights. Complex systems require elegant, not just simple solutions. You absolutely need to be interested in data if you want to leverage your knowledge of systems.\n- Lucky. That’s how we look at this journey so far. From our timing of fundraising, to the circumstances in which we came together, to the initial product traction we’re getting, there’s no other word to describe it. We are grateful you are reading this, and we know that if you’re meant to be with us on this journey, then we will see you soon.\n\nWhy Kikoff:\nThis is a consumer fintech startup, and you will be working with serial entrepreneurs who have built strong consumer brands and innovative products. We are backed by some of Silicon Valley’s top VCs, including GGV capital, Lightspeed Ventures, Female Founders Fund, and others. We value extreme ownership, clear communication, a strong sense of craftsmanship, and the desire to create lasting work and work relationships. Yes, you can build an exciting business AND have real-life real-customer impact.\n\n💰 Competitive pay based on experience\n🏥 Medical, dental, and vision coverage - Kikoff covers the full cost of health insurance for the employee!\n📈 Stock Options\n🏝 Generous unlimited vacation policy to help you recharge\n\nRegular team building events to help you get to know the Kikoff team and soo much more! Our last virtual cooking event had everyone's mouth on fire, but cooled down by home-mixed cocktails.\n \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to Mobile, Marketing, Engineer, Front End, Executive, Developer and Digital Nomad jobs that are similar:\n\n
- $60,000 &mdash; $110,000/year\n
+$60,000 &mdash; $110,000/year\n
 \n\n#Location\nRemote, United States<br />
 </div>
 <br />
@@ -635,7 +635,7 @@ mobile </div>
 <div class="tag">
 product design </div>
 <div class="tag">
- ui </div>
+ui </div>
 </div>
 <div class="button green">
 Hire remote worker
@@ -679,7 +679,7 @@ Experienced iOS developer based in the UK </div>
 mobile </div>
 <div class="tag">
 swift </div>
- <div class="tag">
+<div class="tag">
 objective c </div>
 </div>
 <div class="button green">
@@ -778,20 +778,20 @@ Remote Customer Support Jobs
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-admin-jobs">
-Remote Admin Jobs
-</a> </div><div class="tag">
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-admin-jobs">
+Remote Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
@@ -799,11 +799,11 @@ Remote Data Science Jobs
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
@@ -820,17 +820,17 @@ Remote Java Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🛍&nbsp;<a href="/remote-ecommerce-jobs">
-Remote Ecommerce Jobs
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
-</a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
+</a> </div><div class="tag">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
+Remote Ecommerce Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -859,17 +859,17 @@ Remote Ops Jobs
 🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-laravel-jobs">
-Remote Laravel Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-wordpress-jobs">
-Remote Wordpress Jobs
-</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
+📦&nbsp;<a href="/remote-laravel-jobs">
+Remote Laravel Jobs
+</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+✍️&nbsp;<a href="/remote-wordpress-jobs">
+Remote Wordpress Jobs
 </a> </div><div class="tag">
 🐧&nbsp;<a href="/remote-linux-jobs">
 Remote Linux Jobs
@@ -877,17 +877,17 @@ Remote Linux Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+🅰️&nbsp;<a href="/remote-angular-jobs">
+Remote Angular Jobs
 </a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🅰️&nbsp;<a href="/remote-angular-jobs">
-Remote Angular Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-shopify-jobs">
 Remote Shopify Jobs
@@ -974,12 +974,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1018,12 +1018,12 @@ Hire JQuery Developers Remotely
 Hire Bootstrap Developers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
@@ -1042,12 +1042,12 @@ Hire Photoshop Freelancers Remotely
 Hire Digital Marketing Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
 Hire Social Media Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
@@ -1061,7 +1061,7 @@ Hire Graphic Design Freelancers Remotely
 🦑 &nbsp;<a href="/hire/kubernetes">
 Hire Kubernetes Developers Remotely
 </a>
- </div><div class="tag">
+</div><div class="tag">
 ⚛️ &nbsp;<a href="/hire/redux">
 Hire Redux Developers Remotely
 </a>
@@ -1070,28 +1070,28 @@ Hire Redux Developers Remotely
 Hire Sass Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/figma">
-Hire Figma Developers Remotely
-</a>
-</div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
 Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
-🐇 &nbsp;<a href="/hire/agile">
-Hire Agile Developers Remotely
+🎨 &nbsp;<a href="/hire/figma">
+Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+🐇 &nbsp;<a href="/hire/agile">
+Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
@@ -1118,12 +1118,12 @@ Hire IOS Developers Remotely
 Hire C++ Developers Remotely
 </a>
 </div><div class="tag">
-🦩 &nbsp;<a href="/hire/flutter">
-Hire Flutter Developers Remotely
-</a>
-</div><div class="tag">
 🤖 &nbsp;<a href="/hire/android">
 Hire Android Developers Remotely
+</a>
+</div><div class="tag">
+🦩 &nbsp;<a href="/hire/flutter">
+Hire Flutter Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/product-design">
@@ -1148,6 +1148,6 @@ Hire Firebase Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-170ms
+177ms
 </div>
 <div class="END-OF-FILE"></div>

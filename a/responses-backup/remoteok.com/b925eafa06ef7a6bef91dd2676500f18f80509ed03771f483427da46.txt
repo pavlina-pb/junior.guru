@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (1,465)","senior":"\ud83d\udc75 Senior (1,150)","dev":"\ud83e\udd13 Developer (1,101)","exec":"\ud83d\udcbc Executive (752)","javascript":"\u2615\ufe0f JavaScript (551)","backend":"\ud83c\udf51 Backend (434)","golang":"\ud83d\udc00 Golang (408)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (350)","front end":"\ud83c\udfa8 Front End (319)","marketing":"\ud83d\udea5 Marketing (199)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (157)","python":"\ud83d\udc0d Python (133)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","saas":"\ud83d\udce6 SaaS (85)","cloud":"\u2601\ufe0f Cloud (85)","php":"\ud83d\udc18 PHP (82)","admin":"\u267e\ufe0f Admin (76)","web dev":"\ud83e\udd13 Web Developer (76)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (66)","sys admin":"\u267e\ufe0f Sys Admin (64)","mobile":"\ud83d\udcf1 Mobile (64)","infosec":"\ud83d\udd11 InfoSec (58)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","ecommerce":"\ud83d\udecd Ecommerce (52)","web3":"\ud83d\udc8e Web3 (51)","blockchain":"\u26d3 Blockchain (51)","crypto":"\ud83c\udfc5 Crypto (51)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (36)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","laravel":"\ud83d\udce6 Laravel (31)","wordpress":"\u270d\ufe0f Wordpress (31)","machine learning":"\ud83e\udd16 Machine Learning (31)","architecture":"\ud83d\udce6 Architecture (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (28)","seo":"\ud83d\udd0e SEO (27)","c":"\ud83d\udd37 C (27)","c plus plus":"\u2795 C Plus Plus (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","copywriting":"\u270d\ufe0f Copywriting (16)","redis":"\ud83e\udde0 Redis (16)","junior":"\ud83d\udc76 Junior (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","recruiter":"\ud83c\udfaf Recruiter (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","nft":"\ud83c\udf81 NFT (10)","bus dev":"\ud83d\udcbc Bus Developer (10)","flutter":"\ud83e\udda9 Flutter (9)","full time":"\u23f0 Full Time (9)","accounting":"\ud83d\udcbc Accounting (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","nosql":"\ud83d\udeab NoSQL (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","internship":" Internship (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","heroku":"\ud83d\udfea Heroku (7)","big data":"\ud83e\udde0 Big Data (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (1,466)","senior":"\ud83d\udc75 Senior (1,152)","dev":"\ud83e\udd13 Developer (1,099)","exec":"\ud83d\udcbc Executive (748)","javascript":"\u2615\ufe0f JavaScript (549)","backend":"\ud83c\udf51 Backend (435)","golang":"\ud83d\udc00 Golang (413)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (349)","front end":"\ud83c\udfa8 Front End (318)","marketing":"\ud83d\udea5 Marketing (197)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (156)","python":"\ud83d\udc0d Python (134)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","cloud":"\u2601\ufe0f Cloud (87)","saas":"\ud83d\udce6 SaaS (85)","php":"\ud83d\udc18 PHP (81)","web dev":"\ud83e\udd13 Web Developer (76)","admin":"\u267e\ufe0f Admin (75)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (65)","mobile":"\ud83d\udcf1 Mobile (63)","sys admin":"\u267e\ufe0f Sys Admin (63)","infosec":"\ud83d\udd11 InfoSec (59)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","blockchain":"\u26d3 Blockchain (52)","web3":"\ud83d\udc8e Web3 (52)","crypto":"\ud83c\udfc5 Crypto (52)","ecommerce":"\ud83d\udecd Ecommerce (52)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (34)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","machine learning":"\ud83e\udd16 Machine Learning (31)","laravel":"\ud83d\udce6 Laravel (31)","architecture":"\ud83d\udce6 Architecture (30)","wordpress":"\u270d\ufe0f Wordpress (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","c plus plus":"\u2795 C Plus Plus (26)","c":"\ud83d\udd37 C (26)","seo":"\ud83d\udd0e SEO (25)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","junior":"\ud83d\udc76 Junior (15)","copywriting":"\u270d\ufe0f Copywriting (15)","redis":"\ud83e\udde0 Redis (15)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","bus dev":"\ud83d\udcbc Bus Developer (10)","accounting":"\ud83d\udcbc Accounting (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","recruiter":"\ud83c\udfaf Recruiter (10)","nft":"\ud83c\udf81 NFT (10)","flutter":"\ud83e\udda9 Flutter (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","full time":"\u23f0 Full Time (9)","nosql":"\ud83d\udeab NoSQL (8)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","internship":" Internship (7)","smart contracts":"\ud83d\udccb Smart Contracts (7)","heroku":"\ud83d\udfea Heroku (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","big data":"\ud83e\udde0 Big Data (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($127k/mo)
+🤲&nbsp; Open Startup ($119k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.96%) </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#5320323f36201321363e3c27363c387d303c3e6c202631393630276e1237253621273a2036783c3d7801363e3c2736781c1875313c372a6e073b3a2078363e323a3f78373c3620783d3c2778243c21387d76631276636a033f363220367826203678273b3678363e323a3f78323737213620207832370c20323f362078323d3778273b363d7876676378323d3778273b363d78273b3a2078203a27367661642078373c3e323a3d783a3d202736323776611078273c7832253c3a37782023323e3e36212078353f3c3c373a3d3478273b3a2078363e323a3f7d7804367661642136783c3d3f2a783230303623273a3d347820233c3d203c21203b3a237661153237783736323f207835213c3e787661676063387661153e3c78322778273b3a20783e3c3e363d2778323d3778273b3621367661642078327824323a273a3d34783f3a20277d78043678373c781d1c0778373c781003127661153235353a3f3a32273676611520323f367e3132203637783736323f20766110783c3d3f2a78353f322778353636783f263e237820263e783b322137783032203b7820233c3d203c21203b3a232076611532372076611078233f36322036782032253678313c273b783c3578262078273a3e3678323d3778373c3d7661642778363e323a3f7826207832313c262778273b32277d78073b323d3820766162">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#fe8d9f929b8dbe8c9b93918a9b9195d09d9193c18d8b9c949b9d8ac3bf9a889b8c8a978d9bd59190d5ac9b93918a9bd5b1b5d89c919a87c3aa96978dd59b939f9792d59a919b8dd590918ad589918c95d0dbcebfdbcec7ae929b9f8d9bd58b8d9bd58a969bd59b939f9792d59f9a9a8c9b8d8dd59f9aa18d9f929b8dd59f909ad58a969b90d5dbcaced59f909ad58a969b90d58a96978dd58d978a9bdbccc98dd59a91939f9790d597908d8a9b9f9adbccbdd58a91d59f8891979ad58d8e9f93939b8c8dd5989291919a979099d58a96978dd59b939f9792d0d5a99bdbccc98c9bd591909287d59f9d9d9b8e8a979099d58d8e91908d918c8d96978edbccb89f9ad59a9b9f928dd5988c9193d5dbcccacdce95dbccb89391d59f8ad58a96978dd59391939b908ad59f909ad58a969b8c9bdbccc98dd59fd5899f978a979099d592978d8ad0d5a99bd59a91d5b0b1aad59a91d5bdaebfdbccb89f98989792979f8a9bdbccb88d9f929bd39c9f8d9b9ad59a9b9f928ddbccbdd591909287d598929f8ad5989b9bd5928b938ed58d8b93d5969f8c9ad59d9f8d96d58d8e91908d918c8d96978e8ddbccb89f9a8ddbccbdd58e929b9f8d9bd58d9f889bd59c918a96d59198d58b8dd58a97939bd59f909ad59a9190dbccc98ad59b939f9792d58b8dd59f9c918b8ad58a969f8ad0d5aa969f90958ddbcccf">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-21 new jobs posted today
+12 new jobs posted today
 </span>
 </div>
 </td>
@@ -450,7 +450,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109219-remote-full-stack-developer-vht" data-epoch="1645887603" data-search="VHT Full Stack Developer full stack dev digital nomad" data-company="VHT" data-stack="" id="job-109219" data-id="109219" data-href="/remote-jobs/109219-remote-full-stack-developer-vht" class="job job-109219     active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T15:00:03+00:00","description":"At VHT we\u2019re dedicated to customer success. We\u2019re as much of a service company as we are a technology company. We develop strategies with our clients to tune the use of our tools, solidifying successful relationships between brands and their customers.\n\u00a0\nWe know our services are mission-critical and we constantly strive to maximize the benefit they bring.\u00a0 We\u2019re increasing our investment in data services because when we know we\u2019re doing better, and can share this with our clients, everyone wins.\u00a0\u00a0\n\nWhat we are looking for:\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \nWe are seeking a Full Stack Developer with a proven track record of building customer facing services. \u00a0As a member of the Engineering team, you will work closely with the Product and Design teams to not only develop, but also help define and execute projects. Strong communication skills and a desire to be involved in all aspects of the project life cycle are a must.\n\nHow do we keep the best talent happy?\n\u00a0\nHow about we start with \u201cOpen PTO\u201d \u2013 not only do we offer that, but we encourage employees to use it! \n\u00a0\nCompensation matters! We recognize great talent and make sure you are compensated accordingly. In addition to highly competitive salaries, VHT offers a comprehensive benefits package including:\n\u00a0\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Full array of health insurance options (PPO and HSA) to best suit your needs\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Vision\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dental\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Teledoc\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Flexible Spending Accounts\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Disability insurance \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Matching 401k programs \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pet insurance\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Legal Assistance Programs\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 And much more!\n\u00a0\nWe at VHT are particularly interested in having a diverse team with a broad set of skills and viewpoints. If this seems like your dream job, but you\u2019re not sure if you qualify, apply anyway! \n\u00a0\nVisa Sponsorship:\u00a0U.S. citizens and those authorized to work in the U.S. are encouraged to apply. Please note, this position is not eligible for visa sponsorship.\n\u00a0\nVHT is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.\n\u00a0\n\u00a0\n#LI-Remote\n\n\n Apply now and work remotely at VHT","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Full Stack Developer","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/1e54260a19bd2e2dc8b7b420ab003a1e1645887603.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T15:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"VHT","url":"https:\/\/remoteok.com\/vht","sameAs":"https:\/\/remoteok.com\/vht","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/1e54260a19bd2e2dc8b7b420ab003a1e1645887603.png"}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-26T15:00:03+00:00","description":"At VHT we\u2019re dedicated to customer success. We\u2019re as much of a service company as we are a technology company. We develop strategies with our clients to tune the use of our tools, solidifying successful relationships between brands and their customers.\n\u00a0\nWe know our services are mission-critical and we constantly strive to maximize the benefit they bring.\u00a0 We\u2019re increasing our investment in data services because when we know we\u2019re doing better, and can share this with our clients, everyone wins.\u00a0\u00a0\n\nWhat we are looking for:\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \nWe are seeking a Full Stack Developer with a proven track record of building customer facing services. \u00a0As a member of the Engineering team, you will work closely with the Product and Design teams to not only develop, but also help define and execute projects. Strong communication skills and a desire to be involved in all aspects of the project life cycle are a must.\n\nHow do we keep the best talent happy?\n\u00a0\nHow about we start with \u201cOpen PTO\u201d \u2013 not only do we offer that, but we encourage employees to use it! \n\u00a0\nCompensation matters! We recognize great talent and make sure you are compensated accordingly. In addition to highly competitive salaries, VHT offers a comprehensive benefits package including:\n\u00a0\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Full array of health insurance options (PPO and HSA) to best suit your needs\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Vision\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dental\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Teledoc\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Flexible Spending Accounts\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Disability insurance \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Matching 401k programs \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pet insurance\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Legal Assistance Programs\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 And much more!\n\u00a0\nWe at VHT are particularly interested in having a diverse team with a broad set of skills and viewpoints. If this seems like your dream job, but you\u2019re not sure if you qualify, apply anyway! \n\u00a0\nVisa Sponsorship:\u00a0U.S. citizens and those authorized to work in the U.S. are encouraged to apply. Please note, this position is not eligible for visa sponsorship.\n\u00a0\nVHT is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.\n\u00a0\n\u00a0\n#LI-Remote\n\n\n Apply now and work remotely at VHT","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"110000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Full Stack Developer","image":"https:\/\/remoteok.com\/assets\/img\/jobs\/1e54260a19bd2e2dc8b7b420ab003a1e1645887603.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-29T15:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"VHT","url":"https:\/\/remoteok.com\/vht","sameAs":"https:\/\/remoteok.com\/vht","logo":"https:\/\/remoteok.com\/assets\/img\/jobs\/1e54260a19bd2e2dc8b7b420ab003a1e1645887603.png"}}</script>
 <a alt="VHT" class="preventLink" href="/remote-jobs/109219-remote-full-stack-developer-vht">
 <img alt="VHT" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteok.com/assets/img/jobs/1e54260a19bd2e2dc8b7b420ab003a1e1645887603.png?1645887603" class="logo" />
 </a>
@@ -480,7 +480,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-26T15:00:03+00:00">
-7d </time>
+8d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109219">
@@ -508,11 +508,11 @@ VHT </h2>
 Apply now
 </a>
 <p>
-👀 456 views
+👀 488 views
 </p>
 <p>
-✅ 30 applied
-(7%)
+✅ 31 applied
+(6%)
 </p>
 <p>
 <strong>
@@ -795,20 +795,20 @@ Remote Customer Support Jobs
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-admin-jobs">
-Remote Admin Jobs
-</a> </div><div class="tag">
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-admin-jobs">
+Remote Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
@@ -816,15 +816,15 @@ Remote Data Science Jobs
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
 </a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
+</a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
- </a> </div><div class="tag">
+</a> </div><div class="tag">
 🔬&nbsp;<a href="/remote-quality-assurance-jobs">
 Remote Quality Assurance Jobs
 </a> </div><div class="tag">
@@ -837,17 +837,17 @@ Remote Java Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🛍&nbsp;<a href="/remote-ecommerce-jobs">
-Remote Ecommerce Jobs
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
-</a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
+</a> </div><div class="tag">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
+Remote Ecommerce Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -876,17 +876,17 @@ Remote Ops Jobs
 🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-laravel-jobs">
-Remote Laravel Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-wordpress-jobs">
-Remote Wordpress Jobs
-</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
+📦&nbsp;<a href="/remote-laravel-jobs">
+Remote Laravel Jobs
+</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+✍️&nbsp;<a href="/remote-wordpress-jobs">
+Remote Wordpress Jobs
 </a> </div><div class="tag">
 🐧&nbsp;<a href="/remote-linux-jobs">
 Remote Linux Jobs
@@ -894,17 +894,17 @@ Remote Linux Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+🅰️&nbsp;<a href="/remote-angular-jobs">
+Remote Angular Jobs
 </a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🅰️&nbsp;<a href="/remote-angular-jobs">
-Remote Angular Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-shopify-jobs">
 Remote Shopify Jobs
@@ -991,12 +991,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -1035,12 +1035,12 @@ Hire JQuery Developers Remotely
 Hire Bootstrap Developers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
@@ -1059,12 +1059,12 @@ Hire Photoshop Freelancers Remotely
 Hire Digital Marketing Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
 Hire Social Media Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
@@ -1087,28 +1087,28 @@ Hire Redux Developers Remotely
 Hire Sass Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/figma">
-Hire Figma Developers Remotely
-</a>
-</div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
 Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
-🐇 &nbsp;<a href="/hire/agile">
-Hire Agile Developers Remotely
+🎨 &nbsp;<a href="/hire/figma">
+Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+🐇 &nbsp;<a href="/hire/agile">
+Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
@@ -1135,12 +1135,12 @@ Hire IOS Developers Remotely
 Hire C++ Developers Remotely
 </a>
 </div><div class="tag">
-🦩 &nbsp;<a href="/hire/flutter">
-Hire Flutter Developers Remotely
-</a>
-</div><div class="tag">
 🤖 &nbsp;<a href="/hire/android">
 Hire Android Developers Remotely
+</a>
+</div><div class="tag">
+🦩 &nbsp;<a href="/hire/flutter">
+Hire Flutter Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/product-design">
@@ -1165,6 +1165,6 @@ Hire Firebase Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-200ms
+161ms
 </div>
 <div class="END-OF-FILE"></div>

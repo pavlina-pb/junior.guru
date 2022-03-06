@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (1,465)","senior":"\ud83d\udc75 Senior (1,150)","dev":"\ud83e\udd13 Developer (1,101)","exec":"\ud83d\udcbc Executive (752)","javascript":"\u2615\ufe0f JavaScript (551)","backend":"\ud83c\udf51 Backend (434)","golang":"\ud83d\udc00 Golang (408)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (350)","front end":"\ud83c\udfa8 Front End (319)","marketing":"\ud83d\udea5 Marketing (199)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (157)","python":"\ud83d\udc0d Python (133)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","saas":"\ud83d\udce6 SaaS (85)","cloud":"\u2601\ufe0f Cloud (85)","php":"\ud83d\udc18 PHP (82)","admin":"\u267e\ufe0f Admin (76)","web dev":"\ud83e\udd13 Web Developer (76)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (66)","sys admin":"\u267e\ufe0f Sys Admin (64)","mobile":"\ud83d\udcf1 Mobile (64)","infosec":"\ud83d\udd11 InfoSec (58)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","ecommerce":"\ud83d\udecd Ecommerce (52)","web3":"\ud83d\udc8e Web3 (51)","blockchain":"\u26d3 Blockchain (51)","crypto":"\ud83c\udfc5 Crypto (51)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (36)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","laravel":"\ud83d\udce6 Laravel (31)","wordpress":"\u270d\ufe0f Wordpress (31)","machine learning":"\ud83e\udd16 Machine Learning (31)","architecture":"\ud83d\udce6 Architecture (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (28)","seo":"\ud83d\udd0e SEO (27)","c":"\ud83d\udd37 C (27)","c plus plus":"\u2795 C Plus Plus (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","copywriting":"\u270d\ufe0f Copywriting (16)","redis":"\ud83e\udde0 Redis (16)","junior":"\ud83d\udc76 Junior (15)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","recruiter":"\ud83c\udfaf Recruiter (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","nft":"\ud83c\udf81 NFT (10)","bus dev":"\ud83d\udcbc Bus Developer (10)","flutter":"\ud83e\udda9 Flutter (9)","full time":"\u23f0 Full Time (9)","accounting":"\ud83d\udcbc Accounting (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","nosql":"\ud83d\udeab NoSQL (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","internship":" Internship (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","heroku":"\ud83d\udfea Heroku (7)","big data":"\ud83e\udde0 Big Data (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (1,466)","senior":"\ud83d\udc75 Senior (1,152)","dev":"\ud83e\udd13 Developer (1,099)","exec":"\ud83d\udcbc Executive (748)","javascript":"\u2615\ufe0f JavaScript (549)","backend":"\ud83c\udf51 Backend (435)","golang":"\ud83d\udc00 Golang (413)","full stack":"\ud83e\udd5e Full Stack (366)","react":"\u269b\ufe0f React (349)","front end":"\ud83c\udfa8 Front End (318)","marketing":"\ud83d\udea5 Marketing (197)","design":"\ud83c\udfa8 Design (184)","node":"\ud83d\udd17 Node (172)","product designer":"\ud83d\udce6 Product Designer (167)","ruby":"\ud83d\udc8e Ruby (156)","python":"\ud83d\udc0d Python (134)","devops":"\u267e\ufe0f DevOps (131)","non tech":"\ud83d\udd0c Non Tech (120)","customer support":"\ud83c\udfa7 Customer Support (107)","sales":"\ud83d\udcbc Sales (91)","cloud":"\u2601\ufe0f Cloud (87)","saas":"\ud83d\udce6 SaaS (85)","php":"\ud83d\udc18 PHP (81)","web dev":"\ud83e\udd13 Web Developer (76)","admin":"\u267e\ufe0f Admin (75)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (67)","react native":"\u269b\ufe0f React Native (65)","mobile":"\ud83d\udcf1 Mobile (63)","sys admin":"\u267e\ufe0f Sys Admin (63)","infosec":"\ud83d\udd11 InfoSec (59)","quality assurance":"\ud83d\udd2c Quality Assurance (58)","api":"\ud83e\udd16 API (56)","java":"\u2615\ufe0f Java (55)","finance":"\ud83d\udcb0 Finance (54)","blockchain":"\u26d3 Blockchain (52)","web3":"\ud83d\udc8e Web3 (52)","crypto":"\ud83c\udfc5 Crypto (52)","ecommerce":"\ud83d\udecd Ecommerce (52)","testing":"\ud83e\uddea Testing (47)","docker":"\ud83d\udc33 Docker (45)","analyst":"\ud83e\udd14 Analyst (43)","ios":"\ud83c\udf4f iOS (41)","graphql":"\u269b\ufe0f GraphQL (37)","android":"\ud83e\udd16 Android (36)","content writing":"\u270d\ufe0f Content Writing (34)","ops":"\u267e\ufe0f Ops (32)","css":"\ud83c\udfa8 CSS (32)","machine learning":"\ud83e\udd16 Machine Learning (31)","laravel":"\ud83d\udce6 Laravel (31)","architecture":"\ud83d\udce6 Architecture (30)","wordpress":"\u270d\ufe0f Wordpress (30)","linux":"\ud83d\udc27 Linux (29)","social media":"\u270d\ufe0f Social Media (27)","angular":"\ud83c\udd70\ufe0f Angular (26)","c plus plus":"\u2795 C Plus Plus (26)","c":"\ud83d\udd37 C (26)","seo":"\ud83d\udd0e SEO (25)","shopify":"\ud83d\udecd Shopify (23)","hr":"\ud83d\udc4b HR (23)","html":"\ud83d\udd21 HTML (22)","game dev":"\ud83d\udd79 Game Developer (20)","consulting":"\ud83d\udcbc Consulting (20)","elasticsearch":"\ud83e\udde9 Elasticsearch (19)","swift":"\ud83d\udc07 Swift (18)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (17)","serverless":"\u2601\ufe0f Serverless (16)","junior":"\ud83d\udc76 Junior (15)","copywriting":"\u270d\ufe0f Copywriting (15)","redis":"\ud83e\udde0 Redis (15)","meteor":"\u2604\ufe0f Meteor (14)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (14)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (14)","medical":"\ud83d\ude91 Medical (13)","video":"\ud83d\udcfc Video (12)","ads":"\ud83d\udea5 Ads (12)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (11)","solidity":"\u26d3 Solidity (11)","bus dev":"\ud83d\udcbc Bus Developer (10)","accounting":"\ud83d\udcbc Accounting (10)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (10)","recruiter":"\ud83c\udfaf Recruiter (10)","nft":"\ud83c\udf81 NFT (10)","flutter":"\ud83e\udda9 Flutter (9)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (9)","full time":"\u23f0 Full Time (9)","nosql":"\ud83d\udeab NoSQL (8)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (8)","internship":" Internship (7)","smart contracts":"\ud83d\udccb Smart Contracts (7)","heroku":"\ud83d\udfea Heroku (7)","nginx":"\u2747\ufe0f Nginx (7)","defi":"\ud83d\udcb0 Defi (7)","big data":"\ud83e\udde0 Big Data (6)","ansible":" Ansible (6)","ethereum":"\ud83d\udc8e Ethereum (6)","amazon":" Amazon (6)","jquery":"\ud83e\udde9 jQuery (6)","git":"\ud83d\udce6 Git (5)","salesforce":"\u2601\ufe0f Salesforce (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -281,7 +281,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($127k/mo)
+🤲&nbsp; Open Startup ($119k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.96%) </a>
@@ -353,7 +353,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#7b081a171e083b091e16140f1e14105518141644080e19111e180f463a1f0d1e090f12081e50141550291e16140f1e5034305d19141f02462f131208501e161a1217501f141e085015140f500c140910555e4b3a5e4b422b171e1a081e500e081e500f131e501e161a1217501a1f1f091e0808501a1f24081a171e08501a151f500f131e15505e4f4b501a151f500f131e15500f1312085008120f1e5e494c08501f14161a1215501215080f1e1a1f5e4938500f14501a0d14121f50080b1a16161e0908501d1714141f12151c500f131208501e161a121755502c1e5e494c091e5014151702501a18181e0b0f12151c50080b14150814090813120b5e493d1a1f501f1e1a1708501d091416505e494f484b105e493d1614501a0f500f131208501614161e150f501a151f500f131e091e5e494c08501a500c1a120f12151c501712080f55502c1e501f145035342f501f1450382b3a5e493d1a1d1d1217121a0f1e5e493d081a171e56191a081e1f501f1e1a17085e49385014151702501d171a0f501d1e1e50170e160b50080e1650131a091f50181a081350080b14150814090813120b085e493d1a1f085e4938500b171e1a081e50081a0d1e5019140f1350141d500e08500f12161e501a151f501f14155e494c0f501e161a1217500e08501a19140e0f500f131a0f55502f131a1510085e494a">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#4c3f2d20293f0c3e29212338292327622f2321733f392e26292f38710d283a293e38253f29672322671e29212338296703076a2e232835711824253f6729212d2520672823293f67222338673b233e2762697c0d697c751c20292d3f2967393f29673824296729212d2520672d28283e293f3f672d28133f2d20293f672d222867382429226769787c672d22286738242922673824253f673f253829697e7b3f672823212d25226725223f38292d28697e0f673823672d3a232528673f3c2d2121293e3f672a2023232825222b673824253f6729212d252062671b29697e7b3e296723222035672d2f2f293c3825222b673f3c23223f233e3f24253c697e0a2d286728292d203f672a3e232167697e787f7c27697e0a2123672d38673824253f67212321292238672d2228673824293e29697e7b3f672d673b2d253825222b6720253f3862671b2967282367020318672823670f1c0d697e0a2d2a2a2520252d3829697e0a3f2d2029612e2d3f29286728292d203f697e0f6723222035672a202d38672a2929672039213c673f392167242d3e28672f2d3f24673f3c23223f233e3f24253c3f697e0a2d283f697e0f673c20292d3f29673f2d3a29672e23382467232a67393f6738252129672d222867282322697e7b386729212d252067393f672d2e2339386738242d38626718242d22273f697e7d">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -442,7 +442,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-21 new jobs posted today
+12 new jobs posted today
 </span>
 </div>
 </td>
@@ -490,7 +490,7 @@ senior </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-24T12:19:02+00:00">
-9d </time>
+10d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109167">
@@ -518,10 +518,10 @@ EasyPractice </h2>
 Apply now
 </a>
 <p>
-👀 725 views
+👀 775 views
 </p>
 <p>
-✅ 65 applied
+✅ 66 applied
 (9%)
 </p>
 <p>
@@ -543,7 +543,7 @@ Junior Full Stack Developer Vue Laravel </a><br /> </div>
 </div>
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">EasyPractice is hiring a </span><br />Remote Senior Full Stack Developer Laravel Vue </h1>
-<div class="markdown">*EasyPractice is a SaaS company that enables clinicians and therapists to handle all their administrative work. We’re growing steadily and have more than 40.000+ users on our platform. Our software ecosystem touches 2M+ people worldwide. So, if you want to be part of an agile development team that is passionate about solving problems and becoming better developers in the process, we might have something for you!*\n\n\n\n \n\n\n\n**// Your Role**\n\n\n\nBeing a senior developer at EasyPractice you take full ownership of your tasks from scoping to development to testing and delivering. Here we celebrate autonomy and self-awareness. We have tons of interesting projects in the pipeline and your expertise with creativity will be utilized a lot!\n\n\n\nWe are looking for developers who:\n\n\n\n- Are great at scoping features from scratch\n\n\n\n- Able to ask the right questions\n\n\n\n- Can deliver a great experience for both our users and fellow developers\n\n\n\n- Are based in Europe \n\n\n\n- Have experience in refactoring existing codebases \n\n\n\n- Are using SOLID principles correctly\n\n\n\n- Takes great pride in writing clear, concise, performant code which closely follows PSR, Laravel, and VueJS best practices\n\n\n\n- Are communicative and collaborative\n\n\n\nYour primary responsibility will be to extend and maintain the EasyPractice system which will mainly involve working with Laravel and Vue.js - which you are an expert at, of course. \n\n\n\n**Some examples of tasks that may be included in this scope are:**\n\n\n\n- Developing new features\n\n\n\n- Refactoring technical debt\n\n\n\n- Improving performance\n\n\n\n- Debugging and fixing issues\n\n\n\n- Writing unit tests\n\n\n\n- Reviewing code and giving feedback\n\n\n\n- Functional feature testing\n\n\n\n- Assistance with technically advanced queries from our support tool\n\n\n\n**// Our Tech Stack**\n\n\n\nWe’re huge fans of Laravel and the different tools in their ecosystem and our tech stack reflects that. \n\n\n\nSome of the technologies you will work with daily:\n\n\n\n- PHP / Laravel\n\n\n\n- VueJS 2.x/3.x\n\n\n\n- MySQL\n\n\n\n- Bootstrap and TailwindCSS\n\n\n\n**// Remote-First**\n\n\n\nEasyPractice is a remote-first company and we try to structure ourselves so that everyone can work from wherever they like. This philosophy lies deep in our DNA. This means that most of our communication will happen in Basecamp and Slack, where we write, call and share our screens when necessary. While we value flexibility, individuality, and autonomy we put great pride in giving ownership to every team member. By applying for a position in EasyPractice we expect you to value ownership and responsibility and are capable of working structured remotely.\n\n\n\n**// Why EasyPractice?**\n\n\n\nSome of the benefits of working at EasyPractice includes:\n\n\n\n😁 Super helpful and friendly team members\n\n\n\n🕘 Freedom to set your own working hours\n\n\n\n🌍 Freedom to work from anywhere in Europe\n\n\n\n💪 You’ll have a strong influence on how the product is being developed. We value your input!\n\n\n\n✈️ Company meet-ups once a year to get to know your team members and just have a great time together!\n\n\n\n🗺️ Being a remote company, we have colleagues working from around the world\n\n\n\n**// How to apply?**\n\n\n\nContact us through this portal. Please, provide both a CV and a motivational video.\n\n\n\nAdditionally, we want to see your code! Please attach a link to your GitHub/GitLab/etc and/or other relevant material. We suggest sending your projects specifically using Laravel and VueJS. The more creative these projects are, the better. We look forward to meeting you!\n\n\n\n**// Salary**\n\n\n\n20000 to 45000 DKK per month, based on experience and negotiation.\n\n\n\nFor more information or questions please do not hesitate to contact us.\n\n\n\nFor more information or questions please contact us at <span class="__cf_email__" data-cfemail="a3c8c2d1cccfcad0e3cec2cdc4ccc2d3d3d08dc7c8">[email&#160;protected]</span> \n\nBe sure to mention the word **AMICABILITY** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\n \n\n#Salary and compensation\n
+<div class="markdown">*EasyPractice is a SaaS company that enables clinicians and therapists to handle all their administrative work. We’re growing steadily and have more than 40.000+ users on our platform. Our software ecosystem touches 2M+ people worldwide. So, if you want to be part of an agile development team that is passionate about solving problems and becoming better developers in the process, we might have something for you!*\n\n\n\n \n\n\n\n**// Your Role**\n\n\n\nBeing a senior developer at EasyPractice you take full ownership of your tasks from scoping to development to testing and delivering. Here we celebrate autonomy and self-awareness. We have tons of interesting projects in the pipeline and your expertise with creativity will be utilized a lot!\n\n\n\nWe are looking for developers who:\n\n\n\n- Are great at scoping features from scratch\n\n\n\n- Able to ask the right questions\n\n\n\n- Can deliver a great experience for both our users and fellow developers\n\n\n\n- Are based in Europe \n\n\n\n- Have experience in refactoring existing codebases \n\n\n\n- Are using SOLID principles correctly\n\n\n\n- Takes great pride in writing clear, concise, performant code which closely follows PSR, Laravel, and VueJS best practices\n\n\n\n- Are communicative and collaborative\n\n\n\nYour primary responsibility will be to extend and maintain the EasyPractice system which will mainly involve working with Laravel and Vue.js - which you are an expert at, of course. \n\n\n\n**Some examples of tasks that may be included in this scope are:**\n\n\n\n- Developing new features\n\n\n\n- Refactoring technical debt\n\n\n\n- Improving performance\n\n\n\n- Debugging and fixing issues\n\n\n\n- Writing unit tests\n\n\n\n- Reviewing code and giving feedback\n\n\n\n- Functional feature testing\n\n\n\n- Assistance with technically advanced queries from our support tool\n\n\n\n**// Our Tech Stack**\n\n\n\nWe’re huge fans of Laravel and the different tools in their ecosystem and our tech stack reflects that. \n\n\n\nSome of the technologies you will work with daily:\n\n\n\n- PHP / Laravel\n\n\n\n- VueJS 2.x/3.x\n\n\n\n- MySQL\n\n\n\n- Bootstrap and TailwindCSS\n\n\n\n**// Remote-First**\n\n\n\nEasyPractice is a remote-first company and we try to structure ourselves so that everyone can work from wherever they like. This philosophy lies deep in our DNA. This means that most of our communication will happen in Basecamp and Slack, where we write, call and share our screens when necessary. While we value flexibility, individuality, and autonomy we put great pride in giving ownership to every team member. By applying for a position in EasyPractice we expect you to value ownership and responsibility and are capable of working structured remotely.\n\n\n\n**// Why EasyPractice?**\n\n\n\nSome of the benefits of working at EasyPractice includes:\n\n\n\n😁 Super helpful and friendly team members\n\n\n\n🕘 Freedom to set your own working hours\n\n\n\n🌍 Freedom to work from anywhere in Europe\n\n\n\n💪 You’ll have a strong influence on how the product is being developed. We value your input!\n\n\n\n✈️ Company meet-ups once a year to get to know your team members and just have a great time together!\n\n\n\n🗺️ Being a remote company, we have colleagues working from around the world\n\n\n\n**// How to apply?**\n\n\n\nContact us through this portal. Please, provide both a CV and a motivational video.\n\n\n\nAdditionally, we want to see your code! Please attach a link to your GitHub/GitLab/etc and/or other relevant material. We suggest sending your projects specifically using Laravel and VueJS. The more creative these projects are, the better. We look forward to meeting you!\n\n\n\n**// Salary**\n\n\n\n20000 to 45000 DKK per month, based on experience and negotiation.\n\n\n\nFor more information or questions please do not hesitate to contact us.\n\n\n\nFor more information or questions please contact us at <span class="__cf_email__" data-cfemail="fc979d8e9390958fbc919d929b939d8c8c8fd29897">[email&#160;protected]</span> \n\nBe sure to mention the word **AMICABILITY** when applying to show you read the job post completely. This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.\n\n \n\n#Salary and compensation\n
 $30,000 &mdash; $80,000/year\n
 \n\n#Location\nEurope and Revelant Time Zones<br />
 </div>
@@ -656,20 +656,20 @@ Remote Customer Support Jobs
 💼&nbsp;<a href="/remote-sales-jobs">
 Remote Sales Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-saas-jobs">
-Remote SaaS Jobs
-</a> </div><div class="tag">
 ☁️&nbsp;<a href="/remote-cloud-jobs">
 Remote Cloud Jobs
+</a> </div><div class="tag">
+📦&nbsp;<a href="/remote-saas-jobs">
+Remote SaaS Jobs
 </a> </div><div class="tag">
 🐘&nbsp;<a href="/remote-php-jobs">
 Remote PHP Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-admin-jobs">
-Remote Admin Jobs
-</a> </div><div class="tag">
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-admin-jobs">
+Remote Admin Jobs
 </a> </div><div class="tag">
 👩‍🔬&nbsp;<a href="/remote-data-science-jobs">
 Remote Data Science Jobs
@@ -677,11 +677,11 @@ Remote Data Science Jobs
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
 </a> </div><div class="tag">
-♾️&nbsp;<a href="/remote-sys-admin-jobs">
-Remote Sys Admin Jobs
-</a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
+</a> </div><div class="tag">
+♾️&nbsp;<a href="/remote-sys-admin-jobs">
+Remote Sys Admin Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
@@ -698,17 +698,17 @@ Remote Java Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🛍&nbsp;<a href="/remote-ecommerce-jobs">
-Remote Ecommerce Jobs
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
 </a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
-</a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
+</a> </div><div class="tag">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
+Remote Ecommerce Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -737,17 +737,17 @@ Remote Ops Jobs
 🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-laravel-jobs">
-Remote Laravel Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-wordpress-jobs">
-Remote Wordpress Jobs
-</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
+📦&nbsp;<a href="/remote-laravel-jobs">
+Remote Laravel Jobs
+</a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
 Remote Architecture Jobs
+</a> </div><div class="tag">
+✍️&nbsp;<a href="/remote-wordpress-jobs">
+Remote Wordpress Jobs
 </a> </div><div class="tag">
 🐧&nbsp;<a href="/remote-linux-jobs">
 Remote Linux Jobs
@@ -755,17 +755,17 @@ Remote Linux Jobs
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-🔎&nbsp;<a href="/remote-seo-jobs">
-Remote SEO Jobs
-</a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+🅰️&nbsp;<a href="/remote-angular-jobs">
+Remote Angular Jobs
 </a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🅰️&nbsp;<a href="/remote-angular-jobs">
-Remote Angular Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
+</a> </div><div class="tag">
+🔎&nbsp;<a href="/remote-seo-jobs">
+Remote SEO Jobs
 </a> </div><div class="tag">
 🛍&nbsp;<a href="/remote-shopify-jobs">
 Remote Shopify Jobs
@@ -852,12 +852,12 @@ Hire Laravel Developers Remotely
 Hire Docker Developers Remotely
 </a>
 </div><div class="tag">
-📦 &nbsp;<a href="/hire/git">
-Hire Git Developers Remotely
-</a>
-</div><div class="tag">
 🍃 &nbsp;<a href="/hire/mongo">
 Hire Mongo Developers Remotely
+</a>
+</div><div class="tag">
+📦 &nbsp;<a href="/hire/git">
+Hire Git Developers Remotely
 </a>
 </div><div class="tag">
 🐧 &nbsp;<a href="/hire/linux">
@@ -896,12 +896,12 @@ Hire JQuery Developers Remotely
 Hire Bootstrap Developers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 🎧 &nbsp;<a href="/hire/customer-service">
@@ -920,12 +920,12 @@ Hire Photoshop Freelancers Remotely
 Hire Digital Marketing Freelancers Remotely
 </a>
 </div><div class="tag">
-💎 &nbsp;<a href="/hire/ruby">
-Hire Ruby Developers Remotely
-</a>
-</div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
 Hire Social Media Freelancers Remotely
+</a>
+</div><div class="tag">
+💎 &nbsp;<a href="/hire/ruby">
+Hire Ruby Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
@@ -948,28 +948,28 @@ Hire Redux Developers Remotely
 Hire Sass Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/figma">
-Hire Figma Developers Remotely
-</a>
-</div><div class="tag">
 📗 &nbsp;<a href="/hire/excel">
 Hire Excel Developers Remotely
 </a>
 </div><div class="tag">
-🐇 &nbsp;<a href="/hire/agile">
-Hire Agile Developers Remotely
+🎨 &nbsp;<a href="/hire/figma">
+Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
+🐇 &nbsp;<a href="/hire/agile">
+Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
@@ -984,7 +984,7 @@ Hire Swift Developers Remotely
 Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
-🧩	 &nbsp;<a href="/hire/express">
+🧩 &nbsp;<a href="/hire/express">
 Hire Express Developers Remotely
 </a>
 </div><div class="tag">
@@ -996,12 +996,12 @@ Hire IOS Developers Remotely
 Hire C++ Developers Remotely
 </a>
 </div><div class="tag">
-🦩 &nbsp;<a href="/hire/flutter">
-Hire Flutter Developers Remotely
-</a>
-</div><div class="tag">
 🤖 &nbsp;<a href="/hire/android">
 Hire Android Developers Remotely
+</a>
+</div><div class="tag">
+🦩 &nbsp;<a href="/hire/flutter">
+Hire Flutter Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/product-design">
@@ -1026,6 +1026,6 @@ Hire Firebase Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-182ms
+169ms
 </div>
 <div class="END-OF-FILE"></div>
