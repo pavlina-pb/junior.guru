@@ -9,11 +9,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>JuniorGuruBot (+https://junior.guru)</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 16 Mar 2022 05:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 11:26:07 +0000</lastBuildDate>
     <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
     <dc:creator>Pája Froňková</dc:creator>
     <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
-    <pubDate>Tue, 15 Feb 2022 01:42:42 +0100</pubDate>
+    <pubDate>Tue, 15 Mar 2022 01:42:42 +0100</pubDate>
     <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
     <itunes:category text="Technology"/>
     <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
@@ -56,6 +56,17 @@
       <pubDate>Tue, 15 Feb 2022 01:42:42 +0100</pubDate>
       <itunes:episode>3</itunes:episode>
       <podcast:episode display="#2">3</podcast:episode>
+    </item>
+    <item>
+      <title>#3 Filip Kirschner (Applifting) nejen o firemním přístupu k juniorům</title>
+      <link>https://junior.guru/podcast/#episode0003</link>
+      <description><![CDATA[<p>Ve třetím díle si poslechneš Filipa Kirschnera, spoluzakladatele firmy Applifting. Pája si s ním povídá o jejich firemní kultuře a přístupu k juniorním developerům, ale ptá se ho i na to, jaký programovací jazyk by si vybral, kdyby se znovu učil programovat, nebo co by poradil těm, kteří se chtějí z nuly dostat na první placenou IT pozici.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0003</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0003.mp3" length="42512450" type="audio/mpeg"/>
+      <itunes:duration>50:37</itunes:duration>
+      <pubDate>Tue, 15 Mar 2022 01:42:42 +0100</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode display="#3">4</podcast:episode>
     </item>
   </channel>
 </rss>
