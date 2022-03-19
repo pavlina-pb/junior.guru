@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (2,293)","senior":"\ud83d\udc75 Senior (1,794)","dev":"\ud83e\udd13 Developer (1,651)","exec":"\ud83d\udcbc Executive (1,329)","javascript":"\u2615\ufe0f JavaScript (681)","backend":"\ud83c\udf51 Backend (629)","full stack":"\ud83e\udd5e Full Stack (552)","front end":"\ud83c\udfa8 Front End (477)","golang":"\ud83d\udc00 Golang (431)","react":"\u269b\ufe0f React (412)","marketing":"\ud83d\udea5 Marketing (338)","design":"\ud83c\udfa8 Design (274)","product designer":"\ud83d\udce6 Product Designer (249)","customer support":"\ud83c\udfa7 Customer Support (224)","non tech":"\ud83d\udd0c Non Tech (224)","ruby":"\ud83d\udc8e Ruby (212)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (185)","python":"\ud83d\udc0d Python (184)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (147)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (110)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (93)","java":"\u2615\ufe0f Java (89)","infosec":"\ud83d\udd11 InfoSec (88)","analyst":"\ud83e\udd14 Analyst (88)","testing":"\ud83e\uddea Testing (79)","api":"\ud83e\udd16 API (77)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","crypto":"\ud83c\udfc5 Crypto (67)","web3":"\ud83d\udc8e Web3 (67)","blockchain":"\u26d3 Blockchain (67)","content writing":"\u270d\ufe0f Content Writing (66)","ecommerce":"\ud83d\udecd Ecommerce (65)","ops":"\u267e\ufe0f Ops (65)","android":"\ud83e\udd16 Android (63)","docker":"\ud83d\udc33 Docker (56)","social media":"\u270d\ufe0f Social Media (52)","machine learning":"\ud83e\udd16 Machine Learning (50)","architecture":"\ud83d\udce6 Architecture (47)","graphql":"\u269b\ufe0f GraphQL (47)","css":"\ud83c\udfa8 CSS (43)","copywriting":"\u270d\ufe0f Copywriting (41)","wordpress":"\u270d\ufe0f Wordpress (40)","c":"\ud83d\udd37 C (38)","c plus plus":"\u2795 C Plus Plus (38)","linux":"\ud83d\udc27 Linux (36)","laravel":"\ud83d\udce6 Laravel (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (29)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","shopify":"\ud83d\udecd Shopify (25)","swift":"\ud83d\udc07 Swift (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","accounting":"\ud83d\udcbc Accounting (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","meteor":"\u2604\ufe0f Meteor (15)","flutter":"\ud83e\udda9 Flutter (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","recruiter":"\ud83c\udfaf Recruiter (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","solidity":"\u26d3 Solidity (11)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (11)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (10)","heroku":"\ud83d\udfea Heroku (9)","internship":" Internship (9)","vfx":" VFX (8)","nosql":"\ud83d\udeab NoSQL (8)","salesforce":"\u2601\ufe0f Salesforce (8)","big data":"\ud83e\udde0 Big Data (8)","defi":"\ud83d\udcb0 Defi (8)","ethereum":"\ud83d\udc8e Ethereum (8)","ansible":" Ansible (8)","jquery":"\ud83e\udde9 jQuery (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","amazon":"\u2601\ufe0f Amazon (6)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","symfony":"\ud83d\udce6 Symfony (5)","illustrator":" Illustrator (5)","grafana":" Grafana (5)","apache":"\ud83d\ude81 Apache (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (2,290)","senior":"\ud83d\udc75 Senior (1,791)","dev":"\ud83e\udd13 Developer (1,648)","exec":"\ud83d\udcbc Executive (1,328)","javascript":"\u2615\ufe0f JavaScript (678)","backend":"\ud83c\udf51 Backend (627)","full stack":"\ud83e\udd5e Full Stack (552)","front end":"\ud83c\udfa8 Front End (475)","golang":"\ud83d\udc00 Golang (431)","react":"\u269b\ufe0f React (411)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (274)","product designer":"\ud83d\udce6 Product Designer (249)","customer support":"\ud83c\udfa7 Customer Support (225)","non tech":"\ud83d\udd0c Non Tech (223)","ruby":"\ud83d\udc8e Ruby (211)","node":"\ud83d\udd17 Node (206)","devops":"\u267e\ufe0f DevOps (183)","python":"\ud83d\udc0d Python (182)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (147)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (106)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (93)","analyst":"\ud83e\udd14 Analyst (88)","infosec":"\ud83d\udd11 InfoSec (88)","java":"\u2615\ufe0f Java (87)","testing":"\ud83e\uddea Testing (81)","api":"\ud83e\udd16 API (76)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","web3":"\ud83d\udc8e Web3 (67)","crypto":"\ud83c\udfc5 Crypto (67)","blockchain":"\u26d3 Blockchain (67)","content writing":"\u270d\ufe0f Content Writing (66)","ops":"\u267e\ufe0f Ops (66)","ecommerce":"\ud83d\udecd Ecommerce (64)","android":"\ud83e\udd16 Android (63)","docker":"\ud83d\udc33 Docker (57)","machine learning":"\ud83e\udd16 Machine Learning (51)","social media":"\u270d\ufe0f Social Media (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c plus plus":"\u2795 C Plus Plus (38)","c":"\ud83d\udd37 C (38)","laravel":"\ud83d\udce6 Laravel (36)","linux":"\ud83d\udc27 Linux (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (29)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","swift":"\ud83d\udc07 Swift (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","shopify":"\ud83d\udecd Shopify (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","accounting":"\ud83d\udcbc Accounting (17)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","flutter":"\ud83e\udda9 Flutter (15)","meteor":"\u2604\ufe0f Meteor (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","recruiter":"\ud83c\udfaf Recruiter (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","solidity":"\u26d3 Solidity (11)","full time":"\u23f0 Full Time (11)","scrum":"\ud83d\udd01 Scrum (11)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (10)","heroku":"\ud83d\udfea Heroku (9)","internship":" Internship (9)","jquery":"\ud83e\udde9 jQuery (8)","defi":"\ud83d\udcb0 Defi (8)","nosql":"\ud83d\udeab NoSQL (8)","ethereum":"\ud83d\udc8e Ethereum (8)","ansible":" Ansible (8)","big data":"\ud83e\udde0 Big Data (8)","vfx":" VFX (8)","nginx":"\u2747\ufe0f Nginx (7)","smart contracts":"\ud83d\udccb Smart Contracts (7)","salesforce":"\u2601\ufe0f Salesforce (6)","smart contract":"\ud83d\udccb Smart Contract (6)","git":"\ud83d\udce6 Git (6)","firebase":"\ud83d\udd25 Firebase (6)","amazon":"\u2601\ufe0f Amazon (6)","apache":"\ud83d\ude81 Apache (5)","symfony":"\ud83d\udce6 Symfony (5)","illustrator":" Illustrator (5)","grafana":" Grafana (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -121,7 +121,7 @@ Remote
 work anywhere, live anywhere #OpenSalaries
 </span>
 </div>
-<div class="video still" style="background-position:0% 25%;background-image:url('https://remoteok.com/cdn-cgi/image/format=auto,fit=cover,width=1500,height=500,quality=75/assets/tropical-nomad.jpg');">
+<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1543270123-5b5c73132cdf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=50');">
 </div>
 <div class="cover"></div>
 <div class="box">
@@ -275,7 +275,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($112k/mo)
+🤲&nbsp; Open Startup ($715k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.97%) </a>
@@ -358,7 +358,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#5023313c35231022353d3f24353f3b7e333f3d6f2325323a3533246d1134263522243923357b3f3e7b02353d3f24357b1f1b76323f34296d043839237b353d31393c7b343f35237b3e3f247b273f223b7e756011756069003c353123357b2523357b2438357b353d31393c7b313434223523237b31340f23313c35237b313e347b2438353e7b7564607b313e347b2438353e7b243839237b23392435756267237b343f3d31393e7b393e23243531347562137b243f7b31263f39347b2320313d3d3522237b363c3f3f34393e377b243839237b353d31393c7e7b073575626722357b3f3e3c297b313333352024393e377b23203f3e233f222338392075621631347b3435313c237b36223f3d7b75626463603b7562163d3f7b31247b243839237b3d3f3d353e247b313e347b2438352235756267237b317b27313924393e377b3c3923247e7b07357b343f7b1e1f047b343f7b130011756216313636393c3931243575621623313c357d32312335347b3435313c237562137b3f3e3c297b363c31247b3635357b3c253d207b23253d7b383122347b333123387b23203f3e233f2223383920237562163134237562137b203c353123357b233126357b323f24387b3f367b25237b24393d357b313e347b343f3e756267247b353d31393c7b25237b31323f25247b243831247e7b0438313e3b23756261">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#b1c2d0ddd4c2f1c3d4dcdec5d4deda9fd2dedc8ec2c4d3dbd4d2c58cf0d5c7d4c3c5d8c2d49adedf9ae3d4dcdec5d49afefa97d3ded5c88ce5d9d8c29ad4dcd0d8dd9ad5ded4c29adfdec59ac6dec3da9f9481f0948188e1ddd4d0c2d49ac4c2d49ac5d9d49ad4dcd0d8dd9ad0d5d5c3d4c2c29ad0d5eec2d0ddd4c29ad0dfd59ac5d9d4df9a9485819ad0dfd59ac5d9d4df9ac5d9d8c29ac2d8c5d4948386c29ad5dedcd0d8df9ad8dfc2c5d4d0d59483f29ac5de9ad0c7ded8d59ac2c1d0dcdcd4c3c29ad7dddeded5d8dfd69ac5d9d8c29ad4dcd0d8dd9f9ae6d4948386c3d49adedfddc89ad0d2d2d4c1c5d8dfd69ac2c1dedfc2dec3c2d9d8c19483f7d0d59ad5d4d0ddc29ad7c3dedc9a9483858281da9483f7dcde9ad0c59ac5d9d8c29adcdedcd4dfc59ad0dfd59ac5d9d4c3d4948386c29ad09ac6d0d8c5d8dfd69addd8c2c59f9ae6d49ad5de9afffee59ad5de9af2e1f09483f7d0d7d7d8ddd8d0c5d49483f7c2d0ddd49cd3d0c2d4d59ad5d4d0ddc29483f29adedfddc89ad7ddd0c59ad7d4d49addc4dcc19ac2c4dc9ad9d0c3d59ad2d0c2d99ac2c1dedfc2dec3c2d9d8c1c29483f7d0d5c29483f29ac1ddd4d0c2d49ac2d0c7d49ad3dec5d99aded79ac4c29ac5d8dcd49ad0dfd59ad5dedf948386c59ad4dcd0d8dd9ac4c29ad0d3dec4c59ac5d9d0c59f9ae5d9d0dfdac2948380">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -452,7 +452,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-28 new jobs posted today
+27 new jobs posted today
 </span>
 </div>
 </td>
@@ -460,7 +460,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109307-remote-software-engineer-invisible" data-epoch="1646064001" data-search="Invisible Software Engineer engineer dev digital nomad" data-company="Invisible" data-stack="" id="job-109307" data-id="109307" data-href="/remote-jobs/109307-remote-software-engineer-invisible" class="job job-109307     active   active  ==    												" title="">
 <td class="image " style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-28T16:00:01+00:00","description":"We are currently looking to fill this position as soon as possible.\u00a0We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note**&nbsp;Once you apply, we will be sending you a questionnaire and engineering test. In order to be considered, you must submit your completed answers to the test and questionnaire.\u00a0We are also currently receiving a large number of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch soon!\n\nWhat is Invisible?\n\nWebsite -\u00a0inv.tech\nBlog - \u00a0https:\/\/inv.tech\/blog\nOverview \/ Sales Deck\nOverview \/ Sales Deck - https:\/\/invtech.docsend.com\/view\/a8tthk8bwi9dbhk6\nRecorded Demo\nhttps:\/\/www.youtube.com\/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI\n\nWho are we?\n\nWe are the Invisible\u2019s Technologies Team. We solve problems at scale so they never happen again. At our best, we solve problems before they happen. How?\n\nWe Believe That\n\nInvisible is a world-changing company and the Technologies Team is responsible for creating the systems that will launch Invisible into the stratosphere.\n-- Exponential gains from systems > Short term linear work > Systems for system's sake.\n-- Consistent feedback is key - we are addicted to learning and getting better.\n-- What one of us knows, all of us should know.\n-- Every new mistake is a learning opportunity\n\nBecause of these beliefs, we\u2019ve built a team where\n\n--Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.\n-- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.\n-- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.\n\nTechnical Details\n\nRequirements\n-- Deep operational understanding and proven experience in\u00a0functional\u00a0JavaScript (Typescript) programming\n-- Familiarity with our stack, and desire to learn more on the job\n\nOur Stack:\nWhenever possible, we use the best tools for the job. Since a lot of what we do is asynchronous, and talking with external APIs, we saw Typescript as a natural fit for most of our stack\u00a0(though this decision can always be questioned).\n\n-- React.js (functional components + hooks), Apollo Graphql,\u00a0Next.js\n-- Node.js, TypeScript, Postgresql, Redis, Kafka\n-- Serverless\u00a0functions on\u00a0Vercel\n\nWe love open source! We share publicly as much of our code as possible.\u00a0\nShare your Github\/Gitlab\/StackOverflow\u00a0or similar profiles. If you are contributing to an open source projects, proudly flaunt them!\n\nCompensation:\n\nUSD $63k - $80k, Plus Equity!\nHealth Benefits or Stipend\nFlexible Work Schedule \/ Unlimited Vacation Days \nWork Remotely\n\nLocation\n\nCurrently we are looking to hire for a team that works primarily in US time zones and are seeking out engineering talent in these time zones:\u00a0\n\n--\u00a0 North\/South America\n--\u00a0 Europe\n--\u00a0 Africa\n\nWorking Schedule\n\nThe candidate should be available between 10am to 3pm EDT from Monday to Friday.\n\nAs a rapidly growing start-up, we are looking for mission-driven people that are looking to build cool products, take on new challenges, and grow with us, including growing compensation.\n\nCulture at Invisible is super important, and as we scale our team, identifying Invisible DNA early on in our recruitment process is essential to ensure a strong mutual fit.\n\nGood luck with the hiring process and if there's a match, we'll be in touch soon!\n\n\n Apply now and work remotely at Invisible","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-31T16:00:01+00:00","hiringOrganization":{"@type":"Organization","name":"Invisible","url":"https:\/\/remoteok.com\/invisible","sameAs":"https:\/\/remoteok.com\/invisible","logo":null}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-02-28T16:00:01+00:00","description":"We are currently looking to fill this position as soon as possible.\u00a0We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note**&nbsp;Once you apply, we will be sending you a questionnaire and engineering test. In order to be considered, you must submit your completed answers to the test and questionnaire.\u00a0We are also currently receiving a large number of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch soon!\n\nWhat is Invisible?\n\nWebsite -\u00a0inv.tech\nBlog - \u00a0https:\/\/inv.tech\/blog\nOverview \/ Sales Deck\nOverview \/ Sales Deck - https:\/\/invtech.docsend.com\/view\/a8tthk8bwi9dbhk6\nRecorded Demo\nhttps:\/\/www.youtube.com\/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI\n\nWho are we?\n\nWe are the Invisible\u2019s Technologies Team. We solve problems at scale so they never happen again. At our best, we solve problems before they happen. How?\n\nWe Believe That\n\nInvisible is a world-changing company and the Technologies Team is responsible for creating the systems that will launch Invisible into the stratosphere.\n-- Exponential gains from systems > Short term linear work > Systems for system's sake.\n-- Consistent feedback is key - we are addicted to learning and getting better.\n-- What one of us knows, all of us should know.\n-- Every new mistake is a learning opportunity\n\nBecause of these beliefs, we\u2019ve built a team where\n\n--Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.\n-- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.\n-- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.\n\nTechnical Details\n\nRequirements\n-- Deep operational understanding and proven experience in\u00a0functional\u00a0JavaScript (Typescript) programming\n-- Familiarity with our stack, and desire to learn more on the job\n\nOur Stack:\nWhenever possible, we use the best tools for the job. Since a lot of what we do is asynchronous, and talking with external APIs, we saw Typescript as a natural fit for most of our stack\u00a0(though this decision can always be questioned).\n\n-- React.js (functional components + hooks), Apollo Graphql,\u00a0Next.js\n-- Node.js, TypeScript, Postgresql, Redis, Kafka\n-- Serverless\u00a0functions on\u00a0Vercel\n\nWe love open source! We share publicly as much of our code as possible.\u00a0\nShare your Github\/Gitlab\/StackOverflow\u00a0or similar profiles. If you are contributing to an open source projects, proudly flaunt them!\n\nCompensation:\n\nUSD $63k - $80k, Plus Equity!\nHealth Benefits or Stipend\nFlexible Work Schedule \/ Unlimited Vacation Days \nWork Remotely\n\nLocation\n\nCurrently we are looking to hire for a team that works primarily in US time zones and are seeking out engineering talent in these time zones:\u00a0\n\n--\u00a0 North\/South America\n--\u00a0 Europe\n--\u00a0 Africa\n\nWorking Schedule\n\nThe candidate should be available between 10am to 3pm EDT from Monday to Friday.\n\nAs a rapidly growing start-up, we are looking for mission-driven people that are looking to build cool products, take on new challenges, and grow with us, including growing compensation.\n\nCulture at Invisible is super important, and as we scale our team, identifying Invisible DNA early on in our recruitment process is essential to ensure a strong mutual fit.\n\nGood luck with the hiring process and if there's a match, we'll be in touch soon!\n\n\n Apply now and work remotely at Invisible","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Software Engineer","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-03-31T16:00:01+00:00","hiringOrganization":{"@type":"Organization","name":"Invisible","url":"https:\/\/remoteok.com\/invisible","sameAs":"https:\/\/remoteok.com\/invisible","logo":null}}</script>
 <a class="preventLink" href="/remote-jobs/109307-remote-software-engineer-invisible">
 <div data-z="1" class="logo">
 <p>
@@ -493,7 +493,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-02-28T16:00:01+00:00">
-18d </time>
+19d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109307">
@@ -507,7 +507,7 @@ Apply
 </tr>
 <tr class="expand expand-109307 active " data-id="109307">
 <td colspan="999" class="heading">
- <div class="expandContents" style="">
+<div class="expandContents" style="">
 <div class="description" itemprop="description">
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">Invisible is hiring a </span><br />Remote Software Engineer </h1>
@@ -803,14 +803,14 @@ Remote Mobile Jobs
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
 </a> </div><div class="tag">
-☕️&nbsp;<a href="/remote-java-jobs">
-Remote Java Jobs
+🤔&nbsp;<a href="/remote-analyst-jobs">
+Remote Analyst Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-🤔&nbsp;<a href="/remote-analyst-jobs">
-Remote Analyst Jobs
+☕️&nbsp;<a href="/remote-java-jobs">
+Remote Java Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -827,11 +827,11 @@ Remote React Native Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
-</a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
+</a> </div><div class="tag">
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
 </a> </div><div class="tag">
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
@@ -839,11 +839,11 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
 </a> </div><div class="tag">
-🛍&nbsp;<a href="/remote-ecommerce-jobs">
-Remote Ecommerce Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
+</a> </div><div class="tag">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
+Remote Ecommerce Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
@@ -851,38 +851,38 @@ Remote Android Jobs
 🐳&nbsp;<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-social-media-jobs">
-Remote Social Media Jobs
-</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-architecture-jobs">
-Remote Architecture Jobs
+✍️&nbsp;<a href="/remote-social-media-jobs">
+Remote Social Media Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-graphql-jobs">
 Remote GraphQL Jobs
 </a> </div><div class="tag">
+📦&nbsp;<a href="/remote-architecture-jobs">
+Remote Architecture Jobs
+</a> </div><div class="tag">
 🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-copywriting-jobs">
-Remote Copywriting Jobs
 </a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-wordpress-jobs">
 Remote Wordpress Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+✍️&nbsp;<a href="/remote-copywriting-jobs">
+Remote Copywriting Jobs
 </a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-laravel-jobs">
 Remote Laravel Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔡&nbsp;<a href="/remote-html-jobs">
 Remote HTML Jobs
@@ -916,12 +916,12 @@ Hire CSS Developers Remotely
 Hire Node Developers Remotely
 </a>
 </div><div class="tag">
-🐘 &nbsp;<a href="/hire/php">
-Hire PHP Developers Remotely
-</a>
-</div><div class="tag">
 🐍 &nbsp;<a href="/hire/python">
 Hire Python Developers Remotely
+</a>
+</div><div class="tag">
+🐘 &nbsp;<a href="/hire/php">
+Hire PHP Developers Remotely
 </a>
 </div><div class="tag">
 🚥 &nbsp;<a href="/hire/marketing">
@@ -1024,12 +1024,12 @@ Hire Customer Service Freelancers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1084,20 +1084,20 @@ Hire Sass Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
-</a>
-</div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🔡 &nbsp;<a href="/hire/html5">
-Hire HTML5 Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
 Hire Product Management Developers Remotely
+</a>
+</div><div class="tag">
+🔡 &nbsp;<a href="/hire/html5">
+Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
 🧩 &nbsp;<a href="/hire/express">
@@ -1128,12 +1128,12 @@ Hire Flutter Developers Remotely
 Hire Data Entry Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/css3">
-Hire Css3 Developers Remotely
-</a>
-</div><div class="tag">
 🔷 &nbsp;<a href="/hire/c">
 Hire C Developers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/css3">
+Hire Css3 Developers Remotely
 </a>
 </div> </div>
 <br />
@@ -1146,6 +1146,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-162ms
+209ms
 </div>
 <div class="END-OF-FILE"></div>

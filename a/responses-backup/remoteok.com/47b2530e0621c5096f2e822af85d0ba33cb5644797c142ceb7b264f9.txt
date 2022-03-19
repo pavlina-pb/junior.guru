@@ -78,7 +78,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (2,293)","senior":"\ud83d\udc75 Senior (1,794)","dev":"\ud83e\udd13 Developer (1,651)","exec":"\ud83d\udcbc Executive (1,329)","javascript":"\u2615\ufe0f JavaScript (681)","backend":"\ud83c\udf51 Backend (629)","full stack":"\ud83e\udd5e Full Stack (552)","front end":"\ud83c\udfa8 Front End (477)","golang":"\ud83d\udc00 Golang (431)","react":"\u269b\ufe0f React (412)","marketing":"\ud83d\udea5 Marketing (338)","design":"\ud83c\udfa8 Design (274)","product designer":"\ud83d\udce6 Product Designer (249)","customer support":"\ud83c\udfa7 Customer Support (224)","non tech":"\ud83d\udd0c Non Tech (224)","ruby":"\ud83d\udc8e Ruby (212)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (185)","python":"\ud83d\udc0d Python (184)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (147)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (110)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (93)","java":"\u2615\ufe0f Java (89)","infosec":"\ud83d\udd11 InfoSec (88)","analyst":"\ud83e\udd14 Analyst (88)","testing":"\ud83e\uddea Testing (79)","api":"\ud83e\udd16 API (77)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","crypto":"\ud83c\udfc5 Crypto (67)","web3":"\ud83d\udc8e Web3 (67)","blockchain":"\u26d3 Blockchain (67)","content writing":"\u270d\ufe0f Content Writing (66)","ecommerce":"\ud83d\udecd Ecommerce (65)","ops":"\u267e\ufe0f Ops (65)","android":"\ud83e\udd16 Android (63)","docker":"\ud83d\udc33 Docker (56)","social media":"\u270d\ufe0f Social Media (52)","machine learning":"\ud83e\udd16 Machine Learning (50)","architecture":"\ud83d\udce6 Architecture (47)","graphql":"\u269b\ufe0f GraphQL (47)","css":"\ud83c\udfa8 CSS (43)","copywriting":"\u270d\ufe0f Copywriting (41)","wordpress":"\u270d\ufe0f Wordpress (40)","c":"\ud83d\udd37 C (38)","c plus plus":"\u2795 C Plus Plus (38)","linux":"\ud83d\udc27 Linux (36)","laravel":"\ud83d\udce6 Laravel (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (29)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","shopify":"\ud83d\udecd Shopify (25)","swift":"\ud83d\udc07 Swift (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","accounting":"\ud83d\udcbc Accounting (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","meteor":"\u2604\ufe0f Meteor (15)","flutter":"\ud83e\udda9 Flutter (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","recruiter":"\ud83c\udfaf Recruiter (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","solidity":"\u26d3 Solidity (11)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (11)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (10)","heroku":"\ud83d\udfea Heroku (9)","internship":" Internship (9)","vfx":" VFX (8)","nosql":"\ud83d\udeab NoSQL (8)","salesforce":"\u2601\ufe0f Salesforce (8)","big data":"\ud83e\udde0 Big Data (8)","defi":"\ud83d\udcb0 Defi (8)","ethereum":"\ud83d\udc8e Ethereum (8)","ansible":" Ansible (8)","jquery":"\ud83e\udde9 jQuery (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","amazon":"\u2601\ufe0f Amazon (6)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","symfony":"\ud83d\udce6 Symfony (5)","illustrator":" Illustrator (5)","grafana":" Grafana (5)","apache":"\ud83d\ude81 Apache (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (2,290)","senior":"\ud83d\udc75 Senior (1,791)","dev":"\ud83e\udd13 Developer (1,648)","exec":"\ud83d\udcbc Executive (1,328)","javascript":"\u2615\ufe0f JavaScript (678)","backend":"\ud83c\udf51 Backend (627)","full stack":"\ud83e\udd5e Full Stack (552)","front end":"\ud83c\udfa8 Front End (475)","golang":"\ud83d\udc00 Golang (431)","react":"\u269b\ufe0f React (411)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (274)","product designer":"\ud83d\udce6 Product Designer (249)","customer support":"\ud83c\udfa7 Customer Support (225)","non tech":"\ud83d\udd0c Non Tech (223)","ruby":"\ud83d\udc8e Ruby (211)","node":"\ud83d\udd17 Node (206)","devops":"\u267e\ufe0f DevOps (183)","python":"\ud83d\udc0d Python (182)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (147)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (106)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (93)","analyst":"\ud83e\udd14 Analyst (88)","infosec":"\ud83d\udd11 InfoSec (88)","java":"\u2615\ufe0f Java (87)","testing":"\ud83e\uddea Testing (81)","api":"\ud83e\udd16 API (76)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","web3":"\ud83d\udc8e Web3 (67)","crypto":"\ud83c\udfc5 Crypto (67)","blockchain":"\u26d3 Blockchain (67)","content writing":"\u270d\ufe0f Content Writing (66)","ops":"\u267e\ufe0f Ops (66)","ecommerce":"\ud83d\udecd Ecommerce (64)","android":"\ud83e\udd16 Android (63)","docker":"\ud83d\udc33 Docker (57)","machine learning":"\ud83e\udd16 Machine Learning (51)","social media":"\u270d\ufe0f Social Media (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c plus plus":"\u2795 C Plus Plus (38)","c":"\ud83d\udd37 C (38)","laravel":"\ud83d\udce6 Laravel (36)","linux":"\ud83d\udc27 Linux (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (29)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","swift":"\ud83d\udc07 Swift (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","shopify":"\ud83d\udecd Shopify (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","accounting":"\ud83d\udcbc Accounting (17)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","flutter":"\ud83e\udda9 Flutter (15)","meteor":"\u2604\ufe0f Meteor (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","recruiter":"\ud83c\udfaf Recruiter (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","solidity":"\u26d3 Solidity (11)","full time":"\u23f0 Full Time (11)","scrum":"\ud83d\udd01 Scrum (11)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (10)","heroku":"\ud83d\udfea Heroku (9)","internship":" Internship (9)","jquery":"\ud83e\udde9 jQuery (8)","defi":"\ud83d\udcb0 Defi (8)","nosql":"\ud83d\udeab NoSQL (8)","ethereum":"\ud83d\udc8e Ethereum (8)","ansible":" Ansible (8)","big data":"\ud83e\udde0 Big Data (8)","vfx":" VFX (8)","nginx":"\u2747\ufe0f Nginx (7)","smart contracts":"\ud83d\udccb Smart Contracts (7)","salesforce":"\u2601\ufe0f Salesforce (6)","smart contract":"\ud83d\udccb Smart Contract (6)","git":"\ud83d\udce6 Git (6)","firebase":"\ud83d\udd25 Firebase (6)","amazon":"\u2601\ufe0f Amazon (6)","apache":"\ud83d\ude81 Apache (5)","symfony":"\ud83d\udce6 Symfony (5)","illustrator":" Illustrator (5)","grafana":" Grafana (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -120,7 +120,7 @@ Remote
 work anywhere, live anywhere #OpenSalaries
 </span>
 </div>
-<div class="video still" style="background-position:0% 25%;background-image:url('https://remoteok.com/cdn-cgi/image/format=auto,fit=cover,width=1500,height=500,quality=75/assets/tropical-nomad.jpg');">
+<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1543270123-5b5c73132cdf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=50');">
 </div>
 <div class="cover"></div>
 <div class="box">
@@ -274,7 +274,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($112k/mo)
+🤲&nbsp; Open Startup ($715k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.97%) </a>
@@ -357,7 +357,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#daa9bbb6bfa99aa8bfb7b5aebfb5b1f4b9b5b7e5a9afb8b0bfb9aee79bbeacbfa8aeb3a9bff1b5b4f188bfb7b5aebff19591fcb8b5bea3e78eb2b3a9f1bfb7bbb3b6f1beb5bfa9f1b4b5aef1adb5a8b1f4ffea9bffeae38ab6bfbba9bff1afa9bff1aeb2bff1bfb7bbb3b6f1bbbebea8bfa9a9f1bbbe85a9bbb6bfa9f1bbb4bef1aeb2bfb4f1ffeeeaf1bbb4bef1aeb2bfb4f1aeb2b3a9f1a9b3aebfffe8eda9f1beb5b7bbb3b4f1b3b4a9aebfbbbeffe899f1aeb5f1bbacb5b3bef1a9aabbb7b7bfa8a9f1bcb6b5b5beb3b4bdf1aeb2b3a9f1bfb7bbb3b6f4f18dbfffe8eda8bff1b5b4b6a3f1bbb9b9bfaaaeb3b4bdf1a9aab5b4a9b5a8a9b2b3aaffe89cbbbef1bebfbbb6a9f1bca8b5b7f1ffe8eee9eab1ffe89cb7b5f1bbaef1aeb2b3a9f1b7b5b7bfb4aef1bbb4bef1aeb2bfa8bfffe8eda9f1bbf1adbbb3aeb3b4bdf1b6b3a9aef4f18dbff1beb5f194958ef1beb5f1998a9bffe89cbbbcbcb3b6b3bbaebfffe89ca9bbb6bff7b8bba9bfbef1bebfbbb6a9ffe899f1b5b4b6a3f1bcb6bbaef1bcbfbff1b6afb7aaf1a9afb7f1b2bba8bef1b9bba9b2f1a9aab5b4a9b5a8a9b2b3aaa9ffe89cbbbea9ffe899f1aab6bfbba9bff1a9bbacbff1b8b5aeb2f1b5bcf1afa9f1aeb3b7bff1bbb4bef1beb5b4ffe8edaef1bfb7bbb3b6f1afa9f1bbb8b5afaef1aeb2bbaef4f18eb2bbb4b1a9ffe8eb">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#0f7c6e636a7c4f7d6a62607b6a6064216c6062307c7a6d656a6c7b324e6b796a7d7b667c6a246061245d6a62607b6a244044296d606b76325b67667c246a626e6663246b606a7c2461607b2478607d64212a3f4e2a3f365f636a6e7c6a247a7c6a247b676a246a626e6663246e6b6b7d6a7c7c246e6b507c6e636a7c246e616b247b676a61242a3b3f246e616b247b676a61247b67667c247c667b6a2a3d387c246b60626e66612466617c7b6a6e6b2a3d4c247b60246e7960666b247c7f6e62626a7d7c24696360606b666168247b67667c246a626e66632124586a2a3d387d6a2460616376246e6c6c6a7f7b666168247c7f60617c607d7c67667f2a3d496e6b246b6a6e637c24697d6062242a3d3b3c3f642a3d496260246e7b247b67667c246260626a617b246e616b247b676a7d6a2a3d387c246e24786e667b6661682463667c7b2124586a246b602441405b246b60244c5f4e2a3d496e69696663666e7b6a2a3d497c6e636a226d6e7c6a6b246b6a6e637c2a3d4c24606163762469636e7b24696a6a24637a627f247c7a6224676e7d6b246c6e7c67247c7f60617c607d7c67667f7c2a3d496e6b7c2a3d4c247f636a6e7c6a247c6e796a246d607b67246069247a7c247b66626a246e616b246b60612a3d387b246a626e6663247a7c246e6d607a7b247b676e7b21245b676e61647c2a3d3e">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -451,7 +451,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-28 new jobs posted today
+27 new jobs posted today
 </span>
 </div>
 </td>
@@ -497,7 +497,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-03-10T07:46:27+00:00">
-8d </time>
+9d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109508">
@@ -515,7 +515,7 @@ Apply
 <div class="description" itemprop="description">
 <h1 style="text-align:left;">
 <span style="font-weight: 400;">Raven51 AG is hiring a </span><br />Remote Full Stack Web Developer </h1>
-<div class="markdown">\nArbeitgeber positio&shy;nieren, Kandidaten begeistern, Personal&shy;marketing neu denken: Raven51 hebt Recruiting auf ein neues Level. Mit &uuml;ber 50 Jahren Markt&shy;erfahrung, Stand&shy;orten in Berlin, Frankfurt am Main und Karls&shy;ruhe sowie der geballten Kompe&shy;tenz von mehr als 130 Recruiting-Spezialisten sind wir eine der TOP 5 HR-Marketing-Agenturen in Deutschland. Unsere Kern&shy;kompetenzen sind Employer Branding &amp; Marketing, Job Advertising &amp; Traffic Generation sowie Recruiting Services mit digitalem Foot&shy;print, die wir zu wirkungs&shy;vollen Talent-Attraction-Strategien f&uuml;r unsere Kunden b&uuml;ndeln. Lass uns Dein n&auml;chstes Karriere&shy;level sein.\n\n\n\nUnsere Abteilung Recruiting Apps ist f&uuml;r die Digitalisierung s&auml;mtlicher Gesch&auml;fts&shy;prozesse bei Raven51 verantwortlich &ndash; und tr&auml;gt mit der selbst entwickelten ERP-Software &bdquo;relaxx&ldquo; ma&szlig;geblich dazu bei, dass wir unsere Marktposition und unser Dienst&shy;leistungs&shy;portfolio konsequent ausbauen k&ouml;nnen. Zur Verst&auml;rkung unseres Teams suchen wir zum n&auml;chst&shy;m&ouml;glichen Zeitpunkt einen\n\n\nFull Stack Web Developer (m/w/d)\n\nVollzeit, 100% Home-Office\n\nDein Job: Gestalte die Zukunft der Raven51 AG\n\n\n\n* Entwicklung: Du erweiterst und optimierst unsere interne ERP-Software kontinuierlich und in Abstimmung mit unserem externen IT-Entwicklungspartner.\n\n* Briefing: Strukturierte Kick-offs mit unserem Projektmanagement stellen sicher, dass Du &uuml;ber neue Anforderungen immer im Bilde bist.\n\n* Kommunikation: Bei der selbstst&auml;ndigen Realisierung neuer Kernfeatures stehst Du in engem Austausch mit einem Team aus bis zu zehn externen Senior Software Developern.\n\n\n\n\n\nDein Profil: Erfahrung in der Web-Entwicklung\n\n\nBei uns ben&ouml;tigst Du nicht zwingend einen bestimmten Studiengang oder eine berufliche Ausbildung. Viel wichtiger sind uns Deine Erfahrungen und die Passion f&uuml;r das, was Du tust:\n\n\n* Coding-Erfahrung in einem oder mehreren JavaScript-Framework (z. B. angular.js, angular, react.js, vue.js) in Verbindung mit RESTful APIs\n\n* Erfahrungen mit Java und/oder Groovy und/oder Spring, Object Relational Mapping (ORM) sowie mit objekt&shy;orientierter Programmierung, HTML / CSS, GIT, npm / node und SQL\n\n* Idealerweise: Erfahrung in der Optimierung von Gesch&auml;fts&shy;prozessen\n\n* F&uuml;r die Kommunikation mit Deinem Team: gute Deutsch- und Englisch&shy;kenntnisse in Wort und Schrift\n\n* F&uuml;r Dein Home-Office: eine schnelle und stabile Internet&shy;verbindung\n\n\n\n\n\nUnser Angebot: Perfekte Rahmen&shy;bedingungen\n\n\n\n* Flexibilit&auml;t: auf Wunsch 100&thinsp;% Arbeit im Home-Office; alternativ darfst Du gern auch ganz oder teilweise an einem unserer Firmenstandorte in Berlin, Frankfurt oder Karlsruhe arbeiten. \n\n* Ausstattung: Bereitstellung eines leistungsstarken Hardware-Setups f&uuml;r die Arbeit in und mit unserem modernen, m&auml;chtigen Tech-Stack. \n\n* Work-Life-Balance: 30 Tage Urlaub pro Jahr und geregelte, flexible Arbeitszeiten, die Du im Team abstimmen kannst. \n\n* Wertsch&auml;tzung: z.&thinsp;B. durch ein kostenloses Firmen-Smartphone sowie unsere betriebliche Altersvorsorge ab einem Jahr Betriebszugeh&ouml;rigkeit.\n\n\n\n\n\nHaben wir Dein Interesse geweckt?\n\n\nDann bewirb Dich unter Angabe Deiner Gehalts&shy;vorstellung, Deines bevorzugten Arbeitsortes und des fr&uuml;hestm&ouml;glichen Eintrittstermins &ndash; vorzugs&shy;weise einfach und schnell online. Sollte dies nicht m&ouml;glich sein, sende uns Deine Bewerbung per E-Mail oder per Post.\n\nJetzt bewerben\n\n\nNoch Fragen? Lass es uns wissen!\n\nUnser Recruiting&shy;team hilft Dir gerne weiter:\nTel. 069 870086-422 / 069 870086-423\nE-Mail: <span class="__cf_email__" data-cfemail="5e2a331e2c3f283b306b6f703a3b">[email&#160;protected]</span>\n\n\n\n\n\nRaven51 AG\nSt&uuml;tzel&auml;ckerweg 12-14\n60489 Frankfurt am Main\nwww.raven51.de \n\n#Salary and compensation\n
+<div class="markdown">\nArbeitgeber positio&shy;nieren, Kandidaten begeistern, Personal&shy;marketing neu denken: Raven51 hebt Recruiting auf ein neues Level. Mit &uuml;ber 50 Jahren Markt&shy;erfahrung, Stand&shy;orten in Berlin, Frankfurt am Main und Karls&shy;ruhe sowie der geballten Kompe&shy;tenz von mehr als 130 Recruiting-Spezialisten sind wir eine der TOP 5 HR-Marketing-Agenturen in Deutschland. Unsere Kern&shy;kompetenzen sind Employer Branding &amp; Marketing, Job Advertising &amp; Traffic Generation sowie Recruiting Services mit digitalem Foot&shy;print, die wir zu wirkungs&shy;vollen Talent-Attraction-Strategien f&uuml;r unsere Kunden b&uuml;ndeln. Lass uns Dein n&auml;chstes Karriere&shy;level sein.\n\n\n\nUnsere Abteilung Recruiting Apps ist f&uuml;r die Digitalisierung s&auml;mtlicher Gesch&auml;fts&shy;prozesse bei Raven51 verantwortlich &ndash; und tr&auml;gt mit der selbst entwickelten ERP-Software &bdquo;relaxx&ldquo; ma&szlig;geblich dazu bei, dass wir unsere Marktposition und unser Dienst&shy;leistungs&shy;portfolio konsequent ausbauen k&ouml;nnen. Zur Verst&auml;rkung unseres Teams suchen wir zum n&auml;chst&shy;m&ouml;glichen Zeitpunkt einen\n\n\nFull Stack Web Developer (m/w/d)\n\nVollzeit, 100% Home-Office\n\nDein Job: Gestalte die Zukunft der Raven51 AG\n\n\n\n* Entwicklung: Du erweiterst und optimierst unsere interne ERP-Software kontinuierlich und in Abstimmung mit unserem externen IT-Entwicklungspartner.\n\n* Briefing: Strukturierte Kick-offs mit unserem Projektmanagement stellen sicher, dass Du &uuml;ber neue Anforderungen immer im Bilde bist.\n\n* Kommunikation: Bei der selbstst&auml;ndigen Realisierung neuer Kernfeatures stehst Du in engem Austausch mit einem Team aus bis zu zehn externen Senior Software Developern.\n\n\n\n\n\nDein Profil: Erfahrung in der Web-Entwicklung\n\n\nBei uns ben&ouml;tigst Du nicht zwingend einen bestimmten Studiengang oder eine berufliche Ausbildung. Viel wichtiger sind uns Deine Erfahrungen und die Passion f&uuml;r das, was Du tust:\n\n\n* Coding-Erfahrung in einem oder mehreren JavaScript-Framework (z. B. angular.js, angular, react.js, vue.js) in Verbindung mit RESTful APIs\n\n* Erfahrungen mit Java und/oder Groovy und/oder Spring, Object Relational Mapping (ORM) sowie mit objekt&shy;orientierter Programmierung, HTML / CSS, GIT, npm / node und SQL\n\n* Idealerweise: Erfahrung in der Optimierung von Gesch&auml;fts&shy;prozessen\n\n* F&uuml;r die Kommunikation mit Deinem Team: gute Deutsch- und Englisch&shy;kenntnisse in Wort und Schrift\n\n* F&uuml;r Dein Home-Office: eine schnelle und stabile Internet&shy;verbindung\n\n\n\n\n\nUnser Angebot: Perfekte Rahmen&shy;bedingungen\n\n\n\n* Flexibilit&auml;t: auf Wunsch 100&thinsp;% Arbeit im Home-Office; alternativ darfst Du gern auch ganz oder teilweise an einem unserer Firmenstandorte in Berlin, Frankfurt oder Karlsruhe arbeiten. \n\n* Ausstattung: Bereitstellung eines leistungsstarken Hardware-Setups f&uuml;r die Arbeit in und mit unserem modernen, m&auml;chtigen Tech-Stack. \n\n* Work-Life-Balance: 30 Tage Urlaub pro Jahr und geregelte, flexible Arbeitszeiten, die Du im Team abstimmen kannst. \n\n* Wertsch&auml;tzung: z.&thinsp;B. durch ein kostenloses Firmen-Smartphone sowie unsere betriebliche Altersvorsorge ab einem Jahr Betriebszugeh&ouml;rigkeit.\n\n\n\n\n\nHaben wir Dein Interesse geweckt?\n\n\nDann bewirb Dich unter Angabe Deiner Gehalts&shy;vorstellung, Deines bevorzugten Arbeitsortes und des fr&uuml;hestm&ouml;glichen Eintrittstermins &ndash; vorzugs&shy;weise einfach und schnell online. Sollte dies nicht m&ouml;glich sein, sende uns Deine Bewerbung per E-Mail oder per Post.\n\nJetzt bewerben\n\n\nNoch Fragen? Lass es uns wissen!\n\nUnser Recruiting&shy;team hilft Dir gerne weiter:\nTel. 069 870086-422 / 069 870086-423\nE-Mail: <span class="__cf_email__" data-cfemail="2e5a436e5c4f584b401b1f004a4b">[email&#160;protected]</span>\n\n\n\n\n\nRaven51 AG\nSt&uuml;tzel&auml;ckerweg 12-14\n60489 Frankfurt am Main\nwww.raven51.de \n\n#Salary and compensation\n
 No salary data published by company so we estimated salary based on similar jobs related to Full Stack, Web Developer, Developer and Digital Nomad jobs that are similar:\n\n
 $60,000 &mdash; $115,000/year\n
 </div>
@@ -526,7 +526,7 @@ $60,000 &mdash; $115,000/year\n
 Apply for this job
 </a>
 <div style="font-size:12px;margin-top:-14px;font-weight:bold;">
-or email to <span class="__cf_email__" data-cfemail="ea8485859a8f848f989e87aa988b9c8f84dfdbc48e8f8b9a8898">[email&#160;protected]</span> </div>
+or email to <span class="__cf_email__" data-cfemail="264849495643484354524b665447504348131708424347564454">[email&#160;protected]</span> </div>
 <p style="font-size:0.85em">
 <strong>👉 Please reference you found the job on Remote OK, this helps us get more companies to post here, thanks!</strong><br /><br />
 When applying for jobs, you should NEVER have to pay to apply. You should also NEVER have to pay to buy equipment which they then pay you back for later. Also never pay for trainings you have to do. Those are scams! NEVER PAY FOR ANYTHING! Posts that link to pages with "how to work online" are also scams. Don't use them or pay for them. Also always verify you're actually talking to the company in the job post and not an imposter. A good idea is to check the domain name for the site/email and see if it's the actual company's main domain name. Scams in remote work are rampant, be careful! <a href="https://twitter.com/levelsio/status/1300443073562980353?s=20" style="font-weight:800;">Read more to avoid scams</a>. When clicking on the button to apply above, you will leave Remote OK and go to the job application page for that company outside this site. Remote OK accepts no liability or responsibility as a consequence of any reliance upon information on there (external sites) or here.
@@ -684,7 +684,7 @@ full stack </div>
 <div class="tag">
 react </div>
 <div class="tag">
-node </div>
+node  </div>
 </div>
 <div class="button green">
 Hire remote worker
@@ -809,14 +809,14 @@ Remote Mobile Jobs
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
 </a> </div><div class="tag">
-☕️&nbsp;<a href="/remote-java-jobs">
-Remote Java Jobs
+🤔&nbsp;<a href="/remote-analyst-jobs">
+Remote Analyst Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-🤔&nbsp;<a href="/remote-analyst-jobs">
-Remote Analyst Jobs
+☕️&nbsp;<a href="/remote-java-jobs">
+Remote Java Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -833,11 +833,11 @@ Remote React Native Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
-</a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
+</a> </div><div class="tag">
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
 </a> </div><div class="tag">
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
@@ -845,11 +845,11 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
 </a> </div><div class="tag">
-🛍&nbsp;<a href="/remote-ecommerce-jobs">
-Remote Ecommerce Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
+</a> </div><div class="tag">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
+Remote Ecommerce Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
@@ -857,38 +857,38 @@ Remote Android Jobs
 🐳&nbsp;<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-social-media-jobs">
-Remote Social Media Jobs
-</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-architecture-jobs">
-Remote Architecture Jobs
+✍️&nbsp;<a href="/remote-social-media-jobs">
+Remote Social Media Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-graphql-jobs">
 Remote GraphQL Jobs
 </a> </div><div class="tag">
+📦&nbsp;<a href="/remote-architecture-jobs">
+Remote Architecture Jobs
+</a> </div><div class="tag">
 🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-copywriting-jobs">
-Remote Copywriting Jobs
 </a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-wordpress-jobs">
 Remote Wordpress Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+✍️&nbsp;<a href="/remote-copywriting-jobs">
+Remote Copywriting Jobs
 </a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-laravel-jobs">
 Remote Laravel Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔡&nbsp;<a href="/remote-html-jobs">
 Remote HTML Jobs
@@ -922,12 +922,12 @@ Hire CSS Developers Remotely
 Hire Node Developers Remotely
 </a>
 </div><div class="tag">
-🐘 &nbsp;<a href="/hire/php">
-Hire PHP Developers Remotely
-</a>
-</div><div class="tag">
 🐍 &nbsp;<a href="/hire/python">
 Hire Python Developers Remotely
+</a>
+</div><div class="tag">
+🐘 &nbsp;<a href="/hire/php">
+Hire PHP Developers Remotely
 </a>
 </div><div class="tag">
 🚥 &nbsp;<a href="/hire/marketing">
@@ -1015,7 +1015,7 @@ Hire Design Freelancers Remotely
 </a>
 </div><div class="tag">
 🟪 &nbsp;<a href="/hire/bootstrap">
- Hire Bootstrap Developers Remotely
+Hire Bootstrap Developers Remotely
 </a>
 </div><div class="tag">
 🧩 &nbsp;<a href="/hire/jquery">
@@ -1030,12 +1030,12 @@ Hire Customer Service Freelancers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1090,20 +1090,20 @@ Hire Sass Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
-</a>
-</div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🔡 &nbsp;<a href="/hire/html5">
-Hire HTML5 Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
 Hire Product Management Developers Remotely
+</a>
+</div><div class="tag">
+🔡 &nbsp;<a href="/hire/html5">
+Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
 🧩 &nbsp;<a href="/hire/express">
@@ -1134,12 +1134,12 @@ Hire Flutter Developers Remotely
 Hire Data Entry Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/css3">
-Hire Css3 Developers Remotely
-</a>
-</div><div class="tag">
 🔷 &nbsp;<a href="/hire/c">
 Hire C Developers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/css3">
+Hire Css3 Developers Remotely
 </a>
 </div> </div>
 <br />
@@ -1152,6 +1152,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-256ms
+379ms
 </div>
 <div class="END-OF-FILE"></div>

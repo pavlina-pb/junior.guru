@@ -79,7 +79,7 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (2,293)","senior":"\ud83d\udc75 Senior (1,794)","dev":"\ud83e\udd13 Developer (1,651)","exec":"\ud83d\udcbc Executive (1,329)","javascript":"\u2615\ufe0f JavaScript (681)","backend":"\ud83c\udf51 Backend (629)","full stack":"\ud83e\udd5e Full Stack (552)","front end":"\ud83c\udfa8 Front End (477)","golang":"\ud83d\udc00 Golang (431)","react":"\u269b\ufe0f React (412)","marketing":"\ud83d\udea5 Marketing (338)","design":"\ud83c\udfa8 Design (274)","product designer":"\ud83d\udce6 Product Designer (249)","customer support":"\ud83c\udfa7 Customer Support (224)","non tech":"\ud83d\udd0c Non Tech (224)","ruby":"\ud83d\udc8e Ruby (212)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (185)","python":"\ud83d\udc0d Python (184)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (147)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (110)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (93)","java":"\u2615\ufe0f Java (89)","infosec":"\ud83d\udd11 InfoSec (88)","analyst":"\ud83e\udd14 Analyst (88)","testing":"\ud83e\uddea Testing (79)","api":"\ud83e\udd16 API (77)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","crypto":"\ud83c\udfc5 Crypto (67)","web3":"\ud83d\udc8e Web3 (67)","blockchain":"\u26d3 Blockchain (67)","content writing":"\u270d\ufe0f Content Writing (66)","ecommerce":"\ud83d\udecd Ecommerce (65)","ops":"\u267e\ufe0f Ops (65)","android":"\ud83e\udd16 Android (63)","docker":"\ud83d\udc33 Docker (56)","social media":"\u270d\ufe0f Social Media (52)","machine learning":"\ud83e\udd16 Machine Learning (50)","architecture":"\ud83d\udce6 Architecture (47)","graphql":"\u269b\ufe0f GraphQL (47)","css":"\ud83c\udfa8 CSS (43)","copywriting":"\u270d\ufe0f Copywriting (41)","wordpress":"\u270d\ufe0f Wordpress (40)","c":"\ud83d\udd37 C (38)","c plus plus":"\u2795 C Plus Plus (38)","linux":"\ud83d\udc27 Linux (36)","laravel":"\ud83d\udce6 Laravel (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (29)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","shopify":"\ud83d\udecd Shopify (25)","swift":"\ud83d\udc07 Swift (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","accounting":"\ud83d\udcbc Accounting (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","meteor":"\u2604\ufe0f Meteor (15)","flutter":"\ud83e\udda9 Flutter (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","recruiter":"\ud83c\udfaf Recruiter (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","solidity":"\u26d3 Solidity (11)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (11)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (10)","heroku":"\ud83d\udfea Heroku (9)","internship":" Internship (9)","vfx":" VFX (8)","nosql":"\ud83d\udeab NoSQL (8)","salesforce":"\u2601\ufe0f Salesforce (8)","big data":"\ud83e\udde0 Big Data (8)","defi":"\ud83d\udcb0 Defi (8)","ethereum":"\ud83d\udc8e Ethereum (8)","ansible":" Ansible (8)","jquery":"\ud83e\udde9 jQuery (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","amazon":"\u2601\ufe0f Amazon (6)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","symfony":"\ud83d\udce6 Symfony (5)","illustrator":" Illustrator (5)","grafana":" Grafana (5)","apache":"\ud83d\ude81 Apache (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (2,290)","senior":"\ud83d\udc75 Senior (1,791)","dev":"\ud83e\udd13 Developer (1,648)","exec":"\ud83d\udcbc Executive (1,328)","javascript":"\u2615\ufe0f JavaScript (678)","backend":"\ud83c\udf51 Backend (627)","full stack":"\ud83e\udd5e Full Stack (552)","front end":"\ud83c\udfa8 Front End (475)","golang":"\ud83d\udc00 Golang (431)","react":"\u269b\ufe0f React (411)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (274)","product designer":"\ud83d\udce6 Product Designer (249)","customer support":"\ud83c\udfa7 Customer Support (225)","non tech":"\ud83d\udd0c Non Tech (223)","ruby":"\ud83d\udc8e Ruby (211)","node":"\ud83d\udd17 Node (206)","devops":"\u267e\ufe0f DevOps (183)","python":"\ud83d\udc0d Python (182)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (147)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (106)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (93)","analyst":"\ud83e\udd14 Analyst (88)","infosec":"\ud83d\udd11 InfoSec (88)","java":"\u2615\ufe0f Java (87)","testing":"\ud83e\uddea Testing (81)","api":"\ud83e\udd16 API (76)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","web3":"\ud83d\udc8e Web3 (67)","crypto":"\ud83c\udfc5 Crypto (67)","blockchain":"\u26d3 Blockchain (67)","content writing":"\u270d\ufe0f Content Writing (66)","ops":"\u267e\ufe0f Ops (66)","ecommerce":"\ud83d\udecd Ecommerce (64)","android":"\ud83e\udd16 Android (63)","docker":"\ud83d\udc33 Docker (57)","machine learning":"\ud83e\udd16 Machine Learning (51)","social media":"\u270d\ufe0f Social Media (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c plus plus":"\u2795 C Plus Plus (38)","c":"\ud83d\udd37 C (38)","laravel":"\ud83d\udce6 Laravel (36)","linux":"\ud83d\udc27 Linux (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (29)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","swift":"\ud83d\udc07 Swift (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","shopify":"\ud83d\udecd Shopify (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","accounting":"\ud83d\udcbc Accounting (17)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","flutter":"\ud83e\udda9 Flutter (15)","meteor":"\u2604\ufe0f Meteor (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","recruiter":"\ud83c\udfaf Recruiter (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","solidity":"\u26d3 Solidity (11)","full time":"\u23f0 Full Time (11)","scrum":"\ud83d\udd01 Scrum (11)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (10)","heroku":"\ud83d\udfea Heroku (9)","internship":" Internship (9)","jquery":"\ud83e\udde9 jQuery (8)","defi":"\ud83d\udcb0 Defi (8)","nosql":"\ud83d\udeab NoSQL (8)","ethereum":"\ud83d\udc8e Ethereum (8)","ansible":" Ansible (8)","big data":"\ud83e\udde0 Big Data (8)","vfx":" VFX (8)","nginx":"\u2747\ufe0f Nginx (7)","smart contracts":"\ud83d\udccb Smart Contracts (7)","salesforce":"\u2601\ufe0f Salesforce (6)","smart contract":"\ud83d\udccb Smart Contract (6)","git":"\ud83d\udce6 Git (6)","firebase":"\ud83d\udd25 Firebase (6)","amazon":"\u2601\ufe0f Amazon (6)","apache":"\ud83d\ude81 Apache (5)","symfony":"\ud83d\udce6 Symfony (5)","illustrator":" Illustrator (5)","grafana":" Grafana (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
@@ -121,7 +121,7 @@ Remote
 work anywhere, live anywhere #OpenSalaries
 </span>
 </div>
-<div class="video still" style="background-position:0% 25%;background-image:url('https://remoteok.com/cdn-cgi/image/format=auto,fit=cover,width=1500,height=500,quality=75/assets/tropical-nomad.jpg');">
+<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1543270123-5b5c73132cdf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=50');">
 </div>
 <div class="cover"></div>
 <div class="box">
@@ -275,7 +275,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($112k/mo)
+🤲&nbsp; Open Startup ($715k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.97%) </a>
@@ -358,7 +358,7 @@ Post a job
 </tr>
 <tr class="advertise-here">
 <td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#bbc8dad7dec8fbc9ded6d4cfded4d095d8d4d684c8ced9d1ded8cf86fadfcddec9cfd2c8de90d4d590e9ded6d4cfde90f4f09dd9d4dfc286efd3d2c890ded6dad2d790dfd4dec890d5d4cf90ccd4c9d0959e8bfa9e8b82ebd7dedac8de90cec8de90cfd3de90ded6dad2d790dadfdfc9dec8c890dadfe4c8dad7dec890dad5df90cfd3ded5909e8f8b90dad5df90cfd3ded590cfd3d2c890c8d2cfde9e898cc890dfd4d6dad2d590d2d5c8cfdedadf9e89f890cfd490dacdd4d2df90c8cbdad6d6dec9c890ddd7d4d4dfd2d5dc90cfd3d2c890ded6dad2d79590ecde9e898cc9de90d4d5d7c290dad8d8decbcfd2d5dc90c8cbd4d5c8d4c9c8d3d2cb9e89fddadf90dfdedad7c890ddc9d4d6909e898f888bd09e89fdd6d490dacf90cfd3d2c890d6d4d6ded5cf90dad5df90cfd3dec9de9e898cc890da90ccdad2cfd2d5dc90d7d2c8cf9590ecde90dfd490f5f4ef90dfd490f8ebfa9e89fddaddddd2d7d2dacfde9e89fdc8dad7de96d9dac8dedf90dfdedad7c89e89f890d4d5d7c290ddd7dacf90dddede90d7ced6cb90c8ced690d3dac9df90d8dac8d390c8cbd4d5c8d4c9c8d3d2cbc89e89fddadfc89e89f890cbd7dedac8de90c8dacdde90d9d4cfd390d4dd90cec890cfd2d6de90dad5df90dfd4d59e898ccf90ded6dad2d790cec890dad9d4cecf90cfd3dacf9590efd3dad5d0c89e898a">Advertise here</a>
+<a href="/cdn-cgi/l/email-protection#2754464b42546755424a485342484c0944484a185452454d4244531a6643514255534e54420c48490c75424a4853420c686c014548435e1a734f4e540c424a464e4b0c434842540c4948530c5048554c0902176602171e774b424654420c5254420c534f420c424a464e4b0c464343554254540c46437854464b42540c4649430c534f42490c0213170c4649430c534f42490c534f4e540c544e5342021510540c43484a464e490c4e4954534246430215640c53480c4651484e430c5457464a4a4255540c414b4848434e49400c534f4e540c424a464e4b090c704202151055420c48494b5e0c4644444257534e49400c54574849544855544f4e5702156146430c4342464b540c4155484a0c02151314174c0215614a480c46530c534f4e540c4a484a4249530c4649430c534f425542021510540c460c50464e534e49400c4b4e5453090c70420c43480c6968730c43480c6477660215614641414e4b4e46534202156154464b420a45465442430c4342464b540215640c48494b5e0c414b46530c4142420c4b524a570c54524a0c4f4655430c4446544f0c54574849544855544f4e57540215614643540215640c574b424654420c544651420c4548534f0c48410c52540c534e4a420c4649430c434849021510530c424a464e4b0c52540c46454852530c534f4653090c734f46494c54021516">Advertise here</a>
 </td>
 </tr>
 </thead><thead>
@@ -460,7 +460,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109537-remote-senior-software-engineer-platforms-nylas" data-epoch="1646974810" data-search="Nylas Senior Software Engineer Platforms senior engineer exec dev digital nomad" data-company="Nylas" data-stack="" id="job-109537" data-id="109537" data-href="/remote-jobs/109537-remote-senior-software-engineer-platforms-nylas" class="job job-109537     active   active  ==    												" title="">
 <td class="image " style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-11T05:00:10+00:00","description":"Nylas is a pioneer and leading provider of productivity infrastructure solutions for modern software. Over 100,000+ developers worldwide use the Nylas platform to quickly and securely build productivity features into their applications. With Nylas, developers get unprecedented access to rich communications data from their end-users, pre-built workflows that automate everyday tasks, embeddable UI\/UX components for fast front-end development, and comprehensive security features - all delivered via a suite of powerful APIs that make integration easy.\n\u00a0\nWho We Are\n\u00a0\nNylas was founded in 2013 and has raised over $175M to date from Tiger Global, 8VC, Spark Capital, Slack, and more; as well as individual investors including Patrick Collison, Co-Founder and CEO of Stripe, John Collison, President and Co-Founder of Stripe, Sebastian Siemiatkowski, CEO of Klarna, and Tony Fadell. Developers around the world use Nylas to quickly and securely build email, scheduling, and work automation features into their applications. Nylas customers include Upwork, Wix, Freshworks, Lever, Dialpad, Ceridian, and Move.com.\n\u00a0\nPeople First\n\u00a0\nNylas is a BIG advocate for the well-being of its employees, which is why we have embraced a People First philosophy. It\u2019s about giving more autonomy and flexibility to our employees. It\u2019s not about when, where or how the work is accomplished; it\u2019s about adopting a mindset of velocity and trust when tackling the work. It\u2019s about respecting individual working styles, disabilities, and personal schedules, but also ensuring everyone has a better work-life balance. The outcomes will always be more important than the physical location.\n\u00a0\nNylanauts have the ability to decide the best workspace or environment that will result in more ideas, engagement, creativity, focus, collaboration, and productivity. Why? Because we want our employees to be great; because we are focussed on being a high-performing team. To achieve this mission, we remove barriers and offer more autonomy. So, Nylanauts are encouraged to find those environments that inspire them to be great. This means Nylanauts can work from the slopes of Montana or from the beaches of Italy.\n\u00a0\nAnd if Nylanauts want to work from an office in one of our hubs (San Francisco, Denver, New York City, Toronto, and London), they can! The workspace is there to be utilized.\n\u00a0\nSo, if you\u2019re looking to join a fast-growing company with a beloved, daily-use product, and an authentic mission that puts people first, we want to meet you. Want to know more?\u00a0 Check us out on Comparably and Great Place to Work!\n\u00a0\nRecent Awards:\n\u00a0\nFastest Growing Companies (Inc 500)\n2020 Great Place to Work (Great Place to Work)\n2020 Best Places for Professional Development (Comparably)\n2019 Best Leadership Team (Comparably)\n2020 Happiest Employees (Comparably)\n2020 Best Companies for Compensation (Comparably)\n2020 Best Companies for Perks & Benefits (Comparably)\n2020 Best Companies for Work-Life Balance (Comparably)\n2021 Best Company Culture (Comparably)\n2021 Best CEO (Comparably)\n2021 Best Company for Diversity (Comparably)\n\nAbout the role\nOur engineers build and optimize internal tooling and products to support feature engineering teams. They provide reliable and resilient systems to address common engineering requirements, automate processes to make feature development faster and more efficient, and work to ensure performance system-wide. They have deep technical expertise and provide implementation guidance to other teams.\n\u00a0\nYou should have an automation mindset, experience scaling software systems, and an emphasis on reliability. You should also tend toward humbleness in your abilities and have an innate desire to pass knowledge onto others.\n\n#LI-Remote\n\n\nPerks and Benefits:\n\u00a0\nUnlimited Paid Time Off (PTO): we take this very seriously as we care about the well-being of our employees\nHealthcare: 90% premium coverage for medical, dental and vision for you and your family\nOne Medical onsite and tele-health membership for you and dependents\nAdditional: Health and DC FSA, Life insurance, with options for STD, LTD\nRetirement Plan: match up to 3% of annual salary for 401k or RRSP contributions\nEducation Stipend: $1k annual education & development benefit\nPerk card: $150 per month towards health, wellness, and other perks via Assembly\nCell Phone: $50 per month stipend towards cell phone reimbursement\nFully Paid Parental Leave: 12 weeks parental leave (maternity & paternity)\n\u00a0\nEqual Opportunity Employer:\n\nNylas is registered as an employer in many, but not all, states\/provinces. If you are not located in or able to work from a state\/province where Nylas is registered, you will not be eligible for employment. Visa sponsorship may not be available in certain remote locations.\n\u00a0\nNylas is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also EEO is the Law.\n Apply now and work remotely at Nylas","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":"60000","maxValue":"120000","unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer Platforms","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-11T05:00:10+00:00","hiringOrganization":{"@type":"Organization","name":"Nylas","url":"https:\/\/remoteok.com\/nylas","sameAs":"https:\/\/remoteok.com\/nylas","logo":null}}</script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-11T05:00:10+00:00","description":"Nylas is a pioneer and leading provider of productivity infrastructure solutions for modern software. Over 100,000+ developers worldwide use the Nylas platform to quickly and securely build productivity features into their applications. With Nylas, developers get unprecedented access to rich communications data from their end-users, pre-built workflows that automate everyday tasks, embeddable UI\/UX components for fast front-end development, and comprehensive security features - all delivered via a suite of powerful APIs that make integration easy.\n\u00a0\nWho We Are\n\u00a0\nNylas was founded in 2013 and has raised over $175M to date from Tiger Global, 8VC, Spark Capital, Slack, and more; as well as individual investors including Patrick Collison, Co-Founder and CEO of Stripe, John Collison, President and Co-Founder of Stripe, Sebastian Siemiatkowski, CEO of Klarna, and Tony Fadell. Developers around the world use Nylas to quickly and securely build email, scheduling, and work automation features into their applications. Nylas customers include Upwork, Wix, Freshworks, Lever, Dialpad, Ceridian, and Move.com.\n\u00a0\nPeople First\n\u00a0\nNylas is a BIG advocate for the well-being of its employees, which is why we have embraced a People First philosophy. It\u2019s about giving more autonomy and flexibility to our employees. It\u2019s not about when, where or how the work is accomplished; it\u2019s about adopting a mindset of velocity and trust when tackling the work. It\u2019s about respecting individual working styles, disabilities, and personal schedules, but also ensuring everyone has a better work-life balance. The outcomes will always be more important than the physical location.\n\u00a0\nNylanauts have the ability to decide the best workspace or environment that will result in more ideas, engagement, creativity, focus, collaboration, and productivity. Why? Because we want our employees to be great; because we are focussed on being a high-performing team. To achieve this mission, we remove barriers and offer more autonomy. So, Nylanauts are encouraged to find those environments that inspire them to be great. This means Nylanauts can work from the slopes of Montana or from the beaches of Italy.\n\u00a0\nAnd if Nylanauts want to work from an office in one of our hubs (San Francisco, Denver, New York City, Toronto, and London), they can! The workspace is there to be utilized.\n\u00a0\nSo, if you\u2019re looking to join a fast-growing company with a beloved, daily-use product, and an authentic mission that puts people first, we want to meet you. Want to know more?\u00a0 Check us out on Comparably and Great Place to Work!\n\u00a0\nRecent Awards:\n\u00a0\nFastest Growing Companies (Inc 500)\n2020 Great Place to Work (Great Place to Work)\n2020 Best Places for Professional Development (Comparably)\n2019 Best Leadership Team (Comparably)\n2020 Happiest Employees (Comparably)\n2020 Best Companies for Compensation (Comparably)\n2020 Best Companies for Perks & Benefits (Comparably)\n2020 Best Companies for Work-Life Balance (Comparably)\n2021 Best Company Culture (Comparably)\n2021 Best CEO (Comparably)\n2021 Best Company for Diversity (Comparably)\n\nAbout the role\nOur engineers build and optimize internal tooling and products to support feature engineering teams. They provide reliable and resilient systems to address common engineering requirements, automate processes to make feature development faster and more efficient, and work to ensure performance system-wide. They have deep technical expertise and provide implementation guidance to other teams.\n\u00a0\nYou should have an automation mindset, experience scaling software systems, and an emphasis on reliability. You should also tend toward humbleness in your abilities and have an innate desire to pass knowledge onto others.\n\n#LI-Remote\n\n\nPerks and Benefits:\n\u00a0\nUnlimited Paid Time Off (PTO): we take this very seriously as we care about the well-being of our employees\nHealthcare: 90% premium coverage for medical, dental and vision for you and your family\nOne Medical onsite and tele-health membership for you and dependents\nAdditional: Health and DC FSA, Life insurance, with options for STD, LTD\nRetirement Plan: match up to 3% of annual salary for 401k or RRSP contributions\nEducation Stipend: $1k annual education & development benefit\nPerk card: $150 per month towards health, wellness, and other perks via Assembly\nCell Phone: $50 per month stipend towards cell phone reimbursement\nFully Paid Parental Leave: 12 weeks parental leave (maternity & paternity)\n\u00a0\nEqual Opportunity Employer:\n\nNylas is registered as an employer in many, but not all, states\/provinces. If you are not located in or able to work from a state\/province where Nylas is registered, you will not be eligible for employment. Visa sponsorship may not be available in certain remote locations.\n\u00a0\nNylas is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also EEO is the Law.\n Apply now and work remotely at Nylas","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":60000,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Software Engineer Platforms","image":null,"occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-11T05:00:10+00:00","hiringOrganization":{"@type":"Organization","name":"Nylas","url":"https:\/\/remoteok.com\/nylas","sameAs":"https:\/\/remoteok.com\/nylas","logo":null}}</script>
 <a class="preventLink" href="/remote-jobs/109537-remote-senior-software-engineer-platforms-nylas">
 <div data-z="1" class="logo">
 <p>
@@ -470,7 +470,7 @@ N </p>
 </td>
 <td class="company position company_and_position" style="">
 <span itemprop="hiringOrganization" itemscope itemtype="http://schema.org/Organization" class="companyLink" href="/nylas">
-<h3 itemprop="name">
+ <h3 itemprop="name">
 Nylas </h3>
 </span><br />
 <a itemprop="url" class="preventLink" href="/remote-jobs/109537-remote-senior-software-engineer-platforms-nylas">
@@ -498,7 +498,7 @@ exec </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-03-11T05:00:10+00:00">
-7d </time>
+8d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109537">
@@ -807,14 +807,14 @@ Remote Mobile Jobs
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
 </a> </div><div class="tag">
-☕️&nbsp;<a href="/remote-java-jobs">
-Remote Java Jobs
+🤔&nbsp;<a href="/remote-analyst-jobs">
+Remote Analyst Jobs
 </a> </div><div class="tag">
 🔑&nbsp;<a href="/remote-infosec-jobs">
 Remote InfoSec Jobs
 </a> </div><div class="tag">
-🤔&nbsp;<a href="/remote-analyst-jobs">
-Remote Analyst Jobs
+☕️&nbsp;<a href="/remote-java-jobs">
+Remote Java Jobs
 </a> </div><div class="tag">
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
@@ -831,11 +831,11 @@ Remote React Native Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
-🏅&nbsp;<a href="/remote-crypto-jobs">
-Remote Crypto Jobs
-</a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
+</a> </div><div class="tag">
+🏅&nbsp;<a href="/remote-crypto-jobs">
+Remote Crypto Jobs
 </a> </div><div class="tag">
 ⛓&nbsp;<a href="/remote-blockchain-jobs">
 Remote Blockchain Jobs
@@ -843,11 +843,11 @@ Remote Blockchain Jobs
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
 </a> </div><div class="tag">
-🛍&nbsp;<a href="/remote-ecommerce-jobs">
-Remote Ecommerce Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
+</a> </div><div class="tag">
+🛍&nbsp;<a href="/remote-ecommerce-jobs">
+Remote Ecommerce Jobs
 </a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-android-jobs">
 Remote Android Jobs
@@ -855,38 +855,38 @@ Remote Android Jobs
 🐳&nbsp;<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-social-media-jobs">
-Remote Social Media Jobs
-</a> </div><div class="tag">
 🤖&nbsp;<a href="/remote-machine-learning-jobs">
 Remote Machine Learning Jobs
 </a> </div><div class="tag">
-📦&nbsp;<a href="/remote-architecture-jobs">
-Remote Architecture Jobs
+✍️&nbsp;<a href="/remote-social-media-jobs">
+Remote Social Media Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-graphql-jobs">
 Remote GraphQL Jobs
 </a> </div><div class="tag">
+📦&nbsp;<a href="/remote-architecture-jobs">
+Remote Architecture Jobs
+</a> </div><div class="tag">
 🎨&nbsp;<a href="/remote-css-jobs">
 Remote CSS Jobs
-</a> </div><div class="tag">
-✍️&nbsp;<a href="/remote-copywriting-jobs">
-Remote Copywriting Jobs
 </a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-wordpress-jobs">
 Remote Wordpress Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
+✍️&nbsp;<a href="/remote-copywriting-jobs">
+Remote Copywriting Jobs
 </a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-laravel-jobs">
 Remote Laravel Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔡&nbsp;<a href="/remote-html-jobs">
 Remote HTML Jobs
@@ -920,12 +920,12 @@ Hire CSS Developers Remotely
 Hire Node Developers Remotely
 </a>
 </div><div class="tag">
-🐘 &nbsp;<a href="/hire/php">
-Hire PHP Developers Remotely
-</a>
-</div><div class="tag">
 🐍 &nbsp;<a href="/hire/python">
 Hire Python Developers Remotely
+</a>
+</div><div class="tag">
+🐘 &nbsp;<a href="/hire/php">
+Hire PHP Developers Remotely
 </a>
 </div><div class="tag">
 🚥 &nbsp;<a href="/hire/marketing">
@@ -1028,12 +1028,12 @@ Hire Customer Service Freelancers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1088,20 +1088,20 @@ Hire Sass Developers Remotely
 Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
-🍑 &nbsp;<a href="/hire/backend">
-Hire Backend Developers Remotely
-</a>
-</div><div class="tag">
 ♾️ &nbsp;<a href="/hire/devops">
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🔡 &nbsp;<a href="/hire/html5">
-Hire HTML5 Developers Remotely
+🍑 &nbsp;<a href="/hire/backend">
+Hire Backend Developers Remotely
 </a>
 </div><div class="tag">
 💼 &nbsp;<a href="/hire/product-management">
 Hire Product Management Developers Remotely
+</a>
+</div><div class="tag">
+🔡 &nbsp;<a href="/hire/html5">
+Hire HTML5 Developers Remotely
 </a>
 </div><div class="tag">
 🧩 &nbsp;<a href="/hire/express">
@@ -1132,12 +1132,12 @@ Hire Flutter Developers Remotely
 Hire Data Entry Developers Remotely
 </a>
 </div><div class="tag">
-🎨 &nbsp;<a href="/hire/css3">
-Hire Css3 Developers Remotely
-</a>
-</div><div class="tag">
 🔷 &nbsp;<a href="/hire/c">
 Hire C Developers Remotely
+</a>
+</div><div class="tag">
+🎨 &nbsp;<a href="/hire/css3">
+Hire Css3 Developers Remotely
 </a>
 </div> </div>
 <br />
@@ -1150,6 +1150,6 @@ Hire C Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-198ms
+178ms
 </div>
 <div class="END-OF-FILE"></div>
