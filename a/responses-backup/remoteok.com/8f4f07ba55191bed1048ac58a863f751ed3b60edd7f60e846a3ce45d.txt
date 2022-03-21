@@ -79,14 +79,14 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (2,284)","senior":"\ud83d\udc75 Senior (1,789)","dev":"\ud83e\udd13 Developer (1,638)","exec":"\ud83d\udcbc Executive (1,327)","javascript":"\u2615\ufe0f JavaScript (678)","backend":"\ud83c\udf51 Backend (626)","full stack":"\ud83e\udd5e Full Stack (549)","front end":"\ud83c\udfa8 Front End (474)","golang":"\ud83d\udc00 Golang (430)","react":"\u269b\ufe0f React (412)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (276)","product designer":"\ud83d\udce6 Product Designer (251)","customer support":"\ud83c\udfa7 Customer Support (223)","non tech":"\ud83d\udd0c Non Tech (222)","ruby":"\ud83d\udc8e Ruby (209)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (183)","python":"\ud83d\udc0d Python (182)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (146)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (92)","infosec":"\ud83d\udd11 InfoSec (89)","analyst":"\ud83e\udd14 Analyst (88)","java":"\u2615\ufe0f Java (87)","testing":"\ud83e\uddea Testing (81)","api":"\ud83e\udd16 API (75)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","web3":"\ud83d\udc8e Web3 (68)","crypto":"\ud83c\udfc5 Crypto (68)","blockchain":"\u26d3 Blockchain (68)","ops":"\u267e\ufe0f Ops (66)","content writing":"\u270d\ufe0f Content Writing (66)","android":"\ud83e\udd16 Android (63)","ecommerce":"\ud83d\udecd Ecommerce (63)","docker":"\ud83d\udc33 Docker (57)","machine learning":"\ud83e\udd16 Machine Learning (51)","social media":"\u270d\ufe0f Social Media (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c":"\ud83d\udd37 C (37)","c plus plus":"\u2795 C Plus Plus (37)","linux":"\ud83d\udc27 Linux (36)","laravel":"\ud83d\udce6 Laravel (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","junior":"\ud83d\udc76 Junior (31)","consulting":"\ud83d\udcbc Consulting (31)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","shopify":"\ud83d\udecd Shopify (24)","swift":"\ud83d\udc07 Swift (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","accounting":"\ud83d\udcbc Accounting (17)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","flutter":"\ud83e\udda9 Flutter (15)","meteor":"\u2604\ufe0f Meteor (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","recruiter":"\ud83c\udfaf Recruiter (12)","solidity":"\u26d3 Solidity (12)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (10)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (9)","internship":" Internship (9)","heroku":"\ud83d\udfea Heroku (9)","jquery":"\ud83e\udde9 jQuery (8)","nosql":"\ud83d\udeab NoSQL (8)","defi":"\ud83d\udcb0 Defi (8)","ansible":" Ansible (8)","big data":"\ud83e\udde0 Big Data (8)","vfx":" VFX (8)","ethereum":"\ud83d\udc8e Ethereum (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","amazon":"\u2601\ufe0f Amazon (6)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","salesforce":"\u2601\ufe0f Salesforce (6)","grafana":" Grafana (5)","illustrator":" Illustrator (5)","apache":"\ud83d\ude81 Apache (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (2,278)","senior":"\ud83d\udc75 Senior (1,784)","dev":"\ud83e\udd13 Developer (1,634)","exec":"\ud83d\udcbc Executive (1,328)","javascript":"\u2615\ufe0f JavaScript (676)","backend":"\ud83c\udf51 Backend (626)","full stack":"\ud83e\udd5e Full Stack (547)","front end":"\ud83c\udfa8 Front End (474)","golang":"\ud83d\udc00 Golang (428)","react":"\u269b\ufe0f React (411)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (276)","product designer":"\ud83d\udce6 Product Designer (251)","customer support":"\ud83c\udfa7 Customer Support (223)","non tech":"\ud83d\udd0c Non Tech (222)","ruby":"\ud83d\udc8e Ruby (209)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (181)","python":"\ud83d\udc0d Python (181)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (145)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (92)","infosec":"\ud83d\udd11 InfoSec (89)","analyst":"\ud83e\udd14 Analyst (88)","java":"\u2615\ufe0f Java (86)","testing":"\ud83e\uddea Testing (81)","ios":"\ud83c\udf4f iOS (75)","api":"\ud83e\udd16 API (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","blockchain":"\u26d3 Blockchain (68)","web3":"\ud83d\udc8e Web3 (68)","crypto":"\ud83c\udfc5 Crypto (68)","ops":"\u267e\ufe0f Ops (67)","content writing":"\u270d\ufe0f Content Writing (66)","android":"\ud83e\udd16 Android (63)","ecommerce":"\ud83d\udecd Ecommerce (63)","docker":"\ud83d\udc33 Docker (57)","social media":"\u270d\ufe0f Social Media (51)","machine learning":"\ud83e\udd16 Machine Learning (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c plus plus":"\u2795 C Plus Plus (37)","c":"\ud83d\udd37 C (37)","laravel":"\ud83d\udce6 Laravel (36)","linux":"\ud83d\udc27 Linux (35)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (32)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (31)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","swift":"\ud83d\udc07 Swift (24)","shopify":"\ud83d\udecd Shopify (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","accounting":"\ud83d\udcbc Accounting (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","meteor":"\u2604\ufe0f Meteor (15)","flutter":"\ud83e\udda9 Flutter (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","solidity":"\u26d3 Solidity (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","recruiter":"\ud83c\udfaf Recruiter (12)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (10)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (9)","internship":" Internship (9)","heroku":"\ud83d\udfea Heroku (9)","nosql":"\ud83d\udeab NoSQL (8)","defi":"\ud83d\udcb0 Defi (8)","ansible":" Ansible (8)","vfx":" VFX (8)","big data":"\ud83e\udde0 Big Data (8)","jquery":"\ud83e\udde9 jQuery (8)","ethereum":"\ud83d\udc8e Ethereum (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","salesforce":"\u2601\ufe0f Salesforce (6)","amazon":"\u2601\ufe0f Amazon (6)","illustrator":" Illustrator (5)","grafana":" Grafana (5)","apache":"\ud83d\ude81 Apache (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
 <link rel='alternate' type='application/json' title='JSON' href='/remote-jobs.json'>
 <meta name="twitter:widgets:csp" content="on">
 <script>
-			var worldwide=false;			var basicPrice=599;
+			var worldwide=false;			var basicPrice=499;
 			var priceForHighlightedExtra=49;
 			var stripePublicKey='pk_live_thn9fkM3p9yV25rj8HwkXVJq';
 		</script>
@@ -121,7 +121,7 @@ Remote
 work anywhere, live anywhere #OpenSalaries
 </span>
 </div>
-<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1543270123-5b5c73132cdf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=50');">
+<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=50');">
 </div>
 <div class="cover"></div>
 <div class="box">
@@ -275,7 +275,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($710k/mo)
+🤲&nbsp; Open Startup ($704k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.97%) </a>
@@ -304,14 +304,14 @@ Other
 Health insurance
 </a>
 </span>
-<a class="button action-post-job" href="/hire-remotely?discount_code=f40a1a3f30cba41ee7b335c48d3c36b6&ref=top">
+<a class="button action-post-job" href="/hire-remotely?discount_code=573acb3b8848293f9e81010adff53383&ref=top">
 Post <span class="hide-before-600px">a </span>job
 </a>
 <a class="button reverse white action-log-in" href="https://remoteok.com/login">Log in</a>
 </div>
 <div class="page">
 <div class="container">
-<a class="notice-post-job" href="/hire-remotely?discount_code=f40a1a3f30cba41ee7b335c48d3c36b6&ref=center">
+<a class="notice-post-job" href="/hire-remotely?discount_code=573acb3b8848293f9e81010adff53383&ref=center">
 <p>
 👉 Hiring for a Remote position?
 </p>
@@ -323,23 +323,23 @@ Post a job
 											</style>
 <table id="jobsboard">
 <style>
-								tr.sw-insert {
-									cursor:pointer;
-								}
-								tr.sw-insert:hover {
-									opacity:0.75;
-								}
-								tr.sw-insert:active {
-									opacity:0.55;
-								}
-							</style>
+									tr.sw-insert {
+										cursor:pointer;
+									}
+									tr.sw-insert:hover {
+										opacity:0.75;
+									}
+									tr.sw-insert:active {
+										opacity:0.55;
+									}
+								</style>
 <script>
-								$(function() {
-									$('.sw-insert').bind('click',function(e) {
-										window.location.href=$('.sw-insert a').eq(0).attr('href');
-									});
-								})
-							</script>
+									$(function() {
+										$('.sw-insert').bind('click',function(e) {
+											window.location.href=$('.sw-insert a').eq(0).attr('href');
+										});
+									})
+								</script>
 <thead>
 <tr class="sw-insert ad advertisement sponsored" rel="sponsored">
 <td style="background-color:#343477;" class="image" style="border:none"><a target="_blank" aria-label="SafetyWing" style="text-decoration:none;border:none;" target="_blank" rel="follow noopener" href="/safety-wing">
@@ -355,11 +355,6 @@ Post a job
 <td style="background-color:#343477;" class="tags"></td>
 <td style="background-color:#343477;" class="time"></td>
 <td style="background-color:#343477;" class="source"><a target="_blank" href="https://remoteOK.com/nomad-health" rel="follow noopener"><div class="apply_button no-logo" style="background-color:#5bc6c6;border-color:#5bc6c6 !important;"><p style="opacity:1;color:#fff;">Save 15%</p></div></a></td>
-</tr>
-<tr class="advertise-here">
-<td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#6c1f0d00091f2c1e09010318090307420f0301531f190e06090f18512d081a091e18051f09470302473e09010318094723274a0e030815513804051f4709010d0500470803091f47020318471b031e0742495c2d495c553c00090d1f0947191f09471804094709010d0500470d08081e091f1f470d08331f0d00091f470d020847180409024749585c470d02084718040902471804051f471f051809495e5b1f470803010d05024705021f18090d08495e2f471803470d1a030508471f1c0d0101091e1f470a0003030805020b471804051f4709010d050042473b09495e5b1e094703020015470d0f0f091c1805020b471f1c03021f031e1f04051c495e2a0d084708090d001f470a1e030147495e585f5c07495e2a0103470d18471804051f47010301090218470d0208471804091e09495e5b1f470d471b0d051805020b4700051f1842473b0947080347222338470803472f3c2d495e2a0d0a0a0500050d1809495e2a1f0d0009410e0d1f09084708090d001f495e2f4703020015470a000d18470a0909470019011c471f190147040d1e08470f0d1f04471f1c03021f031e1f04051c1f495e2a0d081f495e2f471c00090d1f09471f0d1a09470e03180447030a47191f4718050109470d020847080302495e5b184709010d050047191f470d0e0319184718040d18424738040d02071f495e5d">Advertise here</a>
-</td>
 </tr>
 </thead><thead>
 <tr>
@@ -452,7 +447,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-24 new jobs posted today
+7 new jobs posted today
 </span>
 </div>
 </td>
@@ -460,7 +455,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109469-remote-founding-software-engineer-rasayel" data-epoch="1646820405" data-search="Rasayel Founding Software Engineer ruby engineer dev digital nomad" data-company="Rasayel" data-stack="" id="job-109469" data-id="109469" data-href="/remote-jobs/109469-remote-founding-software-engineer-rasayel" class="job job-109469 verified    active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-09T10:06:45+00:00","description":"We, at&nbsp;**Rasayel**&nbsp;(https:\/\/rasayel.io), are a small, sharp-focused and deliberate team. We built Rasayel to connect businesses to the most popular messaging channels (WhatsApp, Twitter, Facebook, etc) out there. We started small with a stellar group of designers, engineers, and product folks. We do dream big, and we have plenty of big plans&nbsp;**and we have just closed our seed round with some ambitious investors in the US & EU**. We want to tackle our next set of exciting challenges in the next years to come and this is where YOU come in the picture, we want your help for us to do so. You will get to work with product, engineering and design folks who are ex&nbsp;**Intercom**, and&nbsp;**Instabug**&nbsp;as well as folks who built popular open source libraries like vee-validate. We are open, kind, inclusive and forward thinking. You will find zero of the big tech co bureaucracies or politics. We are all about good, calm but ambitious and meaningful work. :)\n\n**About the role,**\n\nWe are looking to hire a Founding Software Engineer to join our small distributed team team around different parts of Ireland, Egypt, and Canada. Ideally, we are looking for a generalist, someone who can wear many hats, someone who is pragmatic, a product engineer at heart and most importantly, who thinks from first principles (https:\/\/fs.blog\/2018\/04\/first-principles). We work remotely, and so this is a 100% remote role. You can choose to work anywhere you'd like having few hours overlapping with GMT+0.\n\nHere are few pieces of work you will have a chance to work on,\n\n- Building on top of our new not-yet-fullly-launched omnichannel messaging platform.\n- Building infrastructure for hosting open source protocol messaging clients.\n- Building a Bot framework that works across all popular message channels.\n- Building a connection with new messaging platforms like Messenger, Telegram, Instagram, etc.\n- Building and releasing open source Ruby SDKs for some of the popular messaging channels out there.\n- Grokking through our GraphQL layer or measuring queries performance.\n- Rearchitecting & improving our internal messaging pipeline.\n- Building Public APIs & Webhooks for our messaging channels.\n- Get us approved for a SOC Type I and II compliance\n- And many more equally exciting and challenging projects!\n\nWe have just launched our product that have been gaining some great momentum with our customers and you'll get to be a big part of it. \ud83d\ude4c\n\n**About you,**\n\nA little bit about what we think can be a good fit for us,\n- You are a [product engineer](https:\/\/blog.pragmaticengineer.com\/the-product-minded-engineer\/) at heart.\n- You have worked with Ruby on Rails.\n- You aren't afraid to dabble into Rails internals if you need to.\n- You worked extensively with PostgreSQL, and you can write raw SQL if you need to.\n- You worked with REST, GraphQL APIs and you can put an argument for using one over the other.\n- You aren't afraid to work with Javascript, Typescript and\/or Vue.js.\n- You understand the value of writing tests, as an investment for the future.\n- You have worked with any cloud provider, preferably AWS.\n- You have worked with Docker, and preferably touched on AWS ECS.\n- You have did your some share of DevOps work. The more the merrier.\n- You write your code with empathy for your fellow Engineers, and for future readers.\n- You favour simplicity.\n- You have are self-driven, and can self-manage.\n- You can write and communicate in English succinctly. You wrote technical plans before, we do write a lot.\n- You love to take on complex problems, and you don't shy away from fixing issues.\n- You have some remote experience, and you understand its challenges.\n- You can take, and give feedback openly.\n- You are kind, and there is \u22655% a chance we will see you smile. :)\n- You like to work in a small team, and have direct ownership of your work.\n- You think of technology, not as an ideology but rather as means to push value into the world.\n\nYour engineering skills are as important as your entrepreneurial skills to us. We value generalists who can take a problem from its most ambiguous state and deliver its end value to solve a real world problem for our customers. If you reach out, leave something personal so we know you actually read this. \ud83d\ude09\n\n**About pay & benefits,**\n\n- Competitive&nbsp;**salary**, and meaningful&nbsp;**equity**\n- 100% remote, stress-free and friendly environment.\n- Reimbursing your monthly internet bill & fitness subscription.\n- A new laptop and the equipment that you will need.\n- Health insurance in your country of residence, or salary compensation for it.\n- We don't have middle managers, we will work to enable you be successful and get out of the way.\n- You'll have the opportunity to have a massive impact due to our size and being an early stage.\n- No recruitment agencies, and no middleman of any kind. We never go through an agency to talk to people who want to work with us.\n\n Apply now and work remotely at Rasayel","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":80000,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Founding Software Engineer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/6374f4b5b090f5ab72bf490e2b4b27141646820405.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-09T10:06:45+00:00","hiringOrganization":{"@type":"Organization","name":"Rasayel","url":"https:\/\/remoteok.com\/rasayel","sameAs":"https:\/\/remoteok.com\/rasayel","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/6374f4b5b090f5ab72bf490e2b4b27141646820405.png"}}</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-09T10:06:45+00:00","description":"We, at&nbsp;**Rasayel**&nbsp;(https:\/\/rasayel.io), are a small, sharp-focused and deliberate team. We built Rasayel to connect businesses to the most popular messaging channels (WhatsApp, Twitter, Facebook, etc) out there. We started small with a stellar group of designers, engineers, and product folks. We do dream big, and we have plenty of big plans&nbsp;**and we have just closed our seed round with some ambitious investors in the US & EU**. We want to tackle our next set of exciting challenges in the next years to come and this is where YOU come in the picture, we want your help for us to do so. You will get to work with product, engineering and design folks who are ex&nbsp;**Intercom**, and&nbsp;**Instabug**&nbsp;as well as folks who built popular open source libraries like vee-validate. We are open, kind, inclusive and forward thinking. You will find zero of the big tech co bureaucracies or politics. We are all about good, calm but ambitious and meaningful work. :)\n\n**About the role,**\n\nWe are looking to hire a Founding Software Engineer to join our small distributed team team around different parts of Ireland, Egypt, and Canada. Ideally, we are looking for a generalist, someone who can wear many hats, someone who is pragmatic, a product engineer at heart and most importantly, who thinks from first principles (https:\/\/fs.blog\/2018\/04\/first-principles). We work remotely, and so this is a 100% remote role. You can choose to work anywhere you'd like having few hours overlapping with GMT+0.\n\nHere are few pieces of work you will have a chance to work on,\n\n- Building on top of our new not-yet-fullly-launched omnichannel messaging platform.\n- Building infrastructure for hosting open source protocol messaging clients.\n- Building a Bot framework that works across all popular message channels.\n- Building a connection with new messaging platforms like Messenger, Telegram, Instagram, etc.\n- Building and releasing open source Ruby SDKs for some of the popular messaging channels out there.\n- Grokking through our GraphQL layer or measuring queries performance.\n- Rearchitecting & improving our internal messaging pipeline.\n- Building Public APIs & Webhooks for our messaging channels.\n- Get us approved for a SOC Type I and II compliance\n- And many more equally exciting and challenging projects!\n\nWe have just launched our product that have been gaining some great momentum with our customers and you'll get to be a big part of it. \ud83d\ude4c\n\n**About you,**\n\nA little bit about what we think can be a good fit for us,\n- You are a [product engineer](https:\/\/blog.pragmaticengineer.com\/the-product-minded-engineer\/) at heart.\n- You have worked with Ruby on Rails.\n- You aren't afraid to dabble into Rails internals if you need to.\n- You worked extensively with PostgreSQL, and you can write raw SQL if you need to.\n- You worked with REST, GraphQL APIs and you can put an argument for using one over the other.\n- You aren't afraid to work with Javascript, Typescript and\/or Vue.js.\n- You understand the value of writing tests, as an investment for the future.\n- You have worked with any cloud provider, preferably AWS.\n- You have worked with Docker, and preferably touched on AWS ECS.\n- You have did your some share of DevOps work. The more the merrier.\n- You write your code with empathy for your fellow Engineers, and for future readers.\n- You favour simplicity.\n- You have are self-driven, and can self-manage.\n- You can write and communicate in English succinctly. You wrote technical plans before, we do write a lot.\n- You love to take on complex problems, and you don't shy away from fixing issues.\n- You have some remote experience, and you understand its challenges.\n- You can take, and give feedback openly.\n- You are kind, and there is \u22655% a chance we will see you smile. :)\n- You like to work in a small team, and have direct ownership of your work.\n- You think of technology, not as an ideology but rather as means to push value into the world.\n\nYour engineering skills are as important as your entrepreneurial skills to us. We value generalists who can take a problem from its most ambiguous state and deliver its end value to solve a real world problem for our customers. If you reach out, leave something personal so we know you actually read this. \ud83d\ude09\n\n**About pay & benefits,**\n\n- Competitive&nbsp;**salary**, and meaningful&nbsp;**equity**\n- 100% remote, stress-free and friendly environment.\n- Reimbursing your monthly internet bill & fitness subscription.\n- A new laptop and the equipment that you will need.\n- Health insurance in your country of residence, or salary compensation for it.\n- We don't have middle managers, we will work to enable you be successful and get out of the way.\n- You'll have the opportunity to have a massive impact due to our size and being an early stage.\n- No recruitment agencies, and no middleman of any kind. We never go through an agency to talk to people who want to work with us.\n\n Apply now and work remotely at Rasayel","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":80000,"maxValue":120000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Founding Software Engineer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/6374f4b5b090f5ab72bf490e2b4b27141646820405.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-09T10:06:45+00:00","hiringOrganization":{"@type":"Organization","name":"Rasayel","url":"https:\/\/remoteok.com\/rasayel","sameAs":"https:\/\/remoteok.com\/rasayel","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/6374f4b5b090f5ab72bf490e2b4b27141646820405.png"}}</script>
 <a alt="Rasayel" class="preventLink" href="/remote-jobs/109469-remote-founding-software-engineer-rasayel">
 <img alt="Rasayel" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteOK.com/assets/img/jobs/6374f4b5b090f5ab72bf490e2b4b27141646820405.png?1646820405" class="logo" />
 </a>
@@ -495,7 +490,7 @@ dev </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-03-09T10:06:45+00:00">
-11d </time>
+12d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109469">
@@ -527,10 +522,10 @@ rasayel.io </a>
 Apply now
 </a>
 <p>
-👀 1,560 views
+👀 1,621 views
 </p>
 <p>
-✅ 79 applied
+✅ 83 applied
 (5%)
 </p>
 <p>
@@ -556,7 +551,7 @@ $80,000 &mdash; $120,000/year\n
 Apply for this job
 </a>
 <div style="font-size:12px;margin-top:-14px;font-weight:bold;">
-or email to <span class="__cf_email__" data-cfemail="d1a5b0a3b4ba91a3b0a2b0a8b4bdffb8be">[email&#160;protected]</span> </div>
+or email to <span class="__cf_email__" data-cfemail="790d180b1c12390b180a18001c15571016">[email&#160;protected]</span> </div>
 <p style="font-size:0.85em">
 <strong>👉 Please reference you found the job on Remote OK, this helps us get more companies to post here, thanks!</strong><br /><br />
 When applying for jobs, you should NEVER have to pay to apply. You should also NEVER have to pay to buy equipment which they then pay you back for later. Also never pay for trainings you have to do. Those are scams! NEVER PAY FOR ANYTHING! Posts that link to pages with "how to work online" are also scams. Don't use them or pay for them. Also always verify you're actually talking to the company in the job post and not an imposter. A good idea is to check the domain name for the site/email and see if it's the actual company's main domain name. Scams in remote work are rampant, be careful! <a href="https://twitter.com/levelsio/status/1300443073562980353?s=20" style="font-weight:800;">Read more to avoid scams</a>. When clicking on the button to apply above, you will leave Remote OK and go to the job application page for that company outside this site. Remote OK accepts no liability or responsibility as a consequence of any reliance upon information on there (external sites) or here.
@@ -849,11 +844,11 @@ Remote Java Jobs
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -861,14 +856,14 @@ Remote React Native Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
+</a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
-</a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
 </a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
@@ -885,13 +880,13 @@ Remote Ecommerce Jobs
 🐳&nbsp;<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-machine-learning-jobs">
-Remote Machine Learning Jobs
-</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
 </a> </div><div class="tag">
-⚛️&nbsp;<a href="/remote-graphql-jobs">
+🤖&nbsp;<a href="/remote-machine-learning-jobs">
+Remote Machine Learning Jobs
+</a> </div><div class="tag">
+ ⚛️&nbsp;<a href="/remote-graphql-jobs">
 Remote GraphQL Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-architecture-jobs">
@@ -906,17 +901,17 @@ Remote Wordpress Jobs
 ✍️&nbsp;<a href="/remote-copywriting-jobs">
 Remote Copywriting Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
-</a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-laravel-jobs">
 Remote Laravel Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔡&nbsp;<a href="/remote-html-jobs">
 Remote HTML Jobs
@@ -980,7 +975,7 @@ Hire SQL Developers Remotely
 </div><div class="tag">
 🐬 &nbsp;<a href="/hire/sql">
 Hire SQL Developers Remotely
- </a>
+</a>
 </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/java">
 Hire Java Developers Remotely
@@ -1058,12 +1053,12 @@ Hire Customer Service Freelancers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1094,20 +1089,20 @@ Hire Graphic Design Freelancers Remotely
 Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
-🦑 &nbsp;<a href="/hire/kubernetes">
-Hire Kubernetes Developers Remotely
-</a>
-</div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
 Hire Front End Developers Remotely
 </a>
 </div><div class="tag">
-⚛️ &nbsp;<a href="/hire/redux">
-Hire Redux Developers Remotely
-</a>
-</div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+🦑 &nbsp;<a href="/hire/kubernetes">
+Hire Kubernetes Developers Remotely
+</a>
+</div><div class="tag">
+⚛️ &nbsp;<a href="/hire/redux">
+Hire Redux Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/sass">
@@ -1118,12 +1113,12 @@ Hire Sass Developers Remotely
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🐇 &nbsp;<a href="/hire/agile">
-Hire Agile Developers Remotely
-</a>
-</div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+🐇 &nbsp;<a href="/hire/agile">
+Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
 🔡 &nbsp;<a href="/hire/html5">
@@ -1180,6 +1175,6 @@ Hire Css3 Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-172ms
+187ms
 </div>
 <div class="END-OF-FILE"></div>

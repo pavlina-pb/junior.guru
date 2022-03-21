@@ -79,14 +79,14 @@
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (2,284)","senior":"\ud83d\udc75 Senior (1,789)","dev":"\ud83e\udd13 Developer (1,638)","exec":"\ud83d\udcbc Executive (1,327)","javascript":"\u2615\ufe0f JavaScript (678)","backend":"\ud83c\udf51 Backend (626)","full stack":"\ud83e\udd5e Full Stack (549)","front end":"\ud83c\udfa8 Front End (474)","golang":"\ud83d\udc00 Golang (430)","react":"\u269b\ufe0f React (412)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (276)","product designer":"\ud83d\udce6 Product Designer (251)","customer support":"\ud83c\udfa7 Customer Support (223)","non tech":"\ud83d\udd0c Non Tech (222)","ruby":"\ud83d\udc8e Ruby (209)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (183)","python":"\ud83d\udc0d Python (182)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (146)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (92)","infosec":"\ud83d\udd11 InfoSec (89)","analyst":"\ud83e\udd14 Analyst (88)","java":"\u2615\ufe0f Java (87)","testing":"\ud83e\uddea Testing (81)","api":"\ud83e\udd16 API (75)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","web3":"\ud83d\udc8e Web3 (68)","crypto":"\ud83c\udfc5 Crypto (68)","blockchain":"\u26d3 Blockchain (68)","ops":"\u267e\ufe0f Ops (66)","content writing":"\u270d\ufe0f Content Writing (66)","android":"\ud83e\udd16 Android (63)","ecommerce":"\ud83d\udecd Ecommerce (63)","docker":"\ud83d\udc33 Docker (57)","machine learning":"\ud83e\udd16 Machine Learning (51)","social media":"\u270d\ufe0f Social Media (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c":"\ud83d\udd37 C (37)","c plus plus":"\u2795 C Plus Plus (37)","linux":"\ud83d\udc27 Linux (36)","laravel":"\ud83d\udce6 Laravel (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","junior":"\ud83d\udc76 Junior (31)","consulting":"\ud83d\udcbc Consulting (31)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","shopify":"\ud83d\udecd Shopify (24)","swift":"\ud83d\udc07 Swift (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","accounting":"\ud83d\udcbc Accounting (17)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","flutter":"\ud83e\udda9 Flutter (15)","meteor":"\u2604\ufe0f Meteor (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","recruiter":"\ud83c\udfaf Recruiter (12)","solidity":"\u26d3 Solidity (12)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (10)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (9)","internship":" Internship (9)","heroku":"\ud83d\udfea Heroku (9)","jquery":"\ud83e\udde9 jQuery (8)","nosql":"\ud83d\udeab NoSQL (8)","defi":"\ud83d\udcb0 Defi (8)","ansible":" Ansible (8)","big data":"\ud83e\udde0 Big Data (8)","vfx":" VFX (8)","ethereum":"\ud83d\udc8e Ethereum (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","amazon":"\u2601\ufe0f Amazon (6)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","salesforce":"\u2601\ufe0f Salesforce (6)","grafana":" Grafana (5)","illustrator":" Illustrator (5)","apache":"\ud83d\ude81 Apache (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (2,278)","senior":"\ud83d\udc75 Senior (1,784)","dev":"\ud83e\udd13 Developer (1,634)","exec":"\ud83d\udcbc Executive (1,328)","javascript":"\u2615\ufe0f JavaScript (676)","backend":"\ud83c\udf51 Backend (626)","full stack":"\ud83e\udd5e Full Stack (547)","front end":"\ud83c\udfa8 Front End (474)","golang":"\ud83d\udc00 Golang (428)","react":"\u269b\ufe0f React (411)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (276)","product designer":"\ud83d\udce6 Product Designer (251)","customer support":"\ud83c\udfa7 Customer Support (223)","non tech":"\ud83d\udd0c Non Tech (222)","ruby":"\ud83d\udc8e Ruby (209)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (181)","python":"\ud83d\udc0d Python (181)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (145)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (92)","infosec":"\ud83d\udd11 InfoSec (89)","analyst":"\ud83e\udd14 Analyst (88)","java":"\u2615\ufe0f Java (86)","testing":"\ud83e\uddea Testing (81)","ios":"\ud83c\udf4f iOS (75)","api":"\ud83e\udd16 API (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","blockchain":"\u26d3 Blockchain (68)","web3":"\ud83d\udc8e Web3 (68)","crypto":"\ud83c\udfc5 Crypto (68)","ops":"\u267e\ufe0f Ops (67)","content writing":"\u270d\ufe0f Content Writing (66)","android":"\ud83e\udd16 Android (63)","ecommerce":"\ud83d\udecd Ecommerce (63)","docker":"\ud83d\udc33 Docker (57)","social media":"\u270d\ufe0f Social Media (51)","machine learning":"\ud83e\udd16 Machine Learning (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c plus plus":"\u2795 C Plus Plus (37)","c":"\ud83d\udd37 C (37)","laravel":"\ud83d\udce6 Laravel (36)","linux":"\ud83d\udc27 Linux (35)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (32)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (31)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","swift":"\ud83d\udc07 Swift (24)","shopify":"\ud83d\udecd Shopify (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","accounting":"\ud83d\udcbc Accounting (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","meteor":"\u2604\ufe0f Meteor (15)","flutter":"\ud83e\udda9 Flutter (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","solidity":"\u26d3 Solidity (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","recruiter":"\ud83c\udfaf Recruiter (12)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (10)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (9)","internship":" Internship (9)","heroku":"\ud83d\udfea Heroku (9)","nosql":"\ud83d\udeab NoSQL (8)","defi":"\ud83d\udcb0 Defi (8)","ansible":" Ansible (8)","vfx":" VFX (8)","big data":"\ud83e\udde0 Big Data (8)","jquery":"\ud83e\udde9 jQuery (8)","ethereum":"\ud83d\udc8e Ethereum (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","salesforce":"\u2601\ufe0f Salesforce (6)","amazon":"\u2601\ufe0f Amazon (6)","illustrator":" Illustrator (5)","grafana":" Grafana (5)","apache":"\ud83d\ude81 Apache (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
 <link rel='alternate' type='application/json' title='JSON' href='/remote-jobs.json'>
 <meta name="twitter:widgets:csp" content="on">
 <script>
-			var worldwide=false;			var basicPrice=599;
+			var worldwide=false;			var basicPrice=499;
 			var priceForHighlightedExtra=49;
 			var stripePublicKey='pk_live_thn9fkM3p9yV25rj8HwkXVJq';
 		</script>
@@ -121,7 +121,7 @@ Remote
 work anywhere, live anywhere #OpenSalaries
 </span>
 </div>
-<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1543270123-5b5c73132cdf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=50');">
+<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=50');">
 </div>
 <div class="cover"></div>
 <div class="box">
@@ -275,7 +275,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($710k/mo)
+🤲&nbsp; Open Startup ($704k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.97%) </a>
@@ -304,14 +304,14 @@ Other
 Health insurance
 </a>
 </span>
-<a class="button action-post-job" href="/hire-remotely?discount_code=f40a1a3f30cba41ee7b335c48d3c36b6&ref=top">
+<a class="button action-post-job" href="/hire-remotely?discount_code=573acb3b8848293f9e81010adff53383&ref=top">
 Post <span class="hide-before-600px">a </span>job
 </a>
 <a class="button reverse white action-log-in" href="https://remoteok.com/login">Log in</a>
 </div>
 <div class="page">
 <div class="container">
-<a class="notice-post-job" href="/hire-remotely?discount_code=f40a1a3f30cba41ee7b335c48d3c36b6&ref=center">
+<a class="notice-post-job" href="/hire-remotely?discount_code=573acb3b8848293f9e81010adff53383&ref=center">
 <p>
 👉 Hiring for a Remote position?
 </p>
@@ -323,23 +323,23 @@ Post a job
 											</style>
 <table id="jobsboard">
 <style>
-								tr.sw-insert {
-									cursor:pointer;
-								}
-								tr.sw-insert:hover {
-									opacity:0.75;
-								}
-								tr.sw-insert:active {
-									opacity:0.55;
-								}
-							</style>
+									tr.sw-insert {
+										cursor:pointer;
+									}
+									tr.sw-insert:hover {
+										opacity:0.75;
+									}
+									tr.sw-insert:active {
+										opacity:0.55;
+									}
+								</style>
 <script>
-								$(function() {
-									$('.sw-insert').bind('click',function(e) {
-										window.location.href=$('.sw-insert a').eq(0).attr('href');
-									});
-								})
-							</script>
+									$(function() {
+										$('.sw-insert').bind('click',function(e) {
+											window.location.href=$('.sw-insert a').eq(0).attr('href');
+										});
+									})
+								</script>
 <thead>
 <tr class="sw-insert ad advertisement sponsored" rel="sponsored">
 <td style="background-color:#343477;" class="image" style="border:none"><a target="_blank" aria-label="SafetyWing" style="text-decoration:none;border:none;" target="_blank" rel="follow noopener" href="/safety-wing">
@@ -355,11 +355,6 @@ Post a job
 <td style="background-color:#343477;" class="tags"></td>
 <td style="background-color:#343477;" class="time"></td>
 <td style="background-color:#343477;" class="source"><a target="_blank" href="https://remoteOK.com/nomad-health" rel="follow noopener"><div class="apply_button no-logo" style="background-color:#5bc6c6;border-color:#5bc6c6 !important;"><p style="opacity:1;color:#fff;">Save 15%</p></div></a></td>
-</tr>
-<tr class="advertise-here">
-<td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#146775787167546671797b60717b7f3a777b792b6761767e717760295570627166607d67713f7b7a3f4671797b60713f5b5f32767b706d29407c7d673f7179757d783f707b71673f7a7b603f637b667f3a31245531242d4478717567713f6167713f607c713f7179757d783f757070667167673f75704b67757871673f757a703f607c717a3f3120243f757a703f607c717a3f607c7d673f677d6071312623673f707b79757d7a3f7d7a67607175703126573f607b3f75627b7d703f67647579797166673f72787b7b707d7a733f607c7d673f7179757d783a3f437131262366713f7b7a786d3f7577777164607d7a733f67647b7a677b66677c7d6431265275703f70717578673f72667b793f31262027247f312652797b3f75603f607c7d673f797b79717a603f757a703f607c716671312623673f753f63757d607d7a733f787d67603a3f43713f707b3f5a5b403f707b3f5744553126527572727d787d756071312652677578713976756771703f70717578673126573f7b7a786d3f727875603f7271713f786179643f6761793f7c7566703f7775677c3f67647b7a677b66677c7d64673126527570673126573f6478717567713f677562713f767b607c3f7b723f61673f607d79713f757a703f707b7a312623603f7179757d783f61673f75767b61603f607c75603a3f407c757a7f67312625">Advertise here</a>
-</td>
 </tr>
 </thead><thead>
 <tr>
@@ -452,7 +447,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-24 new jobs posted today
+7 new jobs posted today
 </span>
 </div>
 </td>
@@ -460,7 +455,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109379-remote-full-stack-c-software-engineer-nelnet-community-engagement" data-epoch="1646956803" data-search="Nelnet Community Engagement Full Stack C# Software Engineer c c plus plus engineer full stack dev digital nomad" data-company="Nelnet Community Engagement" data-stack="" id="job-109379" data-id="109379" data-href="/remote-jobs/109379-remote-full-stack-c-software-engineer-nelnet-community-engagement" class="job job-109379     active  bumped active  ==  highlighted  												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-11T00:00:03+00:00","description":"Nelnet Community Engagement is seeking Software Engineers (both Mid and Senior levels) for our Learning Engineering team. At Nelnet Community Engagement, we believe in the power of community-minded organizations. We help those organizations grow their impact by making it easy to engage anytime, anywhere. We help churches (under our Nelnet Community Engagement & Catholic Faith Technology brands), businesses (under our CD2 brand), & nonprofits engage and grow their communities through text, web, & branded apps.\n\nFor Senior Level:\n\nThis role is responsible for developing enterprise-wide, cross-functional software solutions.  This position designs solutions for complex projects and completes work with no supervision.  This role also mentors less experienced engineers and makes recommendations for future development options.  In addition, this position advocates for making improvements and working as a whole team to accomplish goals.\n\nFor Mid Level:\n\nThis position designs, creates, maintains, audits and improves software applications by performing coding, debugging, testing and troubleshooting throughout the application development process.  This position designs solutions for typical projects and completes work with minimal supervision.  When required, this role makes recommendations for future development options.\n\nThis role is open to Remote-US candidates. The current team has a large concentration of members in Overland Park, KS (in the Kansas City metro area).\n\n\nResponsibilities\n\n* Researches, designs, implements and manages software applications based on user requirements.\n* Writes, tests and implements efficient code.\n* Maintains and develops existing applications by analyzing and identifying areas for modification.\n* Works within an Agile environment, responds to change quickly, including re-focusing development efforts and adapting to evolving requirements.\n* Is positive and solution-oriented with team members and stakeholders.\n* Continues to update technical knowledge and skills.\n* Additionally, a Senior Engineer, provides guidance to other engineers, coaches and mentors other team members, and is an influencer.\n\n\nRequirements\n\n* Bachelor\u2019s degree or equivalent experience.\n* 3+ years of related experience.\n* Strong technical competency.\n* Ability to communicate with clients, colleagues and management to explain complex issues clearly and concisely.\n* Logical, analytical and creative approach to solving problems.\n* Ability to work both in a team and independently.\n* Ability to handle multiple priorities and work under pressure.\n* Good time management skills to plan and organize own work.\n* Demonstrated respect, collaboration, and pride in ownership.\n* Ability to adapt to change.\n* Focus on continuous improvement and delivering value.\n* Ability to work collaboratively and iteratively (https:\/\/a3a.me\/cWbXT).\n\n\nOur Tools & Technologies\n\n* C#\n* JQuery\n* SQL Server\n* Microsoft Technology Stack\n* IIS\n* AWS EC2, S3, Route 53\n* Microsoft Development Studio\n* SSRS\n* Power BI or Quicksite\n\n\nComp & Benefits\n\n* Annual salary range is $88-$105k for Engineer, $106k - $135k for Senior Engineer.\n* 4.2 weeks ETO + 7 holidays + 4 floating holidays\n* Free health insurance (associate-only, bronze plan, meets requirements). Very affordable rates if you add on from there.\n* Up to $1.8k in pre-tax HSA wellness incentives & $300 in wellness reimbursements.\n* 401k w\/ 4% match\n* Paid parental leave\n* Company laptop provided + remote office setup stipend\n* Tuition assistance, up to  $5,250 \/ year\n* Matching charitable gifts. 1:1 for most, 3:1 for educational 501(c)3's\n* You can learn more about our benefits over at http:\/\/nelnetinc.com\/careers\/benefits\/\n\n\nOur growing, dedicated team works in a hybrid remote & open office environment. This full time position is available for all candidates, including remote. The current team has a large concentration of members in Overland Park, KS (in the Kansas City metro area). All candidates need to be eligible to work in the US (Citizen, green card, or other EAD).\n\nNo recruiters, staffing firms, or contractors, please.\n\nPS: We've had some deliverability issues with Gmail users lately. If you're using Gmail, please allow all @aware3.com email addresses like this: https:\/\/a3a.me\/pv9vV to make sure you get all our correspondence.\n Apply now and work remotely at Nelnet Community Engagement","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":90000,"maxValue":140000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Full Stack C# Software Engineer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1ce38d15a058fac27536b98d3d58d1811646366855.jpg","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-11T00:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"Nelnet Community Engagement","url":"https:\/\/remoteok.com\/nelnet-community-engagement","sameAs":"https:\/\/remoteok.com\/nelnet-community-engagement","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1ce38d15a058fac27536b98d3d58d1811646366855.jpg"}}</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-11T00:00:03+00:00","description":"Nelnet Community Engagement is seeking Software Engineers (both Mid and Senior levels) for our Learning Engineering team. At Nelnet Community Engagement, we believe in the power of community-minded organizations. We help those organizations grow their impact by making it easy to engage anytime, anywhere. We help churches (under our Nelnet Community Engagement & Catholic Faith Technology brands), businesses (under our CD2 brand), & nonprofits engage and grow their communities through text, web, & branded apps.\n\nFor Senior Level:\n\nThis role is responsible for developing enterprise-wide, cross-functional software solutions.  This position designs solutions for complex projects and completes work with no supervision.  This role also mentors less experienced engineers and makes recommendations for future development options.  In addition, this position advocates for making improvements and working as a whole team to accomplish goals.\n\nFor Mid Level:\n\nThis position designs, creates, maintains, audits and improves software applications by performing coding, debugging, testing and troubleshooting throughout the application development process.  This position designs solutions for typical projects and completes work with minimal supervision.  When required, this role makes recommendations for future development options.\n\nThis role is open to Remote-US candidates. The current team has a large concentration of members in Overland Park, KS (in the Kansas City metro area).\n\n\nResponsibilities\n\n* Researches, designs, implements and manages software applications based on user requirements.\n* Writes, tests and implements efficient code.\n* Maintains and develops existing applications by analyzing and identifying areas for modification.\n* Works within an Agile environment, responds to change quickly, including re-focusing development efforts and adapting to evolving requirements.\n* Is positive and solution-oriented with team members and stakeholders.\n* Continues to update technical knowledge and skills.\n* Additionally, a Senior Engineer, provides guidance to other engineers, coaches and mentors other team members, and is an influencer.\n\n\nRequirements\n\n* Bachelor\u2019s degree or equivalent experience.\n* 3+ years of related experience.\n* Strong technical competency.\n* Ability to communicate with clients, colleagues and management to explain complex issues clearly and concisely.\n* Logical, analytical and creative approach to solving problems.\n* Ability to work both in a team and independently.\n* Ability to handle multiple priorities and work under pressure.\n* Good time management skills to plan and organize own work.\n* Demonstrated respect, collaboration, and pride in ownership.\n* Ability to adapt to change.\n* Focus on continuous improvement and delivering value.\n* Ability to work collaboratively and iteratively (https:\/\/a3a.me\/cWbXT).\n\n\nOur Tools & Technologies\n\n* C#\n* JQuery\n* SQL Server\n* Microsoft Technology Stack\n* IIS\n* AWS EC2, S3, Route 53\n* Microsoft Development Studio\n* SSRS\n* Power BI or Quicksite\n\n\nComp & Benefits\n\n* Annual salary range is $88-$105k for Engineer, $106k - $135k for Senior Engineer.\n* 4.2 weeks ETO + 7 holidays + 4 floating holidays\n* Free health insurance (associate-only, bronze plan, meets requirements). Very affordable rates if you add on from there.\n* Up to $1.8k in pre-tax HSA wellness incentives & $300 in wellness reimbursements.\n* 401k w\/ 4% match\n* Paid parental leave\n* Company laptop provided + remote office setup stipend\n* Tuition assistance, up to  $5,250 \/ year\n* Matching charitable gifts. 1:1 for most, 3:1 for educational 501(c)3's\n* You can learn more about our benefits over at http:\/\/nelnetinc.com\/careers\/benefits\/\n\n\nOur growing, dedicated team works in a hybrid remote & open office environment. This full time position is available for all candidates, including remote. The current team has a large concentration of members in Overland Park, KS (in the Kansas City metro area). All candidates need to be eligible to work in the US (Citizen, green card, or other EAD).\n\nNo recruiters, staffing firms, or contractors, please.\n\nPS: We've had some deliverability issues with Gmail users lately. If you're using Gmail, please allow all @aware3.com email addresses like this: https:\/\/a3a.me\/pv9vV to make sure you get all our correspondence.\n Apply now and work remotely at Nelnet Community Engagement","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":90000,"maxValue":140000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Full Stack C# Software Engineer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1ce38d15a058fac27536b98d3d58d1811646366855.jpg","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-11T00:00:03+00:00","hiringOrganization":{"@type":"Organization","name":"Nelnet Community Engagement","url":"https:\/\/remoteok.com\/nelnet-community-engagement","sameAs":"https:\/\/remoteok.com\/nelnet-community-engagement","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/1ce38d15a058fac27536b98d3d58d1811646366855.jpg"}}</script>
 <a alt="Nelnet Community Engagement" class="preventLink" href="/remote-jobs/109379-remote-full-stack-c-software-engineer-nelnet-community-engagement">
 <img alt="Nelnet Community Engagement" data-z="1" data-extension="jpg" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteOK.com/assets/img/jobs/1ce38d15a058fac27536b98d3d58d1811646366855.jpg?1646366855" class="logo" />
 </a>
@@ -475,7 +470,7 @@ Nelnet Community Engagement </h3>
 Full Stack C# Software Engineer
 </h2>
 </a>
-<span class="original tooltip" style="vertical-align:middle" title="This post was bumped by its poster 9 days ago">🎈</span><br /><div class="location tooltip" title="">Remote-Us</div>&nbsp;<div class="location">💰 $90k - $140k</div> </td>
+<span class="original tooltip" style="vertical-align:middle" title="This post was bumped by its poster 10 days ago">🎈</span><br /><div class="location tooltip" title="">Remote-Us</div>&nbsp;<div class="location">💰 $90k - $140k</div> </td>
 <td class="tags" style="">
 <a class="no-border tooltip-set action-add-tag" data-tooltip="Add  to filters" href="/remote-c-jobs" aria-label="Remote C Jobs" alt="Remote C Jobs">
 <div rel="follow" class="tag tag- action-add-tag" style="">
@@ -495,7 +490,7 @@ engineer </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-03-11T00:00:03+00:00">
-9d </time>
+10d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109379">
@@ -519,15 +514,15 @@ Apply
 <h2>
 Nelnet Community Engagement </h2>
 </a>
-<a target="_blank" class="button action-apply" data-job-id="109379" href="/l/109379" style="">
+ <a target="_blank" class="button action-apply" data-job-id="109379" href="/l/109379" style="">
 Apply now
 </a>
 <p>
-👀 1,844 views
+👀 1,926 views
 </p>
 <p>
-✅ 101 applied
-(5%)
+✅ 106 applied
+(6%)
 </p>
 <p>
 <strong>
@@ -827,7 +822,7 @@ Remote Quality Assurance Jobs
 </a> </div><div class="tag">
 📱&nbsp;<a href="/remote-mobile-jobs">
 Remote Mobile Jobs
-</a> </div><div class="tag">
+</a>  </div><div class="tag">
 🤓&nbsp;<a href="/remote-web-dev-jobs">
 Remote Web Dev Jobs
 </a> </div><div class="tag">
@@ -843,11 +838,11 @@ Remote Java Jobs
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -855,17 +850,17 @@ Remote React Native Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
+</a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
 </a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
-</a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
- Remote Ops Jobs
+Remote Ops Jobs
 </a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-content-writing-jobs">
 Remote Content Writing Jobs
@@ -879,11 +874,11 @@ Remote Ecommerce Jobs
 🐳&nbsp;<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-machine-learning-jobs">
-Remote Machine Learning Jobs
-</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-machine-learning-jobs">
+Remote Machine Learning Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-graphql-jobs">
 Remote GraphQL Jobs
@@ -900,17 +895,17 @@ Remote Wordpress Jobs
 ✍️&nbsp;<a href="/remote-copywriting-jobs">
 Remote Copywriting Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
-</a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-laravel-jobs">
 Remote Laravel Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔡&nbsp;<a href="/remote-html-jobs">
 Remote HTML Jobs
@@ -978,7 +973,7 @@ Hire SQL Developers Remotely
 </div><div class="tag">
 ☕️ &nbsp;<a href="/hire/java">
 Hire Java Developers Remotely
- </a>
+</a>
 </div><div class="tag">
 🟦 &nbsp;<a href="/hire/typescript">
 Hire Typescript Developers Remotely
@@ -1052,12 +1047,12 @@ Hire Customer Service Freelancers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1088,20 +1083,20 @@ Hire Graphic Design Freelancers Remotely
 Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
-🦑 &nbsp;<a href="/hire/kubernetes">
-Hire Kubernetes Developers Remotely
-</a>
-</div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
 Hire Front End Developers Remotely
 </a>
 </div><div class="tag">
-⚛️ &nbsp;<a href="/hire/redux">
-Hire Redux Developers Remotely
-</a>
-</div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+🦑 &nbsp;<a href="/hire/kubernetes">
+Hire Kubernetes Developers Remotely
+</a>
+</div><div class="tag">
+⚛️ &nbsp;<a href="/hire/redux">
+Hire Redux Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/sass">
@@ -1112,12 +1107,12 @@ Hire Sass Developers Remotely
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🐇 &nbsp;<a href="/hire/agile">
-Hire Agile Developers Remotely
-</a>
-</div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+🐇 &nbsp;<a href="/hire/agile">
+Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
 🔡 &nbsp;<a href="/hire/html5">
@@ -1174,6 +1169,6 @@ Hire Css3 Developers Remotely
 </html>
 <div class="END-OF-FILE"></div>
 <div class="runtime" style="">
-225ms
+180ms
 </div>
 <div class="END-OF-FILE"></div>

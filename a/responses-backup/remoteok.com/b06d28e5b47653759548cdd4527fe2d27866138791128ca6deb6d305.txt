@@ -82,14 +82,14 @@ Razeware is the company behind raywenderlich.com, the most popular mobile develo
 <script async defer data-auto-collect="false" onload="saLoaded()" src="https://sa.remoteok.com/latest.js"></script>
 <script>
 					var allTags = 
-						{"engineer":"\ud83e\udd13 Engineer (2,284)","senior":"\ud83d\udc75 Senior (1,789)","dev":"\ud83e\udd13 Developer (1,638)","exec":"\ud83d\udcbc Executive (1,327)","javascript":"\u2615\ufe0f JavaScript (678)","backend":"\ud83c\udf51 Backend (626)","full stack":"\ud83e\udd5e Full Stack (549)","front end":"\ud83c\udfa8 Front End (474)","golang":"\ud83d\udc00 Golang (430)","react":"\u269b\ufe0f React (412)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (276)","product designer":"\ud83d\udce6 Product Designer (251)","customer support":"\ud83c\udfa7 Customer Support (223)","non tech":"\ud83d\udd0c Non Tech (222)","ruby":"\ud83d\udc8e Ruby (209)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (183)","python":"\ud83d\udc0d Python (182)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (146)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (92)","infosec":"\ud83d\udd11 InfoSec (89)","analyst":"\ud83e\udd14 Analyst (88)","java":"\u2615\ufe0f Java (87)","testing":"\ud83e\uddea Testing (81)","api":"\ud83e\udd16 API (75)","ios":"\ud83c\udf4f iOS (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","web3":"\ud83d\udc8e Web3 (68)","crypto":"\ud83c\udfc5 Crypto (68)","blockchain":"\u26d3 Blockchain (68)","ops":"\u267e\ufe0f Ops (66)","content writing":"\u270d\ufe0f Content Writing (66)","android":"\ud83e\udd16 Android (63)","ecommerce":"\ud83d\udecd Ecommerce (63)","docker":"\ud83d\udc33 Docker (57)","machine learning":"\ud83e\udd16 Machine Learning (51)","social media":"\u270d\ufe0f Social Media (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c":"\ud83d\udd37 C (37)","c plus plus":"\u2795 C Plus Plus (37)","linux":"\ud83d\udc27 Linux (36)","laravel":"\ud83d\udce6 Laravel (36)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (31)","junior":"\ud83d\udc76 Junior (31)","consulting":"\ud83d\udcbc Consulting (31)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","shopify":"\ud83d\udecd Shopify (24)","swift":"\ud83d\udc07 Swift (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","accounting":"\ud83d\udcbc Accounting (17)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","flutter":"\ud83e\udda9 Flutter (15)","meteor":"\u2604\ufe0f Meteor (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","recruiter":"\ud83c\udfaf Recruiter (12)","solidity":"\u26d3 Solidity (12)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (10)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (9)","internship":" Internship (9)","heroku":"\ud83d\udfea Heroku (9)","jquery":"\ud83e\udde9 jQuery (8)","nosql":"\ud83d\udeab NoSQL (8)","defi":"\ud83d\udcb0 Defi (8)","ansible":" Ansible (8)","big data":"\ud83e\udde0 Big Data (8)","vfx":" VFX (8)","ethereum":"\ud83d\udc8e Ethereum (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","amazon":"\u2601\ufe0f Amazon (6)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","salesforce":"\u2601\ufe0f Salesforce (6)","grafana":" Grafana (5)","illustrator":" Illustrator (5)","apache":"\ud83d\ude81 Apache (5)"}					;
+						{"engineer":"\ud83e\udd13 Engineer (2,278)","senior":"\ud83d\udc75 Senior (1,784)","dev":"\ud83e\udd13 Developer (1,634)","exec":"\ud83d\udcbc Executive (1,328)","javascript":"\u2615\ufe0f JavaScript (676)","backend":"\ud83c\udf51 Backend (626)","full stack":"\ud83e\udd5e Full Stack (547)","front end":"\ud83c\udfa8 Front End (474)","golang":"\ud83d\udc00 Golang (428)","react":"\u269b\ufe0f React (411)","marketing":"\ud83d\udea5 Marketing (337)","design":"\ud83c\udfa8 Design (276)","product designer":"\ud83d\udce6 Product Designer (251)","customer support":"\ud83c\udfa7 Customer Support (223)","non tech":"\ud83d\udd0c Non Tech (222)","ruby":"\ud83d\udc8e Ruby (209)","node":"\ud83d\udd17 Node (205)","devops":"\u267e\ufe0f DevOps (181)","python":"\ud83d\udc0d Python (181)","sales":"\ud83d\udcbc Sales (157)","cloud":"\u2601\ufe0f Cloud (145)","admin":"\u267e\ufe0f Admin (125)","saas":"\ud83d\udce6 SaaS (113)","data science":"\ud83d\udc69\u200d\ud83d\udd2c Data Science (111)","php":"\ud83d\udc18 PHP (105)","sys admin":"\u267e\ufe0f Sys Admin (105)","quality assurance":"\ud83d\udd2c Quality Assurance (104)","mobile":"\ud83d\udcf1 Mobile (95)","web dev":"\ud83e\udd13 Web Developer (92)","infosec":"\ud83d\udd11 InfoSec (89)","analyst":"\ud83e\udd14 Analyst (88)","java":"\u2615\ufe0f Java (86)","testing":"\ud83e\uddea Testing (81)","ios":"\ud83c\udf4f iOS (75)","api":"\ud83e\udd16 API (75)","react native":"\u269b\ufe0f React Native (74)","finance":"\ud83d\udcb0 Finance (73)","blockchain":"\u26d3 Blockchain (68)","web3":"\ud83d\udc8e Web3 (68)","crypto":"\ud83c\udfc5 Crypto (68)","ops":"\u267e\ufe0f Ops (67)","content writing":"\u270d\ufe0f Content Writing (66)","android":"\ud83e\udd16 Android (63)","ecommerce":"\ud83d\udecd Ecommerce (63)","docker":"\ud83d\udc33 Docker (57)","social media":"\u270d\ufe0f Social Media (51)","machine learning":"\ud83e\udd16 Machine Learning (51)","graphql":"\u269b\ufe0f GraphQL (49)","architecture":"\ud83d\udce6 Architecture (46)","css":"\ud83c\udfa8 CSS (43)","wordpress":"\u270d\ufe0f Wordpress (40)","copywriting":"\u270d\ufe0f Copywriting (40)","c plus plus":"\u2795 C Plus Plus (37)","c":"\ud83d\udd37 C (37)","laravel":"\ud83d\udce6 Laravel (36)","linux":"\ud83d\udc27 Linux (35)","html":"\ud83d\udd21 HTML (35)","angular":"\ud83c\udd70\ufe0f Angular (34)","seo":"\ud83d\udd0e SEO (32)","hr":"\ud83d\udc4b HR (32)","consulting":"\ud83d\udcbc Consulting (31)","junior":"\ud83d\udc76 Junior (31)","game dev":"\ud83d\udd79 Game Developer (28)","redis":"\ud83e\udde0 Redis (27)","teaching":"\ud83d\udc68\u200d\ud83c\udfeb Teaching (26)","swift":"\ud83d\udc07 Swift (24)","shopify":"\ud83d\udecd Shopify (24)","elasticsearch":"\ud83e\udde9 Elasticsearch (24)","medical":"\ud83d\ude91 Medical (23)","serverless":"\u2601\ufe0f Serverless (22)","virtual assistant":"\ud83c\udfa7 Virtual Assistant (20)","tech lead":"\ud83d\udc69\u200d\u2708\ufe0f Tech Lead (20)","stats":"\ud83d\udc69\u200d\ud83d\udd2c Stats (19)","video":"\ud83d\udcfc Video (18)","english teacher":"\ud83c\uddec\ud83c\udde7 English Teacher (17)","accounting":"\ud83d\udcbc Accounting (17)","bus dev":"\ud83d\udcbc Bus Developer (16)","meteor":"\u2604\ufe0f Meteor (15)","flutter":"\ud83e\udda9 Flutter (15)","nft":"\ud83c\udf81 NFT (14)","education":"\ud83d\udc68\u200d\ud83c\udfeb Education (13)","solidity":"\u26d3 Solidity (12)","ads":"\ud83d\udea5 Ads (12)","legal":"\ud83d\udc69\u200d\u2696\ufe0f Legal (12)","recruiter":"\ud83c\udfaf Recruiter (12)","scrum":"\ud83d\udd01 Scrum (11)","full time":"\u23f0 Full Time (10)","clojure":"\u262f\ufe0f Clojure (10)","scala":"\u2615\ufe0f Scala (9)","internship":" Internship (9)","heroku":"\ud83d\udfea Heroku (9)","nosql":"\ud83d\udeab NoSQL (8)","defi":"\ud83d\udcb0 Defi (8)","ansible":" Ansible (8)","vfx":" VFX (8)","big data":"\ud83e\udde0 Big Data (8)","jquery":"\ud83e\udde9 jQuery (8)","ethereum":"\ud83d\udc8e Ethereum (8)","smart contracts":"\ud83d\udccb Smart Contracts (7)","nginx":"\u2747\ufe0f Nginx (7)","smart contract":"\ud83d\udccb Smart Contract (6)","firebase":"\ud83d\udd25 Firebase (6)","git":"\ud83d\udce6 Git (6)","salesforce":"\u2601\ufe0f Salesforce (6)","amazon":"\u2601\ufe0f Amazon (6)","illustrator":" Illustrator (5)","grafana":" Grafana (5)","apache":"\ud83d\ude81 Apache (5)"}					;
 											var currentFilterAvailableTags=allTags;
 									</script>
 <link rel='alternate' type='application/rss+xml' title='RSS' href='/remote-jobs.rss'>
 <link rel='alternate' type='application/json' title='JSON' href='/remote-jobs.json'>
 <meta name="twitter:widgets:csp" content="on">
 <script>
-			var worldwide=false;			var basicPrice=599;
+			var worldwide=false;			var basicPrice=499;
 			var priceForHighlightedExtra=49;
 			var stripePublicKey='pk_live_thn9fkM3p9yV25rj8HwkXVJq';
 		</script>
@@ -124,7 +124,7 @@ Remote
 work anywhere, live anywhere #OpenSalaries
 </span>
 </div>
-<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1543270123-5b5c73132cdf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=50');">
+<div class="video still" style="background-position:0% 25%;background-image:url('https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=50');">
 </div>
 <div class="cover"></div>
 <div class="box">
@@ -278,7 +278,7 @@ Other
 </div>
 </div>
 <a href="/open" class="nav-item">
-🤲&nbsp; Open Startup ($710k/mo)
+🤲&nbsp; Open Startup ($704k/mo)
 </a>
 <a href="/open#uptime" class="nav-item">
 🟢&nbsp; Uptime (99.97%) </a>
@@ -307,14 +307,14 @@ Other
 Health insurance
 </a>
 </span>
-<a class="button action-post-job" href="/hire-remotely?discount_code=f40a1a3f30cba41ee7b335c48d3c36b6&ref=top">
+<a class="button action-post-job" href="/hire-remotely?discount_code=573acb3b8848293f9e81010adff53383&ref=top">
 Post <span class="hide-before-600px">a </span>job
 </a>
 <a class="button reverse white action-log-in" href="https://remoteok.com/login">Log in</a>
 </div>
 <div class="page">
 <div class="container">
-<a class="notice-post-job" href="/hire-remotely?discount_code=f40a1a3f30cba41ee7b335c48d3c36b6&ref=center">
+<a class="notice-post-job" href="/hire-remotely?discount_code=573acb3b8848293f9e81010adff53383&ref=center">
 <p>
 👉 Hiring for a Remote position?
 </p>
@@ -326,23 +326,23 @@ Post a job
 											</style>
 <table id="jobsboard">
 <style>
-								tr.sw-insert {
-									cursor:pointer;
-								}
-								tr.sw-insert:hover {
-									opacity:0.75;
-								}
-								tr.sw-insert:active {
-									opacity:0.55;
-								}
-							</style>
+									tr.sw-insert {
+										cursor:pointer;
+									}
+									tr.sw-insert:hover {
+										opacity:0.75;
+									}
+									tr.sw-insert:active {
+										opacity:0.55;
+									}
+								</style>
 <script>
-								$(function() {
-									$('.sw-insert').bind('click',function(e) {
-										window.location.href=$('.sw-insert a').eq(0).attr('href');
-									});
-								})
-							</script>
+									$(function() {
+										$('.sw-insert').bind('click',function(e) {
+											window.location.href=$('.sw-insert a').eq(0).attr('href');
+										});
+									})
+								</script>
 <thead>
 <tr class="sw-insert ad advertisement sponsored" rel="sponsored">
 <td style="background-color:#343477;" class="image" style="border:none"><a target="_blank" aria-label="SafetyWing" style="text-decoration:none;border:none;" target="_blank" rel="follow noopener" href="/safety-wing">
@@ -358,11 +358,6 @@ Post a job
 <td style="background-color:#343477;" class="tags"></td>
 <td style="background-color:#343477;" class="time"></td>
 <td style="background-color:#343477;" class="source"><a target="_blank" href="https://remoteOK.com/nomad-health" rel="follow noopener"><div class="apply_button no-logo" style="background-color:#5bc6c6;border-color:#5bc6c6 !important;"><p style="opacity:1;color:#fff;">Save 15%</p></div></a></td>
-</tr>
-<tr class="advertise-here">
-<td colspan="10" style="height:10px;padding:0;text-align:right;font-weight: bold;z-index: 1;right: 0;text-decoration:underline;opacity: 0.5;font-size:11px;">
-<a href="/cdn-cgi/l/email-protection#e89b89848d9ba89a8d85879c8d8783c68b8785d79b9d8a828d8b9cd5a98c9e8d9a9c819b8dc38786c3ba8d85879c8dc3a7a3ce8a878c91d5bc80819bc38d85898184c38c878d9bc386879cc39f879a83c6cdd8a9cdd8d1b8848d899b8dc39d9b8dc39c808dc38d85898184c3898c8c9a8d9b9bc3898cb79b89848d9bc389868cc39c808d86c3cddcd8c389868cc39c808d86c39c80819bc39b819c8dcddadf9bc38c8785898186c381869b9c8d898ccddaabc39c87c3899e87818cc39b988985858d9a9bc38e8487878c81868fc39c80819bc38d85898184c6c3bf8dcddadf9a8dc387868491c3898b8b8d989c81868fc39b9887869b879a9b808198cddaae898cc38c8d89849bc38e9a8785c3cddadcdbd883cddaae8587c3899cc39c80819bc38587858d869cc389868cc39c808d9a8dcddadf9bc389c39f89819c81868fc384819b9cc6c3bf8dc38c87c3a6a7bcc38c87c3abb8a9cddaae898e8e818481899c8dcddaae9b89848dc58a899b8d8cc38c8d89849bcddaabc387868491c38e84899cc38e8d8dc3849d8598c39b9d85c380899a8cc38b899b80c39b9887869b879a9b8081989bcddaae898c9bcddaabc398848d899b8dc39b899e8dc38a879c80c3878ec39d9bc39c81858dc389868cc38c8786cddadf9cc38d85898184c39d9bc3898a879d9cc39c80899cc6c3bc808986839bcddad9">Advertise here</a>
-</td>
 </tr>
 </thead><thead>
 <tr>
@@ -455,7 +450,7 @@ Post a job
 </div>
 </div>
 <span class="jobs-posted-today" style="display:inline-block;vertical-align: top;margin-left: 0;margin:7px;font-weight:bold;font-size:14px;margin-top:0;color:#ff4742;padding:3px;padding-left: 7px;padding-right: 7px;border:1px solid #ff4742;border-radius:6px;margin-top: 12px;">
-24 new jobs posted today
+7 new jobs posted today
 </span>
 </div>
 </td>
@@ -463,7 +458,7 @@ Post a job
 </thead>
 <tr data-url="/remote-jobs/109337-remote-senior-full-stack-rails-developer-razeware" data-epoch="1646157069" data-search="Razeware Senior Full Stack Rails Developer ruby senior full stack dev digital nomad" data-company="Razeware" data-stack="" id="job-109337" data-id="109337" data-href="/remote-jobs/109337-remote-senior-full-stack-rails-developer-razeware" class="job job-109337 verified    active   active  ==    												" title="">
 <td class="image has-logo" style="">
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-01T17:51:09+00:00","description":"### About us\nRazeware is the company behind raywenderlich.com, the most popular mobile development site on the Internet. We are a bootstrapped company with 22 full-time team members, and we work with a wide network of over 300 part-time contractors from around the world who help create tutorials, videos, and books for our site. Our entire company is remote, and this job is too.\n\nOver the past 10 years, our community has published over 5,500 videos, 2,000 articles, and 50 books. Our products have made a difference in the lives of thousands of developers across the world, helping them to get their first job as a mobile developer, grow their careers, or create the app of their dreams.\n\nThe engineering team has the responsibility for the entire content pipeline\u2014from our automated publication process through to the reading\/watching experience for our users. Some of the things we\u2019ve accomplished in the past year include:\n- Creating a new Enterprise e-learning product to support larger teams.\n- Creating an achievements\/badges feature to provide customers with a sense of accomplishment during their learning journey.\n- Redeveloping the user homepage to improve user experience.\n- Iterating on improving the accessibility of the site.\n- Converting a selection of vue.js components into using hotwire.dev.\n- Integrating a message bus across several services for real-time notifications.\n- Upgrading Ruby and Rails to the latest versions across the entire stack.\n\n### We are looking for\nWe are looking for an experienced senior developer to join our engineering team, alongside two designers and an operations developer. Over the past three years we\u2019ve built a content publication platform that makes it easy for our content creators to get their books, videos and articles in front of our audience. We\u2019re now turning our attention to improving the learning experience, making accessing the content easier, more intuitive, and engaging. We have big plans for the platform, and need to scale our team in order to achieve them.\nIdeal candidate\nYou are a problem solver who is keen to use their skills to build an eLearning experience that will help mobile developers across the world. You enjoy learning new things, applying yourself to a variety of different problems, and creating clean, pragmatic solutions. You embrace change and want to join a team that puts in the effort to learn from one other and help each other grow through effective communication and openness.\n\n### Responsibilities\n- Architect and deliver features to improve the experience of our community and customers.\n- Assist in the design, implementation, and improvements of the application infrastructure.\n- Plan and perform duties in an asynchronous manner using various documentation tools available.\n- Collaborate with the rest of the engineering team on technical design.\n- Mentoring and managing junior developers.\n- Partake in code reviews to improve the quality of our codebase.\n- Work with the wider Razeware team to help shape products and features.\n- Maintain and manage our existing services.\n- Assist the support team.\n- Contribute to internal tools and development processes to shape the future of engineering at Razeware.\n\n### Requirements\n- 5+ years of experience of delivering high-quality projects in Ruby-on-Rails.\n- Experience with multi service architectures.\n- Experience leading projects from conception to launch.\n- Experience mentoring junior developers.\n- Strong communication skills.\n- Strong analytical skills\u2014the ability to weigh costs & benefits and arrive at a sensible compromise.\n- Strong problem-solving ability\u2014in a technology agnostic manner.\n- Ability to self direct and prioritize work as needed.\n- Desire to learn new technologies.\n- Ability to thrive in a remote environment.\n\n### Nice to have\nOur stack is built on the following technologies. They\u2019re not requirements, but if you\u2019ve got some knowledge, that\u2019s great. You can read a little more about it [here](https:\/\/engineering.razeware.com\/how-does-raywenderlich-com-work).\n\n- Docker & Kubernetes.\n- Multi-service architecture with Ruby on Rails\n- Hotwire & vue.js.\n- AWS.\n- PostgreSQL.\n\n### What we offer\n\n- Remote working. Work when and where you want, provided you can manage a three-hour overlay with the standard 9-5 EST workday.\n- $90k\u2013$110k salary USD.\n- A premium health plan starting on your first day.\n- SIMPLE IRA retirement plan with matching starting your first day (US only).\n- Generous paid time off.\n- Equipment budget.\n- Professional development budget for work-related learning materials.\n- Work with a friendly, motivated & unique team.\n- Mentorship and guidance from across our engineering team, including our CTO.\n\n### Inclusivity\n\nImagine having the opportunity to work every day with professionals from North America, Europe, across Africa and other diverse teams around the world. At raywenderlich.com, this is a typical experience, as we build collaborative teams with the best talent from all over the world.\n\nOur goal is to create a friendly and inclusive community of developers and educators. We welcome anyone, regardless of your age, sexual orientation, disability, physical ability, race or religion.\n\nOur team connects from nearly every continent, and we\u2019re proud of the diverse perspectives and experiences they bring from the tech industry to provide the best working and learning environments for each other and our learners.\n\nAligned with our company value of \u201csupporting each other,\u201d last year, we have made a public commitment to examine our own habits and biases as a company, and do our best to support equity in our industry. We welcome applicants who share our vision of diversity and inclusion as we strive to create the most high-quality content for developers world-wide.\n\n Apply now and work remotely at Razeware","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":90000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Full Stack Rails Developer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/c532ac0effb3af43c9cc4224a0ce433c1646157069.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-01T17:51:09+00:00","hiringOrganization":{"@type":"Organization","name":"Razeware","url":"https:\/\/remoteok.com\/razeware","sameAs":"https:\/\/remoteok.com\/razeware","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/c532ac0effb3af43c9cc4224a0ce433c1646157069.png"}}</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2022-03-01T17:51:09+00:00","description":"### About us\nRazeware is the company behind raywenderlich.com, the most popular mobile development site on the Internet. We are a bootstrapped company with 22 full-time team members, and we work with a wide network of over 300 part-time contractors from around the world who help create tutorials, videos, and books for our site. Our entire company is remote, and this job is too.\n\nOver the past 10 years, our community has published over 5,500 videos, 2,000 articles, and 50 books. Our products have made a difference in the lives of thousands of developers across the world, helping them to get their first job as a mobile developer, grow their careers, or create the app of their dreams.\n\nThe engineering team has the responsibility for the entire content pipeline\u2014from our automated publication process through to the reading\/watching experience for our users. Some of the things we\u2019ve accomplished in the past year include:\n- Creating a new Enterprise e-learning product to support larger teams.\n- Creating an achievements\/badges feature to provide customers with a sense of accomplishment during their learning journey.\n- Redeveloping the user homepage to improve user experience.\n- Iterating on improving the accessibility of the site.\n- Converting a selection of vue.js components into using hotwire.dev.\n- Integrating a message bus across several services for real-time notifications.\n- Upgrading Ruby and Rails to the latest versions across the entire stack.\n\n### We are looking for\nWe are looking for an experienced senior developer to join our engineering team, alongside two designers and an operations developer. Over the past three years we\u2019ve built a content publication platform that makes it easy for our content creators to get their books, videos and articles in front of our audience. We\u2019re now turning our attention to improving the learning experience, making accessing the content easier, more intuitive, and engaging. We have big plans for the platform, and need to scale our team in order to achieve them.\nIdeal candidate\nYou are a problem solver who is keen to use their skills to build an eLearning experience that will help mobile developers across the world. You enjoy learning new things, applying yourself to a variety of different problems, and creating clean, pragmatic solutions. You embrace change and want to join a team that puts in the effort to learn from one other and help each other grow through effective communication and openness.\n\n### Responsibilities\n- Architect and deliver features to improve the experience of our community and customers.\n- Assist in the design, implementation, and improvements of the application infrastructure.\n- Plan and perform duties in an asynchronous manner using various documentation tools available.\n- Collaborate with the rest of the engineering team on technical design.\n- Mentoring and managing junior developers.\n- Partake in code reviews to improve the quality of our codebase.\n- Work with the wider Razeware team to help shape products and features.\n- Maintain and manage our existing services.\n- Assist the support team.\n- Contribute to internal tools and development processes to shape the future of engineering at Razeware.\n\n### Requirements\n- 5+ years of experience of delivering high-quality projects in Ruby-on-Rails.\n- Experience with multi service architectures.\n- Experience leading projects from conception to launch.\n- Experience mentoring junior developers.\n- Strong communication skills.\n- Strong analytical skills\u2014the ability to weigh costs & benefits and arrive at a sensible compromise.\n- Strong problem-solving ability\u2014in a technology agnostic manner.\n- Ability to self direct and prioritize work as needed.\n- Desire to learn new technologies.\n- Ability to thrive in a remote environment.\n\n### Nice to have\nOur stack is built on the following technologies. They\u2019re not requirements, but if you\u2019ve got some knowledge, that\u2019s great. You can read a little more about it [here](https:\/\/engineering.razeware.com\/how-does-raywenderlich-com-work).\n\n- Docker & Kubernetes.\n- Multi-service architecture with Ruby on Rails\n- Hotwire & vue.js.\n- AWS.\n- PostgreSQL.\n\n### What we offer\n\n- Remote working. Work when and where you want, provided you can manage a three-hour overlay with the standard 9-5 EST workday.\n- $90k\u2013$110k salary USD.\n- A premium health plan starting on your first day.\n- SIMPLE IRA retirement plan with matching starting your first day (US only).\n- Generous paid time off.\n- Equipment budget.\n- Professional development budget for work-related learning materials.\n- Work with a friendly, motivated & unique team.\n- Mentorship and guidance from across our engineering team, including our CTO.\n\n### Inclusivity\n\nImagine having the opportunity to work every day with professionals from North America, Europe, across Africa and other diverse teams around the world. At raywenderlich.com, this is a typical experience, as we build collaborative teams with the best talent from all over the world.\n\nOur goal is to create a friendly and inclusive community of developers and educators. We welcome anyone, regardless of your age, sexual orientation, disability, physical ability, race or religion.\n\nOur team connects from nearly every continent, and we\u2019re proud of the diverse perspectives and experiences they bring from the tech industry to provide the best working and learning environments for each other and our learners.\n\nAligned with our company value of \u201csupporting each other,\u201d last year, we have made a public commitment to examine our own habits and biases as a company, and do our best to support equity in our industry. We welcome applicants who share our vision of diversity and inclusion as we strive to create the most high-quality content for developers world-wide.\n\n Apply now and work remotely at Razeware","baseSalary": {"@type": "MonetaryAmount","currency": "USD","value": {"@type": "QuantitativeValue","minValue":90000,"maxValue":110000,"unitText": "YEAR"}},"employmentType":"FULL_TIME","industry":"Startups","jobLocationType":"TELECOMMUTE","jobLocation":{"address":{"@type":"PostalAddress","addressCountry":"Anywhere","addressRegion":"Anywhere","streetAddress":"Anywhere","postalCode":"Anywhere","addressLocality":"Anywhere"}},"title":"Senior Full Stack Rails Developer","image":"https:\/\/remoteOK.com\/assets\/img\/jobs\/c532ac0effb3af43c9cc4224a0ce433c1646157069.png","occupationalCategory":"","workHours":"Flexible","validThrough":"2022-04-01T17:51:09+00:00","hiringOrganization":{"@type":"Organization","name":"Razeware","url":"https:\/\/remoteok.com\/razeware","sameAs":"https:\/\/remoteok.com\/razeware","logo":"https:\/\/remoteOK.com\/assets\/img\/jobs\/c532ac0effb3af43c9cc4224a0ce433c1646157069.png"}}</script>
 <a alt="Razeware" class="preventLink" href="/remote-jobs/109337-remote-senior-full-stack-rails-developer-razeware">
 <img alt="Razeware" data-z="1" data-extension="png" itemprop="image" class="logo lazyload lazy" src="/assets/pixel.gif" data-src="https://remoteok.com/cdn-cgi/image/format=auto,fit=contain,width=100,height=100,quality=50/https://remoteOK.com/assets/img/jobs/c532ac0effb3af43c9cc4224a0ce433c1646157069.png?1646157069" class="logo" />
 </a>
@@ -498,7 +493,7 @@ full stack </h3>
 </td>
 <td class="time" style="">
 <time datetime="2022-03-01T17:51:09+00:00">
-18d </time>
+19d </time>
 </td>
 <td class="source" style="">
 <a rel="noindex nofollow" class="no-border tooltip" target="_blank" href="/l/109337">
@@ -530,10 +525,10 @@ razeware.com </a>
 Apply now
 </a>
 <p>
-👀 1,930 views
+👀 1,998 views
 </p>
 <p>
-✅ 95 applied
+✅ 97 applied
 (5%)
 </p>
 <p>
@@ -559,7 +554,7 @@ $90,000 &mdash; $110,000/year\n
 Apply for this job
 </a>
 <div style="font-size:12px;margin-top:-14px;font-weight:bold;">
-or email to <span class="__cf_email__" data-cfemail="2a494b584f4f5859014e4f5c18186a584b504f5d4b584f04494547">[email&#160;protected]</span> </div>
+or email to <span class="__cf_email__" data-cfemail="7a191b081f1f0809511e1f0c48483a081b001f0d1b081f54191517">[email&#160;protected]</span> </div>
 <p style="font-size:0.85em">
 <strong>👉 Please reference you found the job on Remote OK, this helps us get more companies to post here, thanks!</strong><br /><br />
 When applying for jobs, you should NEVER have to pay to apply. You should also NEVER have to pay to buy equipment which they then pay you back for later. Also never pay for trainings you have to do. Those are scams! NEVER PAY FOR ANYTHING! Posts that link to pages with "how to work online" are also scams. Don't use them or pay for them. Also always verify you're actually talking to the company in the job post and not an imposter. A good idea is to check the domain name for the site/email and see if it's the actual company's main domain name. Scams in remote work are rampant, be careful! <a href="https://twitter.com/levelsio/status/1300443073562980353?s=20" style="font-weight:800;">Read more to avoid scams</a>. When clicking on the button to apply above, you will leave Remote OK and go to the job application page for that company outside this site. Remote OK accepts no liability or responsibility as a consequence of any reliance upon information on there (external sites) or here.
@@ -852,11 +847,11 @@ Remote Java Jobs
 🧪&nbsp;<a href="/remote-testing-jobs">
 Remote Testing Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-api-jobs">
-Remote API Jobs
-</a> </div><div class="tag">
 🍏&nbsp;<a href="/remote-ios-jobs">
 Remote IOS Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-api-jobs">
+Remote API Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-react-native-jobs">
 Remote React Native Jobs
@@ -864,14 +859,14 @@ Remote React Native Jobs
 💰&nbsp;<a href="/remote-finance-jobs">
 Remote Finance Jobs
 </a> </div><div class="tag">
+⛓&nbsp;<a href="/remote-blockchain-jobs">
+Remote Blockchain Jobs
+</a> </div><div class="tag">
 💎&nbsp;<a href="/remote-web3-jobs">
 Remote Web3 Jobs
 </a> </div><div class="tag">
 🏅&nbsp;<a href="/remote-crypto-jobs">
 Remote Crypto Jobs
-</a> </div><div class="tag">
-⛓&nbsp;<a href="/remote-blockchain-jobs">
-Remote Blockchain Jobs
 </a> </div><div class="tag">
 ♾️&nbsp;<a href="/remote-ops-jobs">
 Remote Ops Jobs
@@ -888,11 +883,11 @@ Remote Ecommerce Jobs
 🐳&nbsp;<a href="/remote-docker-jobs">
 Remote Docker Jobs
 </a> </div><div class="tag">
-🤖&nbsp;<a href="/remote-machine-learning-jobs">
-Remote Machine Learning Jobs
-</a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-social-media-jobs">
 Remote Social Media Jobs
+</a> </div><div class="tag">
+🤖&nbsp;<a href="/remote-machine-learning-jobs">
+Remote Machine Learning Jobs
 </a> </div><div class="tag">
 ⚛️&nbsp;<a href="/remote-graphql-jobs">
 Remote GraphQL Jobs
@@ -901,7 +896,7 @@ Remote GraphQL Jobs
 Remote Architecture Jobs
 </a> </div><div class="tag">
 🎨&nbsp;<a href="/remote-css-jobs">
-Remote CSS Jobs
+ Remote CSS Jobs
 </a> </div><div class="tag">
 ✍️&nbsp;<a href="/remote-wordpress-jobs">
 Remote Wordpress Jobs
@@ -909,17 +904,17 @@ Remote Wordpress Jobs
 ✍️&nbsp;<a href="/remote-copywriting-jobs">
 Remote Copywriting Jobs
 </a> </div><div class="tag">
-🔷&nbsp;<a href="/remote-c-jobs">
-Remote C Jobs
-</a> </div><div class="tag">
 ➕&nbsp;<a href="/remote-c-plus-plus-jobs">
 Remote C++ Jobs
 </a> </div><div class="tag">
-🐧&nbsp;<a href="/remote-linux-jobs">
-Remote Linux Jobs
+🔷&nbsp;<a href="/remote-c-jobs">
+Remote C Jobs
 </a> </div><div class="tag">
 📦&nbsp;<a href="/remote-laravel-jobs">
 Remote Laravel Jobs
+</a> </div><div class="tag">
+🐧&nbsp;<a href="/remote-linux-jobs">
+Remote Linux Jobs
 </a> </div><div class="tag">
 🔡&nbsp;<a href="/remote-html-jobs">
 Remote HTML Jobs
@@ -1061,12 +1056,12 @@ Hire Customer Service Freelancers Remotely
 Hire Photoshop Freelancers Remotely
 </a>
 </div><div class="tag">
-🔎 &nbsp;<a href="/hire/seo">
-Hire SEO Developers Remotely
-</a>
-</div><div class="tag">
 🤠 &nbsp;<a href="/hire/django">
 Hire Django Developers Remotely
+</a>
+</div><div class="tag">
+🔎 &nbsp;<a href="/hire/seo">
+Hire SEO Developers Remotely
 </a>
 </div><div class="tag">
 ✍️ &nbsp;<a href="/hire/social-media">
@@ -1097,20 +1092,20 @@ Hire Graphic Design Freelancers Remotely
 Hire Figma Developers Remotely
 </a>
 </div><div class="tag">
-🦑 &nbsp;<a href="/hire/kubernetes">
-Hire Kubernetes Developers Remotely
-</a>
-</div><div class="tag">
 🎨 &nbsp;<a href="/hire/front-end">
 Hire Front End Developers Remotely
 </a>
 </div><div class="tag">
-⚛️ &nbsp;<a href="/hire/redux">
-Hire Redux Developers Remotely
-</a>
-</div><div class="tag">
 💼 &nbsp;<a href="/hire/sales">
 Hire Sales Developers Remotely
+</a>
+</div><div class="tag">
+🦑 &nbsp;<a href="/hire/kubernetes">
+Hire Kubernetes Developers Remotely
+</a>
+</div><div class="tag">
+⚛️ &nbsp;<a href="/hire/redux">
+Hire Redux Developers Remotely
 </a>
 </div><div class="tag">
 🎨 &nbsp;<a href="/hire/sass">
@@ -1121,12 +1116,12 @@ Hire Sass Developers Remotely
 Hire DevOps Freelancers Remotely
 </a>
 </div><div class="tag">
-🐇 &nbsp;<a href="/hire/agile">
-Hire Agile Developers Remotely
-</a>
-</div><div class="tag">
 🍑 &nbsp;<a href="/hire/backend">
 Hire Backend Developers Remotely
+</a>
+</div><div class="tag">
+🐇 &nbsp;<a href="/hire/agile">
+Hire Agile Developers Remotely
 </a>
 </div><div class="tag">
 🔡 &nbsp;<a href="/hire/html5">
