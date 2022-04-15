@@ -9,11 +9,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>JuniorGuruBot (+https://junior.guru)</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 15 Apr 2022 13:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2022 13:49:12 +0000</lastBuildDate>
     <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
     <dc:creator>Pája Froňková</dc:creator>
     <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
-    <pubDate>Tue, 15 Mar 2022 01:42:42 +0100</pubDate>
+    <pubDate>Fri, 15 Apr 2022 02:42:42 +0200</pubDate>
     <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
     <itunes:category text="Technology"/>
     <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
@@ -67,6 +67,17 @@
       <pubDate>Tue, 15 Mar 2022 01:42:42 +0100</pubDate>
       <itunes:episode>4</itunes:episode>
       <podcast:episode display="#3">4</podcast:episode>
+    </item>
+    <item>
+      <title>#4 Tereza Vaňková (Deepnote) o její cestě k programování a komunitě ReactGirls</title>
+      <link>https://junior.guru/podcast/#episode0004</link>
+      <description><![CDATA[<p>Ve čtvrtém díle si Pája povídá s Terkou Vaňkovou, software developerkou ve startupu Deepnote a zakladatelkou české komunity ReactGirls. Dozvíš se, jaké byly pro Terku začátky v IT, jakými kurzy prošla a jak získala nejen první práci jako software developerka. Dostane se také na české IT komunity a povídání o ReactGirls. </p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0004</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0004.mp3" length="28322005" type="audio/mpeg"/>
+      <itunes:duration>33:43</itunes:duration>
+      <pubDate>Fri, 15 Apr 2022 02:42:42 +0200</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode display="#4">5</podcast:episode>
     </item>
   </channel>
 </rss>
